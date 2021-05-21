@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-21T02:07:58.159Z</id>
+    <id>urn:2021-05-21T03:26:47.495Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T02:07:58.159Z</updated>
+    <updated>2021-05-21T03:26:47.495Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Treasury seeks reporting of cryptocurrency transfers]]></title>
+        <id>https://news.ycombinator.com/item?id=27229817</id>
+        <link href="https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/"/>
+        <updated>2021-05-21T02:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/us-treasury-says-can-shrink-7-trillion-tax-gap-by-10-over-next-decade-2021-05-20/
+Comments URL: https://news.ycombinator.com/item?id=27229817
+Points: 51
+# Comments: 7]]></summary>
+        <author>
+            <name>awb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Holes in the WiFi]]></title>
         <id>https://news.ycombinator.com/item?id=27229171</id>
@@ -12,8 +25,8 @@
         <updated>2021-05-21T00:30:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/856044/
 Comments URL: https://news.ycombinator.com/item?id=27229171
-Points: 8
-# Comments: 0]]></summary>
+Points: 20
+# Comments: 1]]></summary>
         <author>
             <name>signa11</name>
         </author>
@@ -25,8 +38,8 @@ Points: 8
         <updated>2021-05-20T23:05:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/
 Comments URL: https://news.ycombinator.com/item?id=27228550
-Points: 99
-# Comments: 63]]></summary>
+Points: 126
+# Comments: 80]]></summary>
         <author>
             <name>danso</name>
         </author>
@@ -62,7 +75,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T21:44:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/
 Comments URL: https://news.ycombinator.com/item?id=27227751
-Points: 54
+Points: 63
 # Comments: 9]]></summary>
         <author>
             <name>rmason</name>
@@ -75,8 +88,8 @@ Points: 54
         <updated>2021-05-20T21:40:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ionescu007.github.io/SimpleVisor/
 Comments URL: https://news.ycombinator.com/item?id=27227683
-Points: 71
-# Comments: 6]]></summary>
+Points: 92
+# Comments: 9]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -88,8 +101,8 @@ Points: 71
         <updated>2021-05-20T21:25:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.alaskapublic.org/2021/05/19/red-cross-honors-igiugig-woman-for-helping-light-runway-during-late-night-medevac/
 Comments URL: https://news.ycombinator.com/item?id=27227492
-Points: 82
-# Comments: 16]]></summary>
+Points: 97
+# Comments: 19]]></summary>
         <author>
             <name>DoreenMichele</name>
         </author>
@@ -114,8 +127,8 @@ Points: 1
         <updated>2021-05-20T20:27:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/early/2021/05/19/science.abg6296
 Comments URL: https://news.ycombinator.com/item?id=27226751
-Points: 196
-# Comments: 167]]></summary>
+Points: 227
+# Comments: 188]]></summary>
         <author>
             <name>paultgriffiths</name>
         </author>
@@ -127,8 +140,8 @@ Points: 196
         <updated>2021-05-20T20:18:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/
 Comments URL: https://news.ycombinator.com/item?id=27226625
-Points: 102
-# Comments: 12]]></summary>
+Points: 115
+# Comments: 16]]></summary>
         <author>
             <name>lukastyrychtr</name>
         </author>
@@ -140,8 +153,8 @@ Points: 102
         <updated>2021-05-20T20:01:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/
 Comments URL: https://news.ycombinator.com/item?id=27226382
-Points: 411
-# Comments: 58]]></summary>
+Points: 472
+# Comments: 65]]></summary>
         <author>
             <name>talawahtech</name>
         </author>
@@ -153,8 +166,8 @@ Points: 411
         <updated>2021-05-20T19:20:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router
 Comments URL: https://news.ycombinator.com/item?id=27225789
-Points: 45
-# Comments: 9]]></summary>
+Points: 55
+# Comments: 17]]></summary>
         <author>
             <name>geerlingguy</name>
         </author>
@@ -166,8 +179,8 @@ Points: 45
         <updated>2021-05-20T19:16:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.upi.com/Top_News/US/2021/05/19/Oregon-Idaho-Donald-Trump-Joe-Biden/3341621450876/
 Comments URL: https://news.ycombinator.com/item?id=27225739
-Points: 224
-# Comments: 507]]></summary>
+Points: 241
+# Comments: 543]]></summary>
         <author>
             <name>rmason</name>
         </author>
@@ -189,8 +202,8 @@ Points: 224
         <updated>2021-05-20T18:00:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.spectacles.com/new-spectacles
 Comments URL: https://news.ycombinator.com/item?id=27224691
-Points: 101
-# Comments: 103]]></summary>
+Points: 112
+# Comments: 115]]></summary>
         <author>
             <name>upwardbound</name>
         </author>
@@ -202,8 +215,8 @@ Points: 101
         <updated>2021-05-20T17:22:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://javier.xyz/pintr/
 Comments URL: https://news.ycombinator.com/item?id=27224094
-Points: 258
-# Comments: 44]]></summary>
+Points: 273
+# Comments: 45]]></summary>
         <author>
             <name>javierbyte</name>
         </author>
@@ -225,8 +238,8 @@ Points: 258
         <updated>2021-05-20T16:43:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/
 Comments URL: https://news.ycombinator.com/item?id=27223520
-Points: 117
-# Comments: 82]]></summary>
+Points: 122
+# Comments: 87]]></summary>
         <author>
             <name>theafh</name>
         </author>
@@ -238,8 +251,8 @@ Points: 117
         <updated>2021-05-20T16:31:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates
 Comments URL: https://news.ycombinator.com/item?id=27223340
-Points: 139
-# Comments: 49]]></summary>
+Points: 148
+# Comments: 51]]></summary>
         <author>
             <name>jwcooper</name>
         </author>
@@ -251,8 +264,8 @@ Points: 139
         <updated>2021-05-20T16:10:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.stackblitz.com/posts/introducing-webcontainers/
 Comments URL: https://news.ycombinator.com/item?id=27223012
-Points: 267
-# Comments: 151]]></summary>
+Points: 285
+# Comments: 161]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -285,8 +298,8 @@ While sharing an apartment with my co-founders during an internship, I was respo
         <updated>2021-05-20T15:31:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits
 Comments URL: https://news.ycombinator.com/item?id=27222457
-Points: 277
-# Comments: 64]]></summary>
+Points: 296
+# Comments: 66]]></summary>
         <author>
             <name>mcp_</name>
         </author>
@@ -318,8 +331,8 @@ Points: 277
         <updated>2021-05-20T14:29:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/
 Comments URL: https://news.ycombinator.com/item?id=27221552
-Points: 150
-# Comments: 313]]></summary>
+Points: 158
+# Comments: 332]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -356,19 +369,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native speakers are hard to understand in a lingua franca situation]]></title>
-        <id>https://news.ycombinator.com/item?id=27220789</id>
-        <link href="https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators"/>
-        <updated>2021-05-20T13:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/worklife/article/20161028-native-english-speakers-are-the-worlds-worst-communicators
-Comments URL: https://news.ycombinator.com/item?id=27220789
-Points: 118
-# Comments: 153]]></summary>
-        <author>
-            <name>sampo</name>
         </author>
     </entry>
     <entry>
