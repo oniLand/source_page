@@ -245,6 +245,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
+          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
+          "publishedOn": "2021-05-21T11:30:00.000Z",
+          "wordCount": 9398,
+          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
           "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
@@ -574,9 +583,18 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27232929",
+          "author": "jboula",
+          "description": "Article URL: https://www.ycombinator.com/companies/circle-medical/jobs/DcHMahZUa-fullstack-engineer\nComments URL: https://news.ycombinator.com/item?id=27232929\nPoints: 1\n# Comments: 0",
+          "link": "https://www.ycombinator.com/companies/circle-medical/jobs/DcHMahZUa-fullstack-engineer",
+          "publishedOn": "2021-05-21T12:00:55.000Z",
+          "wordCount": 306,
+          "title": "Circle Medical (YC S15) Is Hiring FullStack Engineers to Build Tools for Doctors"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27232401",
           "author": "zekrioca",
-          "description": "Article URL: https://twitter.com/GernotHeiser/status/1395517697689931780\nComments URL: https://news.ycombinator.com/item?id=27232401\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://twitter.com/GernotHeiser/status/1395517697689931780\nComments URL: https://news.ycombinator.com/item?id=27232401\nPoints: 34\n# Comments: 7",
           "link": "https://twitter.com/GernotHeiser/status/1395517697689931780",
           "publishedOn": "2021-05-21T10:40:55.000Z",
           "wordCount": 196,
@@ -585,16 +603,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27232241",
           "author": "tosh",
-          "description": "Article URL: https://twitter.com/smdiehl/status/1395683698859814912\nComments URL: https://news.ycombinator.com/item?id=27232241\nPoints: 11\n# Comments: 0",
+          "description": "Article URL: https://twitter.com/smdiehl/status/1395683698859814912\nComments URL: https://news.ycombinator.com/item?id=27232241\nPoints: 45\n# Comments: 37",
           "link": "https://twitter.com/smdiehl/status/1395683698859814912",
           "publishedOn": "2021-05-21T10:14:11.000Z",
           "wordCount": 196,
           "title": "On Ransomware and Cryptocurrency"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27232178",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries\nComments URL: https://news.ycombinator.com/item?id=27232178\nPoints: 61\n# Comments: 90",
+          "link": "https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries",
+          "publishedOn": "2021-05-21T09:59:47.000Z",
+          "wordCount": 2255,
+          "title": "Millions of electric cars are coming. What happens to all the dead batteries?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27231471",
           "author": "giuliomagnifico",
-          "description": "Article URL: https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/\nComments URL: https://news.ycombinator.com/item?id=27231471\nPoints: 67\n# Comments: 87",
+          "description": "Article URL: https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/\nComments URL: https://news.ycombinator.com/item?id=27231471\nPoints: 77\n# Comments: 99",
           "link": "https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/",
           "publishedOn": "2021-05-21T07:43:37.000Z",
           "wordCount": 3116,
@@ -603,7 +630,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27230774",
           "author": "georgecmu",
-          "description": "Article URL: https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5ff3cac7dc8f8e0b7122ff58/1609812690849/AmirSariri_JMP.pdf\nComments URL: https://news.ycombinator.com/item?id=27230774\nPoints: 53\n# Comments: 26",
+          "description": "Article URL: https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5ff3cac7dc8f8e0b7122ff58/1609812690849/AmirSariri_JMP.pdf\nComments URL: https://news.ycombinator.com/item?id=27230774\nPoints: 56\n# Comments: 32",
           "link": "https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5ff3cac7dc8f8e0b7122ff58/1609812690849/AmirSariri_JMP.pdf",
           "publishedOn": "2021-05-21T05:22:33.000Z",
           "wordCount": 171681,
@@ -612,7 +639,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27230427",
           "author": "zdw",
-          "description": "Article URL: https://twitter.com/ccgus/status/1395145361136644098\nComments URL: https://news.ycombinator.com/item?id=27230427\nPoints: 322\n# Comments: 144",
+          "description": "Article URL: https://twitter.com/ccgus/status/1395145361136644098\nComments URL: https://news.ycombinator.com/item?id=27230427\nPoints: 364\n# Comments: 164",
           "link": "https://twitter.com/ccgus/status/1395145361136644098",
           "publishedOn": "2021-05-21T04:13:45.000Z",
           "wordCount": 196,
@@ -621,16 +648,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27230190",
           "author": "zdw",
-          "description": "Article URL: http://www.os2museum.com/wp/dos-smb-client-performance/\nComments URL: https://news.ycombinator.com/item?id=27230190\nPoints: 54\n# Comments: 25",
+          "description": "Article URL: http://www.os2museum.com/wp/dos-smb-client-performance/\nComments URL: https://news.ycombinator.com/item?id=27230190\nPoints: 54\n# Comments: 27",
           "link": "http://www.os2museum.com/wp/dos-smb-client-performance/",
           "publishedOn": "2021-05-21T03:35:41.000Z",
-          "wordCount": 2813,
+          "wordCount": 2857,
           "title": "DOS SMB Client Performance"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27230042",
           "author": "ascom",
-          "description": "Article URL: https://www.sublimetext.com/blog/articles/sublime-text-4\nComments URL: https://news.ycombinator.com/item?id=27230042\nPoints: 809\n# Comments: 356",
+          "description": "Article URL: https://www.sublimetext.com/blog/articles/sublime-text-4\nComments URL: https://news.ycombinator.com/item?id=27230042\nPoints: 886\n# Comments: 386",
           "link": "https://www.sublimetext.com/blog/articles/sublime-text-4",
           "publishedOn": "2021-05-21T03:06:01.000Z",
           "wordCount": 3892,
@@ -639,7 +666,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27229836",
           "author": "parsecs",
-          "description": "Article URL: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/\nComments URL: https://news.ycombinator.com/item?id=27229836\nPoints: 138\n# Comments: 23",
+          "description": "Article URL: https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/\nComments URL: https://news.ycombinator.com/item?id=27229836\nPoints: 151\n# Comments: 28",
           "link": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/",
           "publishedOn": "2021-05-21T02:21:14.000Z",
           "wordCount": 3555,
@@ -648,16 +675,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27229436",
           "author": "rodrigobrito",
-          "description": "Article URL: https://github.com/rodrigo-brito/ninjabot\nComments URL: https://news.ycombinator.com/item?id=27229436\nPoints: 66\n# Comments: 29",
+          "description": "Article URL: https://github.com/rodrigo-brito/ninjabot\nComments URL: https://news.ycombinator.com/item?id=27229436\nPoints: 74\n# Comments: 35",
           "link": "https://github.com/rodrigo-brito/ninjabot",
           "publishedOn": "2021-05-21T01:13:21.000Z",
-          "wordCount": 860,
+          "wordCount": 865,
           "title": "Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27229171",
           "author": "signa11",
-          "description": "Article URL: https://lwn.net/Articles/856044/\nComments URL: https://news.ycombinator.com/item?id=27229171\nPoints: 71\n# Comments: 8",
+          "description": "Article URL: https://lwn.net/Articles/856044/\nComments URL: https://news.ycombinator.com/item?id=27229171\nPoints: 76\n# Comments: 8",
           "link": "https://lwn.net/Articles/856044/",
           "publishedOn": "2021-05-21T00:30:33.000Z",
           "wordCount": 3872,
@@ -666,7 +693,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27228550",
           "author": "danso",
-          "description": "Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/\nComments URL: https://news.ycombinator.com/item?id=27228550\nPoints: 219\n# Comments: 155",
+          "description": "Article URL: https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/\nComments URL: https://news.ycombinator.com/item?id=27228550\nPoints: 231\n# Comments: 160",
           "link": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
           "publishedOn": "2021-05-20T23:05:07.000Z",
           "wordCount": 2273,
@@ -675,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27227751",
           "author": "rmason",
-          "description": "Article URL: https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/\nComments URL: https://news.ycombinator.com/item?id=27227751\nPoints: 85\n# Comments: 10",
+          "description": "Article URL: https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/\nComments URL: https://news.ycombinator.com/item?id=27227751\nPoints: 89\n# Comments: 12",
           "link": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
           "publishedOn": "2021-05-20T21:44:18.000Z",
           "wordCount": 1839,
@@ -684,34 +711,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27227683",
           "author": "belter",
-          "description": "Article URL: https://ionescu007.github.io/SimpleVisor/\nComments URL: https://news.ycombinator.com/item?id=27227683\nPoints: 149\n# Comments: 16",
+          "description": "Article URL: https://ionescu007.github.io/SimpleVisor/\nComments URL: https://news.ycombinator.com/item?id=27227683\nPoints: 152\n# Comments: 16",
           "link": "https://ionescu007.github.io/SimpleVisor/",
           "publishedOn": "2021-05-20T21:40:16.000Z",
           "wordCount": 1672,
           "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27227180",
-          "author": "ukd1",
-          "description": "Article URL: https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN\nComments URL: https://news.ycombinator.com/item?id=27227180\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN",
-          "publishedOn": "2021-05-20T21:00:37.000Z",
-          "wordCount": 48,
-          "title": "Rainforest (YC S12) Is Hiring Remote Engineers, Designers and CSM"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27226625",
-          "author": "lukastyrychtr",
-          "description": "Article URL: https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/\nComments URL: https://news.ycombinator.com/item?id=27226625\nPoints: 179\n# Comments: 27",
-          "link": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
-          "publishedOn": "2021-05-20T20:18:32.000Z",
-          "wordCount": 1936,
-          "title": "Why RISC-V doesn't yet support KVM"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27226382",
           "author": "talawahtech",
-          "description": "Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/\nComments URL: https://news.ycombinator.com/item?id=27226382\nPoints: 737\n# Comments: 109",
+          "description": "Article URL: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/\nComments URL: https://news.ycombinator.com/item?id=27226382\nPoints: 755\n# Comments: 117",
           "link": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
           "publishedOn": "2021-05-20T20:01:28.000Z",
           "wordCount": 14589,
@@ -720,16 +729,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27224094",
           "author": "javierbyte",
-          "description": "Article URL: https://javier.xyz/pintr/\nComments URL: https://news.ycombinator.com/item?id=27224094\nPoints: 354\n# Comments: 56",
+          "description": "Article URL: https://javier.xyz/pintr/\nComments URL: https://news.ycombinator.com/item?id=27224094\nPoints: 357\n# Comments: 57",
           "link": "https://javier.xyz/pintr/",
           "publishedOn": "2021-05-20T17:22:33.000Z",
-          "wordCount": 50,
+          "wordCount": 53,
           "title": "Show HN: Tool that turns your images into plotter-like line drawings"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27222985",
+          "author": "tonikami",
+          "description": "We're Tunde, Boateng, and Landon, the founders of YSplit (https://www.ysplit.com). We make it easy to share the cost of utility bills, subscriptions, phone plans & more. When your bill is due, we charge everyone their portion, and then we pay for it.\nWhile sharing an apartment with my co-founders during an internship, I was responsible for paying the gas, wifi & rent bills upfront and having everyone Venmo me back. Tracking how much I was owed and getting everyone to pay me back took up a fair amount of tim…",
+          "link": "https://news.ycombinator.com/item?id=27222985",
+          "publishedOn": "2021-05-20T16:08:30.000Z",
+          "wordCount": 4884,
+          "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27222457",
           "author": "mcp_",
-          "description": "Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits\nComments URL: https://news.ycombinator.com/item?id=27222457\nPoints: 367\n# Comments: 87",
+          "description": "Article URL: https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits\nComments URL: https://news.ycombinator.com/item?id=27222457\nPoints: 378\n# Comments: 88",
           "link": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
           "publishedOn": "2021-05-20T15:31:06.000Z",
           "wordCount": 3659,
@@ -738,20 +756,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27222379",
           "author": "Hooke",
-          "description": "Article URL: https://placesjournal.org/article/taking-the-measure-of-a-suburban-forest-preserve/\nComments URL: https://news.ycombinator.com/item?id=27222379\nPoints: 4\n# Comments: 0",
+          "description": "Article URL: https://placesjournal.org/article/taking-the-measure-of-a-suburban-forest-preserve/\nComments URL: https://news.ycombinator.com/item?id=27222379\nPoints: 7\n# Comments: 0",
           "link": "https://placesjournal.org/article/taking-the-measure-of-a-suburban-forest-preserve/",
           "publishedOn": "2021-05-20T15:25:48.000Z",
-          "wordCount": 6510,
+          "wordCount": 6499,
           "title": "Taking the Measure of a Forest"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27220927",
-          "author": "aleyan",
-          "description": "Article URL: https://www.poshenloh.com/quadraticdetail/\nComments URL: https://news.ycombinator.com/item?id=27220927\nPoints: 21\n# Comments: 3",
-          "link": "https://www.poshenloh.com/quadraticdetail/",
-          "publishedOn": "2021-05-20T13:36:20.000Z",
-          "wordCount": 2025,
-          "title": "Quadratic Method: Detailed Explanation"
         }
       ]
     },
@@ -766,7 +775,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Pe…",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2504,
+          "wordCount": 2507,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -775,7 +784,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser,…",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3802,
+          "wordCount": 3807,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -784,7 +793,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and d…",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1953,
+          "wordCount": 1957,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -793,7 +802,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, h…",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2058,
+          "wordCount": 2057,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -802,7 +811,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back und…",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1909,
+          "wordCount": 1913,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -811,7 +820,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Am…",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1718,
+          "wordCount": 1720,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -820,7 +829,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a sho…",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1869,
+          "wordCount": 1868,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -829,7 +838,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its ear…",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1733,
+          "wordCount": 1736,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
