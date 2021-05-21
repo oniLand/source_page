@@ -108,7 +108,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3111,
+          "wordCount": 3149,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -583,9 +583,54 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27238414",
+          "author": "oblib",
+          "description": "Article URL: https://apnews.com/article/media-social-media-race-and-ethnicity-racial-injustice-government-and-politics-d4c8d4cc7bc7789ffa77071458ade3fa\nComments URL: https://news.ycombinator.com/item?id=27238414\nPoints: 19\n# Comments: 1",
+          "link": "https://apnews.com/article/media-social-media-race-and-ethnicity-racial-injustice-government-and-politics-d4c8d4cc7bc7789ffa77071458ade3fa",
+          "publishedOn": "2021-05-21T19:00:01.000Z",
+          "wordCount": 65,
+          "title": "US to ramp up tracking of domestic extremism on social media"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27238056",
+          "author": "paulpauper",
+          "description": "Article URL: https://greyenlightenment.com/2019/08/31/wealth-and-iq-part-3-continued/\nComments URL: https://news.ycombinator.com/item?id=27238056\nPoints: 12\n# Comments: 0",
+          "link": "https://greyenlightenment.com/2019/08/31/wealth-and-iq-part-3-continued/",
+          "publishedOn": "2021-05-21T18:35:33.000Z",
+          "wordCount": 2019,
+          "title": "Nassim Taleb Is Possibly Wrong about Wealth and IQ"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27237919",
+          "author": "manjana",
+          "description": "Article URL: https://victoria.dev/blog/sqlite-in-production-with-wal/\nComments URL: https://news.ycombinator.com/item?id=27237919\nPoints: 21\n# Comments: 4",
+          "link": "https://victoria.dev/blog/sqlite-in-production-with-wal/",
+          "publishedOn": "2021-05-21T18:24:42.000Z",
+          "wordCount": 959,
+          "title": "SQLite in Production with WAL"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27237676",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.fastcompany.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs\nComments URL: https://news.ycombinator.com/item?id=27237676\nPoints: 15\n# Comments: 0",
+          "link": "https://www.fastcompany.com/90151279/the-woman-supercomputer-designer-who-inspired-steve-jobs",
+          "publishedOn": "2021-05-21T18:09:19.000Z",
+          "wordCount": 1863,
+          "title": "The Female Supercomputer Designer Who Inspired Steve Jobs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27237527",
+          "author": "rrauenza",
+          "description": "Article URL: https://www.nationalreview.com/2021/05/calm-down-everyone-the-ufos-arent-aliens/\nComments URL: https://news.ycombinator.com/item?id=27237527\nPoints: 26\n# Comments: 22",
+          "link": "https://www.nationalreview.com/2021/05/calm-down-everyone-the-ufos-arent-aliens/",
+          "publishedOn": "2021-05-21T17:56:44.000Z",
+          "wordCount": 2782,
+          "title": "Pentagon UFO Videos Not Aliens"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27237520",
           "author": "codq",
-          "description": "Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails\nComments URL: https://news.ycombinator.com/item?id=27237520\nPoints: 29\n# Comments: 2",
+          "description": "Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails\nComments URL: https://news.ycombinator.com/item?id=27237520\nPoints: 90\n# Comments: 54",
           "link": "https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails",
           "publishedOn": "2021-05-21T17:56:20.000Z",
           "wordCount": 1004,
@@ -594,34 +639,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27237205",
           "author": "laurex",
-          "description": "Article URL: https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/\nComments URL: https://news.ycombinator.com/item?id=27237205\nPoints: 45\n# Comments: 16",
+          "description": "Article URL: https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/\nComments URL: https://news.ycombinator.com/item?id=27237205\nPoints: 81\n# Comments: 50",
           "link": "https://www.scientificamerican.com/article/deadly-fungi-are-the-newest-emerging-microbe-threat-all-over-the-world/",
           "publishedOn": "2021-05-21T17:37:06.000Z",
-          "wordCount": 6296,
-          "title": "Deadly Fungi Are the Newest Emerging Microbe Threat All over the World"
+          "wordCount": 6287,
+          "title": "Deadly fungi are an emerging microbe threat"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27236953",
           "author": "tate",
-          "description": "Article URL: https://gomakethings.com/accessibility-is-hard.-its-also-your-job./\nComments URL: https://news.ycombinator.com/item?id=27236953\nPoints: 12\n# Comments: 5",
+          "description": "Article URL: https://gomakethings.com/accessibility-is-hard.-its-also-your-job./\nComments URL: https://news.ycombinator.com/item?id=27236953\nPoints: 49\n# Comments: 35",
           "link": "https://gomakethings.com/accessibility-is-hard.-its-also-your-job./",
           "publishedOn": "2021-05-21T17:18:09.000Z",
           "wordCount": 638,
-          "title": "Accessibility is hard. It's also your job"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27236920",
-          "author": "deilline",
-          "description": "I've been looking to take some longer time off in between my current and next role, on the order of 6 months to a year.\nAny advice from those who have done it? Did you get bored? Was it worth it? Was it more expensive? Things you found helpful when preparing?\nComments URL: https://news.ycombinator.com/item?id=27236920\nPoints: 28\n# Comments: 9",
-          "link": "https://news.ycombinator.com/item?id=27236920",
-          "publishedOn": "2021-05-21T17:15:55.000Z",
-          "wordCount": 1645,
-          "title": "Ask HN: Those who have taken extended time off, any advice?"
+          "title": "Accessibility is the hardest thing for me about making things for the web"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27236874",
           "author": "tate",
-          "description": "Article URL: https://lord.io/text-editing-hates-you-too/\nComments URL: https://news.ycombinator.com/item?id=27236874\nPoints: 33\n# Comments: 2",
+          "description": "Article URL: https://lord.io/text-editing-hates-you-too/\nComments URL: https://news.ycombinator.com/item?id=27236874\nPoints: 73\n# Comments: 7",
           "link": "https://lord.io/text-editing-hates-you-too/",
           "publishedOn": "2021-05-21T17:12:44.000Z",
           "wordCount": 1713,
@@ -639,7 +675,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27236660",
           "author": "williamsmj",
-          "description": "Article URL: https://www.theverge.com/2021/5/21/22447446/citizen-app-internal-slack-palisades-fire-arson-bounty-manhunt-los-angeles\nComments URL: https://news.ycombinator.com/item?id=27236660\nPoints: 76\n# Comments: 43",
+          "description": "Article URL: https://www.theverge.com/2021/5/21/22447446/citizen-app-internal-slack-palisades-fire-arson-bounty-manhunt-los-angeles\nComments URL: https://news.ycombinator.com/item?id=27236660\nPoints: 134\n# Comments: 93",
           "link": "https://www.theverge.com/2021/5/21/22447446/citizen-app-internal-slack-palisades-fire-arson-bounty-manhunt-los-angeles",
           "publishedOn": "2021-05-21T16:57:49.000Z",
           "wordCount": 1305,
@@ -648,7 +684,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27236251",
           "author": "empressplay",
-          "description": "Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/\nComments URL: https://news.ycombinator.com/item?id=27236251\nPoints: 20\n# Comments: 12",
+          "description": "Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/\nComments URL: https://news.ycombinator.com/item?id=27236251\nPoints: 27\n# Comments: 16",
           "link": "https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/",
           "publishedOn": "2021-05-21T16:33:04.000Z",
           "wordCount": 3181,
@@ -657,7 +693,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27235970",
           "author": "easrng",
-          "description": "Article URL: https://voice2json.org/\nComments URL: https://news.ycombinator.com/item?id=27235970\nPoints: 139\n# Comments: 26",
+          "description": "Article URL: https://voice2json.org/\nComments URL: https://news.ycombinator.com/item?id=27235970\nPoints: 177\n# Comments: 40",
           "link": "https://voice2json.org/",
           "publishedOn": "2021-05-21T16:14:46.000Z",
           "wordCount": 1925,
@@ -666,43 +702,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27235918",
           "author": "ndtut",
-          "description": "Article URL: https://www.artvee.com/?\nComments URL: https://news.ycombinator.com/item?id=27235918\nPoints: 56\n# Comments: 12",
+          "description": "Article URL: https://www.artvee.com/?\nComments URL: https://news.ycombinator.com/item?id=27235918\nPoints: 86\n# Comments: 17",
           "link": "https://www.artvee.com/?",
           "publishedOn": "2021-05-21T16:11:23.000Z",
-          "wordCount": 1015,
+          "wordCount": 1068,
           "title": "Download free public domain paintings, posters and illustrations"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27235531",
-          "author": "longdefeat",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57198737\nComments URL: https://news.ycombinator.com/item?id=27235531\nPoints: 130\n# Comments: 118",
-          "link": "https://www.bbc.com/news/world-europe-57198737",
-          "publishedOn": "2021-05-21T15:45:33.000Z",
-          "wordCount": 1232,
-          "title": "France's 18-year-olds given €300 culture pass"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27235321",
-          "author": "t3rabytes",
-          "description": "Article URL: https://www.theverge.com/2021/5/21/22447328/twitter-ticketed-spaces-monetization-stripe-approval\nComments URL: https://news.ycombinator.com/item?id=27235321\nPoints: 64\n# Comments: 38",
-          "link": "https://www.theverge.com/2021/5/21/22447328/twitter-ticketed-spaces-monetization-stripe-approval",
-          "publishedOn": "2021-05-21T15:30:01.000Z",
-          "wordCount": 764,
-          "title": "Twitter previews Ticketed Spaces, Apple/Google + Twitter take 44% cut"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27235288",
           "author": "jereees",
-          "description": "Feel also free to mention methods, places and what have you.\nComments URL: https://news.ycombinator.com/item?id=27235288\nPoints: 45\n# Comments: 64",
+          "description": "Feel also free to mention methods, places and what have you.\nComments URL: https://news.ycombinator.com/item?id=27235288\nPoints: 54\n# Comments: 79",
           "link": "https://news.ycombinator.com/item?id=27235288",
           "publishedOn": "2021-05-21T15:27:39.000Z",
-          "wordCount": 4382,
+          "wordCount": 5201,
           "title": "Ask HN: How much do you contemplate per week?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27235135",
           "author": "Breadmaker",
-          "description": "Article URL: https://www.dw.com/en/50-billion-birds-live-on-earth-new-study-finds/a-57564439\nComments URL: https://news.ycombinator.com/item?id=27235135\nPoints: 10\n# Comments: 9",
+          "description": "Article URL: https://www.dw.com/en/50-billion-birds-live-on-earth-new-study-finds/a-57564439\nComments URL: https://news.ycombinator.com/item?id=27235135\nPoints: 25\n# Comments: 16",
           "link": "https://www.dw.com/en/50-billion-birds-live-on-earth-new-study-finds/a-57564439",
           "publishedOn": "2021-05-21T15:16:49.000Z",
           "wordCount": 937,
@@ -711,16 +729,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27234806",
           "author": "ingve",
-          "description": "Article URL: https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/\nComments URL: https://news.ycombinator.com/item?id=27234806\nPoints: 56\n# Comments: 29",
+          "description": "Article URL: https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/\nComments URL: https://news.ycombinator.com/item?id=27234806\nPoints: 58\n# Comments: 32",
           "link": "https://lemire.me/blog/2021/05/21/counting-the-number-of-matching-characters-in-two-ascii-strings/",
           "publishedOn": "2021-05-21T14:54:23.000Z",
-          "wordCount": 1975,
+          "wordCount": 1980,
           "title": "Counting the number of matching characters in two ASCII strings"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27234755",
           "author": "xemoka",
-          "description": "Article URL: https://ephtracy.github.io/index.html?page=magicacsg\nComments URL: https://news.ycombinator.com/item?id=27234755\nPoints: 24\n# Comments: 4",
+          "description": "Article URL: https://ephtracy.github.io/index.html?page=magicacsg\nComments URL: https://news.ycombinator.com/item?id=27234755\nPoints: 32\n# Comments: 4",
           "link": "https://ephtracy.github.io/index.html?page=magicacsg",
           "publishedOn": "2021-05-21T14:51:16.000Z",
           "wordCount": 18,
@@ -729,7 +747,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27234039",
           "author": "awb",
-          "description": "Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/\nComments URL: https://news.ycombinator.com/item?id=27234039\nPoints: 386\n# Comments: 849",
+          "description": "Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/\nComments URL: https://news.ycombinator.com/item?id=27234039\nPoints: 409\n# Comments: 916",
           "link": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
           "publishedOn": "2021-05-21T13:57:56.000Z",
           "wordCount": 5709,
@@ -741,26 +759,8 @@
           "description": "Hi, we’re pclark, bweitz and anilsevim, the founders of Journey (https://journey.io). We want to make buying and selling software a better experience. We do this by allowing sellers and marketers to combine all sorts of content—slides, videos, forms, calendars, text—into one sharable webpage, which they can then easily personalize for specific prospects. Think of it like a website that is specifically designed for a specific individual to take a specific action, which answers any questions or objections the…",
           "link": "https://news.ycombinator.com/item?id=27233718",
           "publishedOn": "2021-05-21T13:28:41.000Z",
-          "wordCount": 2831,
+          "wordCount": 2925,
           "title": "Launch HN: Journey (YC W21) – a better tool for selling software"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27233470",
-          "author": "theafh",
-          "description": "Article URL: https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html\nComments URL: https://news.ycombinator.com/item?id=27233470\nPoints: 48\n# Comments: 6",
-          "link": "https://ai.googleblog.com/2021/05/kelm-integrating-knowledge-graphs-with.html",
-          "publishedOn": "2021-05-21T13:01:01.000Z",
-          "wordCount": 1664,
-          "title": "KELM: Integrating Knowledge Graphs with Language Model Pre-Training Corpora"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27233229",
-          "author": "varbhat",
-          "description": "Article URL: https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes\nComments URL: https://news.ycombinator.com/item?id=27233229\nPoints: 196\n# Comments: 84",
-          "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes",
-          "publishedOn": "2021-05-21T12:36:56.000Z",
-          "wordCount": 1049,
-          "title": "Linux 5.13 Reverts and Fixes the Problematic University of Minnesota Patches"
         }
       ]
     },
@@ -775,7 +775,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Pe…",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2514,
+          "wordCount": 2504,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -784,7 +784,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser,…",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3812,
+          "wordCount": 3813,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and d…",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1968,
+          "wordCount": 1960,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, h…",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2068,
+          "wordCount": 2062,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -829,7 +829,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a sho…",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1871,
+          "wordCount": 1872,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -838,7 +838,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its ear…",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1738,
+          "wordCount": 1736,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
