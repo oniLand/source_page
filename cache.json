@@ -468,15 +468,6 @@
           "publishedOn": "2021-04-23T08:30:00.000Z",
           "wordCount": 2430,
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         }
       ]
     },
@@ -583,36 +574,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27241715",
+          "author": "hhs",
+          "description": "Article URL: https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more\nComments URL: https://news.ycombinator.com/item?id=27241715\nPoints: 88\n# Comments: 33",
+          "link": "https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more",
+          "publishedOn": "2021-05-22T00:14:53.000Z",
+          "wordCount": 1161,
+          "title": "A new replication crisis: Research that is less likely to be true is cited more"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27241085",
           "author": "tagawa",
-          "description": "Article URL: https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html\nComments URL: https://news.ycombinator.com/item?id=27241085\nPoints: 93\n# Comments: 73",
+          "description": "Article URL: https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html\nComments URL: https://news.ycombinator.com/item?id=27241085\nPoints: 130\n# Comments: 123",
           "link": "https://www.nytimes.com/2021/05/21/us/san-francisco-shoplifting-epidemic.html",
           "publishedOn": "2021-05-21T23:10:52.000Z",
-          "wordCount": 1026,
+          "wordCount": 1024,
           "title": "San Francisco’s Shoplifting Surge"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27241047",
-          "author": "incanus77",
-          "description": "Article URL: https://jeanieandluluskitchen.com/wprm_print/10697\nComments URL: https://news.ycombinator.com/item?id=27241047\nPoints: 27\n# Comments: 37",
-          "link": "https://jeanieandluluskitchen.com/wprm_print/10697",
-          "publishedOn": "2021-05-21T23:05:48.000Z",
-          "wordCount": 610,
-          "title": "All recipe websites should be adjustable like this"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27240988",
-          "author": "yamrzou",
-          "description": "Article URL: https://bigthink.com/surprising-science/gender-stereotyped-toys\nComments URL: https://news.ycombinator.com/item?id=27240988\nPoints: 64\n# Comments: 24",
-          "link": "https://bigthink.com/surprising-science/gender-stereotyped-toys",
-          "publishedOn": "2021-05-21T22:57:43.000Z",
-          "wordCount": 3393,
-          "title": "Despite social pressure, boys and girls still prefer gender-typical toys"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27240927",
           "author": "tomlagier",
-          "description": "Article URL: http://algorithmicbotany.org/papers/abop/abop.pdf\nComments URL: https://news.ycombinator.com/item?id=27240927\nPoints: 21\n# Comments: 0",
+          "description": "Article URL: http://algorithmicbotany.org/papers/abop/abop.pdf\nComments URL: https://news.ycombinator.com/item?id=27240927\nPoints: 51\n# Comments: 1",
           "link": "http://algorithmicbotany.org/papers/abop/abop.pdf",
           "publishedOn": "2021-05-21T22:50:22.000Z",
           "wordCount": 318004,
@@ -621,7 +603,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27240796",
           "author": "robin_reala",
-          "description": "Article URL: https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/\nComments URL: https://news.ycombinator.com/item?id=27240796\nPoints: 219\n# Comments: 99",
+          "description": "Article URL: https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/\nComments URL: https://news.ycombinator.com/item?id=27240796\nPoints: 247\n# Comments: 115",
           "link": "https://www.motherjones.com/environment/2021/05/canada-declares-plastics-toxic-ban-restrictions/",
           "publishedOn": "2021-05-21T22:31:57.000Z",
           "wordCount": 1707,
@@ -630,25 +612,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27240688",
           "author": "furrowedbrow",
-          "description": "Article URL: https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing\nComments URL: https://news.ycombinator.com/item?id=27240688\nPoints: 79\n# Comments: 140",
+          "description": "Article URL: https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing\nComments URL: https://news.ycombinator.com/item?id=27240688\nPoints: 144\n# Comments: 299",
           "link": "https://www.economist.com/united-states/2021/05/22/why-tech-firms-are-trying-to-run-away-from-politics-and-failing",
           "publishedOn": "2021-05-21T22:20:15.000Z",
           "wordCount": 772,
           "title": "Woke at Work: Why tech firms are trying to run away from politics and failing"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27240659",
-          "author": "danboarder",
-          "description": "Article URL: https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/\nComments URL: https://news.ycombinator.com/item?id=27240659\nPoints: 27\n# Comments: 4",
-          "link": "https://directorsblog.nih.gov/2021/05/18/human-antibodies-target-many-parts-of-coronavirus-spike-protein/",
-          "publishedOn": "2021-05-21T22:17:02.000Z",
-          "wordCount": 2598,
-          "title": "Human Antibodies Target Many Parts of Coronavirus Spike Protein"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27240416",
           "author": "xd",
-          "description": "Article URL: http://web.archive.org/web/19980701120538/http://www.php.net/\nComments URL: https://news.ycombinator.com/item?id=27240416\nPoints: 53\n# Comments: 51",
+          "description": "Article URL: http://web.archive.org/web/19980701120538/http://www.php.net/\nComments URL: https://news.ycombinator.com/item?id=27240416\nPoints: 74\n# Comments: 71",
           "link": "http://web.archive.org/web/19980701120538/http://www.php.net/",
           "publishedOn": "2021-05-21T21:51:20.000Z",
           "wordCount": 395,
@@ -657,7 +630,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27240008",
           "author": "holmesworcester",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws\nComments URL: https://news.ycombinator.com/item?id=27240008\nPoints: 167\n# Comments: 71",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws\nComments URL: https://news.ycombinator.com/item?id=27240008\nPoints: 193\n# Comments: 85",
           "link": "https://www.bloomberg.com/news/articles/2021-05-20/microsoft-and-apple-wage-war-on-gadget-right-to-repair-laws",
           "publishedOn": "2021-05-21T21:10:00.000Z",
           "wordCount": 93,
@@ -675,7 +648,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27239129",
           "author": "doat",
-          "description": "Article URL: https://wordhistories.net/2020/01/06/put-pipe-and-smoke/\nComments URL: https://news.ycombinator.com/item?id=27239129\nPoints: 62\n# Comments: 24",
+          "description": "Article URL: https://wordhistories.net/2020/01/06/put-pipe-and-smoke/\nComments URL: https://news.ycombinator.com/item?id=27239129\nPoints: 70\n# Comments: 28",
           "link": "https://wordhistories.net/2020/01/06/put-pipe-and-smoke/",
           "publishedOn": "2021-05-21T19:57:05.000Z",
           "wordCount": 1713,
@@ -684,7 +657,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27238381",
           "author": "dested",
-          "description": "Article URL: https://flutterflow.io/launch\nComments URL: https://news.ycombinator.com/item?id=27238381\nPoints: 153\n# Comments: 54",
+          "description": "Article URL: https://flutterflow.io/launch\nComments URL: https://news.ycombinator.com/item?id=27238381\nPoints: 167\n# Comments: 61",
           "link": "https://flutterflow.io/launch",
           "publishedOn": "2021-05-21T18:58:25.000Z",
           "wordCount": 465,
@@ -693,16 +666,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27238317",
           "author": "danso",
-          "description": "Article URL: https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/\nComments URL: https://news.ycombinator.com/item?id=27238317\nPoints: 106\n# Comments: 163",
+          "description": "Article URL: https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/\nComments URL: https://news.ycombinator.com/item?id=27238317\nPoints: 118\n# Comments: 179",
           "link": "https://blog.twitch.tv/en/2021/05/21/lets-talk-about-hot-tub-streams/",
           "publishedOn": "2021-05-21T18:53:56.000Z",
-          "wordCount": 1298,
+          "wordCount": 1343,
           "title": "Let’s Talk About Hot Tub Streams"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27238289",
           "author": "optimalsolver",
-          "description": "Article URL: https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers\nComments URL: https://news.ycombinator.com/item?id=27238289\nPoints: 38\n# Comments: 8",
+          "description": "Article URL: https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers\nComments URL: https://news.ycombinator.com/item?id=27238289\nPoints: 40\n# Comments: 11",
           "link": "https://www.newyorker.com/tech/annals-of-technology/the-cicadas-love-affair-with-prime-numbers",
           "publishedOn": "2021-05-21T18:52:21.000Z",
           "wordCount": 1008,
@@ -711,7 +684,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27237520",
           "author": "codq",
-          "description": "Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails\nComments URL: https://news.ycombinator.com/item?id=27237520\nPoints: 257\n# Comments: 308",
+          "description": "Article URL: https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails\nComments URL: https://news.ycombinator.com/item?id=27237520\nPoints: 276\n# Comments: 323",
           "link": "https://www.vice.com/en/article/v7evbx/citizen-app-private-security-leaked-emails",
           "publishedOn": "2021-05-21T17:56:20.000Z",
           "wordCount": 1004,
@@ -720,7 +693,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27236958",
           "author": "panabee",
-          "description": "Article URL: https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/\nComments URL: https://news.ycombinator.com/item?id=27236958\nPoints: 44\n# Comments: 9",
+          "description": "Article URL: https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/\nComments URL: https://news.ycombinator.com/item?id=27236958\nPoints: 71\n# Comments: 11",
           "link": "https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/",
           "publishedOn": "2021-05-21T17:18:23.000Z",
           "wordCount": 1074,
@@ -729,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27236874",
           "author": "tate",
-          "description": "Article URL: https://lord.io/text-editing-hates-you-too/\nComments URL: https://news.ycombinator.com/item?id=27236874\nPoints: 230\n# Comments: 122",
+          "description": "Article URL: https://lord.io/text-editing-hates-you-too/\nComments URL: https://news.ycombinator.com/item?id=27236874\nPoints: 262\n# Comments: 128",
           "link": "https://lord.io/text-editing-hates-you-too/",
           "publishedOn": "2021-05-21T17:12:44.000Z",
           "wordCount": 1713,
@@ -738,7 +711,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27236251",
           "author": "empressplay",
-          "description": "Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/\nComments URL: https://news.ycombinator.com/item?id=27236251\nPoints: 56\n# Comments: 45",
+          "description": "Article URL: https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/\nComments URL: https://news.ycombinator.com/item?id=27236251\nPoints: 60\n# Comments: 49",
           "link": "https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/",
           "publishedOn": "2021-05-21T16:33:04.000Z",
           "wordCount": 3188,
@@ -747,7 +720,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27235970",
           "author": "easrng",
-          "description": "Article URL: https://voice2json.org/\nComments URL: https://news.ycombinator.com/item?id=27235970\nPoints: 357\n# Comments: 78",
+          "description": "Article URL: https://voice2json.org/\nComments URL: https://news.ycombinator.com/item?id=27235970\nPoints: 376\n# Comments: 86",
           "link": "https://voice2json.org/",
           "publishedOn": "2021-05-21T16:14:46.000Z",
           "wordCount": 1925,
@@ -756,11 +729,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27234755",
           "author": "xemoka",
-          "description": "Article URL: https://ephtracy.github.io/index.html?page=magicacsg\nComments URL: https://news.ycombinator.com/item?id=27234755\nPoints: 60\n# Comments: 8",
+          "description": "Article URL: https://ephtracy.github.io/index.html?page=magicacsg\nComments URL: https://news.ycombinator.com/item?id=27234755\nPoints: 61\n# Comments: 8",
           "link": "https://ephtracy.github.io/index.html?page=magicacsg",
           "publishedOn": "2021-05-21T14:51:16.000Z",
           "wordCount": 18,
           "title": "MagicaCSG: A lightweight signed distance field editor and renderer"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27234039",
+          "author": "awb",
+          "description": "Article URL: https://www.ford.com/trucks/f150/f150-lightning/2022/\nComments URL: https://news.ycombinator.com/item?id=27234039\nPoints: 599\n# Comments: 1243",
+          "link": "https://www.ford.com/trucks/f150/f150-lightning/2022/",
+          "publishedOn": "2021-05-21T13:57:56.000Z",
+          "wordCount": 5709,
+          "title": "2022 Ford F-150 Lightning"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27233718",
+          "author": "pclark",
+          "description": "Hi, we’re pclark, bweitz and anilsevim, the founders of Journey (https://journey.io). We want to make buying and selling software a better experience. We do this by allowing sellers and marketers to combine all sorts of content—slides, videos, forms, calendars, text—into one sharable webpage, which they can then easily personalize for specific prospects. Think of it like a website that is specifically designed for a specific individual to take a specific action, which answers any questions or objections the…",
+          "link": "https://news.ycombinator.com/item?id=27233718",
+          "publishedOn": "2021-05-21T13:28:41.000Z",
+          "wordCount": 3381,
+          "title": "Launch HN: Journey (YC W21) – a better tool for selling software"
         }
       ]
     },
@@ -775,7 +766,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Pe…",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2511,
+          "wordCount": 2516,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -784,7 +775,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser,…",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3817,
+          "wordCount": 3826,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -793,7 +784,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and d…",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1967,
+          "wordCount": 1965,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -802,7 +793,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, h…",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2066,
+          "wordCount": 2065,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -811,7 +802,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back und…",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1922,
+          "wordCount": 1918,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -820,7 +811,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Am…",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1726,
+          "wordCount": 1728,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -829,7 +820,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a sho…",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1875,
+          "wordCount": 1874,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -838,7 +829,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its ear…",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1742,
+          "wordCount": 1746,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
