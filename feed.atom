@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-23T04:29:49.461Z</id>
+    <id>urn:2021-05-23T05:26:43.971Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T04:29:49.461Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-23T05:26:43.971Z</updated>
+    <generator>osmosfeed 1.8.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[v1.8.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
+        <updated>2021-05-23T05:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
+Thank you: @LooperXX.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tether: The Story So Far (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27252087</id>
+        <link href="https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/"/>
+        <updated>2021-05-23T03:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kalzumeus.com/2019/10/28/tether-and-bitfinex/
+Comments URL: https://news.ycombinator.com/item?id=27252087
+Points: 18
+# Comments: 4]]></summary>
+        <author>
+            <name>pkd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monetizing Open-source is problematic]]></title>
         <id>https://news.ycombinator.com/item?id=27252066</id>
@@ -12,8 +36,8 @@
         <updated>2021-05-23T02:58:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic
 Comments URL: https://news.ycombinator.com/item?id=27252066
-Points: 238
-# Comments: 100]]></summary>
+Points: 261
+# Comments: 127]]></summary>
         <author>
             <name>no_wizard</name>
         </author>
@@ -25,23 +49,10 @@ Points: 238
         <updated>2021-05-23T01:57:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/
 Comments URL: https://news.ycombinator.com/item?id=27251837
-Points: 45
-# Comments: 14]]></summary>
+Points: 65
+# Comments: 19]]></summary>
         <author>
             <name>throwaway888abc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Technology Shaped Dance Music – Attack Magazine]]></title>
-        <id>https://news.ycombinator.com/item?id=27250913</id>
-        <link href="https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/"/>
-        <updated>2021-05-22T22:44:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/
-Comments URL: https://news.ycombinator.com/item?id=27250913
-Points: 17
-# Comments: 1]]></summary>
-        <author>
-            <name>gkanai</name>
         </author>
     </entry>
     <entry>
@@ -51,23 +62,23 @@ Points: 17
         <updated>2021-05-22T21:56:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://prog21.dadgum.com/22.html
 Comments URL: https://news.ycombinator.com/item?id=27250619
-Points: 82
+Points: 91
 # Comments: 11]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sixth grader expelled after Zoom provided possibly inaccurate IP address]]></title>
-        <id>https://news.ycombinator.com/item?id=27250068</id>
-        <link href="https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/"/>
-        <updated>2021-05-22T20:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/
-Comments URL: https://news.ycombinator.com/item?id=27250068
-Points: 232
-# Comments: 160]]></summary>
+        <title type="html"><![CDATA[IncludeOS – Run your application with zero overhead]]></title>
+        <id>https://news.ycombinator.com/item?id=27250596</id>
+        <link href="https://www.includeos.org/"/>
+        <updated>2021-05-22T21:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.includeos.org/
+Comments URL: https://news.ycombinator.com/item?id=27250596
+Points: 21
+# Comments: 1]]></summary>
         <author>
-            <name>WarOnPrivacy</name>
+            <name>turrini</name>
         </author>
     </entry>
     <entry>
@@ -77,7 +88,7 @@ Points: 232
         <updated>2021-05-22T19:09:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pakkly.com
 Comments URL: https://news.ycombinator.com/item?id=27249413
-Points: 84
+Points: 86
 # Comments: 41]]></summary>
         <author>
             <name>enatik</name>
@@ -90,8 +101,8 @@ Points: 84
         <updated>2021-05-22T18:30:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://instruments.digital/inflation-adjusted-hn/
 Comments URL: https://news.ycombinator.com/item?id=27249082
-Points: 355
-# Comments: 90]]></summary>
+Points: 361
+# Comments: 92]]></summary>
         <author>
             <name>Aaronmacaron</name>
         </author>
@@ -103,8 +114,8 @@ Points: 355
         <updated>2021-05-22T18:29:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.kolibrios.org/en/
 Comments URL: https://news.ycombinator.com/item?id=27249075
-Points: 236
-# Comments: 71]]></summary>
+Points: 258
+# Comments: 74]]></summary>
         <author>
             <name>luke2m</name>
         </author>
@@ -116,10 +127,23 @@ Points: 236
         <updated>2021-05-22T18:15:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/frabert/ClangQL
 Comments URL: https://news.ycombinator.com/item?id=27248960
-Points: 59
-# Comments: 5]]></summary>
+Points: 61
+# Comments: 6]]></summary>
         <author>
             <name>frabert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DatasetGAN: Efficient Labeled Data for AI Training]]></title>
+        <id>https://news.ycombinator.com/item?id=27248747</id>
+        <link href="https://nv-tlabs.github.io/datasetGAN/"/>
+        <updated>2021-05-22T17:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nv-tlabs.github.io/datasetGAN/
+Comments URL: https://news.ycombinator.com/item?id=27248747
+Points: 66
+# Comments: 10]]></summary>
+        <author>
+            <name>alok-g</name>
         </author>
     </entry>
     <entry>
@@ -130,7 +154,7 @@ Points: 59
         <summary type="html"><![CDATA[Article URL: https://www.romanzolotarev.com/rssg.html
 Comments URL: https://news.ycombinator.com/item?id=27248383
 Points: 71
-# Comments: 17]]></summary>
+# Comments: 18]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -155,8 +179,8 @@ Points: 1
         <updated>2021-05-22T16:34:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html
 Comments URL: https://news.ycombinator.com/item?id=27248093
-Points: 126
-# Comments: 63]]></summary>
+Points: 134
+# Comments: 65]]></summary>
         <author>
             <name>ReginaDeiPirati</name>
         </author>
@@ -168,8 +192,8 @@ Points: 126
         <updated>2021-05-22T15:47:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring
 Comments URL: https://news.ycombinator.com/item?id=27247621
-Points: 352
-# Comments: 176]]></summary>
+Points: 371
+# Comments: 180]]></summary>
         <author>
             <name>bananaoomarang</name>
         </author>
@@ -181,7 +205,7 @@ Points: 352
         <updated>2021-05-22T15:46:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
 Comments URL: https://news.ycombinator.com/item?id=27247612
-Points: 127
+Points: 129
 # Comments: 61]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -194,8 +218,8 @@ Points: 127
         <updated>2021-05-22T15:46:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution
 Comments URL: https://news.ycombinator.com/item?id=27247605
-Points: 173
-# Comments: 23]]></summary>
+Points: 186
+# Comments: 24]]></summary>
         <author>
             <name>filoeleven</name>
         </author>
@@ -207,8 +231,8 @@ Points: 173
         <updated>2021-05-22T12:02:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/
 Comments URL: https://news.ycombinator.com/item?id=27245696
-Points: 155
-# Comments: 43]]></summary>
+Points: 172
+# Comments: 47]]></summary>
         <author>
             <name>umangkeshri</name>
         </author>
@@ -220,8 +244,8 @@ Points: 155
         <updated>2021-05-22T11:20:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun
 Comments URL: https://news.ycombinator.com/item?id=27245450
-Points: 195
-# Comments: 143]]></summary>
+Points: 199
+# Comments: 144]]></summary>
         <author>
             <name>richardw</name>
         </author>
@@ -233,8 +257,8 @@ Points: 195
         <updated>2021-05-22T09:52:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://eng.uber.com/architecture-api-gateway/
 Comments URL: https://news.ycombinator.com/item?id=27245058
-Points: 70
-# Comments: 16]]></summary>
+Points: 84
+# Comments: 19]]></summary>
         <author>
             <name>zerop</name>
         </author>
@@ -246,23 +270,10 @@ Points: 70
         <updated>2021-05-22T08:46:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://regexcrossword.com/
 Comments URL: https://news.ycombinator.com/item?id=27244758
-Points: 10
+Points: 13
 # Comments: 2]]></summary>
         <author>
             <name>missy-davies</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Optimal Amount of Hassle]]></title>
-        <id>https://news.ycombinator.com/item?id=27244457</id>
-        <link href="https://www.collaborativefund.com/blog/the-optimal-amount-of-hassle/"/>
-        <updated>2021-05-22T07:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.collaborativefund.com/blog/the-optimal-amount-of-hassle/
-Comments URL: https://news.ycombinator.com/item?id=27244457
-Points: 8
-# Comments: 4]]></summary>
-        <author>
-            <name>activatedgeek</name>
         </author>
     </entry>
     <entry>
@@ -284,7 +295,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-21T15:33:45.000Z</updated>
         <summary type="html"><![CDATA[In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -354,7 +365,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T19:14:48.000Z</updated>
         <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -364,7 +375,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T17:12:29.000Z</updated>
         <summary type="html"><![CDATA[A lot of C++ courses teach you how to build toy projects with no real-world application. But it can often be more helpful to write programs people would actually use. We just released a 5-hour C++ course that will teach you how to write modern C++ code by building an]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -372,7 +383,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.geekwire.com/?p=621432</id>
         <link href="https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/"/>
         <updated>2021-05-20T16:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Pe…]]></summary>
+        <summary type="html"><![CDATA[Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
         </author>
@@ -384,7 +395,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T15:20:53.000Z</updated>
         <summary type="html"><![CDATA[In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -394,7 +405,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-20T14:53:38.000Z</updated>
         <summary type="html"><![CDATA[Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -460,7 +471,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T23:17:21.000Z</updated>
         <summary type="html"><![CDATA[CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -470,7 +481,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T21:09:01.000Z</updated>
         <summary type="html"><![CDATA[The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -480,7 +491,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-19T17:30:08.000Z</updated>
         <summary type="html"><![CDATA[Imagine that you work at Magic Money Corp, which runs on just three lines of JavaScript: let input = { step1: 'collect underpants' } doStuff(input)  profit(input) // $$$!!! Now imagine that something's wrong with doStuff and you need to take it down for maintenance. What happens if you temporarily comment out the second]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -512,7 +523,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-18T21:04:00.000Z</updated>
         <summary type="html"><![CDATA[Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -520,7 +531,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.geekwire.com/?p=620813</id>
         <link href="https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/"/>
         <updated>2021-05-18T19:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser,…]]></summary>
+        <summary type="html"><![CDATA[Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
         </author>
@@ -545,7 +556,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-18T17:12:59.000Z</updated>
         <summary type="html"><![CDATA[If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? "Well, I just bill by the hour and send an invoice every week or month." ...I hear you say.]]></summary>
         <author>
-            <name/>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -708,7 +719,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>https://www.geekwire.com/?p=619858</id>
         <link href="https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/"/>
         <updated>2021-05-11T21:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and d…]]></summary>
+        <summary type="html"><![CDATA[Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
         </author>
@@ -798,7 +809,7 @@ Chore: Excluded testing files from repo.]]></summary>
         <id>https://www.geekwire.com/?p=619080</id>
         <link href="https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/"/>
         <updated>2021-05-06T22:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, h…]]></summary>
+        <summary type="html"><![CDATA[Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
         </author>
@@ -860,16 +871,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
@@ -894,7 +895,7 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <id>https://www.geekwire.com/?p=617752</id>
         <link href="https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/"/>
         <updated>2021-05-03T19:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back und…]]></summary>
+        <summary type="html"><![CDATA[Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More]]></summary>
         <author>
             <name>Mike Lewis</name>
         </author>
@@ -924,7 +925,7 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <id>https://www.geekwire.com/?p=617664</id>
         <link href="https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/"/>
         <updated>2021-04-29T23:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Am…]]></summary>
+        <summary type="html"><![CDATA[Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
         </author>
@@ -934,7 +935,7 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <id>https://www.geekwire.com/?p=617577</id>
         <link href="https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/"/>
         <updated>2021-04-29T21:46:15.000Z</updated>
-        <summary type="html"><![CDATA[In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a sho…]]></summary>
+        <summary type="html"><![CDATA[In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
         </author>
@@ -964,7 +965,7 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <id>https://www.geekwire.com/?p=617098</id>
         <link href="https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/"/>
         <updated>2021-04-27T21:32:53.000Z</updated>
-        <summary type="html"><![CDATA[As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its ear…]]></summary>
+        <summary type="html"><![CDATA[As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
         </author>
