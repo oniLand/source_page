@@ -567,16 +567,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256867",
           "author": "azhenley",
-          "description": "Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html\nComments URL: https://news.ycombinator.com/item?id=27256867\nPoints: 6\n# Comments: 1",
+          "description": "Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html\nComments URL: https://news.ycombinator.com/item?id=27256867\nPoints: 46\n# Comments: 17",
           "link": "https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html",
           "publishedOn": "2021-05-23T17:37:25.000Z",
           "wordCount": 458,
           "title": "Why I prefer making useless stuff"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27256861",
+          "author": "escot",
+          "description": "Article URL: https://www.knotend.com\nComments URL: https://news.ycombinator.com/item?id=27256861\nPoints: 11\n# Comments: 3",
+          "link": "https://www.knotend.com",
+          "publishedOn": "2021-05-23T17:37:00.000Z",
+          "wordCount": 2,
+          "title": "Show HN: Direct manipulation flowchart editor without the mouse"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27256686",
           "author": "Barenboim",
-          "description": "Article URL: https://github.com/sogou/workflow\nComments URL: https://news.ycombinator.com/item?id=27256686\nPoints: 23\n# Comments: 2",
+          "description": "Article URL: https://github.com/sogou/workflow\nComments URL: https://news.ycombinator.com/item?id=27256686\nPoints: 35\n# Comments: 4",
           "link": "https://github.com/sogou/workflow",
           "publishedOn": "2021-05-23T17:15:00.000Z",
           "wordCount": 1678,
@@ -594,25 +603,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256515",
           "author": "parsecs",
-          "description": "Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html\nComments URL: https://news.ycombinator.com/item?id=27256515\nPoints: 60\n# Comments: 12",
+          "description": "Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html\nComments URL: https://news.ycombinator.com/item?id=27256515\nPoints: 95\n# Comments: 29",
           "link": "https://www.righto.com/2021/05/teardown-of-pc-power-supply.html",
           "publishedOn": "2021-05-23T16:55:08.000Z",
-          "wordCount": 3963,
+          "wordCount": 4026,
           "title": "Teardown of a PC Power Supply"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27256474",
           "author": "kensai",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27256474\nPoints: 297\n# Comments: 55",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27256474\nPoints: 487\n# Comments: 125",
           "link": "https://www.bbc.com/news/world-europe-57219860",
           "publishedOn": "2021-05-23T16:50:02.000Z",
-          "wordCount": 1626,
+          "wordCount": 1768,
           "title": "Belarus diverts Ryanair flight to arrest journalist"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27256262",
           "author": "wwwtyro",
-          "description": "Article URL: https://github.com/wwwtyro/candygraph\nComments URL: https://news.ycombinator.com/item?id=27256262\nPoints: 20\n# Comments: 7",
+          "description": "Article URL: https://github.com/wwwtyro/candygraph\nComments URL: https://news.ycombinator.com/item?id=27256262\nPoints: 30\n# Comments: 9",
           "link": "https://github.com/wwwtyro/candygraph",
           "publishedOn": "2021-05-23T16:28:02.000Z",
           "wordCount": 864,
@@ -621,7 +630,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256178",
           "author": "weejewel",
-          "description": "Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=27256178\nPoints: 14\n# Comments: 0",
+          "description": "Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=27256178\nPoints: 33\n# Comments: 2",
           "link": "https://github.com/WeeJeWel/wg-easy/blob/master/README.md",
           "publishedOn": "2021-05-23T16:18:57.000Z",
           "wordCount": 555,
@@ -630,7 +639,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255755",
           "author": "mhb",
-          "description": "Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/\nComments URL: https://news.ycombinator.com/item?id=27255755\nPoints: 104\n# Comments: 31",
+          "description": "Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/\nComments URL: https://news.ycombinator.com/item?id=27255755\nPoints: 131\n# Comments: 35",
           "link": "https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/",
           "publishedOn": "2021-05-23T15:37:58.000Z",
           "wordCount": 1600,
@@ -639,16 +648,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255742",
           "author": "aerovistae",
-          "description": "I just got this email from Triplebyte:\nHey [name],\nIt’s been 12 months since you found the opportunity that’s right for for you on our platform. We hope things are going great!\nWe wanted to let you know that your profile is no longer hidden from companies on Triplebyte. Companies will be able to view your profile and reach out with opportunities through the platform.\nIf you’d like to maximize requests on Triplebyte, make sure your profile is up to date. We’ll use this information to match you with the best opportunities.\nComments URL: https://news.ycombinator.com/item?id=27255742\nPoints: 91\n# Comments: 14",
+          "description": "I just got this email from Triplebyte:\nHey [name],\nIt’s been 12 months since you found the opportunity that’s right for for you on our platform. We hope things are going great!\nWe wanted to let you know that your profile is no longer hidden from companies on Triplebyte. Companies will be able to view your profile and reach out with opportunities through the platform.\nIf you’d like to maximize requests on Triplebyte, make sure your profile is up to date. We’ll use this information to match you with the best opportunities.\nComments URL: https://news.ycombinator.com/item?id=27255742\nPoints: 124\n# Comments: 30",
           "link": "https://news.ycombinator.com/item?id=27255742",
           "publishedOn": "2021-05-23T15:36:45.000Z",
-          "wordCount": 920,
+          "wordCount": 1693,
           "title": "Triplebyte now showing profiles by default without consent"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27255727",
           "author": "robin_reala",
-          "description": "Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci\nComments URL: https://news.ycombinator.com/item?id=27255727\nPoints: 54\n# Comments: 22",
+          "description": "Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci\nComments URL: https://news.ycombinator.com/item?id=27255727\nPoints: 64\n# Comments: 29",
           "link": "https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci",
           "publishedOn": "2021-05-23T15:35:17.000Z",
           "wordCount": 1061,
@@ -657,16 +666,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255561",
           "author": "cjnicholls",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27255561\nPoints: 377\n# Comments: 193",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27255561\nPoints: 418\n# Comments: 214",
           "link": "https://www.bbc.co.uk/news/world-europe-57219860",
           "publishedOn": "2021-05-23T15:18:34.000Z",
-          "wordCount": 1628,
+          "wordCount": 1770,
           "title": "Belarus 'diverts Ryanair flight to arrest journalist'"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27255524",
           "author": "marsokod",
-          "description": "Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html\nComments URL: https://news.ycombinator.com/item?id=27255524\nPoints: 33\n# Comments: 14",
+          "description": "Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html\nComments URL: https://news.ycombinator.com/item?id=27255524\nPoints: 45\n# Comments: 16",
           "link": "https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html",
           "publishedOn": "2021-05-23T15:14:40.000Z",
           "wordCount": 1523,
@@ -675,7 +684,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254838",
           "author": "HugoDaniel",
-          "description": "Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days\nComments URL: https://news.ycombinator.com/item?id=27254838\nPoints: 216\n# Comments: 17",
+          "description": "Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days\nComments URL: https://news.ycombinator.com/item?id=27254838\nPoints: 243\n# Comments: 22",
           "link": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
           "publishedOn": "2021-05-23T13:20:38.000Z",
           "wordCount": 6795,
@@ -684,7 +693,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254719",
           "author": "anandaverma18",
-          "description": "Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/\nComments URL: https://news.ycombinator.com/item?id=27254719\nPoints: 505\n# Comments: 239",
+          "description": "Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/\nComments URL: https://news.ycombinator.com/item?id=27254719\nPoints: 584\n# Comments: 260",
           "link": "https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/",
           "publishedOn": "2021-05-23T13:00:37.000Z",
           "wordCount": 3531,
@@ -693,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254670",
           "author": "SkyLinx",
-          "description": "Article URL: https://www.dynablogger.com/\nComments URL: https://news.ycombinator.com/item?id=27254670\nPoints: 115\n# Comments: 61",
+          "description": "Article URL: https://www.dynablogger.com/\nComments URL: https://news.ycombinator.com/item?id=27254670\nPoints: 124\n# Comments: 63",
           "link": "https://www.dynablogger.com/",
           "publishedOn": "2021-05-23T12:53:00.000Z",
           "wordCount": 702,
@@ -702,7 +711,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254606",
           "author": "dade",
-          "description": "Article URL: https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/\nComments URL: https://news.ycombinator.com/item?id=27254606\nPoints: 90\n# Comments: 13",
+          "description": "Article URL: https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/\nComments URL: https://news.ycombinator.com/item?id=27254606\nPoints: 94\n# Comments: 13",
           "link": "https://labs.ripe.net/author/hausheer/scion-a-novel-internet-architecture/",
           "publishedOn": "2021-05-23T12:41:02.000Z",
           "wordCount": 4037,
@@ -711,38 +720,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254480",
           "author": "SG16",
-          "description": "Article URL: https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3\nComments URL: https://news.ycombinator.com/item?id=27254480\nPoints: 47\n# Comments: 8",
+          "description": "Article URL: https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3\nComments URL: https://news.ycombinator.com/item?id=27254480\nPoints: 59\n# Comments: 9",
           "link": "https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3",
           "publishedOn": "2021-05-23T12:13:53.000Z",
           "wordCount": 1018,
           "title": "Rapid Prototyping with a $100 Inkjet Printer"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27254248",
+          "author": "kiyanwang",
+          "description": "Article URL: https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/\nComments URL: https://news.ycombinator.com/item?id=27254248\nPoints: 40\n# Comments: 10",
+          "link": "https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/",
+          "publishedOn": "2021-05-23T11:31:57.000Z",
+          "wordCount": 2586,
+          "title": "Using Kubernetes to rethink your system architecture and ease technical debt"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27254177",
           "author": "adnzzzzZ",
-          "description": "Article URL: https://github.com/a327ex/SNKRX\nComments URL: https://news.ycombinator.com/item?id=27254177\nPoints: 275\n# Comments: 54",
+          "description": "Article URL: https://github.com/a327ex/SNKRX\nComments URL: https://news.ycombinator.com/item?id=27254177\nPoints: 302\n# Comments: 60",
           "link": "https://github.com/a327ex/SNKRX",
           "publishedOn": "2021-05-23T11:17:43.000Z",
           "wordCount": 648,
           "title": "I open sourced a game I just released on Steam, written in Lua"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27254100",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297\nComments URL: https://news.ycombinator.com/item?id=27254100\nPoints: 72\n# Comments: 72",
-          "link": "https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297",
-          "publishedOn": "2021-05-23T11:00:15.000Z",
-          "wordCount": 812,
-          "title": "For soccer players, the less brain they use, the better for penalty kicks"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27253938",
-          "author": "allenleein",
-          "description": "Article URL: https://thume.ca/2020/08/15/ropshipai/\nComments URL: https://news.ycombinator.com/item?id=27253938\nPoints: 6\n# Comments: 0",
-          "link": "https://thume.ca/2020/08/15/ropshipai/",
-          "publishedOn": "2021-05-23T10:26:49.000Z",
-          "wordCount": 2481,
-          "title": "Reverse engineering an AI spaceship game at DEF CON CTF"
         }
       ]
     },
@@ -757,7 +757,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2427,
+          "wordCount": 2428,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -775,7 +775,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1877,
+          "wordCount": 1878,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1833,
+          "wordCount": 1839,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
