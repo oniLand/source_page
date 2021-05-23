@@ -567,25 +567,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27250619",
           "author": "todsacerdoti",
-          "description": "Article URL: https://prog21.dadgum.com/22.html\nComments URL: https://news.ycombinator.com/item?id=27250619\nPoints: 37\n# Comments: 1",
+          "description": "Article URL: https://prog21.dadgum.com/22.html\nComments URL: https://news.ycombinator.com/item?id=27250619\nPoints: 56\n# Comments: 6",
           "link": "https://prog21.dadgum.com/22.html",
           "publishedOn": "2021-05-22T21:56:52.000Z",
           "wordCount": 1079,
           "title": "My Road to Erlang (2008)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27250546",
-          "author": "dotbob",
-          "description": "I worked for a long time in different software engineering positions in b2b tech companies. It looks like a majority of them go through a very similar trajectory - more product, more customers, raise more money, more people, rinse and repeat until you get to IPO or acquisition.\nOn the one hand, this approach is understandable (it’s what business is built for), and the pay is good in such companies. But, on the other hand, life/work balance usually sucks.\nFirst of all, there is an unsaid expectation of long …",
-          "link": "https://news.ycombinator.com/item?id=27250546",
-          "publishedOn": "2021-05-22T21:45:40.000Z",
-          "wordCount": 1803,
-          "title": "Ask HN: Are there software companies with a good life/work balance?"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27250068",
           "author": "WarOnPrivacy",
-          "description": "Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/\nComments URL: https://news.ycombinator.com/item?id=27250068\nPoints: 84\n# Comments: 30",
+          "description": "Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/\nComments URL: https://news.ycombinator.com/item?id=27250068\nPoints: 167\n# Comments: 98",
           "link": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
           "publishedOn": "2021-05-22T20:40:31.000Z",
           "wordCount": 1445,
@@ -594,7 +585,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249555",
           "author": "Avamander",
-          "description": "Article URL: https://github.com/mikroskeem/tosh\nComments URL: https://news.ycombinator.com/item?id=27249555\nPoints: 114\n# Comments: 83",
+          "description": "Article URL: https://github.com/mikroskeem/tosh\nComments URL: https://news.ycombinator.com/item?id=27249555\nPoints: 128\n# Comments: 101",
           "link": "https://github.com/mikroskeem/tosh",
           "publishedOn": "2021-05-22T19:26:09.000Z",
           "wordCount": 922,
@@ -603,7 +594,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249413",
           "author": "enatik",
-          "description": "Article URL: https://pakkly.com\nComments URL: https://news.ycombinator.com/item?id=27249413\nPoints: 62\n# Comments: 18",
+          "description": "Article URL: https://pakkly.com\nComments URL: https://news.ycombinator.com/item?id=27249413\nPoints: 73\n# Comments: 30",
           "link": "https://pakkly.com",
           "publishedOn": "2021-05-22T19:09:27.000Z",
           "wordCount": 471,
@@ -612,7 +603,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249082",
           "author": "Aaronmacaron",
-          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 294\n# Comments: 80",
+          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 321\n# Comments: 83",
           "link": "https://instruments.digital/inflation-adjusted-hn/",
           "publishedOn": "2021-05-22T18:30:57.000Z",
           "wordCount": 382,
@@ -621,7 +612,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249075",
           "author": "luke2m",
-          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 146\n# Comments: 42",
+          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 179\n# Comments: 55",
           "link": "http://www.kolibrios.org/en/",
           "publishedOn": "2021-05-22T18:29:47.000Z",
           "wordCount": 206,
@@ -630,7 +621,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27248960",
           "author": "frabert",
-          "description": "Article URL: https://github.com/frabert/ClangQL\nComments URL: https://news.ycombinator.com/item?id=27248960\nPoints: 42\n# Comments: 5",
+          "description": "Article URL: https://github.com/frabert/ClangQL\nComments URL: https://news.ycombinator.com/item?id=27248960\nPoints: 43\n# Comments: 5",
           "link": "https://github.com/frabert/ClangQL",
           "publishedOn": "2021-05-22T18:15:22.000Z",
           "wordCount": 1389,
@@ -639,25 +630,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27248747",
           "author": "alok-g",
-          "description": "Article URL: https://nv-tlabs.github.io/datasetGAN/\nComments URL: https://news.ycombinator.com/item?id=27248747\nPoints: 47\n# Comments: 10",
+          "description": "Article URL: https://nv-tlabs.github.io/datasetGAN/\nComments URL: https://news.ycombinator.com/item?id=27248747\nPoints: 53\n# Comments: 10",
           "link": "https://nv-tlabs.github.io/datasetGAN/",
           "publishedOn": "2021-05-22T17:49:32.000Z",
           "wordCount": 441,
           "title": "DatasetGAN: Efficient Labeled Data for AI Training"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27248406",
-          "author": "georgecmu",
-          "description": "Article URL: https://www.nature.com/articles/s41591-021-01377-8\nComments URL: https://news.ycombinator.com/item?id=27248406\nPoints: 66\n# Comments: 48",
-          "link": "https://www.nature.com/articles/s41591-021-01377-8",
-          "publishedOn": "2021-05-22T17:11:13.000Z",
-          "wordCount": 10533,
-          "title": "Antibody levels highly predictive of immune protection from symptomatic Covid"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27248383",
           "author": "Tomte",
-          "description": "Article URL: https://www.romanzolotarev.com/rssg.html\nComments URL: https://news.ycombinator.com/item?id=27248383\nPoints: 49\n# Comments: 10",
+          "description": "Article URL: https://www.romanzolotarev.com/rssg.html\nComments URL: https://news.ycombinator.com/item?id=27248383\nPoints: 58\n# Comments: 15",
           "link": "https://www.romanzolotarev.com/rssg.html",
           "publishedOn": "2021-05-22T17:09:17.000Z",
           "wordCount": 271,
@@ -675,7 +657,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27248093",
           "author": "ReginaDeiPirati",
-          "description": "Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html\nComments URL: https://news.ycombinator.com/item?id=27248093\nPoints: 86\n# Comments: 44",
+          "description": "Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html\nComments URL: https://news.ycombinator.com/item?id=27248093\nPoints: 98\n# Comments: 48",
           "link": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
           "publishedOn": "2021-05-22T16:34:56.000Z",
           "wordCount": 1481,
@@ -684,7 +666,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247621",
           "author": "bananaoomarang",
-          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 276\n# Comments: 129",
+          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 299\n# Comments: 147",
           "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
           "publishedOn": "2021-05-22T15:47:37.000Z",
           "wordCount": 2370,
@@ -693,7 +675,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247612",
           "author": "todsacerdoti",
-          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 92\n# Comments: 39",
+          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 104\n# Comments: 45",
           "link": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
           "publishedOn": "2021-05-22T15:46:56.000Z",
           "wordCount": 1548,
@@ -702,25 +684,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247605",
           "author": "filoeleven",
-          "description": "Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution\nComments URL: https://news.ycombinator.com/item?id=27247605\nPoints: 112\n# Comments: 14",
+          "description": "Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution\nComments URL: https://news.ycombinator.com/item?id=27247605\nPoints: 126\n# Comments: 17",
           "link": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
           "publishedOn": "2021-05-22T15:46:33.000Z",
           "wordCount": 985,
           "title": "Cornell researchers see atoms at record resolution"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27247386",
-          "author": "philzook",
-          "description": "Article URL: https://www.philipzucker.com/minikanren-z3py/\nComments URL: https://news.ycombinator.com/item?id=27247386\nPoints: 46\n# Comments: 3",
-          "link": "https://www.philipzucker.com/minikanren-z3py/",
-          "publishedOn": "2021-05-22T15:22:49.000Z",
-          "wordCount": 1808,
-          "title": "Making a “MiniKanren” using Z3Py"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27245696",
           "author": "umangkeshri",
-          "description": "Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/\nComments URL: https://news.ycombinator.com/item?id=27245696\nPoints: 100\n# Comments: 24",
+          "description": "Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/\nComments URL: https://news.ycombinator.com/item?id=27245696\nPoints: 118\n# Comments: 32",
           "link": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
           "publishedOn": "2021-05-22T12:02:54.000Z",
           "wordCount": 3858,
@@ -729,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27245680",
           "author": "Jaxtek",
-          "description": "Article URL: https://nav.al/rich\nComments URL: https://news.ycombinator.com/item?id=27245680\nPoints: 195\n# Comments: 309",
+          "description": "Article URL: https://nav.al/rich\nComments URL: https://news.ycombinator.com/item?id=27245680\nPoints: 211\n# Comments: 330",
           "link": "https://nav.al/rich",
           "publishedOn": "2021-05-22T12:00:49.000Z",
           "wordCount": 43429,
@@ -738,11 +711,38 @@
         {
           "id": "https://news.ycombinator.com/item?id=27245450",
           "author": "richardw",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun\nComments URL: https://news.ycombinator.com/item?id=27245450\nPoints: 166\n# Comments: 105",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Initial-stress-derived_noun\nComments URL: https://news.ycombinator.com/item?id=27245450\nPoints: 180\n# Comments: 125",
           "link": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
           "publishedOn": "2021-05-22T11:20:21.000Z",
           "wordCount": 1801,
           "title": "Initial Stress-Derived Noun"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27245310",
+          "author": "ingve",
+          "description": "Article URL: https://github.com/p-e-w/plotinus\nComments URL: https://news.ycombinator.com/item?id=27245310\nPoints: 129\n# Comments: 34",
+          "link": "https://github.com/p-e-w/plotinus",
+          "publishedOn": "2021-05-22T10:52:00.000Z",
+          "wordCount": 1593,
+          "title": "Plotinus: A searchable command palette in every modern GTK+ application"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27245058",
+          "author": "zerop",
+          "description": "Article URL: https://eng.uber.com/architecture-api-gateway/\nComments URL: https://news.ycombinator.com/item?id=27245058\nPoints: 32\n# Comments: 3",
+          "link": "https://eng.uber.com/architecture-api-gateway/",
+          "publishedOn": "2021-05-22T09:52:35.000Z",
+          "wordCount": 3616,
+          "title": "The Architecture of Uber’s API Gateway"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27243670",
+          "author": "dsr12",
+          "description": "Article URL: https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html\nComments URL: https://news.ycombinator.com/item?id=27243670\nPoints: 19\n# Comments: 1",
+          "link": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
+          "publishedOn": "2021-05-22T05:05:16.000Z",
+          "wordCount": null,
+          "title": "The Collectors Who Hunt Down Radioactive Glassware"
         }
       ]
     },
@@ -757,7 +757,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Pe…",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2509,
+          "wordCount": 2427,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -766,7 +766,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser,…",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3812,
+          "wordCount": 3733,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -775,7 +775,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and d…",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1961,
+          "wordCount": 1960,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -784,7 +784,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, h…",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2066,
+          "wordCount": 2060,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back und…",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1916,
+          "wordCount": 1836,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Am…",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1725,
+          "wordCount": 1645,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -811,7 +811,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a sho…",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1872,
+          "wordCount": 1791,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -820,7 +820,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its ear…",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1737,
+          "wordCount": 1660,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
