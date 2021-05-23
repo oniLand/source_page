@@ -565,18 +565,45 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27253518",
+          "author": "throwawaybutwhy",
+          "description": "Article URL: https://bs2manuals.ts.fujitsu.com/index_en\nComments URL: https://news.ycombinator.com/item?id=27253518\nPoints: 11\n# Comments: 3",
+          "link": "https://bs2manuals.ts.fujitsu.com/index_en",
+          "publishedOn": "2021-05-23T09:12:51.000Z",
+          "wordCount": 171,
+          "title": "Fujitsu (né Siemens-Nixdorf) BS2000 Operating System Manuals"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27253430",
+          "author": "trashburger",
+          "description": "Article URL: https://rentry.co/pa2a3\nComments URL: https://news.ycombinator.com/item?id=27253430\nPoints: 51\n# Comments: 43",
+          "link": "https://rentry.co/pa2a3",
+          "publishedOn": "2021-05-23T08:55:28.000Z",
+          "wordCount": 737,
+          "title": "Wayland: “Move fast and break things” as a moral imperative"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27253217",
+          "author": "Tomte",
+          "description": "Article URL: https://www.dw.com/en/trabant-the-east-german-car-remains-iconic/a-41251024\nComments URL: https://news.ycombinator.com/item?id=27253217\nPoints: 12\n# Comments: 11",
+          "link": "https://www.dw.com/en/trabant-the-east-german-car-remains-iconic/a-41251024",
+          "publishedOn": "2021-05-23T08:04:18.000Z",
+          "wordCount": 3536,
+          "title": "Trabant: The East German car remains iconic"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27253047",
           "author": "wetpaws",
-          "description": "Article URL: https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982\nComments URL: https://news.ycombinator.com/item?id=27253047\nPoints: 63\n# Comments: 46",
+          "description": "Article URL: https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982\nComments URL: https://news.ycombinator.com/item?id=27253047\nPoints: 105\n# Comments: 82",
           "link": "https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982",
           "publishedOn": "2021-05-23T07:22:09.000Z",
-          "wordCount": 695,
+          "wordCount": 690,
           "title": "1B$+ seller pulled from Amazon for fake reviews"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27253012",
           "author": "bananapear",
-          "description": "Article URL: https://www.bbc.co.uk/news/technology-57156799\nComments URL: https://news.ycombinator.com/item?id=27253012\nPoints: 27\n# Comments: 6",
+          "description": "Article URL: https://www.bbc.co.uk/news/technology-57156799\nComments URL: https://news.ycombinator.com/item?id=27253012\nPoints: 55\n# Comments: 30",
           "link": "https://www.bbc.co.uk/news/technology-57156799",
           "publishedOn": "2021-05-23T07:14:22.000Z",
           "wordCount": 1736,
@@ -592,18 +619,27 @@
           "title": "Zeus (YC S11) Is Hiring a Senior Product Designer to Build the Future of FlexLiving"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27252956",
+          "author": "ingve",
+          "description": "Article URL: https://briancallahan.net/blog/20210522.html\nComments URL: https://news.ycombinator.com/item?id=27252956\nPoints: 9\n# Comments: 0",
+          "link": "https://briancallahan.net/blog/20210522.html",
+          "publishedOn": "2021-05-23T06:56:15.000Z",
+          "wordCount": 504,
+          "title": "The GNU D Compiler on OpenBSD/armv7"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27252891",
           "author": "nwotnagrom",
-          "description": "Article URL: https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/\nComments URL: https://news.ycombinator.com/item?id=27252891\nPoints: 79\n# Comments: 45",
+          "description": "Article URL: https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/\nComments URL: https://news.ycombinator.com/item?id=27252891\nPoints: 113\n# Comments: 69",
           "link": "https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/",
           "publishedOn": "2021-05-23T06:37:10.000Z",
-          "wordCount": 2538,
+          "wordCount": 2536,
           "title": "Facebook still ‘secretly’ tracks your iPhone"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27252771",
           "author": "zdw",
-          "description": "Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716\nComments URL: https://news.ycombinator.com/item?id=27252771\nPoints: 159\n# Comments: 22",
+          "description": "Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716\nComments URL: https://news.ycombinator.com/item?id=27252771\nPoints: 186\n# Comments: 39",
           "link": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716",
           "publishedOn": "2021-05-23T06:05:46.000Z",
           "wordCount": 784,
@@ -612,7 +648,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27252706",
           "author": "peterhunt",
-          "description": "Article URL: https://threads.js.org/\nComments URL: https://news.ycombinator.com/item?id=27252706\nPoints: 9\n# Comments: 0",
+          "description": "Article URL: https://threads.js.org/\nComments URL: https://news.ycombinator.com/item?id=27252706\nPoints: 18\n# Comments: 2",
           "link": "https://threads.js.org/",
           "publishedOn": "2021-05-23T05:43:21.000Z",
           "wordCount": 323,
@@ -621,7 +657,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27252639",
           "author": "obvn",
-          "description": "Article URL: https://github.com/obivan/autopilot\nComments URL: https://news.ycombinator.com/item?id=27252639\nPoints: 41\n# Comments: 4",
+          "description": "Article URL: https://github.com/obivan/autopilot\nComments URL: https://news.ycombinator.com/item?id=27252639\nPoints: 52\n# Comments: 7",
           "link": "https://github.com/obivan/autopilot",
           "publishedOn": "2021-05-23T05:22:14.000Z",
           "wordCount": 505,
@@ -630,7 +666,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27252631",
           "author": "stikit",
-          "description": "Article URL: https://github.blog/2021-05-13-video-uploads-available-github/\nComments URL: https://news.ycombinator.com/item?id=27252631\nPoints: 72\n# Comments: 49",
+          "description": "Article URL: https://github.blog/2021-05-13-video-uploads-available-github/\nComments URL: https://news.ycombinator.com/item?id=27252631\nPoints: 79\n# Comments: 51",
           "link": "https://github.blog/2021-05-13-video-uploads-available-github/",
           "publishedOn": "2021-05-23T05:19:29.000Z",
           "wordCount": 854,
@@ -639,7 +675,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27252066",
           "author": "no_wizard",
-          "description": "Article URL: https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic\nComments URL: https://news.ycombinator.com/item?id=27252066\nPoints: 333\n# Comments: 161",
+          "description": "Article URL: https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic\nComments URL: https://news.ycombinator.com/item?id=27252066\nPoints: 345\n# Comments: 169",
           "link": "https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic",
           "publishedOn": "2021-05-23T02:58:49.000Z",
           "wordCount": 1173,
@@ -648,25 +684,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27251837",
           "author": "throwaway888abc",
-          "description": "Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/\nComments URL: https://news.ycombinator.com/item?id=27251837\nPoints: 95\n# Comments: 32",
+          "description": "Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/\nComments URL: https://news.ycombinator.com/item?id=27251837\nPoints: 103\n# Comments: 38",
           "link": "https://www.haproxy.com/blog/announcing-haproxy-2-4/",
           "publishedOn": "2021-05-23T01:57:02.000Z",
           "wordCount": 6659,
           "title": "HAProxy 2.4"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27251644",
-          "author": "anotherevan",
-          "description": "Article URL: https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english\nComments URL: https://news.ycombinator.com/item?id=27251644\nPoints: 37\n# Comments: 34",
-          "link": "https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english",
-          "publishedOn": "2021-05-23T01:10:50.000Z",
-          "wordCount": 2191,
-          "title": "Non-native speakers navigate the world of 'good' and 'bad' English"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27250619",
           "author": "todsacerdoti",
-          "description": "Article URL: https://prog21.dadgum.com/22.html\nComments URL: https://news.ycombinator.com/item?id=27250619\nPoints: 118\n# Comments: 15",
+          "description": "Article URL: https://prog21.dadgum.com/22.html\nComments URL: https://news.ycombinator.com/item?id=27250619\nPoints: 122\n# Comments: 17",
           "link": "https://prog21.dadgum.com/22.html",
           "publishedOn": "2021-05-22T21:56:52.000Z",
           "wordCount": 1079,
@@ -675,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27250596",
           "author": "turrini",
-          "description": "Article URL: https://www.includeos.org/\nComments URL: https://news.ycombinator.com/item?id=27250596\nPoints: 53\n# Comments: 4",
+          "description": "Article URL: https://www.includeos.org/\nComments URL: https://news.ycombinator.com/item?id=27250596\nPoints: 60\n# Comments: 4",
           "link": "https://www.includeos.org/",
           "publishedOn": "2021-05-22T21:52:04.000Z",
           "wordCount": 480,
@@ -684,7 +711,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249555",
           "author": "Avamander",
-          "description": "Article URL: https://github.com/mikroskeem/tosh\nComments URL: https://news.ycombinator.com/item?id=27249555\nPoints: 177\n# Comments: 158",
+          "description": "Article URL: https://github.com/mikroskeem/tosh\nComments URL: https://news.ycombinator.com/item?id=27249555\nPoints: 185\n# Comments: 163",
           "link": "https://github.com/mikroskeem/tosh",
           "publishedOn": "2021-05-22T19:26:09.000Z",
           "wordCount": 922,
@@ -693,56 +720,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249413",
           "author": "enatik",
-          "description": "Article URL: https://pakkly.com\nComments URL: https://news.ycombinator.com/item?id=27249413\nPoints: 98\n# Comments: 45",
+          "description": "Article URL: https://pakkly.com\nComments URL: https://news.ycombinator.com/item?id=27249413\nPoints: 100\n# Comments: 54",
           "link": "https://pakkly.com",
           "publishedOn": "2021-05-22T19:09:27.000Z",
           "wordCount": 471,
           "title": "Show HN: I hate adding updating to my apps, so I created Pakkly"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27249082",
-          "author": "Aaronmacaron",
-          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 397\n# Comments: 109",
-          "link": "https://instruments.digital/inflation-adjusted-hn/",
-          "publishedOn": "2021-05-22T18:30:57.000Z",
-          "wordCount": 382,
-          "title": "Show HN: Inflation-adjusted Hacker News"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27249075",
           "author": "luke2m",
-          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 311\n# Comments: 90",
+          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 324\n# Comments: 92",
           "link": "http://www.kolibrios.org/en/",
           "publishedOn": "2021-05-22T18:29:47.000Z",
           "wordCount": 206,
           "title": "KolibriOS"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27248960",
-          "author": "frabert",
-          "description": "Article URL: https://github.com/frabert/ClangQL\nComments URL: https://news.ycombinator.com/item?id=27248960\nPoints: 69\n# Comments: 6",
-          "link": "https://github.com/frabert/ClangQL",
-          "publishedOn": "2021-05-22T18:15:22.000Z",
-          "wordCount": 1389,
-          "title": "Show HN: ClangQL – Query C++ codebases using SQLite"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27247621",
           "author": "bananaoomarang",
-          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 401\n# Comments: 203",
+          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 405\n# Comments: 205",
           "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
           "publishedOn": "2021-05-22T15:47:37.000Z",
           "wordCount": 2370,
           "title": "An early look at Postgres 14: Performance and monitoring Improvements"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27245696",
-          "author": "umangkeshri",
-          "description": "Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/\nComments URL: https://news.ycombinator.com/item?id=27245696\nPoints: 204\n# Comments: 62",
-          "link": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
-          "publishedOn": "2021-05-22T12:02:54.000Z",
-          "wordCount": 3858,
-          "title": "An Introduction to Knowledge Graphs"
         }
       ]
     },
@@ -757,7 +757,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2424,
+          "wordCount": 2428,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1840,
+          "wordCount": 1834,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1644,
+          "wordCount": 1646,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -811,7 +811,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1792,
+          "wordCount": 1789,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
