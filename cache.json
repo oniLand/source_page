@@ -565,45 +565,81 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27252965",
+          "author": "kul",
+          "description": "Making it easy to live well — whenever, wherever\nAt Zeus Living, we believe housing shouldn’t constrain how, where, and when you want to live. You should be free to follow opportunity, curiosity, love, desire, friends, and family—and not just when your lease runs out. That’s why we’ve created a new, modern mode of housing, making it easy to live well—reliably, safely, comfortably, even stylishly—wherever, whenever.\nAt the center of everything we do are our people—our customers, partners, and our Zeus team. We wouldn’t be anything without them. That’s what our founders knew when they started Zeus Living in 2015, setting out to make renting a home easier. The goal then—and now—is to remove the stress of finding housing.\nWe’ve grown a lot since we started, and today we’re a hardworking team o…",
+          "link": "https://news.ycombinator.com/item?id=27252965",
+          "publishedOn": "2021-05-23T07:00:50.000Z",
+          "wordCount": 587,
+          "title": "Zeus (YC S11) Is Hiring a Senior Product Designer to Build the Future of FlexLiving"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27252891",
+          "author": "nwotnagrom",
+          "description": "Article URL: https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/\nComments URL: https://news.ycombinator.com/item?id=27252891\nPoints: 7\n# Comments: 0",
+          "link": "https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/",
+          "publishedOn": "2021-05-23T06:37:10.000Z",
+          "wordCount": 2538,
+          "title": "Facebook Still ‘Secretly’ Tracks Your iPhone–This Is How to Stop It"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27252771",
+          "author": "zdw",
+          "description": "Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716\nComments URL: https://news.ycombinator.com/item?id=27252771\nPoints: 65\n# Comments: 3",
+          "link": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716",
+          "publishedOn": "2021-05-23T06:05:46.000Z",
+          "wordCount": 784,
+          "title": "In 2013 Rockchip engineers found that the Gregorian calendar contained flaws"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27252684",
           "author": "teleforce",
-          "description": "Article URL: https://software-carpentry.org/\nComments URL: https://news.ycombinator.com/item?id=27252684\nPoints: 7\n# Comments: 0",
+          "description": "Article URL: https://software-carpentry.org/\nComments URL: https://news.ycombinator.com/item?id=27252684\nPoints: 14\n# Comments: 1",
           "link": "https://software-carpentry.org/",
           "publishedOn": "2021-05-23T05:37:23.000Z",
           "wordCount": 614,
           "title": "Software Carpentry: Teaching basic lab skills for research computing"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27252639",
+          "author": "obvn",
+          "description": "Article URL: https://github.com/obivan/autopilot\nComments URL: https://news.ycombinator.com/item?id=27252639\nPoints: 14\n# Comments: 0",
+          "link": "https://github.com/obivan/autopilot",
+          "publishedOn": "2021-05-23T05:22:14.000Z",
+          "wordCount": 505,
+          "title": "SpaceX ISS Docking Simulator Autopilot in Elixir"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27252631",
           "author": "stikit",
-          "description": "Article URL: https://github.blog/2021-05-13-video-uploads-available-github/\nComments URL: https://news.ycombinator.com/item?id=27252631\nPoints: 32\n# Comments: 10",
+          "description": "Article URL: https://github.blog/2021-05-13-video-uploads-available-github/\nComments URL: https://news.ycombinator.com/item?id=27252631\nPoints: 56\n# Comments: 27",
           "link": "https://github.blog/2021-05-13-video-uploads-available-github/",
           "publishedOn": "2021-05-23T05:19:29.000Z",
           "wordCount": 854,
           "title": "Video uploads now available across GitHub"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27252066",
+          "author": "no_wizard",
+          "description": "Article URL: https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic\nComments URL: https://news.ycombinator.com/item?id=27252066\nPoints: 292\n# Comments: 139",
+          "link": "https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic",
+          "publishedOn": "2021-05-23T02:58:49.000Z",
+          "wordCount": 1173,
+          "title": "Monetizing open-source is problematic"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27251837",
           "author": "throwaway888abc",
-          "description": "Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/\nComments URL: https://news.ycombinator.com/item?id=27251837\nPoints: 77\n# Comments: 22",
+          "description": "Article URL: https://www.haproxy.com/blog/announcing-haproxy-2-4/\nComments URL: https://news.ycombinator.com/item?id=27251837\nPoints: 81\n# Comments: 24",
           "link": "https://www.haproxy.com/blog/announcing-haproxy-2-4/",
           "publishedOn": "2021-05-23T01:57:02.000Z",
           "wordCount": 6659,
           "title": "HAProxy 2.4"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27251644",
-          "author": "anotherevan",
-          "description": "Article URL: https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english\nComments URL: https://news.ycombinator.com/item?id=27251644\nPoints: 17\n# Comments: 5",
-          "link": "https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english",
-          "publishedOn": "2021-05-23T01:10:50.000Z",
-          "wordCount": 2191,
-          "title": "Why Nonnative English Speakers Speak the Best English"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27250619",
           "author": "todsacerdoti",
-          "description": "Article URL: https://prog21.dadgum.com/22.html\nComments URL: https://news.ycombinator.com/item?id=27250619\nPoints: 97\n# Comments: 13",
+          "description": "Article URL: https://prog21.dadgum.com/22.html\nComments URL: https://news.ycombinator.com/item?id=27250619\nPoints: 108\n# Comments: 13",
           "link": "https://prog21.dadgum.com/22.html",
           "publishedOn": "2021-05-22T21:56:52.000Z",
           "wordCount": 1079,
@@ -612,25 +648,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27250596",
           "author": "turrini",
-          "description": "Article URL: https://www.includeos.org/\nComments URL: https://news.ycombinator.com/item?id=27250596\nPoints: 27\n# Comments: 1",
+          "description": "Article URL: https://www.includeos.org/\nComments URL: https://news.ycombinator.com/item?id=27250596\nPoints: 36\n# Comments: 2",
           "link": "https://www.includeos.org/",
           "publishedOn": "2021-05-22T21:52:04.000Z",
           "wordCount": 480,
           "title": "IncludeOS – Run your application with zero overhead"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27250068",
-          "author": "WarOnPrivacy",
-          "description": "Article URL: https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/\nComments URL: https://news.ycombinator.com/item?id=27250068\nPoints: 257\n# Comments: 177",
-          "link": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
-          "publishedOn": "2021-05-22T20:40:31.000Z",
-          "wordCount": 1445,
-          "title": "Sixth grader expelled after Zoom provided possibly inaccurate IP address"
+          "id": "https://news.ycombinator.com/item?id=27249555",
+          "author": "Avamander",
+          "description": "Article URL: https://github.com/mikroskeem/tosh\nComments URL: https://news.ycombinator.com/item?id=27249555\nPoints: 158\n# Comments: 131",
+          "link": "https://github.com/mikroskeem/tosh",
+          "publishedOn": "2021-05-22T19:26:09.000Z",
+          "wordCount": 922,
+          "title": "Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27249413",
           "author": "enatik",
-          "description": "Article URL: https://pakkly.com\nComments URL: https://news.ycombinator.com/item?id=27249413\nPoints: 88\n# Comments: 42",
+          "description": "Article URL: https://pakkly.com\nComments URL: https://news.ycombinator.com/item?id=27249413\nPoints: 93\n# Comments: 42",
           "link": "https://pakkly.com",
           "publishedOn": "2021-05-22T19:09:27.000Z",
           "wordCount": 471,
@@ -639,7 +675,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249082",
           "author": "Aaronmacaron",
-          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 370\n# Comments: 99",
+          "description": "Article URL: https://instruments.digital/inflation-adjusted-hn/\nComments URL: https://news.ycombinator.com/item?id=27249082\nPoints: 376\n# Comments: 101",
           "link": "https://instruments.digital/inflation-adjusted-hn/",
           "publishedOn": "2021-05-22T18:30:57.000Z",
           "wordCount": 382,
@@ -648,7 +684,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27249075",
           "author": "luke2m",
-          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 267\n# Comments: 77",
+          "description": "Article URL: http://www.kolibrios.org/en/\nComments URL: https://news.ycombinator.com/item?id=27249075\nPoints: 285\n# Comments: 79",
           "link": "http://www.kolibrios.org/en/",
           "publishedOn": "2021-05-22T18:29:47.000Z",
           "wordCount": 206,
@@ -657,43 +693,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27248960",
           "author": "frabert",
-          "description": "Article URL: https://github.com/frabert/ClangQL\nComments URL: https://news.ycombinator.com/item?id=27248960\nPoints: 65\n# Comments: 6",
+          "description": "Article URL: https://github.com/frabert/ClangQL\nComments URL: https://news.ycombinator.com/item?id=27248960\nPoints: 67\n# Comments: 6",
           "link": "https://github.com/frabert/ClangQL",
           "publishedOn": "2021-05-22T18:15:22.000Z",
           "wordCount": 1389,
           "title": "Show HN: ClangQL – Query C++ codebases using SQLite"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27248747",
-          "author": "alok-g",
-          "description": "Article URL: https://nv-tlabs.github.io/datasetGAN/\nComments URL: https://news.ycombinator.com/item?id=27248747\nPoints: 68\n# Comments: 10",
-          "link": "https://nv-tlabs.github.io/datasetGAN/",
-          "publishedOn": "2021-05-22T17:49:32.000Z",
-          "wordCount": 441,
-          "title": "DatasetGAN: Efficient Labeled Data for AI Training"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27248383",
           "author": "Tomte",
-          "description": "Article URL: https://www.romanzolotarev.com/rssg.html\nComments URL: https://news.ycombinator.com/item?id=27248383\nPoints: 75\n# Comments: 20",
+          "description": "Article URL: https://www.romanzolotarev.com/rssg.html\nComments URL: https://news.ycombinator.com/item?id=27248383\nPoints: 78\n# Comments: 19",
           "link": "https://www.romanzolotarev.com/rssg.html",
           "publishedOn": "2021-05-22T17:09:17.000Z",
           "wordCount": 271,
           "title": "Generate RSS feeds with grep(1), sed(1), and Awk(1)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27248318",
-          "author": "mkong1",
-          "description": "Article URL: https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915\nComments URL: https://news.ycombinator.com/item?id=27248318\nPoints: 1\n# Comments: 0",
-          "link": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915",
-          "publishedOn": "2021-05-22T17:01:06.000Z",
-          "wordCount": 386,
-          "title": "GiveCampus (YC S15) is hiring remote senior engineers"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27248093",
           "author": "ReginaDeiPirati",
-          "description": "Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html\nComments URL: https://news.ycombinator.com/item?id=27248093\nPoints: 144\n# Comments: 71",
+          "description": "Article URL: https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html\nComments URL: https://news.ycombinator.com/item?id=27248093\nPoints: 149\n# Comments: 75",
           "link": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
           "publishedOn": "2021-05-22T16:34:56.000Z",
           "wordCount": 1481,
@@ -702,7 +720,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247621",
           "author": "bananaoomarang",
-          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 379\n# Comments: 180",
+          "description": "Article URL: https://pganalyze.com/blog/postgres-14-performance-monitoring\nComments URL: https://news.ycombinator.com/item?id=27247621\nPoints: 393\n# Comments: 192",
           "link": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
           "publishedOn": "2021-05-22T15:47:37.000Z",
           "wordCount": 2370,
@@ -711,7 +729,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247612",
           "author": "todsacerdoti",
-          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 134\n# Comments: 63",
+          "description": "Article URL: https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/\nComments URL: https://news.ycombinator.com/item?id=27247612\nPoints: 138\n# Comments: 66",
           "link": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
           "publishedOn": "2021-05-22T15:46:56.000Z",
           "wordCount": 1548,
@@ -720,29 +738,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27247605",
           "author": "filoeleven",
-          "description": "Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution\nComments URL: https://news.ycombinator.com/item?id=27247605\nPoints: 195\n# Comments: 28",
+          "description": "Article URL: https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution\nComments URL: https://news.ycombinator.com/item?id=27247605\nPoints: 205\n# Comments: 29",
           "link": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
           "publishedOn": "2021-05-22T15:46:33.000Z",
           "wordCount": 985,
           "title": "Cornell researchers see atoms at record resolution"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27245696",
-          "author": "umangkeshri",
-          "description": "Article URL: http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/\nComments URL: https://news.ycombinator.com/item?id=27245696\nPoints: 179\n# Comments: 50",
-          "link": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
-          "publishedOn": "2021-05-22T12:02:54.000Z",
-          "wordCount": 3858,
-          "title": "An Introduction to Knowledge Graphs"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27245058",
-          "author": "zerop",
-          "description": "Article URL: https://eng.uber.com/architecture-api-gateway/\nComments URL: https://news.ycombinator.com/item?id=27245058\nPoints: 91\n# Comments: 20",
-          "link": "https://eng.uber.com/architecture-api-gateway/",
-          "publishedOn": "2021-05-22T09:52:35.000Z",
-          "wordCount": 3616,
-          "title": "The Architecture of Uber’s API Gateway"
         }
       ]
     },
@@ -757,7 +757,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2432,
+          "wordCount": 2436,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -766,7 +766,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3729,
+          "wordCount": 3739,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -784,7 +784,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 1983,
+          "wordCount": 1984,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1834,
+          "wordCount": 1843,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1641,
+          "wordCount": 1652,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -811,7 +811,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1788,
+          "wordCount": 1792,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -820,7 +820,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1662,
+          "wordCount": 1665,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
