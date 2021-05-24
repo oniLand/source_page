@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T01:39:08.797Z</id>
+    <id>urn:2021-05-24T06:20:59.893Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T01:39:08.797Z</updated>
+    <updated>2021-05-24T06:20:59.893Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[If Apple is the only organisation defending our privacy, it is time to worry]]></title>
+        <id>https://news.ycombinator.com/item?id=27260770</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/may/22/if-apple-is-the-only-organisation-capable-of-defending-our-privacy-it-really-is-time-to-worry"/>
+        <updated>2021-05-24T03:10:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/may/22/if-apple-is-the-only-organisation-capable-of-defending-our-privacy-it-really-is-time-to-worry
+Comments URL: https://news.ycombinator.com/item?id=27260770
+Points: 157
+# Comments: 108]]></summary>
+        <author>
+            <name>nwotnagrom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful iOS Things GitHub Repository]]></title>
+        <id>https://news.ycombinator.com/item?id=27260591</id>
+        <link href="https://github.com/jphong1111/Useful_Swift"/>
+        <updated>2021-05-24T02:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jphong1111/Useful_Swift
+Comments URL: https://news.ycombinator.com/item?id=27260591
+Points: 9
+# Comments: 0]]></summary>
+        <author>
+            <name>jphong1111</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unwritten Contract of Solid State Drives (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27260522</id>
+        <link href="https://dl.acm.org/doi/10.1145/3064176.3064187"/>
+        <updated>2021-05-24T02:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3064176.3064187
+Comments URL: https://news.ycombinator.com/item?id=27260522
+Points: 46
+# Comments: 2]]></summary>
+        <author>
+            <name>jitl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Plivo (YC S12) Is Hiring a VP of Engineering Based in India]]></title>
         <id>https://news.ycombinator.com/item?id=27260129</id>
@@ -19,16 +58,16 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast & Open source metrics demo dashboard]]></title>
-        <id>https://news.ycombinator.com/item?id=27259594</id>
-        <link href="https://dashboard.speculare.cloud"/>
-        <updated>2021-05-23T23:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dashboard.speculare.cloud
-Comments URL: https://news.ycombinator.com/item?id=27259594
-Points: 4
-# Comments: 0]]></summary>
+        <title type="html"><![CDATA[Instanced Line Rendering Using WebGL]]></title>
+        <id>https://news.ycombinator.com/item?id=27259944</id>
+        <link href="https://wwwtyro.net/2019/11/18/instanced-lines.html"/>
+        <updated>2021-05-24T00:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wwwtyro.net/2019/11/18/instanced-lines.html
+Comments URL: https://news.ycombinator.com/item?id=27259944
+Points: 49
+# Comments: 11]]></summary>
         <author>
-            <name>martichou</name>
+            <name>otherjason</name>
         </author>
     </entry>
     <entry>
@@ -38,23 +77,10 @@ Points: 4
         <updated>2021-05-23T22:44:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ingrids.space/posts/why-distributed-systems-dont-work/
 Comments URL: https://news.ycombinator.com/item?id=27259321
-Points: 77
-# Comments: 40]]></summary>
+Points: 252
+# Comments: 147]]></summary>
         <author>
             <name>intarga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switching from Mailchimp to open-source Mailtrain and AWS SES]]></title>
-        <id>https://news.ycombinator.com/item?id=27258502</id>
-        <link href="https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/"/>
-        <updated>2021-05-23T20:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/
-Comments URL: https://news.ycombinator.com/item?id=27258502
-Points: 118
-# Comments: 76]]></summary>
-        <author>
-            <name>edward</name>
         </author>
     </entry>
     <entry>
@@ -64,8 +90,8 @@ Points: 118
         <updated>2021-05-23T19:46:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
 Comments URL: https://news.ycombinator.com/item?id=27257924
-Points: 45
-# Comments: 4]]></summary>
+Points: 63
+# Comments: 8]]></summary>
         <author>
             <name>pinewurst</name>
         </author>
@@ -77,8 +103,8 @@ Points: 45
         <updated>2021-05-23T19:11:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.flawlessai.com/
 Comments URL: https://news.ycombinator.com/item?id=27257658
-Points: 49
-# Comments: 25]]></summary>
+Points: 75
+# Comments: 33]]></summary>
         <author>
             <name>doener</name>
         </author>
@@ -90,8 +116,8 @@ Points: 49
         <updated>2021-05-23T19:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/05/23/scaling.html
 Comments URL: https://news.ycombinator.com/item?id=27257641
-Points: 238
-# Comments: 275]]></summary>
+Points: 322
+# Comments: 324]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -103,23 +129,10 @@ Points: 238
         <updated>2021-05-23T17:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
 Comments URL: https://news.ycombinator.com/item?id=27256867
-Points: 271
-# Comments: 94]]></summary>
+Points: 469
+# Comments: 139]]></summary>
         <author>
             <name>azhenley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Direct manipulation flowchart editor without the mouse]]></title>
-        <id>https://news.ycombinator.com/item?id=27256861</id>
-        <link href="https://www.knotend.com"/>
-        <updated>2021-05-23T17:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.knotend.com
-Comments URL: https://news.ycombinator.com/item?id=27256861
-Points: 36
-# Comments: 15]]></summary>
-        <author>
-            <name>escot</name>
         </author>
     </entry>
     <entry>
@@ -129,8 +142,8 @@ Points: 36
         <updated>2021-05-23T17:26:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.kiter.app/#/
 Comments URL: https://news.ycombinator.com/item?id=27256776
-Points: 53
-# Comments: 38]]></summary>
+Points: 83
+# Comments: 50]]></summary>
         <author>
             <name>pbmango</name>
         </author>
@@ -142,7 +155,7 @@ Points: 53
         <updated>2021-05-23T17:15:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/
 Comments URL: https://news.ycombinator.com/item?id=27256690
-Points: 44
+Points: 64
 # Comments: 2]]></summary>
         <author>
             <name>azhenley</name>
@@ -155,8 +168,8 @@ Points: 44
         <updated>2021-05-23T17:15:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sogou/workflow
 Comments URL: https://news.ycombinator.com/item?id=27256686
-Points: 61
-# Comments: 16]]></summary>
+Points: 81
+# Comments: 21]]></summary>
         <author>
             <name>Barenboim</name>
         </author>
@@ -168,8 +181,8 @@ Points: 61
         <updated>2021-05-23T16:55:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
 Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 244
-# Comments: 161]]></summary>
+Points: 326
+# Comments: 202]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -181,8 +194,8 @@ Points: 244
         <updated>2021-05-23T16:28:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wwwtyro/candygraph
 Comments URL: https://news.ycombinator.com/item?id=27256262
-Points: 61
-# Comments: 20]]></summary>
+Points: 79
+# Comments: 24]]></summary>
         <author>
             <name>wwwtyro</name>
         </author>
@@ -194,8 +207,8 @@ Points: 61
         <updated>2021-05-23T16:18:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md
 Comments URL: https://news.ycombinator.com/item?id=27256178
-Points: 85
-# Comments: 11]]></summary>
+Points: 110
+# Comments: 13]]></summary>
         <author>
             <name>weejewel</name>
         </author>
@@ -207,8 +220,8 @@ Points: 85
         <updated>2021-05-23T15:37:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 229
-# Comments: 53]]></summary>
+Points: 287
+# Comments: 60]]></summary>
         <author>
             <name>mhb</name>
         </author>
@@ -220,8 +233,8 @@ Points: 229
         <updated>2021-05-23T15:35:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci
 Comments URL: https://news.ycombinator.com/item?id=27255727
-Points: 105
-# Comments: 33]]></summary>
+Points: 122
+# Comments: 35]]></summary>
         <author>
             <name>robin_reala</name>
         </author>
@@ -233,8 +246,8 @@ Points: 105
         <updated>2021-05-23T15:18:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-europe-57219860
 Comments URL: https://news.ycombinator.com/item?id=27255561
-Points: 739
-# Comments: 271]]></summary>
+Points: 880
+# Comments: 280]]></summary>
         <author>
             <name>cjnicholls</name>
         </author>
@@ -246,23 +259,10 @@ Points: 739
         <updated>2021-05-23T15:14:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html
 Comments URL: https://news.ycombinator.com/item?id=27255524
-Points: 77
-# Comments: 39]]></summary>
+Points: 90
+# Comments: 42]]></summary>
         <author>
             <name>marsokod</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teach Yourself Demoscene in 14 Days]]></title>
-        <id>https://news.ycombinator.com/item?id=27254838</id>
-        <link href="https://github.com/psenough/teach_yourself_demoscene_in_14_days"/>
-        <updated>2021-05-23T13:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days
-Comments URL: https://news.ycombinator.com/item?id=27254838
-Points: 334
-# Comments: 34]]></summary>
-        <author>
-            <name>HugoDaniel</name>
         </author>
     </entry>
     <entry>
