@@ -565,18 +565,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27258522",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests\nComments URL: https://news.ycombinator.com/item?id=27258522\nPoints: 109\n# Comments: 9",
-          "link": "https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests",
-          "publishedOn": "2021-05-23T20:57:05.000Z",
-          "wordCount": 388,
-          "title": "Rustc_codegen_GCC can now run libcore’s tests and pass most of them"
+          "id": "https://news.ycombinator.com/item?id=27259953",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.reuters.com/business/healthcare-pharmaceuticals/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj-2021-05-23/\nComments URL: https://news.ycombinator.com/item?id=27259953\nPoints: 9\n# Comments: 0",
+          "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/wuhan-lab-staff-sought-hospital-care-before-covid-19-outbreak-disclosed-wsj-2021-05-23/",
+          "publishedOn": "2021-05-24T00:33:35.000Z",
+          "wordCount": 935,
+          "title": "Wuhan lab staff sought hospital care before Covid-19 outbreak disclosed"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27259321",
+          "author": "intarga",
+          "description": "Article URL: https://ingrids.space/posts/why-distributed-systems-dont-work/\nComments URL: https://news.ycombinator.com/item?id=27259321\nPoints: 27\n# Comments: 14",
+          "link": "https://ingrids.space/posts/why-distributed-systems-dont-work/",
+          "publishedOn": "2021-05-23T22:44:18.000Z",
+          "wordCount": 2127,
+          "title": "Why Decentralised Applications Don’t Work"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27258502",
           "author": "edward",
-          "description": "Article URL: https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/\nComments URL: https://news.ycombinator.com/item?id=27258502\nPoints: 98\n# Comments: 65",
+          "description": "Article URL: https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/\nComments URL: https://news.ycombinator.com/item?id=27258502\nPoints: 111\n# Comments: 72",
           "link": "https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/",
           "publishedOn": "2021-05-23T20:53:26.000Z",
           "wordCount": 1809,
@@ -585,25 +594,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27257924",
           "author": "pinewurst",
-          "description": "Article URL: http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf\nComments URL: https://news.ycombinator.com/item?id=27257924\nPoints: 30\n# Comments: 2",
+          "description": "Article URL: http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf\nComments URL: https://news.ycombinator.com/item?id=27257924\nPoints: 40\n# Comments: 4",
           "link": "http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf",
           "publishedOn": "2021-05-23T19:46:01.000Z",
           "wordCount": 325962,
           "title": "Cray-2 Memories [pdf]"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27257818",
-          "author": "incomplete",
-          "description": "Article URL: https://www.npr.org/2021/05/23/999603575/ryanair-flight-carrying-opposition-journalist-forced-to-land-in-belarus\nComments URL: https://news.ycombinator.com/item?id=27257818\nPoints: 63\n# Comments: 12",
-          "link": "https://www.npr.org/2021/05/23/999603575/ryanair-flight-carrying-opposition-journalist-forced-to-land-in-belarus",
-          "publishedOn": "2021-05-23T19:31:10.000Z",
-          "wordCount": 809,
-          "title": "A Ryanair Flight Carrying an Opposition Journalist Is Forced to Land in Belarus"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27257658",
           "author": "doener",
-          "description": "Article URL: https://www.flawlessai.com/\nComments URL: https://news.ycombinator.com/item?id=27257658\nPoints: 40\n# Comments: 20",
+          "description": "Article URL: https://www.flawlessai.com/\nComments URL: https://news.ycombinator.com/item?id=27257658\nPoints: 43\n# Comments: 24",
           "link": "https://www.flawlessai.com/",
           "publishedOn": "2021-05-23T19:11:34.000Z",
           "wordCount": 261,
@@ -612,7 +612,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27257641",
           "author": "bpierre",
-          "description": "Article URL: https://vitalik.ca/general/2021/05/23/scaling.html\nComments URL: https://news.ycombinator.com/item?id=27257641\nPoints: 198\n# Comments: 208",
+          "description": "Article URL: https://vitalik.ca/general/2021/05/23/scaling.html\nComments URL: https://news.ycombinator.com/item?id=27257641\nPoints: 223\n# Comments: 263",
           "link": "https://vitalik.ca/general/2021/05/23/scaling.html",
           "publishedOn": "2021-05-23T19:09:41.000Z",
           "wordCount": 3570,
@@ -621,7 +621,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256867",
           "author": "azhenley",
-          "description": "Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html\nComments URL: https://news.ycombinator.com/item?id=27256867\nPoints: 213\n# Comments: 72",
+          "description": "Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html\nComments URL: https://news.ycombinator.com/item?id=27256867\nPoints: 254\n# Comments: 88",
           "link": "https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html",
           "publishedOn": "2021-05-23T17:37:25.000Z",
           "wordCount": 458,
@@ -630,7 +630,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256861",
           "author": "escot",
-          "description": "Article URL: https://www.knotend.com\nComments URL: https://news.ycombinator.com/item?id=27256861\nPoints: 31\n# Comments: 9",
+          "description": "Article URL: https://www.knotend.com\nComments URL: https://news.ycombinator.com/item?id=27256861\nPoints: 36\n# Comments: 15",
           "link": "https://www.knotend.com",
           "publishedOn": "2021-05-23T17:37:00.000Z",
           "wordCount": 2,
@@ -639,7 +639,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256776",
           "author": "pbmango",
-          "description": "Article URL: https://www.kiter.app/#/\nComments URL: https://news.ycombinator.com/item?id=27256776\nPoints: 41\n# Comments: 28",
+          "description": "Article URL: https://www.kiter.app/#/\nComments URL: https://news.ycombinator.com/item?id=27256776\nPoints: 49\n# Comments: 36",
           "link": "https://www.kiter.app/#/",
           "publishedOn": "2021-05-23T17:26:35.000Z",
           "wordCount": 3,
@@ -648,7 +648,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256690",
           "author": "azhenley",
-          "description": "Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/\nComments URL: https://news.ycombinator.com/item?id=27256690\nPoints: 33\n# Comments: 0",
+          "description": "Article URL: https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/\nComments URL: https://news.ycombinator.com/item?id=27256690\nPoints: 41\n# Comments: 1",
           "link": "https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/",
           "publishedOn": "2021-05-23T17:15:32.000Z",
           "wordCount": 1059,
@@ -657,7 +657,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256686",
           "author": "Barenboim",
-          "description": "Article URL: https://github.com/sogou/workflow\nComments URL: https://news.ycombinator.com/item?id=27256686\nPoints: 50\n# Comments: 15",
+          "description": "Article URL: https://github.com/sogou/workflow\nComments URL: https://news.ycombinator.com/item?id=27256686\nPoints: 57\n# Comments: 15",
           "link": "https://github.com/sogou/workflow",
           "publishedOn": "2021-05-23T17:15:00.000Z",
           "wordCount": 1678,
@@ -675,16 +675,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256515",
           "author": "parsecs",
-          "description": "Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html\nComments URL: https://news.ycombinator.com/item?id=27256515\nPoints: 204\n# Comments: 125",
+          "description": "Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html\nComments URL: https://news.ycombinator.com/item?id=27256515\nPoints: 230\n# Comments: 145",
           "link": "https://www.righto.com/2021/05/teardown-of-pc-power-supply.html",
           "publishedOn": "2021-05-23T16:55:08.000Z",
-          "wordCount": 4012,
+          "wordCount": 4034,
           "title": "Teardown of a PC Power Supply"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27256262",
           "author": "wwwtyro",
-          "description": "Article URL: https://github.com/wwwtyro/candygraph\nComments URL: https://news.ycombinator.com/item?id=27256262\nPoints: 52\n# Comments: 16",
+          "description": "Article URL: https://github.com/wwwtyro/candygraph\nComments URL: https://news.ycombinator.com/item?id=27256262\nPoints: 58\n# Comments: 17",
           "link": "https://github.com/wwwtyro/candygraph",
           "publishedOn": "2021-05-23T16:28:02.000Z",
           "wordCount": 864,
@@ -693,7 +693,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27256178",
           "author": "weejewel",
-          "description": "Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=27256178\nPoints: 68\n# Comments: 8",
+          "description": "Article URL: https://github.com/WeeJeWel/wg-easy/blob/master/README.md\nComments URL: https://news.ycombinator.com/item?id=27256178\nPoints: 81\n# Comments: 10",
           "link": "https://github.com/WeeJeWel/wg-easy/blob/master/README.md",
           "publishedOn": "2021-05-23T16:18:57.000Z",
           "wordCount": 555,
@@ -702,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255755",
           "author": "mhb",
-          "description": "Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/\nComments URL: https://news.ycombinator.com/item?id=27255755\nPoints: 202\n# Comments: 46",
+          "description": "Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/\nComments URL: https://news.ycombinator.com/item?id=27255755\nPoints: 223\n# Comments: 52",
           "link": "https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/",
           "publishedOn": "2021-05-23T15:37:58.000Z",
           "wordCount": 1600,
@@ -711,7 +711,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255727",
           "author": "robin_reala",
-          "description": "Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci\nComments URL: https://news.ycombinator.com/item?id=27255727\nPoints: 94\n# Comments: 32",
+          "description": "Article URL: https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci\nComments URL: https://news.ycombinator.com/item?id=27255727\nPoints: 104\n# Comments: 33",
           "link": "https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci",
           "publishedOn": "2021-05-23T15:35:17.000Z",
           "wordCount": 1061,
@@ -720,16 +720,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27255561",
           "author": "cjnicholls",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27255561\nPoints: 657\n# Comments: 262",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57219860\nComments URL: https://news.ycombinator.com/item?id=27255561\nPoints: 712\n# Comments: 268",
           "link": "https://www.bbc.co.uk/news/world-europe-57219860",
           "publishedOn": "2021-05-23T15:18:34.000Z",
-          "wordCount": 1735,
+          "wordCount": 1700,
           "title": "Belarus 'diverts Ryanair flight to arrest journalist', opposition says"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27255524",
           "author": "marsokod",
-          "description": "Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html\nComments URL: https://news.ycombinator.com/item?id=27255524\nPoints: 71\n# Comments: 35",
+          "description": "Article URL: https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html\nComments URL: https://news.ycombinator.com/item?id=27255524\nPoints: 76\n# Comments: 37",
           "link": "https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html",
           "publishedOn": "2021-05-23T15:14:40.000Z",
           "wordCount": 1523,
@@ -738,7 +738,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27254838",
           "author": "HugoDaniel",
-          "description": "Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days\nComments URL: https://news.ycombinator.com/item?id=27254838\nPoints: 311\n# Comments: 30",
+          "description": "Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days\nComments URL: https://news.ycombinator.com/item?id=27254838\nPoints: 324\n# Comments: 33",
           "link": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
           "publishedOn": "2021-05-23T13:20:38.000Z",
           "wordCount": 6808,
@@ -757,7 +757,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2431,
+          "wordCount": 2426,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -766,7 +766,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3735,
+          "wordCount": 3736,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -775,7 +775,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1885,
+          "wordCount": 1882,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -784,7 +784,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 1982,
+          "wordCount": 1989,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1835,
+          "wordCount": 1840,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1650,
+          "wordCount": 1649,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -811,7 +811,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1796,
+          "wordCount": 1793,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -820,7 +820,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1656,
+          "wordCount": 1659,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
