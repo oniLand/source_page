@@ -1,21 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-24T09:18:17.777Z</id>
+    <id>urn:2021-05-24T10:20:12.380Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T09:18:17.777Z</updated>
+    <updated>2021-05-24T10:20:12.380Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[HashCow, BTC.TOP have halted China operations after Beijing crackdown on Bitcoin]]></title>
-        <id>https://news.ycombinator.com/item?id=27261607</id>
-        <link href="https://www.reuters.com/world/china/crypto-miners-halt-china-business-after-beijings-crackdown-bitcoin-dives-2021-05-24/"/>
-        <updated>2021-05-24T06:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/china/crypto-miners-halt-china-business-after-beijings-crackdown-bitcoin-dives-2021-05-24/
-Comments URL: https://news.ycombinator.com/item?id=27261607
-Points: 38
-# Comments: 37]]></summary>
+        <title type="html"><![CDATA[Baltic airlines reroute flights to avoid Belarus airspace]]></title>
+        <id>https://news.ycombinator.com/item?id=27262385</id>
+        <link href="https://www.lrt.lt/en/news-in-english/19/1416084/baltic-airlines-reroute-flights-to-avoid-belarus-airspace"/>
+        <updated>2021-05-24T09:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lrt.lt/en/news-in-english/19/1416084/baltic-airlines-reroute-flights-to-avoid-belarus-airspace
+Comments URL: https://news.ycombinator.com/item?id=27262385
+Points: 111
+# Comments: 29]]></summary>
         <author>
-            <name>giuliomagnifico</name>
+            <name>underscore_ku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Some Old Computers Are Interesting]]></title>
+        <id>https://news.ycombinator.com/item?id=27262340</id>
+        <link href="http://hccc.org.uk/retro/retro.html"/>
+        <updated>2021-05-24T09:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://hccc.org.uk/retro/retro.html
+Comments URL: https://news.ycombinator.com/item?id=27262340
+Points: 20
+# Comments: 1]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lake Peignur: The Swirling Vortex of Doom]]></title>
+        <id>https://news.ycombinator.com/item?id=27262327</id>
+        <link href="https://www.damninteresting.com/lake-peigneur-the-swirling-vortex-of-doom/"/>
+        <updated>2021-05-24T09:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.damninteresting.com/lake-peigneur-the-swirling-vortex-of-doom/
+Comments URL: https://news.ycombinator.com/item?id=27262327
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>belatw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Releases new PoE+ Hat]]></title>
+        <id>https://news.ycombinator.com/item?id=27262120</id>
+        <link href="https://www.raspberrypi.org/blog/announcing-the-raspberry-pi-poe-hat"/>
+        <updated>2021-05-24T08:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.raspberrypi.org/blog/announcing-the-raspberry-pi-poe-hat
+Comments URL: https://news.ycombinator.com/item?id=27262120
+Points: 16
+# Comments: 3]]></summary>
+        <author>
+            <name>schappim</name>
         </author>
     </entry>
     <entry>
@@ -25,23 +64,10 @@ Points: 38
         <updated>2021-05-24T05:44:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://countthings.com/case-studies/0001
 Comments URL: https://news.ycombinator.com/item?id=27261399
-Points: 182
-# Comments: 63]]></summary>
+Points: 222
+# Comments: 79]]></summary>
         <author>
             <name>morsanu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora has significantly fumbled DKMS handling for Linux kernel modules]]></title>
-        <id>https://news.ycombinator.com/item?id=27261388</id>
-        <link href="https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure"/>
-        <updated>2021-05-24T05:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraWeakUpdatesFailure
-Comments URL: https://news.ycombinator.com/item?id=27261388
-Points: 39
-# Comments: 6]]></summary>
-        <author>
-            <name>pcr910303</name>
         </author>
     </entry>
     <entry>
@@ -51,8 +77,8 @@ Points: 39
         <updated>2021-05-24T05:30:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/tech-history/cyberspace/claude-shannon-tinkerer-prankster-and-father-of-information-theory
 Comments URL: https://news.ycombinator.com/item?id=27261348
-Points: 28
-# Comments: 6]]></summary>
+Points: 42
+# Comments: 11]]></summary>
         <author>
             <name>phonebucket</name>
         </author>
@@ -64,23 +90,10 @@ Points: 28
         <updated>2021-05-24T04:03:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wabarc/wayback
 Comments URL: https://news.ycombinator.com/item?id=27260998
-Points: 12
-# Comments: 1]]></summary>
+Points: 19
+# Comments: 6]]></summary>
         <author>
             <name>wabarc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nacker Hews]]></title>
-        <id>https://news.ycombinator.com/item?id=27260668</id>
-        <link href="http://www.nackerhews.com/"/>
-        <updated>2021-05-24T02:48:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://www.nackerhews.com/
-Comments URL: https://news.ycombinator.com/item?id=27260668
-Points: 123
-# Comments: 39]]></summary>
-        <author>
-            <name>lokedhs</name>
         </author>
     </entry>
     <entry>
@@ -90,8 +103,8 @@ Points: 123
         <updated>2021-05-24T02:32:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jphong1111/Useful_Swift
 Comments URL: https://news.ycombinator.com/item?id=27260591
-Points: 29
-# Comments: 9]]></summary>
+Points: 38
+# Comments: 10]]></summary>
         <author>
             <name>jphong1111</name>
         </author>
@@ -103,8 +116,8 @@ Points: 29
         <updated>2021-05-24T02:17:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3064176.3064187
 Comments URL: https://news.ycombinator.com/item?id=27260522
-Points: 70
-# Comments: 16]]></summary>
+Points: 77
+# Comments: 20]]></summary>
         <author>
             <name>jitl</name>
         </author>
@@ -129,8 +142,8 @@ Points: 1
         <updated>2021-05-24T00:31:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wwwtyro.net/2019/11/18/instanced-lines.html
 Comments URL: https://news.ycombinator.com/item?id=27259944
-Points: 70
-# Comments: 21]]></summary>
+Points: 81
+# Comments: 24]]></summary>
         <author>
             <name>otherjason</name>
         </author>
@@ -142,8 +155,8 @@ Points: 70
         <updated>2021-05-23T22:44:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ingrids.space/posts/why-distributed-systems-dont-work/
 Comments URL: https://news.ycombinator.com/item?id=27259321
-Points: 312
-# Comments: 184]]></summary>
+Points: 320
+# Comments: 200]]></summary>
         <author>
             <name>intarga</name>
         </author>
@@ -155,8 +168,8 @@ Points: 312
         <updated>2021-05-23T19:46:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf
 Comments URL: https://news.ycombinator.com/item?id=27257924
-Points: 73
-# Comments: 10]]></summary>
+Points: 78
+# Comments: 13]]></summary>
         <author>
             <name>pinewurst</name>
         </author>
@@ -181,8 +194,8 @@ Points: 83
         <updated>2021-05-23T19:09:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vitalik.ca/general/2021/05/23/scaling.html
 Comments URL: https://news.ycombinator.com/item?id=27257641
-Points: 364
-# Comments: 360]]></summary>
+Points: 379
+# Comments: 369]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -194,8 +207,8 @@ Points: 364
         <updated>2021-05-23T17:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html
 Comments URL: https://news.ycombinator.com/item?id=27256867
-Points: 583
-# Comments: 196]]></summary>
+Points: 604
+# Comments: 209]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -207,8 +220,8 @@ Points: 583
         <updated>2021-05-23T16:55:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.righto.com/2021/05/teardown-of-pc-power-supply.html
 Comments URL: https://news.ycombinator.com/item?id=27256515
-Points: 346
-# Comments: 218]]></summary>
+Points: 352
+# Comments: 217]]></summary>
         <author>
             <name>parsecs</name>
         </author>
@@ -220,23 +233,10 @@ Points: 346
         <updated>2021-05-23T15:37:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/
 Comments URL: https://news.ycombinator.com/item?id=27255755
-Points: 312
-# Comments: 64]]></summary>
+Points: 313
+# Comments: 65]]></summary>
         <author>
             <name>mhb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teach Yourself Demoscene in 14 Days]]></title>
-        <id>https://news.ycombinator.com/item?id=27254838</id>
-        <link href="https://github.com/psenough/teach_yourself_demoscene_in_14_days"/>
-        <updated>2021-05-23T13:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/psenough/teach_yourself_demoscene_in_14_days
-Comments URL: https://news.ycombinator.com/item?id=27254838
-Points: 392
-# Comments: 41]]></summary>
-        <author>
-            <name>HugoDaniel</name>
         </author>
     </entry>
     <entry>
@@ -246,23 +246,23 @@ Points: 392
         <updated>2021-05-23T13:00:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/
 Comments URL: https://news.ycombinator.com/item?id=27254719
-Points: 1124
-# Comments: 472]]></summary>
+Points: 1139
+# Comments: 481]]></summary>
         <author>
             <name>anandaverma18</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Counting Billion Distinct Objects Using Only 1.5KB of Memory (2012)]]></title>
-        <id>https://news.ycombinator.com/item?id=27254204</id>
-        <link href="http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html"/>
-        <updated>2021-05-23T11:22:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html
-Comments URL: https://news.ycombinator.com/item?id=27254204
-Points: 60
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[Developers Turn to Analog for Neural Nets]]></title>
+        <id>https://news.ycombinator.com/item?id=27254233</id>
+        <link href="https://semiengineering.com/developers-turn-to-analog-for-neural-nets/"/>
+        <updated>2021-05-23T11:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://semiengineering.com/developers-turn-to-analog-for-neural-nets/
+Comments URL: https://news.ycombinator.com/item?id=27254233
+Points: 11
+# Comments: 0]]></summary>
         <author>
-            <name>yagizdegirmenci</name>
+            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
