@@ -108,7 +108,7 @@
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
           "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7448,
+          "wordCount": 7475,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
         },
         {
@@ -171,7 +171,7 @@
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 1044,
+          "wordCount": 1092,
           "title": "JSON in CSS"
         },
         {
@@ -495,6 +495,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "608706aedd38b9088c2c012c",
+          "author": null,
+          "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
+          "link": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/",
+          "publishedOn": "2021-05-25T16:51:37.000Z",
+          "wordCount": 1940,
+          "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
+        },
+        {
           "id": "60abc6d011ffb70827ef630f",
           "author": null,
           "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
@@ -574,15 +583,6 @@
           "publishedOn": "2021-05-20T17:12:29.000Z",
           "wordCount": 436,
           "title": "Learn Modern C++ by Building an Audio Plugin"
-        },
-        {
-          "id": "60a4b5c7906c5207e3a7e2bb",
-          "author": null,
-          "description": "In this tutorial, you'll learn what version control is and how you can contribute to open-source projects using Git.  We'll get through the fundamentals of Git and I'll give you the knowledge that is indispensable for any web developer. What is Git?Git is a version control software which lets",
-          "link": "https://www.freecodecamp.org/news/get-started-with-version-control-and-git/",
-          "publishedOn": "2021-05-20T15:20:53.000Z",
-          "wordCount": 1493,
-          "title": "How to Get Started with Version Control Using Git"
         }
       ]
     },
@@ -592,36 +592,108 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27278367",
-          "author": "Bridgeburner4",
-          "description": "e.g.:\n* Linux with its pipes\n* i3 with its window management\n* vim\n* emacs\n* fzf\n* pgsql\n* google.com\n* wikipedia.com\nI can't help but think that we could do so much more with some tools.\nComments URL: https://news.ycombinator.com/item?id=27278367\nPoints: 25\n# Comments: 10",
-          "link": "https://news.ycombinator.com/item?id=27278367",
-          "publishedOn": "2021-05-25T15:48:25.000Z",
-          "wordCount": 1043,
-          "title": "Ask HN: Which tools/services have your favorite UI/UX?"
+          "id": "https://news.ycombinator.com/item?id=27279695",
+          "author": "pcr910303",
+          "description": "Article URL: https://harelang.org/blog/2021-02-09-hare-advances-on-c/\nComments URL: https://news.ycombinator.com/item?id=27279695\nPoints: 4\n# Comments: 2",
+          "link": "https://harelang.org/blog/2021-02-09-hare-advances-on-c/",
+          "publishedOn": "2021-05-25T17:27:48.000Z",
+          "wordCount": 1738,
+          "title": "Advances of the Hare programming language compared to C"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27279325",
+          "author": "mmcclure",
+          "description": "Article URL: https://mux.com/jobs?hnj=stripe\nComments URL: https://news.ycombinator.com/item?id=27279325\nPoints: 1\n# Comments: 0",
+          "link": "https://mux.com/jobs?hnj=stripe",
+          "publishedOn": "2021-05-25T17:00:14.000Z",
+          "wordCount": 425,
+          "title": "Mux (YC W16) is hiring to help build the Stripe for video"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27279209",
+          "author": "aericson",
+          "description": "Article URL: https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/\nComments URL: https://news.ycombinator.com/item?id=27279209\nPoints: 154\n# Comments: 71",
+          "link": "https://www.reuters.com/business/aerospace-defense/they-say-code-is-red-transcript-controller-telling-plane-land-minsk-2021-05-25/",
+          "publishedOn": "2021-05-25T16:51:28.000Z",
+          "wordCount": 844,
+          "title": "Transcript of controller telling plane to land in Minsk"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27279043",
+          "author": "kevinbowman",
+          "description": "Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/\nComments URL: https://news.ycombinator.com/item?id=27279043\nPoints: 31\n# Comments: 6",
+          "link": "https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/",
+          "publishedOn": "2021-05-25T16:38:52.000Z",
+          "wordCount": 1072,
+          "title": "Siemens acquires Supplyframe (owners of Hackaday and Tindie)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27278736",
+          "author": "feross",
+          "description": "Article URL: https://stratechery.com/2021/app-store-arguments/\nComments URL: https://news.ycombinator.com/item?id=27278736\nPoints: 22\n# Comments: 7",
+          "link": "https://stratechery.com/2021/app-store-arguments/",
+          "publishedOn": "2021-05-25T16:17:17.000Z",
+          "wordCount": 4289,
+          "title": "App Store Arguments"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27278559",
+          "author": "GranularRecipe",
+          "description": "Article URL: https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush\nComments URL: https://news.ycombinator.com/item?id=27278559\nPoints: 13\n# Comments: 3",
+          "link": "https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush",
+          "publishedOn": "2021-05-25T16:03:48.000Z",
+          "wordCount": 8703,
+          "title": "The Dark Side of Congo’s Cobalt Rush"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27278540",
+          "author": "fqazi",
+          "description": "Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html\nComments URL: https://news.ycombinator.com/item?id=27278540\nPoints: 31\n# Comments: 4",
+          "link": "https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html",
+          "publishedOn": "2021-05-25T16:02:06.000Z",
+          "wordCount": 862,
+          "title": "Half-Double: New hammering technique for DRAM Rowhammer bug"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27277819",
           "author": "mschrage",
-          "description": "Article URL: https://fig.io?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27277819\nPoints: 142\n# Comments: 58",
+          "description": "Article URL: https://fig.io?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27277819\nPoints: 235\n# Comments: 156",
           "link": "https://fig.io?ref=hn",
           "publishedOn": "2021-05-25T15:09:02.000Z",
           "wordCount": 541,
           "title": "Launch HN: Fig (YC S20) – Autocomplete for the Terminal"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27277575",
+          "author": "xvilka",
+          "description": "Article URL: https://github.com/robert-strandh/Second-Climacs\nComments URL: https://news.ycombinator.com/item?id=27277575\nPoints: 37\n# Comments: 3",
+          "link": "https://github.com/robert-strandh/Second-Climacs",
+          "publishedOn": "2021-05-25T14:53:12.000Z",
+          "wordCount": 993,
+          "title": "Second Climacs – Emacs Implementation in Common Lisp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27277482",
           "author": "tosh",
-          "description": "Article URL: https://clojurescript.org/news/2021-05-24-release\nComments URL: https://news.ycombinator.com/item?id=27277482\nPoints: 25\n# Comments: 0",
+          "description": "Article URL: https://clojurescript.org/news/2021-05-24-release\nComments URL: https://news.ycombinator.com/item?id=27277482\nPoints: 61\n# Comments: 11",
           "link": "https://clojurescript.org/news/2021-05-24-release",
           "publishedOn": "2021-05-25T14:46:27.000Z",
           "wordCount": 396,
           "title": "ClojureScript 1.10.866 Release"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27277329",
+          "author": "acdanger",
+          "description": "Article URL: https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/\nComments URL: https://news.ycombinator.com/item?id=27277329\nPoints: 89\n# Comments: 43",
+          "link": "https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/",
+          "publishedOn": "2021-05-25T14:35:51.000Z",
+          "wordCount": 1210,
+          "title": "Biodiversity decline will require millions of years to recover"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27277035",
           "author": "benbreen",
-          "description": "Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel\nComments URL: https://news.ycombinator.com/item?id=27277035\nPoints: 39\n# Comments: 13",
+          "description": "Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel\nComments URL: https://news.ycombinator.com/item?id=27277035\nPoints: 64\n# Comments: 76",
           "link": "https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel",
           "publishedOn": "2021-05-25T14:17:36.000Z",
           "wordCount": 1131,
@@ -630,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27276992",
           "author": "swannodette",
-          "description": "Article URL: https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/\nComments URL: https://news.ycombinator.com/item?id=27276992\nPoints: 28\n# Comments: 1",
+          "description": "Article URL: https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/\nComments URL: https://news.ycombinator.com/item?id=27276992\nPoints: 50\n# Comments: 5",
           "link": "https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/",
           "publishedOn": "2021-05-25T14:14:27.000Z",
           "wordCount": 1010,
@@ -639,7 +711,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27276706",
           "author": "avinassh",
-          "description": "Article URL: https://qntm.org/clean?tw=\nComments URL: https://news.ycombinator.com/item?id=27276706\nPoints: 322\n# Comments: 234",
+          "description": "Article URL: https://qntm.org/clean?tw=\nComments URL: https://news.ycombinator.com/item?id=27276706\nPoints: 378\n# Comments: 338",
           "link": "https://qntm.org/clean?tw=",
           "publishedOn": "2021-05-25T13:48:37.000Z",
           "wordCount": 12535,
@@ -648,34 +720,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27276671",
           "author": "seik",
-          "description": "Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510\nComments URL: https://news.ycombinator.com/item?id=27276671\nPoints: 113\n# Comments: 38",
+          "description": "Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510\nComments URL: https://news.ycombinator.com/item?id=27276671\nPoints: 140\n# Comments: 67",
           "link": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
           "publishedOn": "2021-05-25T13:45:36.000Z",
-          "wordCount": 2599,
+          "wordCount": 2611,
           "title": "Arm Announces New Mobile Armv9 CPU Microarchitectures"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27276547",
           "author": "tosh",
-          "description": "Article URL: https://www.buttoncheatsheet.com/\nComments URL: https://news.ycombinator.com/item?id=27276547\nPoints: 42\n# Comments: 13",
+          "description": "Article URL: https://www.buttoncheatsheet.com/\nComments URL: https://news.ycombinator.com/item?id=27276547\nPoints: 66\n# Comments: 22",
           "link": "https://www.buttoncheatsheet.com/",
           "publishedOn": "2021-05-25T13:32:22.000Z",
           "wordCount": 508,
           "title": "The Button Cheat Sheet"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27276481",
-          "author": "raldu",
-          "description": "Article URL: https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model\nComments URL: https://news.ycombinator.com/item?id=27276481\nPoints: 142\n# Comments: 81",
-          "link": "https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model",
-          "publishedOn": "2021-05-25T13:25:30.000Z",
-          "wordCount": 721,
-          "title": "The Economist's excess deaths model"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27276400",
           "author": "timdaub",
-          "description": "Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1\nComments URL: https://news.ycombinator.com/item?id=27276400\nPoints: 77\n# Comments: 18",
+          "description": "Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/#f1\nComments URL: https://news.ycombinator.com/item?id=27276400\nPoints: 103\n# Comments: 25",
           "link": "https://timdaub.github.io/2020/02/19/wasm-synth/#f1",
           "publishedOn": "2021-05-25T13:15:48.000Z",
           "wordCount": 4168,
@@ -684,7 +747,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275995",
           "author": "todsacerdoti",
-          "description": "Article URL: https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible\nComments URL: https://news.ycombinator.com/item?id=27275995\nPoints: 20\n# Comments: 5",
+          "description": "Article URL: https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible\nComments URL: https://news.ycombinator.com/item?id=27275995\nPoints: 27\n# Comments: 8",
           "link": "https://vincent.bernat.ch/en/blog/2021-network-jerikan-ansible",
           "publishedOn": "2021-05-25T12:26:58.000Z",
           "wordCount": 4098,
@@ -693,83 +756,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27275906",
           "author": "mehdim",
-          "description": "Article URL: https://www.alias.dev/report\nComments URL: https://news.ycombinator.com/item?id=27275906\nPoints: 212\n# Comments: 118",
+          "description": "Article URL: https://www.alias.dev/report\nComments URL: https://news.ycombinator.com/item?id=27275906\nPoints: 240\n# Comments: 158",
           "link": "https://www.alias.dev/report",
           "publishedOn": "2021-05-25T12:14:42.000Z",
           "wordCount": 299,
           "title": "Data portability, the forgotten right of GDPR"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27275827",
-          "author": "optimalsolver",
-          "description": "Article URL: https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun\nComments URL: https://news.ycombinator.com/item?id=27275827\nPoints: 105\n# Comments: 37",
-          "link": "https://www.lesswrong.com/posts/qZJBighPrnv9bSqTZ/31-laws-of-fun",
-          "publishedOn": "2021-05-25T12:06:18.000Z",
-          "wordCount": 5735,
-          "title": "Laws of Fun (2009)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27275783",
-          "author": "carlostrevino",
-          "description": "Article URL: https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer\nComments URL: https://news.ycombinator.com/item?id=27275783\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/fractional/jobs/YftyxZJ-product-engineer",
-          "publishedOn": "2021-05-25T12:01:02.000Z",
-          "wordCount": 324,
-          "title": "Fractional (YC W21) is hiring a product engineer"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27275691",
           "author": "vchain-dz",
-          "description": "Article URL: https://www.codenotary.com/blog/immudb-release-1-0\nComments URL: https://news.ycombinator.com/item?id=27275691\nPoints: 159\n# Comments: 62",
+          "description": "Article URL: https://www.codenotary.com/blog/immudb-release-1-0\nComments URL: https://news.ycombinator.com/item?id=27275691\nPoints: 190\n# Comments: 77",
           "link": "https://www.codenotary.com/blog/immudb-release-1-0",
           "publishedOn": "2021-05-25T11:49:50.000Z",
           "wordCount": 705,
           "title": "Immudb 1.0 – open-source, immutable database with SQL and verified timetravel"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27275452",
-          "author": "shivbhatt",
-          "description": "Article URL: https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history\nComments URL: https://news.ycombinator.com/item?id=27275452\nPoints: 69\n# Comments: 42",
-          "link": "https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history",
-          "publishedOn": "2021-05-25T11:19:58.000Z",
-          "wordCount": 627,
-          "title": "Google now lets you password-protect the page that shows all your searches"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27275447",
-          "author": "shivbhatt",
-          "description": "Article URL: https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520\nComments URL: https://news.ycombinator.com/item?id=27275447\nPoints: 92\n# Comments: 1",
-          "link": "https://apnews.com/article/europe-technology-business-d7c3819420c7bb5221e7ed8cb8042520",
-          "publishedOn": "2021-05-25T11:19:20.000Z",
-          "wordCount": 62,
-          "title": "German regulator probes Google's market position, data use"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27274992",
-          "author": "robin_reala",
-          "description": "Article URL: https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules\nComments URL: https://news.ycombinator.com/item?id=27274992\nPoints: 169\n# Comments: 38",
-          "link": "https://www.theguardian.com/uk-news/2021/may/25/gchqs-mass-data-sharing-violated-right-to-privacy-court-rules",
-          "publishedOn": "2021-05-25T10:09:02.000Z",
-          "wordCount": 946,
-          "title": "GCHQ’s mass data-sharing violated right to privacy, court rules"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27274902",
-          "author": "imartin2k",
-          "description": "Article URL: https://restofworld.org/2021/inside-the-downfall-of-sugarbook-malaysias-biggest-site-for-sex-work/\nComments URL: https://news.ycombinator.com/item?id=27274902\nPoints: 49\n# Comments: 13",
-          "link": "https://restofworld.org/2021/inside-the-downfall-of-sugarbook-malaysias-biggest-site-for-sex-work/",
-          "publishedOn": "2021-05-25T09:54:19.000Z",
-          "wordCount": 1992,
-          "title": "The downfall of Malaysia’s biggest sugar daddy platform"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27274670",
-          "author": "mpsq",
-          "description": "Article URL: https://emacsair.me/2021/05/25/magit-3.0/\nComments URL: https://news.ycombinator.com/item?id=27274670\nPoints: 185\n# Comments: 65",
-          "link": "https://emacsair.me/2021/05/25/magit-3.0/",
-          "publishedOn": "2021-05-25T09:17:30.000Z",
-          "wordCount": 625,
-          "title": "Magit 3.0 Released"
         }
       ]
     },
@@ -784,7 +784,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2519,
+          "wordCount": 2517,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3820,
+          "wordCount": 3817,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1969,
+          "wordCount": 1967,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -811,7 +811,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2075,
+          "wordCount": 2066,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -820,7 +820,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1926,
+          "wordCount": 1925,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -829,7 +829,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1738,
+          "wordCount": 1727,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -838,7 +838,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1883,
+          "wordCount": 1877,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -847,7 +847,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1749,
+          "wordCount": 1744,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
