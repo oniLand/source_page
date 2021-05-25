@@ -103,6 +103,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340808",
+          "author": "Chris Coyier",
+          "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-performance/",
+          "publishedOn": "2021-05-24T22:03:30.000Z",
+          "wordCount": 874,
+          "title": "Links on Performance"
+        },
+        {
           "id": "https://css-tricks.com/?p=341153",
           "author": "Chris Coyier",
           "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -117,7 +126,7 @@
           "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
           "publishedOn": "2021-05-24T13:57:21.000Z",
-          "wordCount": 2851,
+          "wordCount": 2872,
           "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
         },
         {
@@ -153,7 +162,7 @@
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/json-in-css/",
           "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 1030,
+          "wordCount": 1044,
           "title": "JSON in CSS"
         },
         {
@@ -225,17 +234,8 @@
           "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
+          "wordCount": 5322,
           "title": "The Humble `img` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 3023,
-          "title": "A Love Letter to HTML & CSS"
         }
       ]
     },
@@ -439,7 +439,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
+          "wordCount": 5322,
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -448,7 +448,7 @@
           "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
+          "wordCount": 2121,
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -476,6 +476,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60abc6d011ffb70827ef630f",
+          "author": null,
+          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
+          "publishedOn": "2021-05-25T00:48:45.000Z",
+          "wordCount": 710,
+          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
+        },
+        {
+          "id": "60626dc29618b008528a9589",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Nibbles machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
+          "publishedOn": "2021-05-25T00:20:22.000Z",
+          "wordCount": 1905,
+          "title": "Keep Calm and Hack The Box – Nibbles"
+        },
+        {
+          "id": "60aaba5911ffb70827ef5ffc",
+          "author": null,
+          "description": "Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I",
+          "link": "https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/",
+          "publishedOn": "2021-05-24T21:30:43.000Z",
+          "wordCount": 1835,
+          "title": "How to Use Small and Sustainable Habits to Get Your First Dev Job"
+        },
         {
           "id": "60ac07ec11ffb70827ef66e4",
           "author": null,
@@ -538,33 +565,6 @@
           "publishedOn": "2021-05-20T15:20:53.000Z",
           "wordCount": 1493,
           "title": "How to Get Started with Version Control Using Git"
-        },
-        {
-          "id": "60a36742906c5207e3a7da6e",
-          "author": null,
-          "description": "Over the last four months, I have recorded what is probably the most interactive JavaScript course that has ever been created. The reason I have done this is because I often see new coders fall into the same pitfalls again and again when trying to learn JavaScript, with the most",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-interactive-course/",
-          "publishedOn": "2021-05-20T14:53:38.000Z",
-          "wordCount": 1202,
-          "title": "Learn JavaScript - A Free 7-hour Interactive Tutorial"
-        },
-        {
-          "id": "60a341f5906c5207e3a7da61",
-          "author": null,
-          "description": "CSS selectors are one of the most important parts of CSS. They give you the ability to target HTML elements on your web page that you want to style. Without CSS selectors, you wouldn't be able to style your page to look how you want. Thankfully CSS selectors have been",
-          "link": "https://www.freecodecamp.org/news/use-css-selectors-to-style-webpage/",
-          "publishedOn": "2021-05-19T23:17:21.000Z",
-          "wordCount": 2742,
-          "title": "How to Use CSS Selectors to Style Your Web Page"
-        },
-        {
-          "id": "60a42386906c5207e3a7dfe2",
-          "author": null,
-          "description": "The internet is going through a paradigm shift. Learn the differences between Web2 and Web3, and why many developers and companies are shifting their approach in building apps.",
-          "link": "https://www.freecodecamp.org/news/what-is-web3/",
-          "publishedOn": "2021-05-19T21:09:01.000Z",
-          "wordCount": 2087,
-          "title": "What is Web3? The Decentralized Internet of the Future Explained"
         }
       ]
     },
@@ -574,54 +574,126 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27269639",
-          "author": "FabioFleitas",
-          "description": "Article URL: https://www.tesorio.com/careers#job-openings\nComments URL: https://news.ycombinator.com/item?id=27269639\nPoints: 1\n# Comments: 0",
-          "link": "https://www.tesorio.com/careers#job-openings",
-          "publishedOn": "2021-05-24T21:00:52.000Z",
-          "wordCount": 287,
-          "title": "Tesorio Is Hiring a Principal Data Architect to Join Our Leadership"
+          "id": "https://news.ycombinator.com/item?id=27272705",
+          "author": "astatine",
+          "description": "Article URL: http://www.bbc.com/worklife/article/20210519-how-france-is-testing-free-public-transport\nComments URL: https://news.ycombinator.com/item?id=27272705\nPoints: 36\n# Comments: 22",
+          "link": "http://www.bbc.com/worklife/article/20210519-how-france-is-testing-free-public-transport",
+          "publishedOn": "2021-05-25T04:54:06.000Z",
+          "wordCount": 1981,
+          "title": "France is testing free public transport"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27269290",
-          "author": "alexanderdmitri",
-          "description": "Article URL: https://www.bbc.co.uk/news/technology-57011639\nComments URL: https://news.ycombinator.com/item?id=27269290\nPoints: 35\n# Comments: 31",
-          "link": "https://www.bbc.co.uk/news/technology-57011639",
-          "publishedOn": "2021-05-24T20:26:08.000Z",
-          "wordCount": 1273,
-          "title": "3 years of GDPR: The biggest fines so far"
+          "id": "https://news.ycombinator.com/item?id=27272616",
+          "author": "abdullahdiaa",
+          "description": "Article URL: https://blog.mozilla.org/firefox/new-firefox-coming-june-1/\nComments URL: https://news.ycombinator.com/item?id=27272616\nPoints: 79\n# Comments: 82",
+          "link": "https://blog.mozilla.org/firefox/new-firefox-coming-june-1/",
+          "publishedOn": "2021-05-25T04:32:17.000Z",
+          "wordCount": 1057,
+          "title": "Behind the design of the fresh new Firefox coming June 1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27272605",
+          "author": "solvent",
+          "description": "Article URL: https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/\nComments URL: https://news.ycombinator.com/item?id=27272605\nPoints: 5\n# Comments: 0",
+          "link": "https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/",
+          "publishedOn": "2021-05-25T04:29:22.000Z",
+          "wordCount": 1932,
+          "title": "Drunk as a Lord: the Regency Bottle Men"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27272484",
+          "author": "billyharris",
+          "description": "Article URL: https://www.biopharma-reporter.com/Article/2021/04/15/Moderna-to-take-mRNA-flu-and-HIV-vaccines-into-Phase-1-trials-this-year\nComments URL: https://news.ycombinator.com/item?id=27272484\nPoints: 30\n# Comments: 1",
+          "link": "https://www.biopharma-reporter.com/Article/2021/04/15/Moderna-to-take-mRNA-flu-and-HIV-vaccines-into-Phase-1-trials-this-year",
+          "publishedOn": "2021-05-25T04:04:37.000Z",
+          "wordCount": 1351,
+          "title": "Moderna to take mRNA flu and HIV vaccines into Phase 1 trials this year"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27272191",
+          "author": "andyxor",
+          "description": "Article URL: https://www.eff.org/deeplinks/2021/05/activists-mobilize-fight-censorship-and-save-open-science\nComments URL: https://news.ycombinator.com/item?id=27272191\nPoints: 47\n# Comments: 12",
+          "link": "https://www.eff.org/deeplinks/2021/05/activists-mobilize-fight-censorship-and-save-open-science",
+          "publishedOn": "2021-05-25T03:01:08.000Z",
+          "wordCount": 2268,
+          "title": "Activists Mobilize to Fight Censorship and Save Open Science"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27272017",
+          "author": "beatthatflight",
+          "description": "Article URL: https://travel.stackexchange.com/q/163892/101\nComments URL: https://news.ycombinator.com/item?id=27272017\nPoints: 52\n# Comments: 16",
+          "link": "https://travel.stackexchange.com/q/163892/101",
+          "publishedOn": "2021-05-25T02:26:44.000Z",
+          "wordCount": 2637,
+          "title": "Do countries get the list of every passenger that's transiting their airspace?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27271830",
+          "author": "curmudgeon22",
+          "description": "Article URL: https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/\nComments URL: https://news.ycombinator.com/item?id=27271830\nPoints: 47\n# Comments: 22",
+          "link": "https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/",
+          "publishedOn": "2021-05-25T01:48:36.000Z",
+          "wordCount": 1020,
+          "title": "Court Orders WhatsApp to Suspend Users Sharing Pirated Movie"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27271555",
+          "author": "artag",
+          "description": "Article URL: https://apply.workable.com/jerry/j/07E1D2B302/\nComments URL: https://news.ycombinator.com/item?id=27271555\nPoints: 1\n# Comments: 0",
+          "link": "https://apply.workable.com/jerry/j/07E1D2B302/",
+          "publishedOn": "2021-05-25T01:01:02.000Z",
+          "wordCount": 7,
+          "title": "Jerry, Inc. (YC S17) Is Hiring Senior Software Engineers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27271366",
+          "author": "vimy",
+          "description": "Article URL: https://www.researchhub.com/about\nComments URL: https://news.ycombinator.com/item?id=27271366\nPoints: 75\n# Comments: 37",
+          "link": "https://www.researchhub.com/about",
+          "publishedOn": "2021-05-25T00:30:31.000Z",
+          "wordCount": 888,
+          "title": "Researchhub: GitHub for Science"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27270070",
+          "author": "RaitoBezarius",
+          "description": "Article URL: https://inkscape.org/news/2021/05/24/welcome-inkscape-11/\nComments URL: https://news.ycombinator.com/item?id=27270070\nPoints: 303\n# Comments: 102",
+          "link": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
+          "publishedOn": "2021-05-24T21:45:05.000Z",
+          "wordCount": 1433,
+          "title": "Inkscape 1.1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27269589",
+          "author": "ushakov",
+          "description": "Article URL: https://elk.audio/audio-os/\nComments URL: https://news.ycombinator.com/item?id=27269589\nPoints: 202\n# Comments: 77",
+          "link": "https://elk.audio/audio-os/",
+          "publishedOn": "2021-05-24T20:54:54.000Z",
+          "wordCount": 529,
+          "title": "Elk OS – Audio Operating System"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27269586",
+          "author": "ingve",
+          "description": "Article URL: https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914\nComments URL: https://news.ycombinator.com/item?id=27269586\nPoints: 49\n# Comments: 29",
+          "link": "https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914",
+          "publishedOn": "2021-05-24T20:54:38.000Z",
+          "wordCount": 3435,
+          "title": "Need Something Sorted? Sleep on It"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27268537",
           "author": "bmau5",
-          "description": "Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/\nComments URL: https://news.ycombinator.com/item?id=27268537\nPoints: 34\n# Comments: 3",
+          "description": "Article URL: https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/\nComments URL: https://news.ycombinator.com/item?id=27268537\nPoints: 144\n# Comments: 12",
           "link": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
           "publishedOn": "2021-05-24T19:17:49.000Z",
           "wordCount": 2259,
-          "title": "Scientists use optogenetics for the first time to help a blind patient see again"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27268462",
-          "author": "deegles",
-          "description": "Article URL: https://wejn.org/2021/02/urbit-good-bad-insane/\nComments URL: https://news.ycombinator.com/item?id=27268462\nPoints: 107\n# Comments: 41",
-          "link": "https://wejn.org/2021/02/urbit-good-bad-insane/",
-          "publishedOn": "2021-05-24T19:09:23.000Z",
-          "wordCount": 2573,
-          "title": "Urbit: The good, the bad, and the insane"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27267368",
-          "author": "gregdoesit",
-          "description": "Article URL: https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/\nComments URL: https://news.ycombinator.com/item?id=27267368\nPoints: 169\n# Comments: 138",
-          "link": "https://blog.pragmaticengineer.com/uber-app-rewrite-yolo/",
-          "publishedOn": "2021-05-24T17:41:07.000Z",
-          "wordCount": 4238,
-          "title": "Uber's crazy YOLO app rewrite, from the front seat"
+          "title": "Scientists use optogenetics to help a blind patient see again"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27267066",
           "author": "zbentley",
-          "description": "Article URL: http://www.cmyr.net/blog/rust-python-learnings.html\nComments URL: https://news.ycombinator.com/item?id=27267066\nPoints: 134\n# Comments: 82",
+          "description": "Article URL: http://www.cmyr.net/blog/rust-python-learnings.html\nComments URL: https://news.ycombinator.com/item?id=27267066\nPoints: 203\n# Comments: 155",
           "link": "http://www.cmyr.net/blog/rust-python-learnings.html",
           "publishedOn": "2021-05-24T17:18:15.000Z",
           "wordCount": 2596,
@@ -630,7 +702,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27267007",
           "author": "digikata",
-          "description": "Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/\nComments URL: https://news.ycombinator.com/item?id=27267007\nPoints: 47\n# Comments: 4",
+          "description": "Article URL: https://clickhouse.tech/blog/en/2021/reading-from-external-memory/\nComments URL: https://news.ycombinator.com/item?id=27267007\nPoints: 108\n# Comments: 20",
           "link": "https://clickhouse.tech/blog/en/2021/reading-from-external-memory/",
           "publishedOn": "2021-05-24T17:13:44.000Z",
           "wordCount": 1174,
@@ -639,37 +711,37 @@
         {
           "id": "https://news.ycombinator.com/item?id=27266551",
           "author": "teleforce",
-          "description": "Article URL: http://www.knosof.co.uk/ESEUR/\nComments URL: https://news.ycombinator.com/item?id=27266551\nPoints: 87\n# Comments: 7",
+          "description": "Article URL: http://www.knosof.co.uk/ESEUR/\nComments URL: https://news.ycombinator.com/item?id=27266551\nPoints: 157\n# Comments: 17",
           "link": "http://www.knosof.co.uk/ESEUR/",
           "publishedOn": "2021-05-24T16:43:30.000Z",
           "wordCount": 453,
-          "title": "Evidence-Based Software Engineering based on publicly available data"
+          "title": "Evidence-based Software Engineering: based on the publicly available data"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27266485",
           "author": "teleforce",
-          "description": "Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/\nComments URL: https://news.ycombinator.com/item?id=27266485\nPoints: 168\n# Comments: 86",
+          "description": "Article URL: https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/\nComments URL: https://news.ycombinator.com/item?id=27266485\nPoints: 274\n# Comments: 169",
           "link": "https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/",
           "publishedOn": "2021-05-24T16:39:07.000Z",
           "wordCount": 1736,
-          "title": "Complexity is a source of income in open source ecosystems"
+          "title": "Complexity is a source of income in open source ecosystems (2019)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27265836",
           "author": "theafh",
-          "description": "Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/\nComments URL: https://news.ycombinator.com/item?id=27265836\nPoints: 62\n# Comments: 1",
+          "description": "Article URL: https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/\nComments URL: https://news.ycombinator.com/item?id=27265836\nPoints: 127\n# Comments: 32",
           "link": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
           "publishedOn": "2021-05-24T15:52:49.000Z",
           "wordCount": 2854,
-          "title": "Radioactivity May Fuel Life Deep Underground and Inside Other Worlds"
+          "title": "Radioactivity may fuel life deep underground and inside other worlds"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27265645",
           "author": "de_keyboard",
-          "description": "Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/\nComments URL: https://news.ycombinator.com/item?id=27265645\nPoints: 78\n# Comments: 128",
+          "description": "Article URL: https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/\nComments URL: https://news.ycombinator.com/item?id=27265645\nPoints: 193\n# Comments: 283",
           "link": "https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/",
           "publishedOn": "2021-05-24T15:40:49.000Z",
-          "wordCount": 2462,
+          "wordCount": 2454,
           "title": "Why did bar ends go away from mountain bikes?"
         },
         {
@@ -678,80 +750,8 @@
           "description": "Hi HN! I’m Rowan and with my co-founder Steve we are building Curvenote (https://curvenote.com) — a technical writing tool for sharing data analysis and research from Jupyter with a wider audience.\nWe are building Curvenote to get science communication out of PDFs and help researchers and data-scientists communicate interactive, reproducible results (graphs, figures, maps, etc.) that are linked to the actual data and computation. There are currently two parts to Curvenote: 1) a WYSIWYG collaborative writing environment for interactive, technical documents; and 2) a Jupyter integration that adds version control and commenting and can link interactive plots and outputs directly into Curvenote documents (including any new versions or comments on those outputs).\nSteve and I met in the open-sou…",
           "link": "https://news.ycombinator.com/item?id=27265380",
           "publishedOn": "2021-05-24T15:20:10.000Z",
-          "wordCount": 1818,
+          "wordCount": 2123,
           "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27265340",
-          "author": "kemonocode",
-          "description": "Article URL: https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/\nComments URL: https://news.ycombinator.com/item?id=27265340\nPoints: 233\n# Comments: 107",
-          "link": "https://www.brookings.edu/research/what-lies-beneath-evidence-from-leaked-account-data-on-how-elites-use-offshore-banking/",
-          "publishedOn": "2021-05-24T15:18:00.000Z",
-          "wordCount": 675,
-          "title": "What lies beneath: Evidence from leaked account data on offshore banking use"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27265209",
-          "author": "tosh",
-          "description": "Article URL: https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen\nComments URL: https://news.ycombinator.com/item?id=27265209\nPoints: 124\n# Comments: 94",
-          "link": "https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen",
-          "publishedOn": "2021-05-24T15:06:39.000Z",
-          "wordCount": 669,
-          "title": "Microsoft has turned the Surface Duo into a handheld Xbox"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27264988",
-          "author": "jukkakoskinen",
-          "description": "Article URL: https://vivirenremoto.github.io/doomcaptcha/\nComments URL: https://news.ycombinator.com/item?id=27264988\nPoints: 140\n# Comments: 43",
-          "link": "https://vivirenremoto.github.io/doomcaptcha/",
-          "publishedOn": "2021-05-24T14:48:57.000Z",
-          "wordCount": 318,
-          "title": "DOOM Captcha"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27264777",
-          "author": "jasim",
-          "description": "Article URL: https://tomassetti.me/parsing-in-javascript/#chevrotain\nComments URL: https://news.ycombinator.com/item?id=27264777\nPoints: 53\n# Comments: 13",
-          "link": "https://tomassetti.me/parsing-in-javascript/#chevrotain",
-          "publishedOn": "2021-05-24T14:32:01.000Z",
-          "wordCount": 6965,
-          "title": "Parsing in JavaScript: all the tools and libraries you can use"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27264514",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/\nComments URL: https://news.ycombinator.com/item?id=27264514\nPoints: 22\n# Comments: 3",
-          "link": "https://nezhar.com/blog/increase-performance-via-range-fields-in-django-querysets-on-postgresql/",
-          "publishedOn": "2021-05-24T14:07:11.000Z",
-          "wordCount": 878,
-          "title": "Increase Performance via Range Fields in Django Querysets on PostgreSQL"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27264500",
-          "author": "baobabKoodaa",
-          "description": "Article URL: https://cloudbite.attejuvonen.fi/\nComments URL: https://news.ycombinator.com/item?id=27264500\nPoints: 236\n# Comments: 76",
-          "link": "https://cloudbite.attejuvonen.fi/",
-          "publishedOn": "2021-05-24T14:06:03.000Z",
-          "wordCount": 62,
-          "title": "Show HN: Flashcards to learn AWS skills"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27264295",
-          "author": "pseudolus",
-          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview\nComments URL: https://news.ycombinator.com/item?id=27264295\nPoints: 143\n# Comments: 76",
-          "link": "https://www.theguardian.com/lifeandstyle/2021/may/24/tony-hawk-skateboarding-legacy-interview",
-          "publishedOn": "2021-05-24T13:46:27.000Z",
-          "wordCount": 1596,
-          "title": "Tony Hawk on his skateboarding legacy"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27263875",
-          "author": "theBashShell",
-          "description": "Article URL: https://www.cppstories.com/2021/security-sins/\nComments URL: https://news.ycombinator.com/item?id=27263875\nPoints: 38\n# Comments: 8",
-          "link": "https://www.cppstories.com/2021/security-sins/",
-          "publishedOn": "2021-05-24T13:06:05.000Z",
-          "wordCount": 1716,
-          "title": "C++ Software Security Sins: Basic Issues"
         }
       ]
     },
@@ -766,7 +766,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2516,
+          "wordCount": 2515,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -775,7 +775,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3822,
+          "wordCount": 3821,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -784,7 +784,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1972,
+          "wordCount": 1970,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1924,
+          "wordCount": 1930,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -811,7 +811,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1733,
+          "wordCount": 1732,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -820,7 +820,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1885,
+          "wordCount": 1881,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -829,7 +829,7 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1747,
+          "wordCount": 1744,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
