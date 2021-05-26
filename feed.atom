@@ -1,21 +1,178 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-25T21:13:55.963Z</id>
+    <id>urn:2021-05-26T06:36:45.918Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T21:13:55.963Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-26T06:36:45.918Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Community Phone (YC W19) Is Hiring. Help us make phone numbers programmable]]></title>
-        <id>https://news.ycombinator.com/item?id=27282592</id>
-        <link href="https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer"/>
-        <updated>2021-05-25T21:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer
-Comments URL: https://news.ycombinator.com/item?id=27282592
+        <title type="html"><![CDATA[v1.9.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
+        <updated>2021-05-26T06:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
+
+This feature is currently only available through custom template.
+iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
+No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
+You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
+Fixed: the articles in template data were not sorted.
+Thank you @Zenigata]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freenode Ops Take Control of 700 Channels]]></title>
+        <id>https://news.ycombinator.com/item?id=27286628</id>
+        <link href="https://mastodon.sdf.org/@kline/106299403921451814"/>
+        <updated>2021-05-26T05:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mastodon.sdf.org/@kline/106299403921451814
+Comments URL: https://news.ycombinator.com/item?id=27286628
+Points: 68
+# Comments: 9]]></summary>
+        <author>
+            <name>LambdaComplex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mild Covid-19 induces lasting antibody protection]]></title>
+        <id>https://news.ycombinator.com/item?id=27286326</id>
+        <link href="https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/"/>
+        <updated>2021-05-26T04:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/
+Comments URL: https://news.ycombinator.com/item?id=27286326
+Points: 23
+# Comments: 0]]></summary>
+        <author>
+            <name>dsr12</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1racles: An Apple M1 covert channel vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=27285700</id>
+        <link href="https://m1racles.com/"/>
+        <updated>2021-05-26T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://m1racles.com/
+Comments URL: https://news.ycombinator.com/item?id=27285700
+Points: 373
+# Comments: 106]]></summary>
+        <author>
+            <name>paulgerhardt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our memory is better than experts thought]]></title>
+        <id>https://news.ycombinator.com/item?id=27285068</id>
+        <link href="https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/"/>
+        <updated>2021-05-26T01:30:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/
+Comments URL: https://news.ycombinator.com/item?id=27285068
+Points: 41
+# Comments: 0]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators]]></title>
+        <id>https://news.ycombinator.com/item?id=27284846</id>
+        <link href="https://careers.atob.com/"/>
+        <updated>2021-05-26T01:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://careers.atob.com/
+Comments URL: https://news.ycombinator.com/item?id=27284846
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>wittedhaddock</name>
+            <name>vignanv8</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streetmix – A fun little urban design playground]]></title>
+        <id>https://news.ycombinator.com/item?id=27284800</id>
+        <link href="https://streetmix.net/"/>
+        <updated>2021-05-26T00:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://streetmix.net/
+Comments URL: https://news.ycombinator.com/item?id=27284800
+Points: 43
+# Comments: 2]]></summary>
+        <author>
+            <name>wilg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to Robotics]]></title>
+        <id>https://news.ycombinator.com/item?id=27284286</id>
+        <link href="https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206"/>
+        <updated>2021-05-25T23:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206
+Comments URL: https://news.ycombinator.com/item?id=27284286
+Points: 79
+# Comments: 13]]></summary>
+        <author>
+            <name>danboarder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome extensions are tampering with security headers]]></title>
+        <id>https://news.ycombinator.com/item?id=27284224</id>
+        <link href="https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/"/>
+        <updated>2021-05-25T23:38:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/
+Comments URL: https://news.ycombinator.com/item?id=27284224
+Points: 127
+# Comments: 61]]></summary>
+        <author>
+            <name>arkadiyt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Our Slack App Got to 200K Users with No Marketing Whatsoever]]></title>
+        <id>https://news.ycombinator.com/item?id=27284124</id>
+        <link href="https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever"/>
+        <updated>2021-05-25T23:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever
+Comments URL: https://news.ycombinator.com/item?id=27284124
+Points: 59
+# Comments: 12]]></summary>
+        <author>
+            <name>L-epstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
+        <id>60ac3a2711ffb70827ef6aec</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
+        <updated>2021-05-25T22:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnam War images from the North Vietnamese side]]></title>
+        <id>https://news.ycombinator.com/item?id=27283624</id>
+        <link href="https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/"/>
+        <updated>2021-05-25T22:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/
+Comments URL: https://news.ycombinator.com/item?id=27283624
+Points: 438
+# Comments: 353]]></summary>
+        <author>
+            <name>pmoriarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Cascade Timeline Maker]]></title>
+        <id>https://news.ycombinator.com/item?id=27282842</id>
+        <link href="https://cascade.page"/>
+        <updated>2021-05-25T21:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cascade.page
+Comments URL: https://news.ycombinator.com/item?id=27282842
+Points: 97
+# Comments: 11]]></summary>
+        <author>
+            <name>koch</name>
         </author>
     </entry>
     <entry>
@@ -29,53 +186,14 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube approves ad by Belarusian gov with journalist from hijackd Ryanair plane]]></title>
-        <id>https://news.ycombinator.com/item?id=27281990</id>
-        <link href="https://twitter.com/TadeuszGiczan/status/1397200848145559552"/>
-        <updated>2021-05-25T20:14:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/TadeuszGiczan/status/1397200848145559552
-Comments URL: https://news.ycombinator.com/item?id=27281990
-Points: 88
-# Comments: 6]]></summary>
-        <author>
-            <name>notimetocry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transitioning to Tesla Vision]]></title>
-        <id>https://news.ycombinator.com/item?id=27281043</id>
-        <link href="https://www.tesla.com/support/transitioning-tesla-vision"/>
-        <updated>2021-05-25T19:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tesla.com/support/transitioning-tesla-vision
-Comments URL: https://news.ycombinator.com/item?id=27281043
-Points: 20
-# Comments: 9]]></summary>
-        <author>
-            <name>takahisah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook, Twitter & Instagram can be banned in India tomorrow for non-compliance]]></title>
-        <id>https://news.ycombinator.com/item?id=27280815</id>
-        <link href="https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html"/>
-        <updated>2021-05-25T18:55:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html
-Comments URL: https://news.ycombinator.com/item?id=27280815
-Points: 81
-# Comments: 66]]></summary>
-        <author>
-            <name>zakember</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google launches its third major operating system, Fuchsia]]></title>
+        <title type="html"><![CDATA[The Google Nest Hub is first commercial Fuchsia device]]></title>
         <id>https://news.ycombinator.com/item?id=27280567</id>
         <link href="https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/"/>
         <updated>2021-05-25T18:39:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/
 Comments URL: https://news.ycombinator.com/item?id=27280567
-Points: 121
-# Comments: 89]]></summary>
+Points: 217
+# Comments: 205]]></summary>
         <author>
             <name>moh_maya</name>
         </author>
@@ -87,8 +205,8 @@ Points: 121
         <updated>2021-05-25T18:07:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/
 Comments URL: https://news.ycombinator.com/item?id=27280174
-Points: 92
-# Comments: 40]]></summary>
+Points: 153
+# Comments: 98]]></summary>
         <author>
             <name>leephillips</name>
         </author>
@@ -100,23 +218,23 @@ Points: 92
         <updated>2021-05-25T18:00:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stripe.com/payments/payment-links
 Comments URL: https://news.ycombinator.com/item?id=27280096
-Points: 331
-# Comments: 134]]></summary>
+Points: 791
+# Comments: 267]]></summary>
         <author>
             <name>joeyespo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Newline Delimited JSON]]></title>
-        <id>https://news.ycombinator.com/item?id=27279735</id>
-        <link href="http://ndjson.org/"/>
-        <updated>2021-05-25T17:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://ndjson.org/
-Comments URL: https://news.ycombinator.com/item?id=27279735
-Points: 29
-# Comments: 10]]></summary>
+        <title type="html"><![CDATA[How inevitable is the concept of numbers?]]></title>
+        <id>https://news.ycombinator.com/item?id=27279913</id>
+        <link href="https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/"/>
+        <updated>2021-05-25T17:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/
+Comments URL: https://news.ycombinator.com/item?id=27279913
+Points: 151
+# Comments: 156]]></summary>
         <author>
-            <name>xingyzt</name>
+            <name>perardi</name>
         </author>
     </entry>
     <entry>
@@ -136,23 +254,10 @@ Points: 29
         <updated>2021-05-25T16:38:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/
 Comments URL: https://news.ycombinator.com/item?id=27279043
-Points: 156
-# Comments: 61]]></summary>
+Points: 249
+# Comments: 149]]></summary>
         <author>
             <name>kevinbowman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dark Side of Congo’s Cobalt Rush]]></title>
-        <id>https://news.ycombinator.com/item?id=27278559</id>
-        <link href="https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush"/>
-        <updated>2021-05-25T16:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush
-Comments URL: https://news.ycombinator.com/item?id=27278559
-Points: 43
-# Comments: 18]]></summary>
-        <author>
-            <name>GranularRecipe</name>
         </author>
     </entry>
     <entry>
@@ -162,8 +267,8 @@ Points: 43
         <updated>2021-05-25T16:02:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html
 Comments URL: https://news.ycombinator.com/item?id=27278540
-Points: 97
-# Comments: 14]]></summary>
+Points: 159
+# Comments: 27]]></summary>
         <author>
             <name>fqazi</name>
         </author>
@@ -175,49 +280,23 @@ Points: 97
         <updated>2021-05-25T15:09:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fig.io?ref=hn
 Comments URL: https://news.ycombinator.com/item?id=27277819
-Points: 348
-# Comments: 263]]></summary>
+Points: 463
+# Comments: 326]]></summary>
         <author>
             <name>mschrage</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Second Climacs – Emacs Implementation in Common Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=27277575</id>
-        <link href="https://github.com/robert-strandh/Second-Climacs"/>
-        <updated>2021-05-25T14:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/robert-strandh/Second-Climacs
-Comments URL: https://news.ycombinator.com/item?id=27277575
-Points: 79
-# Comments: 28]]></summary>
+        <title type="html"><![CDATA[How Well Can You Hear Audio Quality? (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=27277539</id>
+        <link href="https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality"/>
+        <updated>2021-05-25T14:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality
+Comments URL: https://news.ycombinator.com/item?id=27277539
+Points: 73
+# Comments: 108]]></summary>
         <author>
-            <name>xvilka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClojureScript 1.10.866 Release]]></title>
-        <id>https://news.ycombinator.com/item?id=27277482</id>
-        <link href="https://clojurescript.org/news/2021-05-24-release"/>
-        <updated>2021-05-25T14:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://clojurescript.org/news/2021-05-24-release
-Comments URL: https://news.ycombinator.com/item?id=27277482
-Points: 106
-# Comments: 29]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biodiversity decline will require millions of years to recover]]></title>
-        <id>https://news.ycombinator.com/item?id=27277329</id>
-        <link href="https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/"/>
-        <updated>2021-05-25T14:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/
-Comments URL: https://news.ycombinator.com/item?id=27277329
-Points: 215
-# Comments: 161]]></summary>
-        <author>
-            <name>acdanger</name>
+            <name>lisper</name>
         </author>
     </entry>
     <entry>
@@ -242,23 +321,10 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-25T14:17:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel
 Comments URL: https://news.ycombinator.com/item?id=27277035
-Points: 102
-# Comments: 117]]></summary>
+Points: 147
+# Comments: 160]]></summary>
         <author>
             <name>benbreen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developing mobile digital key applications with ClojureScript]]></title>
-        <id>https://news.ycombinator.com/item?id=27276992</id>
-        <link href="https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/"/>
-        <updated>2021-05-25T14:14:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/
-Comments URL: https://news.ycombinator.com/item?id=27276992
-Points: 74
-# Comments: 6]]></summary>
-        <author>
-            <name>swannodette</name>
         </author>
     </entry>
     <entry>
@@ -272,42 +338,15 @@ Points: 74
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm Announces New Mobile Armv9 CPU Microarchitectures]]></title>
-        <id>https://news.ycombinator.com/item?id=27276671</id>
-        <link href="https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510"/>
-        <updated>2021-05-25T13:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510
-Comments URL: https://news.ycombinator.com/item?id=27276671
-Points: 187
-# Comments: 100]]></summary>
+        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
+        <id>https://css-tricks.com/?p=341383</id>
+        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
+        <updated>2021-05-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
+The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
-            <name>seik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Button Cheat Sheet]]></title>
-        <id>https://news.ycombinator.com/item?id=27276547</id>
-        <link href="https://www.buttoncheatsheet.com/"/>
-        <updated>2021-05-25T13:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.buttoncheatsheet.com/
-Comments URL: https://news.ycombinator.com/item?id=27276547
-Points: 97
-# Comments: 44]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WASM SYNTH, or, how music taught me the beauty of math]]></title>
-        <id>https://news.ycombinator.com/item?id=27276400</id>
-        <link href="https://timdaub.github.io/2020/02/19/wasm-synth/"/>
-        <updated>2021-05-25T13:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/
-Comments URL: https://news.ycombinator.com/item?id=27276400
-Points: 142
-# Comments: 41]]></summary>
-        <author>
-            <name>timdaub</name>
+            <name>Ahmed Bouchefra</name>
         </author>
     </entry>
     <entry>
@@ -535,16 +574,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angular 11 Tutorial: Code a Project from Scratch]]></title>
-        <id>60a6b3ab906c5207e3a7f5fa</id>
-        <link href="https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/"/>
-        <updated>2021-05-20T19:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth]]></title>
         <id>https://www.geekwire.com/?p=621432</id>
         <link href="https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/"/>
@@ -653,18 +682,6 @@ The post Pinned Audio WordPress Theme appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Neon Text With CSS]]></title>
-        <id>https://css-tricks.com/?p=340420</id>
-        <link href="https://css-tricks.com/how-to-create-neon-text-with-css/"/>
-        <updated>2021-05-18T14:31:25.000Z</updated>
-        <summary type="html"><![CDATA[Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …
-The post How to Create Neon Text With CSS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Silvia O'Dwyer</name>
         </author>
     </entry>
     <entry>
@@ -894,19 +911,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 1)]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
@@ -1014,16 +1018,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
-        <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
-        <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
-        <updated>2021-04-26T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
         </author>
     </entry>
 </feed>

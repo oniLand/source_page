@@ -6,12 +6,21 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
+          "author": null,
+          "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
+          "publishedOn": "2021-05-26T06:02:55.000Z",
+          "wordCount": 417,
+          "title": "v1.9.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
           "author": null,
           "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
           "publishedOn": "2021-05-23T05:40:12.000Z",
-          "wordCount": 282,
+          "wordCount": 278,
           "title": "v1.8.1"
         },
         {
@@ -85,15 +94,6 @@
           "publishedOn": "2021-05-05T05:19:57.000Z",
           "wordCount": 285,
           "title": "v1.3.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "author": null,
-          "description": "Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.\nAdded: Documentation for osmosfeed.yaml.\nFixed: More intuitive logging during build.\nChore: Refactored parameter passing for enrich step.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0",
-          "publishedOn": "2021-05-05T05:19:26.000Z",
-          "wordCount": 293,
-          "title": "v1.3.0"
         }
       ]
     },
@@ -108,8 +108,17 @@
           "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
           "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7475,
+          "wordCount": 7448,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341383",
+          "author": "Ahmed Bouchefra",
+          "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
+          "publishedOn": "2021-05-25T11:00:00.000Z",
+          "wordCount": 1386,
+          "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
         },
         {
           "id": "https://css-tricks.com/?p=340808",
@@ -227,15 +236,6 @@
           "publishedOn": "2021-05-18T19:14:53.000Z",
           "wordCount": 1082,
           "title": "Pinned Audio WordPress Theme"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2455,
-          "title": "How to Create Neon Text With CSS"
         }
       ]
     },
@@ -251,7 +251,12 @@
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
           "wordCount": 2079,
-          "title": "A Guide To Undoing Mistakes With Git (Part 2)"
+          "title": "A Guide To Undoing Mistakes With Git (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
@@ -259,8 +264,13 @@
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
           "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2020,
-          "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
+          "wordCount": 2062,
+          "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f0c69413-365e-4c39-9ee8-ad1d2b44e56b/reduce-font-loading-impact-css-descriptors.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
@@ -268,8 +278,13 @@
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
           "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2665,
-          "title": "CSS Container Queries: Use-Cases And Migration Strategies"
+          "wordCount": 2707,
+          "title": "CSS Container Queries: Use-Cases And Migration Strategies",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
@@ -277,8 +292,13 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9398,
-          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch"
+          "wordCount": 9435,
+          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
@@ -287,7 +307,12 @@
           "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
           "publishedOn": "2021-05-20T14:20:00.000Z",
           "wordCount": 831,
-          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design"
+          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
@@ -295,8 +320,13 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1919,
-          "title": "How To Implement Authentication In Next.js With Auth0"
+          "wordCount": 1970,
+          "title": "How To Implement Authentication In Next.js With Auth0",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
@@ -304,8 +334,13 @@
           "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
           "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
+          "wordCount": 5028,
+          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
@@ -314,7 +349,12 @@
           "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
           "publishedOn": "2021-05-18T10:30:00.000Z",
           "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
+          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e69194b-9e57-4713-bed2-d2f18dd6c914/create-animate-svg-graphics-svgator3-image-7.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
@@ -323,7 +363,12 @@
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
           "publishedOn": "2021-05-18T05:00:00.000Z",
           "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
+          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e26ce3b7-49e1-45d7-8411-ecc5b2d696cd/smashing-podcast-episode-37.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
@@ -331,8 +376,13 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
+          "wordCount": 2948,
+          "title": "How We Improved Our Core Web Vitals (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
@@ -340,8 +390,13 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
+          "wordCount": 2430,
+          "title": "Tree-Shaking: A Reference Guide",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
@@ -349,8 +404,13 @@
           "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
           "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3443,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker"
+          "wordCount": 3485,
+          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f773d7bb-df56-409f-a3fb-aa1e6e0eea09/4-birthday-picker.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
@@ -359,7 +419,12 @@
           "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
           "publishedOn": "2021-05-12T08:00:00.000Z",
           "wordCount": 1993,
-          "title": "Little Smashing Stories"
+          "title": "Little Smashing Stories",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b820c735-621c-4e60-8a3f-accb3f66d312/smashing-newsletter-banner.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
@@ -368,7 +433,12 @@
           "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
           "publishedOn": "2021-05-11T13:30:00.000Z",
           "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries"
+          "title": "A Primer On CSS Container Queries",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2c88b2c-ef73-44e3-885c-2c5c322fb781/smashing-articles-original.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
@@ -377,7 +447,12 @@
           "link": "https://smashingmagazine.com/2021/05/smashingconf-conference-platform-hopin/",
           "publishedOn": "2021-05-11T10:00:00.000Z",
           "wordCount": 1958,
-          "title": "The Conference Platform We Use For Our Online Events: Hopin"
+          "title": "The Conference Platform We Use For Our Online Events: Hopin",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cabbfe1a-8bcd-4ed3-9442-3ce8e51cc53e/hopin.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
@@ -385,8 +460,13 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
+          "wordCount": 6361,
+          "title": "Get Started With React By Building A Whac-A-Mole Game",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
@@ -394,8 +474,13 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Organize Product-Related Assets And Collaborate Better"
+          "wordCount": 4164,
+          "title": "How To Organize Product-Related Assets And Collaborate Better",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
@@ -403,8 +488,13 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
+          "wordCount": 2654,
+          "title": "Improving The Performance Of Shopify Themes (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
@@ -412,8 +502,13 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
+          "wordCount": 2347,
+          "title": "Reducing HTML Payload With Next.js (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
@@ -421,8 +516,13 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1795,
-          "title": "A Guide To Undoing Mistakes With Git (Part 1)"
+          "wordCount": 1846,
+          "title": "A Guide To Undoing Mistakes With Git (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
@@ -431,7 +531,12 @@
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
           "publishedOn": "2021-05-04T05:00:00.000Z",
           "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
+          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/07c22e99-6bd0-4012-9227-b494596b6bc7/smashing-podcast-episode-36.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
@@ -439,8 +544,13 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack"
+          "wordCount": 2192,
+          "title": "The Evolution Of Jamstack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
@@ -449,7 +559,12 @@
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
-          "title": "May Is In The Air (2021 Wallpapers Edition)"
+          "title": "May Is In The Air (2021 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
@@ -457,8 +572,13 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5322,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
+          "wordCount": 5364,
+          "title": "The Humble `<img>` Element And Core Web Vitals",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ec5e4a-099e-4a1a-a1a3-b7545835520f/26-humble-img-element-and-core-web-vitals.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
@@ -467,7 +587,12 @@
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
           "wordCount": 2121,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
+          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
+            "length": "0",
+            "type": "image/png"
+          }
         },
         {
           "id": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
@@ -475,17 +600,13 @@
           "description": "Easing functions can change the look and feel of an animation by affecting the rate, or speed, of an animation. In this article, we’re going to take a deep dive into easing functions and see how we can use them to create those natural and stunning animations.",
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
-          "wordCount": 2623,
-          "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
+          "wordCount": 2665,
+          "title": "Understanding Easing Functions For CSS Animations And Transitions",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/140e292f-c3a2-438d-ae33-90d09a421f9c/easing-functions-css-animations-transitions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
         }
       ]
     },
@@ -494,6 +615,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ac3a2711ffb70827ef6aec",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Valentine machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
+          "publishedOn": "2021-05-25T22:43:11.000Z",
+          "wordCount": 1664,
+          "title": "Keep Calm and Hack The Box – Valentine"
+        },
         {
           "id": "60a93b0011ffb70827ef5b0d",
           "author": null,
@@ -574,15 +704,6 @@
           "publishedOn": "2021-05-21T15:33:45.000Z",
           "wordCount": 4309,
           "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
-        },
-        {
-          "id": "60a6b3ab906c5207e3a7f5fa",
-          "author": null,
-          "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
-          "link": "https://www.freecodecamp.org/news/angular-11-tutorial-code-a-project-from-scratch/",
-          "publishedOn": "2021-05-20T19:14:48.000Z",
-          "wordCount": 397,
-          "title": "Angular 11 Tutorial: Code a Project from Scratch"
         }
       ]
     },
@@ -592,99 +713,153 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27282592",
-          "author": "wittedhaddock",
-          "description": "Article URL: https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer\nComments URL: https://news.ycombinator.com/item?id=27282592\nPoints: 1\n# Comments: 0",
-          "link": "https://www.ycombinator.com/companies/community-phone-company/jobs/ENwCu0g-fullstack-engineer",
-          "publishedOn": "2021-05-25T21:00:47.000Z",
-          "wordCount": 383,
-          "title": "Community Phone (YC W19) Is Hiring. Help us make phone numbers programmable"
+          "id": "https://news.ycombinator.com/item?id=27286628",
+          "author": "LambdaComplex",
+          "description": "Article URL: https://mastodon.sdf.org/@kline/106299403921451814\nComments URL: https://news.ycombinator.com/item?id=27286628\nPoints: 68\n# Comments: 9",
+          "link": "https://mastodon.sdf.org/@kline/106299403921451814",
+          "publishedOn": "2021-05-26T05:11:32.000Z",
+          "wordCount": 771,
+          "title": "Freenode Ops Take Control of 700 Channels"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27281990",
-          "author": "notimetocry",
-          "description": "Article URL: https://twitter.com/TadeuszGiczan/status/1397200848145559552\nComments URL: https://news.ycombinator.com/item?id=27281990\nPoints: 88\n# Comments: 6",
-          "link": "https://twitter.com/TadeuszGiczan/status/1397200848145559552",
-          "publishedOn": "2021-05-25T20:14:04.000Z",
-          "wordCount": 196,
-          "title": "YouTube approves ad by Belarusian gov with journalist from hijackd Ryanair plane"
+          "id": "https://news.ycombinator.com/item?id=27286326",
+          "author": "dsr12",
+          "description": "Article URL: https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/\nComments URL: https://news.ycombinator.com/item?id=27286326\nPoints: 23\n# Comments: 0",
+          "link": "https://medicine.wustl.edu/news/good-news-mild-covid-19-induces-lasting-antibody-protection/",
+          "publishedOn": "2021-05-26T04:25:33.000Z",
+          "wordCount": 1615,
+          "title": "Mild Covid-19 induces lasting antibody protection"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27281043",
-          "author": "takahisah",
-          "description": "Article URL: https://www.tesla.com/support/transitioning-tesla-vision\nComments URL: https://news.ycombinator.com/item?id=27281043\nPoints: 20\n# Comments: 9",
-          "link": "https://www.tesla.com/support/transitioning-tesla-vision",
-          "publishedOn": "2021-05-25T19:08:31.000Z",
-          "wordCount": 644,
-          "title": "Transitioning to Tesla Vision"
+          "id": "https://news.ycombinator.com/item?id=27285700",
+          "author": "paulgerhardt",
+          "description": "Article URL: https://m1racles.com/\nComments URL: https://news.ycombinator.com/item?id=27285700\nPoints: 373\n# Comments: 106",
+          "link": "https://m1racles.com/",
+          "publishedOn": "2021-05-26T03:02:00.000Z",
+          "wordCount": 2330,
+          "title": "M1racles: An Apple M1 covert channel vulnerability"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27280815",
-          "author": "zakember",
-          "description": "Article URL: https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html\nComments URL: https://news.ycombinator.com/item?id=27280815\nPoints: 81\n# Comments: 66",
-          "link": "https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html",
-          "publishedOn": "2021-05-25T18:55:44.000Z",
-          "wordCount": 935,
-          "title": "Facebook, Twitter & Instagram can be banned in India tomorrow for non-compliance"
+          "id": "https://news.ycombinator.com/item?id=27285068",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/\nComments URL: https://news.ycombinator.com/item?id=27285068\nPoints: 41\n# Comments: 0",
+          "link": "https://www.scientificamerican.com/article/our-memory-is-even-better-than-experts-thought/",
+          "publishedOn": "2021-05-26T01:30:30.000Z",
+          "wordCount": 1278,
+          "title": "Our memory is better than experts thought"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27284846",
+          "author": "vignanv8",
+          "description": "Article URL: https://careers.atob.com/\nComments URL: https://news.ycombinator.com/item?id=27284846\nPoints: 1\n# Comments: 0",
+          "link": "https://careers.atob.com/",
+          "publishedOn": "2021-05-26T01:00:48.000Z",
+          "wordCount": 172,
+          "title": "AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27284800",
+          "author": "wilg",
+          "description": "Article URL: https://streetmix.net/\nComments URL: https://news.ycombinator.com/item?id=27284800\nPoints: 43\n# Comments: 2",
+          "link": "https://streetmix.net/",
+          "publishedOn": "2021-05-26T00:54:06.000Z",
+          "wordCount": 13,
+          "title": "Streetmix – A fun little urban design playground"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27284286",
+          "author": "danboarder",
+          "description": "Article URL: https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206\nComments URL: https://news.ycombinator.com/item?id=27284286\nPoints: 79\n# Comments: 13",
+          "link": "https://robotacademy.net.au/masterclass/introduction-to-robotics/?lesson=206",
+          "publishedOn": "2021-05-25T23:44:17.000Z",
+          "wordCount": 1047,
+          "title": "Introduction to Robotics"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27284224",
+          "author": "arkadiyt",
+          "description": "Article URL: https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/\nComments URL: https://news.ycombinator.com/item?id=27284224\nPoints: 127\n# Comments: 61",
+          "link": "https://therecord.media/thousands-of-chrome-extensions-are-tampering-with-security-headers/",
+          "publishedOn": "2021-05-25T23:38:28.000Z",
+          "wordCount": 842,
+          "title": "Chrome extensions are tampering with security headers"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27284124",
+          "author": "L-epstein",
+          "description": "Article URL: https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever\nComments URL: https://news.ycombinator.com/item?id=27284124\nPoints: 59\n# Comments: 12",
+          "link": "https://ae.studio/blog/how-our-slack-app-got-to-200k-users-with-no-marketing-whatsoever",
+          "publishedOn": "2021-05-25T23:27:39.000Z",
+          "wordCount": 1526,
+          "title": "How Our Slack App Got to 200K Users with No Marketing Whatsoever"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27283624",
+          "author": "pmoriarty",
+          "description": "Article URL: https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/\nComments URL: https://news.ycombinator.com/item?id=27283624\nPoints: 438\n# Comments: 353",
+          "link": "https://rarehistoricalphotos.com/vietnam-war-images-from-vietnamese-photographers/",
+          "publishedOn": "2021-05-25T22:36:35.000Z",
+          "wordCount": 1603,
+          "title": "Vietnam War images from the North Vietnamese side"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27282842",
+          "author": "koch",
+          "description": "Article URL: https://cascade.page\nComments URL: https://news.ycombinator.com/item?id=27282842\nPoints: 97\n# Comments: 11",
+          "link": "https://cascade.page",
+          "publishedOn": "2021-05-25T21:21:14.000Z",
+          "wordCount": 5,
+          "title": "Show HN: Cascade Timeline Maker"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27280567",
           "author": "moh_maya",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/\nComments URL: https://news.ycombinator.com/item?id=27280567\nPoints: 121\n# Comments: 89",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/\nComments URL: https://news.ycombinator.com/item?id=27280567\nPoints: 217\n# Comments: 205",
           "link": "https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/",
           "publishedOn": "2021-05-25T18:39:16.000Z",
           "wordCount": 1169,
-          "title": "Google launches its third major operating system, Fuchsia"
+          "title": "The Google Nest Hub is first commercial Fuchsia device"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27280174",
           "author": "leephillips",
-          "description": "Article URL: https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/\nComments URL: https://news.ycombinator.com/item?id=27280174\nPoints: 92\n# Comments: 40",
+          "description": "Article URL: https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/\nComments URL: https://news.ycombinator.com/item?id=27280174\nPoints: 153\n# Comments: 98",
           "link": "https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/",
           "publishedOn": "2021-05-25T18:07:01.000Z",
-          "wordCount": 3003,
+          "wordCount": 3283,
           "title": "Julia 1.6 addresses latency issues"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27280096",
           "author": "joeyespo",
-          "description": "Article URL: https://stripe.com/payments/payment-links\nComments URL: https://news.ycombinator.com/item?id=27280096\nPoints: 331\n# Comments: 134",
+          "description": "Article URL: https://stripe.com/payments/payment-links\nComments URL: https://news.ycombinator.com/item?id=27280096\nPoints: 791\n# Comments: 267",
           "link": "https://stripe.com/payments/payment-links",
           "publishedOn": "2021-05-25T18:00:30.000Z",
           "wordCount": 872,
           "title": "Stripe Payment Links"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27279735",
-          "author": "xingyzt",
-          "description": "Article URL: http://ndjson.org/\nComments URL: https://news.ycombinator.com/item?id=27279735\nPoints: 29\n# Comments: 10",
-          "link": "http://ndjson.org/",
-          "publishedOn": "2021-05-25T17:30:44.000Z",
-          "wordCount": 138,
-          "title": "Newline Delimited JSON"
+          "id": "https://news.ycombinator.com/item?id=27279913",
+          "author": "perardi",
+          "description": "Article URL: https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/\nComments URL: https://news.ycombinator.com/item?id=27279913\nPoints: 151\n# Comments: 156",
+          "link": "https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/",
+          "publishedOn": "2021-05-25T17:46:08.000Z",
+          "wordCount": 7960,
+          "title": "How inevitable is the concept of numbers?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27279043",
           "author": "kevinbowman",
-          "description": "Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/\nComments URL: https://news.ycombinator.com/item?id=27279043\nPoints: 156\n# Comments: 61",
+          "description": "Article URL: https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/\nComments URL: https://news.ycombinator.com/item?id=27279043\nPoints: 249\n# Comments: 149",
           "link": "https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/",
           "publishedOn": "2021-05-25T16:38:52.000Z",
           "wordCount": 1099,
           "title": "Siemens acquires Supplyframe, owners of Hackaday and Tindie"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27278559",
-          "author": "GranularRecipe",
-          "description": "Article URL: https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush\nComments URL: https://news.ycombinator.com/item?id=27278559\nPoints: 43\n# Comments: 18",
-          "link": "https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush",
-          "publishedOn": "2021-05-25T16:03:48.000Z",
-          "wordCount": 8703,
-          "title": "The Dark Side of Congo’s Cobalt Rush"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27278540",
           "author": "fqazi",
-          "description": "Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html\nComments URL: https://news.ycombinator.com/item?id=27278540\nPoints: 97\n# Comments: 14",
+          "description": "Article URL: https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html\nComments URL: https://news.ycombinator.com/item?id=27278540\nPoints: 159\n# Comments: 27",
           "link": "https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html",
           "publishedOn": "2021-05-25T16:02:06.000Z",
           "wordCount": 862,
@@ -693,83 +868,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27277819",
           "author": "mschrage",
-          "description": "Article URL: https://fig.io?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27277819\nPoints: 348\n# Comments: 263",
+          "description": "Article URL: https://fig.io?ref=hn\nComments URL: https://news.ycombinator.com/item?id=27277819\nPoints: 463\n# Comments: 326",
           "link": "https://fig.io?ref=hn",
           "publishedOn": "2021-05-25T15:09:02.000Z",
           "wordCount": 541,
           "title": "Launch HN: Fig (YC S20) – Autocomplete for the Terminal"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27277575",
-          "author": "xvilka",
-          "description": "Article URL: https://github.com/robert-strandh/Second-Climacs\nComments URL: https://news.ycombinator.com/item?id=27277575\nPoints: 79\n# Comments: 28",
-          "link": "https://github.com/robert-strandh/Second-Climacs",
-          "publishedOn": "2021-05-25T14:53:12.000Z",
-          "wordCount": 993,
-          "title": "Second Climacs – Emacs Implementation in Common Lisp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27277482",
-          "author": "tosh",
-          "description": "Article URL: https://clojurescript.org/news/2021-05-24-release\nComments URL: https://news.ycombinator.com/item?id=27277482\nPoints: 106\n# Comments: 29",
-          "link": "https://clojurescript.org/news/2021-05-24-release",
-          "publishedOn": "2021-05-25T14:46:27.000Z",
-          "wordCount": 396,
-          "title": "ClojureScript 1.10.866 Release"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27277329",
-          "author": "acdanger",
-          "description": "Article URL: https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/\nComments URL: https://news.ycombinator.com/item?id=27277329\nPoints: 215\n# Comments: 161",
-          "link": "https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/",
-          "publishedOn": "2021-05-25T14:35:51.000Z",
-          "wordCount": 1210,
-          "title": "Biodiversity decline will require millions of years to recover"
+          "id": "https://news.ycombinator.com/item?id=27277539",
+          "author": "lisper",
+          "description": "Article URL: https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality\nComments URL: https://news.ycombinator.com/item?id=27277539\nPoints: 73\n# Comments: 108",
+          "link": "https://www.npr.org/sections/therecord/2015/06/02/411473508/how-well-can-you-hear-audio-quality",
+          "publishedOn": "2021-05-25T14:50:23.000Z",
+          "wordCount": 482,
+          "title": "How Well Can You Hear Audio Quality? (2015)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27277035",
           "author": "benbreen",
-          "description": "Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel\nComments URL: https://news.ycombinator.com/item?id=27277035\nPoints: 102\n# Comments: 117",
+          "description": "Article URL: https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel\nComments URL: https://news.ycombinator.com/item?id=27277035\nPoints: 147\n# Comments: 160",
           "link": "https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel",
           "publishedOn": "2021-05-25T14:17:36.000Z",
           "wordCount": 1131,
           "title": "John Steinbeck’s estate urged to let the world read his shunned werewolf novel"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27276992",
-          "author": "swannodette",
-          "description": "Article URL: https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/\nComments URL: https://news.ycombinator.com/item?id=27276992\nPoints: 74\n# Comments: 6",
-          "link": "https://vouch.io/developing-mobile-digital-key-applications-with-clojurescript/",
-          "publishedOn": "2021-05-25T14:14:27.000Z",
-          "wordCount": 1010,
-          "title": "Developing mobile digital key applications with ClojureScript"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27276671",
-          "author": "seik",
-          "description": "Article URL: https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510\nComments URL: https://news.ycombinator.com/item?id=27276671\nPoints: 187\n# Comments: 100",
-          "link": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
-          "publishedOn": "2021-05-25T13:45:36.000Z",
-          "wordCount": 2631,
-          "title": "Arm Announces New Mobile Armv9 CPU Microarchitectures"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27276547",
-          "author": "tosh",
-          "description": "Article URL: https://www.buttoncheatsheet.com/\nComments URL: https://news.ycombinator.com/item?id=27276547\nPoints: 97\n# Comments: 44",
-          "link": "https://www.buttoncheatsheet.com/",
-          "publishedOn": "2021-05-25T13:32:22.000Z",
-          "wordCount": 508,
-          "title": "The Button Cheat Sheet"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27276400",
-          "author": "timdaub",
-          "description": "Article URL: https://timdaub.github.io/2020/02/19/wasm-synth/\nComments URL: https://news.ycombinator.com/item?id=27276400\nPoints: 142\n# Comments: 41",
-          "link": "https://timdaub.github.io/2020/02/19/wasm-synth/",
-          "publishedOn": "2021-05-25T13:15:48.000Z",
-          "wordCount": 4168,
-          "title": "WASM SYNTH, or, how music taught me the beauty of math"
         }
       ]
     },
@@ -784,7 +905,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2514,
+          "wordCount": 2513,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -793,7 +914,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3817,
+          "wordCount": 3819,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -802,7 +923,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1964,
+          "wordCount": 1965,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -811,7 +932,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2068,
+          "wordCount": 2066,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -820,7 +941,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1922,
+          "wordCount": 1925,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -829,7 +950,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1724,
+          "wordCount": 1729,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -838,7 +959,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1872,
+          "wordCount": 1873,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         },
         {
@@ -847,11 +968,11 @@
           "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More",
           "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
           "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1743,
+          "wordCount": 1748,
           "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
     }
   ],
-  "cliVersion": "1.8.1"
+  "cliVersion": "1.9.0"
 }
