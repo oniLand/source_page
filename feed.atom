@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-27T08:39:53.628Z</id>
+    <id>urn:2021-05-27T09:36:02.029Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T08:39:53.628Z</updated>
+    <updated>2021-05-27T09:36:02.029Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[‘Bomb Threat' That Justified Belarus Hijacking Came 24 Minutes *After* Hijacking]]></title>
+        <id>https://news.ycombinator.com/item?id=27300469</id>
+        <link href="https://www.thedailybeast.com/bomb-threat-cited-in-belarus-hijacking-came-24-minutes-after"/>
+        <updated>2021-05-27T07:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thedailybeast.com/bomb-threat-cited-in-belarus-hijacking-came-24-minutes-after
+Comments URL: https://news.ycombinator.com/item?id=27300469
+Points: 15
+# Comments: 2]]></summary>
+        <author>
+            <name>maratc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Promoted.ai (YC W21) Is Hiring SRE/DevOps]]></title>
         <id>https://news.ycombinator.com/item?id=27300206</id>
@@ -25,8 +38,8 @@ Points: 1
         <updated>2021-05-27T06:31:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/billmckibben/status/1397635499611889664
 Comments URL: https://news.ycombinator.com/item?id=27300043
-Points: 18
-# Comments: 21]]></summary>
+Points: 39
+# Comments: 44]]></summary>
         <author>
             <name>chha</name>
         </author>
@@ -38,8 +51,8 @@ Points: 18
         <updated>2021-05-27T05:56:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rachelbythebay.com/w/2021/05/26/irc/
 Comments URL: https://news.ycombinator.com/item?id=27299839
-Points: 25
-# Comments: 1]]></summary>
+Points: 36
+# Comments: 3]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -51,8 +64,8 @@ Points: 25
         <updated>2021-05-27T03:00:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.well.com/
 Comments URL: https://news.ycombinator.com/item?id=27298862
-Points: 45
-# Comments: 31]]></summary>
+Points: 49
+# Comments: 32]]></summary>
         <author>
             <name>graderjs</name>
         </author>
@@ -64,8 +77,8 @@ Points: 45
         <updated>2021-05-27T01:45:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/OpenHD/Open.HD
 Comments URL: https://news.ycombinator.com/item?id=27298422
-Points: 119
-# Comments: 18]]></summary>
+Points: 131
+# Comments: 22]]></summary>
         <author>
             <name>danboarder</name>
         </author>
@@ -77,8 +90,8 @@ Points: 119
         <updated>2021-05-27T01:31:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd
 Comments URL: https://news.ycombinator.com/item?id=27298343
-Points: 38
-# Comments: 27]]></summary>
+Points: 42
+# Comments: 34]]></summary>
         <author>
             <name>mbellotti</name>
         </author>
@@ -90,8 +103,8 @@ Points: 38
         <updated>2021-05-27T00:01:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://river-runner.samlearner.com/
 Comments URL: https://news.ycombinator.com/item?id=27297689
-Points: 272
-# Comments: 35]]></summary>
+Points: 314
+# Comments: 39]]></summary>
         <author>
             <name>prawn</name>
         </author>
@@ -107,27 +120,14 @@ Points: 272
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can't have too many angels]]></title>
-        <id>https://news.ycombinator.com/item?id=27296330</id>
-        <link href="https://waseem.substack.com/p/you-cant-have-too-many-angels"/>
-        <updated>2021-05-26T21:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels
-Comments URL: https://news.ycombinator.com/item?id=27296330
-Points: 104
-# Comments: 58]]></summary>
-        <author>
-            <name>wdaher</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Collusion rings threaten the integrity of computer science research]]></title>
         <id>https://news.ycombinator.com/item?id=27295906</id>
         <link href="https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext"/>
         <updated>2021-05-26T20:49:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext
 Comments URL: https://news.ycombinator.com/item?id=27295906
-Points: 542
-# Comments: 285]]></summary>
+Points: 566
+# Comments: 304]]></summary>
         <author>
             <name>djoldman</name>
         </author>
@@ -139,8 +139,8 @@ Points: 542
         <updated>2021-05-26T19:21:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/
 Comments URL: https://news.ycombinator.com/item?id=27294890
-Points: 295
-# Comments: 81]]></summary>
+Points: 307
+# Comments: 83]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -152,8 +152,8 @@ Points: 295
         <updated>2021-05-26T18:45:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://oxide.computer
 Comments URL: https://news.ycombinator.com/item?id=27294471
-Points: 759
-# Comments: 214]]></summary>
+Points: 776
+# Comments: 220]]></summary>
         <author>
             <name>ykl</name>
         </author>
@@ -165,7 +165,7 @@ Points: 759
         <updated>2021-05-26T18:39:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 Comments URL: https://news.ycombinator.com/item?id=27294401
-Points: 143
+Points: 148
 # Comments: 30]]></summary>
         <author>
             <name>panabee</name>
@@ -178,7 +178,7 @@ Points: 143
         <updated>2021-05-26T18:35:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm
 Comments URL: https://news.ycombinator.com/item?id=27294355
-Points: 70
+Points: 72
 # Comments: 8]]></summary>
         <author>
             <name>rmason</name>
@@ -211,8 +211,8 @@ Points: 70
         <updated>2021-05-26T17:59:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.findareddit.com/
 Comments URL: https://news.ycombinator.com/item?id=27293902
-Points: 321
-# Comments: 157]]></summary>
+Points: 335
+# Comments: 161]]></summary>
         <author>
             <name>thisissidhant</name>
         </author>
@@ -249,8 +249,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T17:43:06.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://openai.com/fund/
 Comments URL: https://news.ycombinator.com/item?id=27293676
-Points: 188
-# Comments: 91]]></summary>
+Points: 190
+# Comments: 96]]></summary>
         <author>
             <name>cl42</name>
         </author>
@@ -262,8 +262,8 @@ Points: 188
         <updated>2021-05-26T17:03:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/
 Comments URL: https://news.ycombinator.com/item?id=27293108
-Points: 90
-# Comments: 52]]></summary>
+Points: 93
+# Comments: 53]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -285,8 +285,8 @@ Points: 90
         <updated>2021-05-26T16:00:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code
 Comments URL: https://news.ycombinator.com/item?id=27292219
-Points: 301
-# Comments: 159]]></summary>
+Points: 316
+# Comments: 172]]></summary>
         <author>
             <name>its_nikita</name>
         </author>
@@ -308,8 +308,8 @@ Points: 301
         <updated>2021-05-26T14:56:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://crispgm.com/page/neovim-is-overpowering.html
 Comments URL: https://news.ycombinator.com/item?id=27291302
-Points: 675
-# Comments: 369]]></summary>
+Points: 681
+# Comments: 375]]></summary>
         <author>
             <name>imbnwa</name>
         </author>
@@ -354,8 +354,8 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-26T12:13:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/
 Comments URL: https://news.ycombinator.com/item?id=27289479
-Points: 58
-# Comments: 26]]></summary>
+Points: 61
+# Comments: 28]]></summary>
         <author>
             <name>ryan_j_naughton</name>
         </author>
@@ -367,8 +367,8 @@ Points: 58
         <updated>2021-05-26T11:43:58.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch
 Comments URL: https://news.ycombinator.com/item?id=27289213
-Points: 75
-# Comments: 16]]></summary>
+Points: 83
+# Comments: 20]]></summary>
         <author>
             <name>azhenley</name>
         </author>
@@ -1019,16 +1019,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales]]></title>
-        <id>https://www.geekwire.com/?p=617098</id>
-        <link href="https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/"/>
-        <updated>2021-04-27T21:32:53.000Z</updated>
-        <summary type="html"><![CDATA[As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More]]></summary>
-        <author>
-            <name>Thomas Wilde</name>
         </author>
     </entry>
 </feed>

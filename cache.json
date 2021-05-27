@@ -126,7 +126,7 @@
           "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
           "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 3456,
+          "wordCount": 3573,
           "title": "A Thorough Analysis of CSS-in-JS"
         },
         {
@@ -189,7 +189,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3658,
+          "wordCount": 3553,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -713,6 +713,15 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27300469",
+          "author": "maratc",
+          "description": "Article URL: https://www.thedailybeast.com/bomb-threat-cited-in-belarus-hijacking-came-24-minutes-after\nComments URL: https://news.ycombinator.com/item?id=27300469\nPoints: 15\n# Comments: 2",
+          "link": "https://www.thedailybeast.com/bomb-threat-cited-in-belarus-hijacking-came-24-minutes-after",
+          "publishedOn": "2021-05-27T07:57:35.000Z",
+          "wordCount": null,
+          "title": "‘Bomb Threat' That Justified Belarus Hijacking Came 24 Minutes *After* Hijacking"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27300206",
           "author": "andrewyates2020",
           "description": "Article URL: https://www.workatastartup.com/jobs/43955\nComments URL: https://news.ycombinator.com/item?id=27300206\nPoints: 1\n# Comments: 0",
@@ -724,7 +733,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27300043",
           "author": "chha",
-          "description": "Article URL: https://twitter.com/billmckibben/status/1397635499611889664\nComments URL: https://news.ycombinator.com/item?id=27300043\nPoints: 18\n# Comments: 21",
+          "description": "Article URL: https://twitter.com/billmckibben/status/1397635499611889664\nComments URL: https://news.ycombinator.com/item?id=27300043\nPoints: 39\n# Comments: 44",
           "link": "https://twitter.com/billmckibben/status/1397635499611889664",
           "publishedOn": "2021-05-27T06:31:15.000Z",
           "wordCount": 196,
@@ -733,7 +742,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27299839",
           "author": "Tomte",
-          "description": "Article URL: https://rachelbythebay.com/w/2021/05/26/irc/\nComments URL: https://news.ycombinator.com/item?id=27299839\nPoints: 25\n# Comments: 1",
+          "description": "Article URL: https://rachelbythebay.com/w/2021/05/26/irc/\nComments URL: https://news.ycombinator.com/item?id=27299839\nPoints: 36\n# Comments: 3",
           "link": "https://rachelbythebay.com/w/2021/05/26/irc/",
           "publishedOn": "2021-05-27T05:56:46.000Z",
           "wordCount": 585,
@@ -742,7 +751,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27298862",
           "author": "graderjs",
-          "description": "Article URL: https://www.well.com/\nComments URL: https://news.ycombinator.com/item?id=27298862\nPoints: 45\n# Comments: 31",
+          "description": "Article URL: https://www.well.com/\nComments URL: https://news.ycombinator.com/item?id=27298862\nPoints: 49\n# Comments: 32",
           "link": "https://www.well.com/",
           "publishedOn": "2021-05-27T03:00:47.000Z",
           "wordCount": null,
@@ -751,7 +760,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27298422",
           "author": "danboarder",
-          "description": "Article URL: https://github.com/OpenHD/Open.HD\nComments URL: https://news.ycombinator.com/item?id=27298422\nPoints: 119\n# Comments: 18",
+          "description": "Article URL: https://github.com/OpenHD/Open.HD\nComments URL: https://news.ycombinator.com/item?id=27298422\nPoints: 131\n# Comments: 22",
           "link": "https://github.com/OpenHD/Open.HD",
           "publishedOn": "2021-05-27T01:45:11.000Z",
           "wordCount": 1135,
@@ -760,7 +769,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27298343",
           "author": "mbellotti",
-          "description": "Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd\nComments URL: https://news.ycombinator.com/item?id=27298343\nPoints: 38\n# Comments: 27",
+          "description": "Article URL: https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd\nComments URL: https://news.ycombinator.com/item?id=27298343\nPoints: 42\n# Comments: 34",
           "link": "https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd",
           "publishedOn": "2021-05-27T01:31:19.000Z",
           "wordCount": 2528,
@@ -769,34 +778,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27297689",
           "author": "prawn",
-          "description": "Article URL: https://river-runner.samlearner.com/\nComments URL: https://news.ycombinator.com/item?id=27297689\nPoints: 272\n# Comments: 35",
+          "description": "Article URL: https://river-runner.samlearner.com/\nComments URL: https://news.ycombinator.com/item?id=27297689\nPoints: 314\n# Comments: 39",
           "link": "https://river-runner.samlearner.com/",
           "publishedOn": "2021-05-27T00:01:50.000Z",
           "wordCount": 4,
           "title": "River Runner: drop a raindrop anywhere in the USA, watch where it ends up"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27296330",
-          "author": "wdaher",
-          "description": "Article URL: https://waseem.substack.com/p/you-cant-have-too-many-angels\nComments URL: https://news.ycombinator.com/item?id=27296330\nPoints: 104\n# Comments: 58",
-          "link": "https://waseem.substack.com/p/you-cant-have-too-many-angels",
-          "publishedOn": "2021-05-26T21:26:35.000Z",
-          "wordCount": 1059,
-          "title": "You can't have too many angels"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27295906",
           "author": "djoldman",
-          "description": "Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext\nComments URL: https://news.ycombinator.com/item?id=27295906\nPoints: 542\n# Comments: 285",
+          "description": "Article URL: https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext\nComments URL: https://news.ycombinator.com/item?id=27295906\nPoints: 566\n# Comments: 304",
           "link": "https://m-cacm.acm.org/magazines/2021/6/252840-collusion-rings-threaten-the-integrity-of-computer-science-research/fulltext",
           "publishedOn": "2021-05-26T20:49:16.000Z",
-          "wordCount": 1564,
+          "wordCount": 1557,
           "title": "Collusion rings threaten the integrity of computer science research"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27294890",
           "author": "todsacerdoti",
-          "description": "Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/\nComments URL: https://news.ycombinator.com/item?id=27294890\nPoints: 295\n# Comments: 81",
+          "description": "Article URL: https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/\nComments URL: https://news.ycombinator.com/item?id=27294890\nPoints: 307\n# Comments: 83",
           "link": "https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/",
           "publishedOn": "2021-05-26T19:21:28.000Z",
           "wordCount": 1152,
@@ -805,7 +805,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27294471",
           "author": "ykl",
-          "description": "Article URL: https://oxide.computer\nComments URL: https://news.ycombinator.com/item?id=27294471\nPoints: 759\n# Comments: 214",
+          "description": "Article URL: https://oxide.computer\nComments URL: https://news.ycombinator.com/item?id=27294471\nPoints: 776\n# Comments: 220",
           "link": "https://oxide.computer",
           "publishedOn": "2021-05-26T18:45:35.000Z",
           "wordCount": 762,
@@ -814,7 +814,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27294401",
           "author": "panabee",
-          "description": "Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly\nComments URL: https://news.ycombinator.com/item?id=27294401\nPoints: 143\n# Comments: 30",
+          "description": "Article URL: https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly\nComments URL: https://news.ycombinator.com/item?id=27294401\nPoints: 148\n# Comments: 30",
           "link": "https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly",
           "publishedOn": "2021-05-26T18:39:40.000Z",
           "wordCount": 1325,
@@ -823,7 +823,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27294355",
           "author": "rmason",
-          "description": "Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm\nComments URL: https://news.ycombinator.com/item?id=27294355\nPoints: 70\n# Comments: 8",
+          "description": "Article URL: https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm\nComments URL: https://news.ycombinator.com/item?id=27294355\nPoints: 72\n# Comments: 8",
           "link": "https://www.bennadel.com/blog/4054-using-the-x-amzn-trace-id-header-for-request-tracing-through-amazons-load-balancers.htm",
           "publishedOn": "2021-05-26T18:35:43.000Z",
           "wordCount": 768,
@@ -832,7 +832,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27293902",
           "author": "thisissidhant",
-          "description": "Article URL: https://www.findareddit.com/\nComments URL: https://news.ycombinator.com/item?id=27293902\nPoints: 321\n# Comments: 157",
+          "description": "Article URL: https://www.findareddit.com/\nComments URL: https://news.ycombinator.com/item?id=27293902\nPoints: 335\n# Comments: 161",
           "link": "https://www.findareddit.com/",
           "publishedOn": "2021-05-26T17:59:47.000Z",
           "wordCount": 1839,
@@ -841,7 +841,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27293676",
           "author": "cl42",
-          "description": "Article URL: https://openai.com/fund/\nComments URL: https://news.ycombinator.com/item?id=27293676\nPoints: 188\n# Comments: 91",
+          "description": "Article URL: https://openai.com/fund/\nComments URL: https://news.ycombinator.com/item?id=27293676\nPoints: 190\n# Comments: 96",
           "link": "https://openai.com/fund/",
           "publishedOn": "2021-05-26T17:43:06.000Z",
           "wordCount": 472,
@@ -850,7 +850,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27293108",
           "author": "jayp1418",
-          "description": "Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/\nComments URL: https://news.ycombinator.com/item?id=27293108\nPoints: 90\n# Comments: 52",
+          "description": "Article URL: https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/\nComments URL: https://news.ycombinator.com/item?id=27293108\nPoints: 93\n# Comments: 53",
           "link": "https://rubenerd.com/using-netbsds-pkgsrc-everywhere-i-can/",
           "publishedOn": "2021-05-26T17:03:16.000Z",
           "wordCount": 703,
@@ -859,7 +859,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27292219",
           "author": "its_nikita",
-          "description": "Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code\nComments URL: https://news.ycombinator.com/item?id=27292219\nPoints: 301\n# Comments: 159",
+          "description": "Article URL: https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code\nComments URL: https://news.ycombinator.com/item?id=27292219\nPoints: 316\n# Comments: 172",
           "link": "https://blog.nikitas.link/have-you-ever-hurt-yourself-from-your-own-code",
           "publishedOn": "2021-05-26T16:00:27.000Z",
           "wordCount": 1447,
@@ -868,7 +868,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27291302",
           "author": "imbnwa",
-          "description": "Article URL: https://crispgm.com/page/neovim-is-overpowering.html\nComments URL: https://news.ycombinator.com/item?id=27291302\nPoints: 675\n# Comments: 369",
+          "description": "Article URL: https://crispgm.com/page/neovim-is-overpowering.html\nComments URL: https://news.ycombinator.com/item?id=27291302\nPoints: 681\n# Comments: 375",
           "link": "https://crispgm.com/page/neovim-is-overpowering.html",
           "publishedOn": "2021-05-26T14:56:41.000Z",
           "wordCount": 1034,
@@ -877,16 +877,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27289479",
           "author": "ryan_j_naughton",
-          "description": "Article URL: https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/\nComments URL: https://news.ycombinator.com/item?id=27289479\nPoints: 58\n# Comments: 26",
+          "description": "Article URL: https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/\nComments URL: https://news.ycombinator.com/item?id=27289479\nPoints: 61\n# Comments: 28",
           "link": "https://www.smithsonianmag.com/science-nature/why-ecologists-are-haunted-rapid-growth-ghost-forests-180977674/",
           "publishedOn": "2021-05-26T12:13:22.000Z",
-          "wordCount": 2150,
+          "wordCount": 2145,
           "title": "A study in North Carolina of dying trees"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27289213",
           "author": "azhenley",
-          "description": "Article URL: https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch\nComments URL: https://news.ycombinator.com/item?id=27289213\nPoints: 75\n# Comments: 16",
+          "description": "Article URL: https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch\nComments URL: https://news.ycombinator.com/item?id=27289213\nPoints: 83\n# Comments: 20",
           "link": "https://spectrum.ieee.org/geek-life/hands-on/build-a-riscv-cpu-from-scratch",
           "publishedOn": "2021-05-26T11:43:58.000Z",
           "wordCount": 44,
@@ -905,7 +905,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1938,
+          "wordCount": 1939,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -914,7 +914,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2515,
+          "wordCount": 2519,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -970,15 +970,6 @@
           "publishedOn": "2021-04-29T21:46:15.000Z",
           "wordCount": 1877,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
-        },
-        {
-          "id": "https://www.geekwire.com/?p=617098",
-          "author": "Thomas Wilde",
-          "description": "As per the company’s fiscal third quarter earnings report, Microsoft’s Xbox division posted $3.6 billion in revenue, up 50% year-over-year. Microsoft also reported a 232% increase in overall gaming hardware revenue, which it attributes to continued high demand for the Xbox Series X|S. Its ninth-generation console hit store shelves in November and quickly sold out, though some of that has to be attributed to its consistent supply issues. Microsoft does not include specific hardware revenue numbers in its earnings, and has not revealed sales data for its Xbox Series X|S consoles. Its competitor, the PlayStation 5, is the fastest-selling console in… Read More",
-          "link": "https://www.geekwire.com/2021/despite-xbox-shortages-microsoft-reports-3-6b-q3-gaming-revenue-232-growth-hardware-sales/",
-          "publishedOn": "2021-04-27T21:32:53.000Z",
-          "wordCount": 1746,
-          "title": "Despite Xbox shortages, Microsoft reports $3.6B in Q3 gaming revenue, 232% growth in hardware sales"
         }
       ]
     }
