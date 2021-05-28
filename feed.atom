@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T07:03:24.354Z</id>
+    <id>urn:2021-05-28T08:44:20.298Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T07:03:24.354Z</updated>
+    <updated>2021-05-28T08:44:20.298Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Replacements for existing software written in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27312564</id>
+        <link href="https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust"/>
+        <updated>2021-05-28T07:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/TaKO8Ki/awesome-rewrite-it-in-rust
+Comments URL: https://news.ycombinator.com/item?id=27312564
+Points: 23
+# Comments: 19]]></summary>
+        <author>
+            <name>prabir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taktile (YC S20) Is Hiring Junior Front End Developer (F/M/D)]]></title>
+        <id>https://news.ycombinator.com/item?id=27312503</id>
+        <link href="https://www.workatastartup.com/jobs/44231"/>
+        <updated>2021-05-28T07:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/44231
+Comments URL: https://news.ycombinator.com/item?id=27312503
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>wizardfish323</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Did preparing for LeetCode type of interviews improve your skills?]]></title>
+        <id>https://news.ycombinator.com/item?id=27312265</id>
+        <link href="https://news.ycombinator.com/item?id=27312265"/>
+        <updated>2021-05-28T06:13:42.000Z</updated>
+        <summary type="html"><![CDATA[I'm not new to the field and I have nearly a decade years of experience under my belt. I'm currently job hunting and decided I'm not gonna shy away from LeetCode type of interviews as before (I used to refuse to proceed with any company that had this as part of their interview process) and actually give it a shot.
+As I'm doing some Hackerrank/LeetCode exercises, I'm actually enjoying solving these puzzles. I'm wondering if anyone who went through this prepping for an interview ended up being technically better overall. I know that I rarely needed this kind of skill in my career, but also I'm wondering if there were cases where I did need them and I didn't know.
+Cheers!
+Comments URL: https://news.ycombinator.com/item?id=27312265
+Points: 40
+# Comments: 30]]></summary>
+        <author>
+            <name>wreath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mars Helicopter Lands Safely After Serious In-Flight Anomaly]]></title>
+        <id>https://news.ycombinator.com/item?id=27312169</id>
+        <link href="https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly"/>
+        <updated>2021-05-28T05:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly
+Comments URL: https://news.ycombinator.com/item?id=27312169
+Points: 90
+# Comments: 28]]></summary>
+        <author>
+            <name>tmfi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boring Avatars – react library to generate custom avatars]]></title>
         <id>https://news.ycombinator.com/item?id=27311964</id>
@@ -12,8 +66,8 @@
         <updated>2021-05-28T05:15:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://boringavatars.com/
 Comments URL: https://news.ycombinator.com/item?id=27311964
-Points: 21
-# Comments: 6]]></summary>
+Points: 94
+# Comments: 18]]></summary>
         <author>
             <name>arnklint</name>
         </author>
@@ -25,8 +79,8 @@ Points: 21
         <updated>2021-05-28T04:06:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://htmlparser.info/
 Comments URL: https://news.ycombinator.com/item?id=27311627
-Points: 27
-# Comments: 13]]></summary>
+Points: 50
+# Comments: 23]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
@@ -38,8 +92,8 @@ Points: 27
         <updated>2021-05-28T04:00:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/
 Comments URL: https://news.ycombinator.com/item?id=27311594
-Points: 25
-# Comments: 9]]></summary>
+Points: 33
+# Comments: 10]]></summary>
         <author>
             <name>marcodiego</name>
         </author>
@@ -51,8 +105,8 @@ Points: 25
         <updated>2021-05-28T02:46:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ma.tt/2021/05/wordpress-18/
 Comments URL: https://news.ycombinator.com/item?id=27311198
-Points: 113
-# Comments: 77]]></summary>
+Points: 144
+# Comments: 107]]></summary>
         <author>
             <name>gmays</name>
         </author>
@@ -64,33 +118,10 @@ Points: 113
         <updated>2021-05-28T01:08:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html
 Comments URL: https://news.ycombinator.com/item?id=27310645
-Points: 19
-# Comments: 2]]></summary>
+Points: 22
+# Comments: 5]]></summary>
         <author>
             <name>merlinscholz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring a Technical End User Documentation Writer]]></title>
-        <id>https://news.ycombinator.com/item?id=27310586</id>
-        <link href="https://news.ycombinator.com/item?id=27310586"/>
-        <updated>2021-05-28T01:00:14.000Z</updated>
-        <summary type="html"><![CDATA[We are looking for a technical writer to take our technical product documentation to the next level, and help us maintain it on an ongoing basis.
-The project is 2-3 months half-time to start, and then a few hours a week following that.
-What you are going to do:
-- Build out large sections of our end user documentation, making the site comprehensive and intuitive.
-- Work closely with our engineering team to become an expert user of our product and extract insights
-- Interview our engineers and users in order to create tutorials for appropriate topics
-What we want to see in you:
-- Experience writing end user documentation sites that include UI how-tos, at least one, ideally two or more.
-- Experience writing and understanding for highly technical software products.
-- High degree of user empathy - our docs will take hard technical concepts and translate to language that is a pleasure to read.
-To apply, send your resume to jobs@etleap.com.
-Comments URL: https://news.ycombinator.com/item?id=27310586
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>romming</name>
         </author>
     </entry>
     <entry>
@@ -100,8 +131,8 @@ Points: 1
         <updated>2021-05-28T00:25:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000
 Comments URL: https://news.ycombinator.com/item?id=27310349
-Points: 291
-# Comments: 67]]></summary>
+Points: 349
+# Comments: 92]]></summary>
         <author>
             <name>blucell</name>
         </author>
@@ -113,23 +144,10 @@ Points: 291
         <updated>2021-05-28T00:12:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ClickHouse/ClickHouse
 Comments URL: https://news.ycombinator.com/item?id=27310247
-Points: 68
-# Comments: 5]]></summary>
+Points: 92
+# Comments: 10]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stuffed Dormouse and Fish Gut Sauce: The Flavors of Pompeii (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27310179</id>
-        <link href="https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html"/>
-        <updated>2021-05-28T00:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2019/08/07/arts/design/rome-food-last-supper-in-pompeii.html
-Comments URL: https://news.ycombinator.com/item?id=27310179
-Points: 20
-# Comments: 17]]></summary>
-        <author>
-            <name>diodorus</name>
         </author>
     </entry>
     <entry>
@@ -139,8 +157,8 @@ Points: 20
         <updated>2021-05-27T21:48:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://macwright.com/2020/05/10/spa-fatigue.html
 Comments URL: https://news.ycombinator.com/item?id=27308982
-Points: 232
-# Comments: 177]]></summary>
+Points: 255
+# Comments: 195]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -152,8 +170,8 @@ Points: 232
         <updated>2021-05-27T20:28:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.celinehh.com/seed-raise-how-to
 Comments URL: https://news.ycombinator.com/item?id=27307977
-Points: 189
-# Comments: 142]]></summary>
+Points: 214
+# Comments: 167]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -165,8 +183,8 @@ Points: 189
         <updated>2021-05-27T19:50:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://stopa.io/post/265?repost=true
 Comments URL: https://news.ycombinator.com/item?id=27307388
-Points: 105
-# Comments: 66]]></summary>
+Points: 113
+# Comments: 75]]></summary>
         <author>
             <name>codetrotter</name>
         </author>
@@ -178,8 +196,8 @@ Points: 105
         <updated>2021-05-27T19:34:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.slowboring.com/p/the-medias-lab-leak-fiasco
 Comments URL: https://news.ycombinator.com/item?id=27307175
-Points: 391
-# Comments: 557]]></summary>
+Points: 418
+# Comments: 579]]></summary>
         <author>
             <name>ksec</name>
         </author>
@@ -210,58 +228,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stacked Git – manage commits as a stack of patches]]></title>
-        <id>https://news.ycombinator.com/item?id=27305521</id>
-        <link href="https://stacked-git.github.io/"/>
-        <updated>2021-05-27T17:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stacked-git.github.io/
-Comments URL: https://news.ycombinator.com/item?id=27305521
-Points: 128
-# Comments: 69]]></summary>
-        <author>
-            <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manifest v3 Update]]></title>
-        <id>https://news.ycombinator.com/item?id=27305127</id>
-        <link href="https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/"/>
-        <updated>2021-05-27T16:47:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/addons/2021/05/27/manifest-v3-update/
-Comments URL: https://news.ycombinator.com/item?id=27305127
-Points: 168
-# Comments: 67]]></summary>
-        <author>
-            <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Egyptian Circumnavigation of Africa ~600 BC]]></title>
-        <id>https://news.ycombinator.com/item?id=27305022</id>
-        <link href="https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/"/>
-        <updated>2021-05-27T16:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.livius.org/sources/content/herodotus/herodotus-on-the-first-circumnavigation-of-africa/
-Comments URL: https://news.ycombinator.com/item?id=27305022
-Points: 202
-# Comments: 115]]></summary>
-        <author>
-            <name>KhoomeiK</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V8 Sparkplug – A non-optimizing JavaScript compiler]]></title>
-        <id>https://news.ycombinator.com/item?id=27304808</id>
-        <link href="https://v8.dev/blog/sparkplug"/>
-        <updated>2021-05-27T16:19:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://v8.dev/blog/sparkplug
-Comments URL: https://news.ycombinator.com/item?id=27304808
-Points: 267
-# Comments: 107]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
         <id>60a325c6906c5207e3a7da25</id>
         <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
@@ -278,8 +244,8 @@ Points: 267
         <updated>2021-05-27T14:54:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://antiqueradio.org/welcome.htm
 Comments URL: https://news.ycombinator.com/item?id=27303881
-Points: 104
-# Comments: 31]]></summary>
+Points: 110
+# Comments: 32]]></summary>
         <author>
             <name>js2</name>
         </author>
@@ -291,8 +257,8 @@ Points: 104
         <updated>2021-05-27T14:47:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/nocodb/nocodb
 Comments URL: https://news.ycombinator.com/item?id=27303783
-Points: 461
-# Comments: 128]]></summary>
+Points: 481
+# Comments: 132]]></summary>
         <author>
             <name>nocodb</name>
         </author>
@@ -338,10 +304,23 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-27T12:16:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634
 Comments URL: https://news.ycombinator.com/item?id=27302074
-Points: 740
-# Comments: 210]]></summary>
+Points: 763
+# Comments: 213]]></summary>
         <author>
             <name>eevilspock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experiments validate the possibility of helium rain inside Jupiter and Saturn]]></title>
+        <id>https://news.ycombinator.com/item?id=27301129</id>
+        <link href="https://phys.org/news/2021-05-validate-possibility-helium-jupiter-saturn.html"/>
+        <updated>2021-05-27T10:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-validate-possibility-helium-jupiter-saturn.html
+Comments URL: https://news.ycombinator.com/item?id=27301129
+Points: 26
+# Comments: 0]]></summary>
+        <author>
+            <name>dnetesn</name>
         </author>
     </entry>
     <entry>
@@ -352,6 +331,19 @@ Points: 740
         <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog about what you've struggled with]]></title>
+        <id>https://news.ycombinator.com/item?id=27300566</id>
+        <link href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"/>
+        <updated>2021-05-27T08:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/
+Comments URL: https://news.ycombinator.com/item?id=27300566
+Points: 143
+# Comments: 34]]></summary>
+        <author>
+            <name>yesenadam</name>
         </author>
     </entry>
     <entry>
