@@ -216,7 +216,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3553,
+          "wordCount": 3658,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -250,7 +250,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10212,
+          "wordCount": 10226,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -264,7 +264,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3733,
+          "wordCount": 3743,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -348,7 +348,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9436,
+          "wordCount": 9441,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -376,7 +376,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1956,
+          "wordCount": 1966,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -432,7 +432,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2948,
+          "wordCount": 2943,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -446,7 +446,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2430,
+          "wordCount": 2432,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -516,7 +516,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6347,
+          "wordCount": 6310,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -530,7 +530,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4172,
+          "wordCount": 4166,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -544,7 +544,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2659,
+          "wordCount": 2664,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -558,7 +558,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2347,
+          "wordCount": 2338,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -572,7 +572,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1837,
+          "wordCount": 1846,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -614,7 +614,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2186,
+          "wordCount": 2178,
           "title": "May Is In The Air (2021 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
@@ -628,7 +628,7 @@
           "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
+          "wordCount": 5367,
           "title": "The Humble `<img>` Element And Core Web Vitals",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ec5e4a-099e-4a1a-a1a3-b7545835520f/26-humble-img-element-and-core-web-vitals.png",
@@ -741,6 +741,33 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27315074",
+          "author": "azth",
+          "description": "Article URL: https://www.nature.com/articles/d41586-021-01442-9\nComments URL: https://news.ycombinator.com/item?id=27315074\nPoints: 20\n# Comments: 8",
+          "link": "https://www.nature.com/articles/d41586-021-01442-9",
+          "publishedOn": "2021-05-28T13:27:47.000Z",
+          "wordCount": 1515,
+          "title": "Had Covid? You’ll probably make antibodies for a lifetime"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27314922",
+          "author": "graderjs",
+          "description": "Article URL: https://www.mysterywire.com/ufo/ufos-swarm-uss-omaha/\nComments URL: https://news.ycombinator.com/item?id=27314922\nPoints: 36\n# Comments: 40",
+          "link": "https://www.mysterywire.com/ufo/ufos-swarm-uss-omaha/",
+          "publishedOn": "2021-05-28T13:10:50.000Z",
+          "wordCount": 6225,
+          "title": "Radar data confirms: USS Omaha was surrounded by swarm of UFOs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27314881",
+          "author": "graderjs",
+          "description": "Article URL: https://twitter.com/JeremyCorbell/status/1397991804130131969\nComments URL: https://news.ycombinator.com/item?id=27314881\nPoints: 8\n# Comments: 2",
+          "link": "https://twitter.com/JeremyCorbell/status/1397991804130131969",
+          "publishedOn": "2021-05-28T13:05:01.000Z",
+          "wordCount": 196,
+          "title": "In 2019 US Navy warships were swarmed by UFOs"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27314332",
           "author": "anishdhar",
           "description": "Article URL: https://www.workatastartup.com/jobs/29595\nComments URL: https://news.ycombinator.com/item?id=27314332\nPoints: 1\n# Comments: 0",
@@ -750,18 +777,18 @@
           "title": "Cortex (YC W20) Is Hiring Founding Engineers"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27313940",
-          "author": "premium-komodo",
-          "description": "Article URL: https://www.worldtribune.com/literally-criminal-suppressing-data-on-ivermectin-cost-half-a-million-lives-doctor-charges/\nComments URL: https://news.ycombinator.com/item?id=27313940\nPoints: 15\n# Comments: 2",
-          "link": "https://www.worldtribune.com/literally-criminal-suppressing-data-on-ivermectin-cost-half-a-million-lives-doctor-charges/",
-          "publishedOn": "2021-05-28T11:06:04.000Z",
-          "wordCount": 2182,
-          "title": "Suppressing data on ivermectin cost 'half a million lives', doctor charges"
+          "id": "https://news.ycombinator.com/item?id=27313955",
+          "author": "rustoo",
+          "description": "Article URL: https://www.tus.ac.jp/en/mediarelations/archive/20210527_1035.html\nComments URL: https://news.ycombinator.com/item?id=27313955\nPoints: 7\n# Comments: 0",
+          "link": "https://www.tus.ac.jp/en/mediarelations/archive/20210527_1035.html",
+          "publishedOn": "2021-05-28T11:09:05.000Z",
+          "wordCount": 1201,
+          "title": "Agricultural Pest that Relies on Bacteria to Overcome Plant Defenses"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27313931",
           "author": "rustoo",
-          "description": "Article URL: https://www.nber.org/papers/w28773\nComments URL: https://news.ycombinator.com/item?id=27313931\nPoints: 6\n# Comments: 0",
+          "description": "Article URL: https://www.nber.org/papers/w28773\nComments URL: https://news.ycombinator.com/item?id=27313931\nPoints: 18\n# Comments: 9",
           "link": "https://www.nber.org/papers/w28773",
           "publishedOn": "2021-05-28T11:04:36.000Z",
           "wordCount": 805,
@@ -770,25 +797,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27313895",
           "author": "tokyoseb",
-          "description": "Article URL: https://www.ft.com/content/4169ea4b-d6d7-4a2e-bc91-480550c2f539\nComments URL: https://news.ycombinator.com/item?id=27313895\nPoints: 63\n# Comments: 40",
+          "description": "Article URL: https://www.ft.com/content/4169ea4b-d6d7-4a2e-bc91-480550c2f539\nComments URL: https://news.ycombinator.com/item?id=27313895\nPoints: 100\n# Comments: 81",
           "link": "https://www.ft.com/content/4169ea4b-d6d7-4a2e-bc91-480550c2f539",
           "publishedOn": "2021-05-28T11:00:28.000Z",
-          "wordCount": 980,
+          "wordCount": 986,
           "title": "The rise of crypto laundries: how criminals cash out of Bitcoin"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27313686",
           "author": "frereubu",
-          "description": "Article URL: https://www.bbc.co.uk/news/uk-england-birmingham-57280115\nComments URL: https://news.ycombinator.com/item?id=27313686\nPoints: 67\n# Comments: 63",
+          "description": "Article URL: https://www.bbc.co.uk/news/uk-england-birmingham-57280115\nComments URL: https://news.ycombinator.com/item?id=27313686\nPoints: 111\n# Comments: 122",
           "link": "https://www.bbc.co.uk/news/uk-england-birmingham-57280115",
           "publishedOn": "2021-05-28T10:24:57.000Z",
-          "wordCount": 1042,
+          "wordCount": 1036,
           "title": "Sandwell Bitcoin mine found stealing electricity"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27313531",
           "author": "pcr910303",
-          "description": "Article URL: https://tidbits.com/2021/05/20/extracting-data-from-an-old-ios-app-broken-by-ios-14-5/\nComments URL: https://news.ycombinator.com/item?id=27313531\nPoints: 25\n# Comments: 11",
+          "description": "Article URL: https://tidbits.com/2021/05/20/extracting-data-from-an-old-ios-app-broken-by-ios-14-5/\nComments URL: https://news.ycombinator.com/item?id=27313531\nPoints: 34\n# Comments: 13",
           "link": "https://tidbits.com/2021/05/20/extracting-data-from-an-old-ios-app-broken-by-ios-14-5/",
           "publishedOn": "2021-05-28T10:02:15.000Z",
           "wordCount": 2556,
@@ -797,7 +824,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27313294",
           "author": "berkeleynerd",
-          "description": "Article URL: https://www.adacore.com/download\nComments URL: https://news.ycombinator.com/item?id=27313294\nPoints: 42\n# Comments: 12",
+          "description": "Article URL: https://www.adacore.com/download\nComments URL: https://news.ycombinator.com/item?id=27313294\nPoints: 61\n# Comments: 26",
           "link": "https://www.adacore.com/download",
           "publishedOn": "2021-05-28T09:22:46.000Z",
           "wordCount": 158,
@@ -806,16 +833,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27313284",
           "author": "knorthfield",
-          "description": "Article URL: https://github.com/livewire-ui/spotlight/issues/25\nComments URL: https://news.ycombinator.com/item?id=27313284\nPoints: 285\n# Comments: 163",
+          "description": "Article URL: https://github.com/livewire-ui/spotlight/issues/25\nComments URL: https://news.ycombinator.com/item?id=27313284\nPoints: 387\n# Comments: 238",
           "link": "https://github.com/livewire-ui/spotlight/issues/25",
           "publishedOn": "2021-05-28T09:20:51.000Z",
-          "wordCount": 833,
+          "wordCount": 942,
           "title": "The phrase “welcome back” on a page causes Safari to autofill a password"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27313083",
+          "author": "T-A",
+          "description": "Article URL: https://bfi.uchicago.edu/insight/research-summary/lifetime-earnings-in-the-united-states-over-six-decades/\nComments URL: https://news.ycombinator.com/item?id=27313083\nPoints: 28\n# Comments: 18",
+          "link": "https://bfi.uchicago.edu/insight/research-summary/lifetime-earnings-in-the-united-states-over-six-decades/",
+          "publishedOn": "2021-05-28T08:44:58.000Z",
+          "wordCount": 2493,
+          "title": "Lifetime Earnings in the United States over Six Decades"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27312169",
           "author": "tmfi",
-          "description": "Article URL: https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly\nComments URL: https://news.ycombinator.com/item?id=27312169\nPoints: 186\n# Comments: 69",
+          "description": "Article URL: https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly\nComments URL: https://news.ycombinator.com/item?id=27312169\nPoints: 223\n# Comments: 86",
           "link": "https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly",
           "publishedOn": "2021-05-28T05:56:17.000Z",
           "wordCount": 44,
@@ -824,7 +860,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27311964",
           "author": "arnklint",
-          "description": "Article URL: https://boringavatars.com/\nComments URL: https://news.ycombinator.com/item?id=27311964\nPoints: 211\n# Comments: 44",
+          "description": "Article URL: https://boringavatars.com/\nComments URL: https://news.ycombinator.com/item?id=27311964\nPoints: 244\n# Comments: 57",
           "link": "https://boringavatars.com/",
           "publishedOn": "2021-05-28T05:15:48.000Z",
           "wordCount": 14,
@@ -833,34 +869,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27311594",
           "author": "marcodiego",
-          "description": "Article URL: http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/\nComments URL: https://news.ycombinator.com/item?id=27311594\nPoints: 50\n# Comments: 17",
+          "description": "Article URL: http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/\nComments URL: https://news.ycombinator.com/item?id=27311594\nPoints: 60\n# Comments: 21",
           "link": "http://www.tvdawn.com/earliest-tv/phonovision-experiments-1927-28/the-recovered-images/",
           "publishedOn": "2021-05-28T04:00:01.000Z",
           "wordCount": 1150,
           "title": "Oldest recovered TV images (2013)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27311198",
-          "author": "gmays",
-          "description": "Article URL: https://ma.tt/2021/05/wordpress-18/\nComments URL: https://news.ycombinator.com/item?id=27311198\nPoints: 201\n# Comments: 172",
-          "link": "https://ma.tt/2021/05/wordpress-18/",
-          "publishedOn": "2021-05-28T02:46:45.000Z",
-          "wordCount": 639,
-          "title": "WordPress 18"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27310645",
-          "author": "merlinscholz",
-          "description": "Article URL: https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html\nComments URL: https://news.ycombinator.com/item?id=27310645\nPoints: 28\n# Comments: 5",
-          "link": "https://www.virtuozzo.com/connect/details/blog/view/virtuozzos-mature-linux-distribution-vzlinux-now-available-to-public.html",
-          "publishedOn": "2021-05-28T01:08:00.000Z",
-          "wordCount": 664,
-          "title": "Virtuozzo’s Mature Linux Distribution VzLinux Now Available to Public"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27310349",
           "author": "blucell",
-          "description": "Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000\nComments URL: https://news.ycombinator.com/item?id=27310349\nPoints: 419\n# Comments: 120",
+          "description": "Article URL: https://www.fastly.com/blog/quic-is-now-rfc-9000\nComments URL: https://news.ycombinator.com/item?id=27310349\nPoints: 439\n# Comments: 131",
           "link": "https://www.fastly.com/blog/quic-is-now-rfc-9000",
           "publishedOn": "2021-05-28T00:25:49.000Z",
           "wordCount": 709,
@@ -869,43 +887,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27310247",
           "author": "tosh",
-          "description": "Article URL: https://github.com/ClickHouse/ClickHouse\nComments URL: https://news.ycombinator.com/item?id=27310247\nPoints: 138\n# Comments: 35",
+          "description": "Article URL: https://github.com/ClickHouse/ClickHouse\nComments URL: https://news.ycombinator.com/item?id=27310247\nPoints: 159\n# Comments: 43",
           "link": "https://github.com/ClickHouse/ClickHouse",
           "publishedOn": "2021-05-28T00:12:48.000Z",
-          "wordCount": 973,
+          "wordCount": 960,
           "title": "ClickHouse: An open-source column-oriented database management system"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27308982",
-          "author": "tosh",
-          "description": "Article URL: https://macwright.com/2020/05/10/spa-fatigue.html\nComments URL: https://news.ycombinator.com/item?id=27308982\nPoints: 280\n# Comments: 217",
-          "link": "https://macwright.com/2020/05/10/spa-fatigue.html",
-          "publishedOn": "2021-05-27T21:48:11.000Z",
-          "wordCount": 1966,
-          "title": "Second-guessing the modern web (2020)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27303881",
           "author": "js2",
-          "description": "Article URL: https://antiqueradio.org/welcome.htm\nComments URL: https://news.ycombinator.com/item?id=27303881\nPoints: 117\n# Comments: 34",
+          "description": "Article URL: https://antiqueradio.org/welcome.htm\nComments URL: https://news.ycombinator.com/item?id=27303881\nPoints: 119\n# Comments: 34",
           "link": "https://antiqueradio.org/welcome.htm",
           "publishedOn": "2021-05-27T14:54:37.000Z",
           "wordCount": 156,
           "title": "Phil's Old Radios"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27303783",
-          "author": "nocodb",
-          "description": "Article URL: https://github.com/nocodb/nocodb\nComments URL: https://news.ycombinator.com/item?id=27303783\nPoints: 508\n# Comments: 140",
-          "link": "https://github.com/nocodb/nocodb",
-          "publishedOn": "2021-05-27T14:47:14.000Z",
-          "wordCount": 1238,
-          "title": "Show HN: NocoDB – The Open Source Airtable Alternative"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27302074",
           "author": "eevilspock",
-          "description": "Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634\nComments URL: https://news.ycombinator.com/item?id=27302074\nPoints: 784\n# Comments: 219",
+          "description": "Article URL: https://twitter.com/Kristy_Viers/status/1287189581926981634\nComments URL: https://news.ycombinator.com/item?id=27302074\nPoints: 791\n# Comments: 220",
           "link": "https://twitter.com/Kristy_Viers/status/1287189581926981634",
           "publishedOn": "2021-05-27T12:16:10.000Z",
           "wordCount": 196,
@@ -914,7 +914,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27301879",
           "author": "jasonkester",
-          "description": "Article URL: https://joust.life/\nComments URL: https://news.ycombinator.com/item?id=27301879\nPoints: 26\n# Comments: 8",
+          "description": "Article URL: https://joust.life/\nComments URL: https://news.ycombinator.com/item?id=27301879\nPoints: 65\n# Comments: 22",
           "link": "https://joust.life/",
           "publishedOn": "2021-05-27T11:50:16.000Z",
           "wordCount": 32,
@@ -933,7 +933,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1937,
+          "wordCount": 1940,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -960,7 +960,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1967,
+          "wordCount": 1966,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -969,7 +969,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2069,
+          "wordCount": 2067,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -978,7 +978,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1923,
+          "wordCount": 1921,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         },
         {
@@ -987,7 +987,7 @@
           "description": "Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More",
           "link": "https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/",
           "publishedOn": "2021-04-29T23:02:55.000Z",
-          "wordCount": 1730,
+          "wordCount": 1733,
           "title": "Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year"
         },
         {
@@ -996,7 +996,7 @@
           "description": "In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More",
           "link": "https://www.geekwire.com/2021/microsoft-ups-ante-valve-offering-money-pc-game-developers/",
           "publishedOn": "2021-04-29T21:46:15.000Z",
-          "wordCount": 1880,
+          "wordCount": 1878,
           "title": "Microsoft ups the ante against Valve by offering more money to PC game developers"
         }
       ]
