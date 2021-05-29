@@ -1,34 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T21:23:45.774Z</id>
+    <id>urn:2021-05-29T07:28:09.419Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T21:23:45.774Z</updated>
+    <updated>2021-05-29T07:28:09.419Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Alloy Automation (YC W20) Is Hiring a Customer Success Manager]]></title>
-        <id>https://news.ycombinator.com/item?id=27320440</id>
-        <link href="https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager"/>
-        <updated>2021-05-28T21:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager
-Comments URL: https://news.ycombinator.com/item?id=27320440
+        <title type="html"><![CDATA[Tab (YC W15) Is Hiring Junior Developers (London, UK)]]></title>
+        <id>https://news.ycombinator.com/item?id=27323553</id>
+        <link href="https://jobs.tab.travel/o/junior-developer-1"/>
+        <updated>2021-05-29T07:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jobs.tab.travel/o/junior-developer-1
+Comments URL: https://news.ycombinator.com/item?id=27323553
 Points: 1
 # Comments: 0]]></summary>
         <author>
-            <name>cierre</name>
+            <name>markdatta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Never mind the 1 percent: Let's talk about the 0.01 percent]]></title>
-        <id>https://news.ycombinator.com/item?id=27319923</id>
-        <link href="https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent"/>
-        <updated>2021-05-28T20:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent
-Comments URL: https://news.ycombinator.com/item?id=27319923
-Points: 57
+        <title type="html"><![CDATA[Alphabet moonshot Loon is jolted by layoffs]]></title>
+        <id>https://news.ycombinator.com/item?id=27323517</id>
+        <link href="https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/"/>
+        <updated>2021-05-29T06:47:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/
+Comments URL: https://news.ycombinator.com/item?id=27323517
+Points: 9
+# Comments: 8]]></summary>
+        <author>
+            <name>ndesaulniers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making the hard problem of consciousness easier]]></title>
+        <id>https://news.ycombinator.com/item?id=27323401</id>
+        <link href="https://science.sciencemag.org/content/372/6545/911"/>
+        <updated>2021-05-29T06:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/372/6545/911
+Comments URL: https://news.ycombinator.com/item?id=27323401
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>hheikinh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Feynman Lectures on Physics Audio Collection]]></title>
+        <id>https://news.ycombinator.com/item?id=27322636</id>
+        <link href="https://www.feynmanlectures.caltech.edu/flptapes.html"/>
+        <updated>2021-05-29T02:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.feynmanlectures.caltech.edu/flptapes.html
+Comments URL: https://news.ycombinator.com/item?id=27322636
+Points: 159
+# Comments: 37]]></summary>
+        <author>
+            <name>sohkamyung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Is JRuby Slow?]]></title>
+        <id>https://news.ycombinator.com/item?id=27322533</id>
+        <link href="https://earthly.dev/blog/jruby/"/>
+        <updated>2021-05-29T02:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://earthly.dev/blog/jruby/
+Comments URL: https://news.ycombinator.com/item?id=27322533
+Points: 62
 # Comments: 26]]></summary>
         <author>
-            <name>arcanus</name>
+            <name>kristianp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s Auto Layout for JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=27322427</id>
+        <link href="https://github.com/lume/autolayout"/>
+        <updated>2021-05-29T01:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lume/autolayout
+Comments URL: https://news.ycombinator.com/item?id=27322427
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>bpierre</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkeley Lab Debuts Perlmutter, World’s Fastest AI Supercomputer]]></title>
+        <id>https://news.ycombinator.com/item?id=27321780</id>
+        <link href="https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/"/>
+        <updated>2021-05-28T23:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/
+Comments URL: https://news.ycombinator.com/item?id=27321780
+Points: 77
+# Comments: 40]]></summary>
+        <author>
+            <name>infodocket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwned passwords, open source in the .NET foundation and working with the FBI]]></title>
+        <id>https://news.ycombinator.com/item?id=27321754</id>
+        <link href="https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/"/>
+        <updated>2021-05-28T23:35:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/
+Comments URL: https://news.ycombinator.com/item?id=27321754
+Points: 195
+# Comments: 37]]></summary>
+        <author>
+            <name>jffry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
+        <updated>2021-05-28T22:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -38,36 +126,23 @@ Points: 57
         <updated>2021-05-28T19:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unixgame.io/unix50
 Comments URL: https://news.ycombinator.com/item?id=27319540
-Points: 46
-# Comments: 10]]></summary>
+Points: 170
+# Comments: 21]]></summary>
         <author>
             <name>salgernon</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Booking.com gives €28m in bonuses to three top execs; Took €65m in State aid]]></title>
-        <id>https://news.ycombinator.com/item?id=27319477</id>
-        <link href="https://nltimes.nl/2021/05/28/bookingcom-gives-eu28m-bonuses-three-top-execs-took-eu65m-state-aid"/>
-        <updated>2021-05-28T19:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nltimes.nl/2021/05/28/bookingcom-gives-eu28m-bonuses-three-top-execs-took-eu65m-state-aid
-Comments URL: https://news.ycombinator.com/item?id=27319477
-Points: 371
-# Comments: 177]]></summary>
+        <title type="html"><![CDATA[Wrigley and others are suing over look-alike THC treats]]></title>
+        <id>https://news.ycombinator.com/item?id=27319130</id>
+        <link href="https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html"/>
+        <updated>2021-05-28T18:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html
+Comments URL: https://news.ycombinator.com/item?id=27319130
+Points: 12
+# Comments: 14]]></summary>
         <author>
-            <name>jsiepkes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y Combinator backed MMO metaverse game is a blatant scam]]></title>
-        <id>https://news.ycombinator.com/item?id=27319457</id>
-        <link href="https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/"/>
-        <updated>2021-05-28T19:23:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/
-Comments URL: https://news.ycombinator.com/item?id=27319457
-Points: 70
-# Comments: 23]]></summary>
-        <author>
-            <name>astlouis44</name>
+            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -77,8 +152,8 @@ Points: 70
         <updated>2021-05-28T18:48:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/
 Comments URL: https://news.ycombinator.com/item?id=27319099
-Points: 84
-# Comments: 43]]></summary>
+Points: 487
+# Comments: 211]]></summary>
         <author>
             <name>spenvo</name>
         </author>
@@ -90,8 +165,8 @@ Points: 84
         <updated>2021-05-28T18:46:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds
 Comments URL: https://news.ycombinator.com/item?id=27319070
-Points: 130
-# Comments: 65]]></summary>
+Points: 275
+# Comments: 180]]></summary>
         <author>
             <name>user_235711</name>
         </author>
@@ -103,36 +178,10 @@ Points: 130
         <updated>2021-05-28T18:34:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 Comments URL: https://news.ycombinator.com/item?id=27318942
-Points: 22
-# Comments: 2]]></summary>
+Points: 71
+# Comments: 20]]></summary>
         <author>
             <name>vackosar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1nm Breakthrough: TSMC, MIT and NTU Published on Nature]]></title>
-        <id>https://news.ycombinator.com/item?id=27318735</id>
-        <link href="https://buzzorange.com/techorange/en/2021/05/18/1nm-tsmc-mit-ntu/"/>
-        <updated>2021-05-28T18:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://buzzorange.com/techorange/en/2021/05/18/1nm-tsmc-mit-ntu/
-Comments URL: https://news.ycombinator.com/item?id=27318735
-Points: 18
-# Comments: 1]]></summary>
-        <author>
-            <name>whitneyfus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court rules climate change “duty of care” to future generations exists]]></title>
-        <id>https://news.ycombinator.com/item?id=27318588</id>
-        <link href="https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560"/>
-        <updated>2021-05-28T18:04:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560
-Comments URL: https://news.ycombinator.com/item?id=27318588
-Points: 94
-# Comments: 87]]></summary>
-        <author>
-            <name>Bluestein</name>
         </author>
     </entry>
     <entry>
@@ -142,23 +191,10 @@ Points: 94
         <updated>2021-05-28T17:25:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/
 Comments URL: https://news.ycombinator.com/item?id=27318153
-Points: 60
-# Comments: 14]]></summary>
+Points: 103
+# Comments: 23]]></summary>
         <author>
             <name>vulkd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Soldiers Expose Nuclear Weapons Secrets via Flashcard Apps]]></title>
-        <id>https://news.ycombinator.com/item?id=27317946</id>
-        <link href="https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/"/>
-        <updated>2021-05-28T17:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/
-Comments URL: https://news.ycombinator.com/item?id=27317946
-Points: 152
-# Comments: 32]]></summary>
-        <author>
-            <name>cyberlurker</name>
         </author>
     </entry>
     <entry>
@@ -168,8 +204,8 @@ Points: 152
         <updated>2021-05-28T17:02:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/
 Comments URL: https://news.ycombinator.com/item?id=27317859
-Points: 134
-# Comments: 88]]></summary>
+Points: 364
+# Comments: 265]]></summary>
         <author>
             <name>1experience</name>
         </author>
@@ -181,8 +217,8 @@ Points: 134
         <updated>2021-05-28T16:51:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://librefoodpantry.org/
 Comments URL: https://news.ycombinator.com/item?id=27317709
-Points: 30
-# Comments: 11]]></summary>
+Points: 65
+# Comments: 24]]></summary>
         <author>
             <name>jka</name>
         </author>
@@ -194,8 +230,8 @@ Points: 30
         <updated>2021-05-28T16:47:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/
 Comments URL: https://news.ycombinator.com/item?id=27317655
-Points: 641
-# Comments: 128]]></summary>
+Points: 1211
+# Comments: 193]]></summary>
         <author>
             <name>there</name>
         </author>
@@ -230,8 +266,8 @@ NextUX works with any existing websi…]]></summary>
         <updated>2021-05-28T16:01:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
 Comments URL: https://news.ycombinator.com/item?id=27317024
-Points: 117
-# Comments: 16]]></summary>
+Points: 172
+# Comments: 24]]></summary>
         <author>
             <name>PhilipTrauner</name>
         </author>
@@ -243,36 +279,10 @@ Points: 117
         <updated>2021-05-28T15:42:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://ninfex.com/hello
 Comments URL: https://news.ycombinator.com/item?id=27316752
-Points: 69
-# Comments: 24]]></summary>
+Points: 150
+# Comments: 37]]></summary>
         <author>
             <name>zeeshanqureshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charter charges more money for slower Internet on streets with no competition]]></title>
-        <id>https://news.ycombinator.com/item?id=27316358</id>
-        <link href="https://arstechnica.com/tech-policy/2021/05/charter-charges-more-money-for-slower-internet-on-streets-with-no-competition/"/>
-        <updated>2021-05-28T15:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2021/05/charter-charges-more-money-for-slower-internet-on-streets-with-no-competition/
-Comments URL: https://news.ycombinator.com/item?id=27316358
-Points: 233
-# Comments: 132]]></summary>
-        <author>
-            <name>CharlesW</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter confirms Twitter Blue]]></title>
-        <id>https://news.ycombinator.com/item?id=27316115</id>
-        <link href="https://twitter.com/wongmjane/status/1398022730553860102"/>
-        <updated>2021-05-28T14:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/wongmjane/status/1398022730553860102
-Comments URL: https://news.ycombinator.com/item?id=27316115
-Points: 318
-# Comments: 527]]></summary>
-        <author>
-            <name>0xedb</name>
         </author>
     </entry>
     <entry>
@@ -292,7 +302,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <id>60b0de2211ffb70827ef8d7c</id>
         <link href="https://www.freecodecamp.org/news/advanced-computer-vision-with-python/"/>
         <updated>2021-05-28T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Computer vision is being used in more and more applications.  We just released a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
+        <summary type="html"><![CDATA[More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -509,16 +519,6 @@ Fixed: the articles in template data were not sorted.
 Thank you @Zenigata]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
-        <id>60ac3a2711ffb70827ef6aec</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
-        <updated>2021-05-25T22:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -1032,16 +1032,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <summary type="html"><![CDATA[In a move to compete with Steam, Microsoft plans to increase the money it pays to developers who publish their games on the Microsoft Store. Starting on August 1, the Microsoft Store will give those developers 88% of the net revenue from their games’ sales, up from 70%. “Having a clear, no-strings-attached revenue share means developers can bring more games to more players and find greater commercial success from doing so,” Microsoft CVP Sarah Bond wrote on LinkedIn. This can be readily interpreted as a shot across the bow to Valve Software’s Steam, the leading digital storefront for PC games.… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Humble `<img>` Element And Core Web Vitals]]></title>
-        <id>https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/</id>
-        <link href="https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/"/>
-        <updated>2021-04-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
         </author>
     </entry>
 </feed>
