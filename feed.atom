@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T09:56:09.196Z</id>
+    <id>urn:2021-05-29T10:50:06.464Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T09:56:09.196Z</updated>
+    <updated>2021-05-29T10:50:06.464Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Finding CSV files that start with a BOM using ripgrep]]></title>
+        <id>https://news.ycombinator.com/item?id=27324265</id>
+        <link href="https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep"/>
+        <updated>2021-05-29T10:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep
+Comments URL: https://news.ycombinator.com/item?id=27324265
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shameless Work Influencers Are the Bane of LinkedIn]]></title>
+        <id>https://news.ycombinator.com/item?id=27323931</id>
+        <link href="https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa"/>
+        <updated>2021-05-29T08:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa
+Comments URL: https://news.ycombinator.com/item?id=27323931
+Points: 12
+# Comments: 6]]></summary>
+        <author>
+            <name>rapnie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Franz Kafka: Manuscripts, drawings and personal letters go online]]></title>
         <id>https://news.ycombinator.com/item?id=27323805</id>
@@ -12,8 +38,8 @@
         <updated>2021-05-29T08:15:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/in-pictures-57267874
 Comments URL: https://news.ycombinator.com/item?id=27323805
-Points: 15
-# Comments: 0]]></summary>
+Points: 26
+# Comments: 1]]></summary>
         <author>
             <name>keiferski</name>
         </author>
@@ -25,10 +51,23 @@ Points: 15
         <updated>2021-05-29T07:25:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/
 Comments URL: https://news.ycombinator.com/item?id=27323631
-Points: 67
-# Comments: 13]]></summary>
+Points: 84
+# Comments: 26]]></summary>
         <author>
             <name>bryanrasmussen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Issues with LastPass on Android]]></title>
+        <id>https://news.ycombinator.com/item?id=27323596</id>
+        <link href="https://abhyudaya.dev/blog/2021/security-issues-lastpass-android"/>
+        <updated>2021-05-29T07:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://abhyudaya.dev/blog/2021/security-issues-lastpass-android
+Comments URL: https://news.ycombinator.com/item?id=27323596
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>AbhyudayaSharma</name>
         </author>
     </entry>
     <entry>
@@ -51,8 +90,8 @@ Points: 1
         <updated>2021-05-29T06:59:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jtpio/jupyterlite
 Comments URL: https://news.ycombinator.com/item?id=27323548
-Points: 27
-# Comments: 5]]></summary>
+Points: 44
+# Comments: 10]]></summary>
         <author>
             <name>ahurmazda</name>
         </author>
@@ -64,8 +103,8 @@ Points: 27
         <updated>2021-05-29T06:56:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://global.yamaha-motor.com/design_technology/design/concept/motoroid/
 Comments URL: https://news.ycombinator.com/item?id=27323538
-Points: 112
-# Comments: 28]]></summary>
+Points: 153
+# Comments: 47]]></summary>
         <author>
             <name>susam</name>
         </author>
@@ -77,10 +116,29 @@ Points: 112
         <updated>2021-05-29T06:47:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/
 Comments URL: https://news.ycombinator.com/item?id=27323517
-Points: 32
-# Comments: 30]]></summary>
+Points: 36
+# Comments: 31]]></summary>
         <author>
             <name>ndesaulniers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to cope with the death of a dear person?]]></title>
+        <id>https://news.ycombinator.com/item?id=27323430</id>
+        <link href="https://news.ycombinator.com/item?id=27323430"/>
+        <updated>2021-05-29T06:23:31.000Z</updated>
+        <summary type="html"><![CDATA[My father-in-law passed away three days ago. As it happens with these things, it was too soon. It's always too soon. He was like a second father to me.
+He had a career in the Italian navy, a retired Admiral. He was a great storyteller, and had a tough and difficult character, but lots of good things, deep inside. Full of integrity, honorable.
+Thankfully we moved back to Italy a few months ago after a dozen years abroad, and spent this time mostly with him and his wife, in their hometown, Venezia. I can't imagine what it would be if we stayed in San Francisco, and this death happened at distance.
+Does any of you have a time machine at hand? Both me and my wife would like to tell him how much we love him, and hear his great stories one last time.
+Missing that, any suggestion on how you coped with death?
+It is not my first time; but it is the first time in the last decade or so. I know, I'm lucky.
+One last thing: I don't want to just "ask", but I'd like to contribute something. This is my suggestion for you, actually my prescription for you: if you still have parents, or parents-in-law that you really love, invite them out for dinner, and ask them to tell you stories of their past. Then, before saying goodbye, tell them how much you love them. One day, far away in the future I hope, you will thank me.
+Comments URL: https://news.ycombinator.com/item?id=27323430
+Points: 38
+# Comments: 10]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
         </author>
     </entry>
     <entry>
@@ -90,8 +148,8 @@ Points: 32
         <updated>2021-05-29T06:15:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/372/6545/911
 Comments URL: https://news.ycombinator.com/item?id=27323401
-Points: 14
-# Comments: 19]]></summary>
+Points: 22
+# Comments: 33]]></summary>
         <author>
             <name>hheikinh</name>
         </author>
@@ -103,8 +161,8 @@ Points: 14
         <updated>2021-05-29T02:37:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.feynmanlectures.caltech.edu/flptapes.html
 Comments URL: https://news.ycombinator.com/item?id=27322636
-Points: 215
-# Comments: 48]]></summary>
+Points: 236
+# Comments: 52]]></summary>
         <author>
             <name>sohkamyung</name>
         </author>
@@ -116,8 +174,8 @@ Points: 215
         <updated>2021-05-29T02:10:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://earthly.dev/blog/jruby/
 Comments URL: https://news.ycombinator.com/item?id=27322533
-Points: 72
-# Comments: 39]]></summary>
+Points: 81
+# Comments: 41]]></summary>
         <author>
             <name>kristianp</name>
         </author>
@@ -129,7 +187,7 @@ Points: 72
         <updated>2021-05-28T23:39:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/
 Comments URL: https://news.ycombinator.com/item?id=27321780
-Points: 83
+Points: 88
 # Comments: 41]]></summary>
         <author>
             <name>infodocket</name>
@@ -142,8 +200,8 @@ Points: 83
         <updated>2021-05-28T23:35:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/
 Comments URL: https://news.ycombinator.com/item?id=27321754
-Points: 219
-# Comments: 44]]></summary>
+Points: 229
+# Comments: 48]]></summary>
         <author>
             <name>jffry</name>
         </author>
@@ -165,8 +223,8 @@ Points: 219
         <updated>2021-05-28T19:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unixgame.io/unix50
 Comments URL: https://news.ycombinator.com/item?id=27319540
-Points: 186
-# Comments: 23]]></summary>
+Points: 197
+# Comments: 25]]></summary>
         <author>
             <name>salgernon</name>
         </author>
@@ -178,8 +236,8 @@ Points: 186
         <updated>2021-05-28T18:51:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html
 Comments URL: https://news.ycombinator.com/item?id=27319130
-Points: 16
-# Comments: 20]]></summary>
+Points: 19
+# Comments: 23]]></summary>
         <author>
             <name>bookofjoe</name>
         </author>
@@ -191,8 +249,8 @@ Points: 16
         <updated>2021-05-28T18:48:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/
 Comments URL: https://news.ycombinator.com/item?id=27319099
-Points: 518
-# Comments: 223]]></summary>
+Points: 530
+# Comments: 225]]></summary>
         <author>
             <name>spenvo</name>
         </author>
@@ -204,7 +262,7 @@ Points: 518
         <updated>2021-05-28T18:34:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 Comments URL: https://news.ycombinator.com/item?id=27318942
-Points: 76
+Points: 82
 # Comments: 26]]></summary>
         <author>
             <name>vackosar</name>
@@ -217,62 +275,10 @@ Points: 76
         <updated>2021-05-28T17:25:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/
 Comments URL: https://news.ycombinator.com/item?id=27318153
-Points: 110
+Points: 111
 # Comments: 24]]></summary>
         <author>
             <name>vulkd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Russians do not smile (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=27317859</id>
-        <link href="https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/"/>
-        <updated>2021-05-28T17:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/
-Comments URL: https://news.ycombinator.com/item?id=27317859
-Points: 397
-# Comments: 316]]></summary>
-        <author>
-            <name>1experience</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreFoodPantry – a community building FOSS for food pantries]]></title>
-        <id>https://news.ycombinator.com/item?id=27317709</id>
-        <link href="https://librefoodpantry.org/"/>
-        <updated>2021-05-28T16:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://librefoodpantry.org/
-Comments URL: https://news.ycombinator.com/item?id=27317709
-Points: 69
-# Comments: 25]]></summary>
-        <author>
-            <name>jka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I quit my job to focus on SerenityOS full time]]></title>
-        <id>https://news.ycombinator.com/item?id=27317655</id>
-        <link href="https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/"/>
-        <updated>2021-05-28T16:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/
-Comments URL: https://news.ycombinator.com/item?id=27317655
-Points: 1305
-# Comments: 197]]></summary>
-        <author>
-            <name>there</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams]]></title>
-        <id>https://news.ycombinator.com/item?id=27317635</id>
-        <link href="https://news.ycombinator.com/item?id=27317635"/>
-        <updated>2021-05-28T16:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN! I'm Andrew, a solo founder building a free, easy-to-use visual editing app called NextUX (https://nextuxdesign.com/).
-NextUX makes it easy to design your website or web app collaboratively with your team. Hacking a design together in the browser can be a much faster way to do this than making changes to a pixel-perfect file using professional design applications.
-With NextUX, you work on your design in your browser, then share feedback and sketch options by capturing screenshots and adding comments and markup on top. You then share your iterations through a direct link. It is entirely browser-based, including an extension that does the screen capturing: https://nextuxdesign.com/screen-capture/. There's a video on that page showing some examples.
-NextUX works with any existing websi…]]></summary>
-        <author>
-            <name>coyleandrew</name>
         </author>
     </entry>
     <entry>
