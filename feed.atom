@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T17:00:59.574Z</id>
+    <id>urn:2021-05-29T19:14:39.704Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T17:00:59.574Z</updated>
+    <updated>2021-05-29T19:14:39.704Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tech groups sue Florida over content moderation law]]></title>
+        <id>https://news.ycombinator.com/item?id=27327027</id>
+        <link href="https://www.axios.com/florida-social-media-law-tech-groups-sue-2edd1c52-5351-4706-a1f8-6e94d650a677.html"/>
+        <updated>2021-05-29T18:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.axios.com/florida-social-media-law-tech-groups-sue-2edd1c52-5351-4706-a1f8-6e94d650a677.html
+Comments URL: https://news.ycombinator.com/item?id=27327027
+Points: 25
+# Comments: 18]]></summary>
+        <author>
+            <name>enraged_camel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing a game from first principles in 65c02  – Part One]]></title>
+        <id>https://news.ycombinator.com/item?id=27326837</id>
+        <link href="http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html"/>
+        <updated>2021-05-29T17:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html
+Comments URL: https://news.ycombinator.com/item?id=27326837
+Points: 22
+# Comments: 0]]></summary>
+        <author>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just designed the most evil UI component: x box – the inverse of the check box]]></title>
+        <id>https://news.ycombinator.com/item?id=27326805</id>
+        <link href="https://twitter.com/neilsardesai/status/1398091976445202433"/>
+        <updated>2021-05-29T17:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/neilsardesai/status/1398091976445202433
+Comments URL: https://news.ycombinator.com/item?id=27326805
+Points: 22
+# Comments: 3]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dover (YC S19) is hiring across all roles]]></title>
+        <id>https://news.ycombinator.com/item?id=27326572</id>
+        <link href="https://www.dover.com/careers#roles"/>
+        <updated>2021-05-29T17:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dover.com/careers#roles
+Comments URL: https://news.ycombinator.com/item?id=27326572
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>mkx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using Fake Reviews to Find Dangerous Extensions]]></title>
         <id>https://news.ycombinator.com/item?id=27326268</id>
@@ -12,21 +64,47 @@
         <updated>2021-05-29T16:25:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/
 Comments URL: https://news.ycombinator.com/item?id=27326268
-Points: 7
-# Comments: 0]]></summary>
+Points: 88
+# Comments: 45]]></summary>
         <author>
             <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARK’s Cathie Wood: “Innovation Is Inherently Controversial”]]></title>
+        <title type="html"><![CDATA[ProtonMail includes Google Recaptcha for Login, every single time]]></title>
+        <id>https://news.ycombinator.com/item?id=27326243</id>
+        <link href="https://github.com/ProtonMail/WebClient/issues/242"/>
+        <updated>2021-05-29T16:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ProtonMail/WebClient/issues/242
+Comments URL: https://news.ycombinator.com/item?id=27326243
+Points: 147
+# Comments: 90]]></summary>
+        <author>
+            <name>Hard_Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking the Silvercrest (Lidl) Smart Home Gateway]]></title>
+        <id>https://news.ycombinator.com/item?id=27326183</id>
+        <link href="https://paulbanks.org/projects/lidl-zigbee/"/>
+        <updated>2021-05-29T16:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://paulbanks.org/projects/lidl-zigbee/
+Comments URL: https://news.ycombinator.com/item?id=27326183
+Points: 24
+# Comments: 1]]></summary>
+        <author>
+            <name>homarp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Innovation Is Inherently Controversial]]></title>
         <id>https://news.ycombinator.com/item?id=27326105</id>
         <link href="https://www.etftrends.com/disruptive-technology-channel/cathie-wood-innovation-is-inherently-controversial/"/>
         <updated>2021-05-29T16:02:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.etftrends.com/disruptive-technology-channel/cathie-wood-innovation-is-inherently-controversial/
 Comments URL: https://news.ycombinator.com/item?id=27326105
-Points: 24
-# Comments: 0]]></summary>
+Points: 57
+# Comments: 16]]></summary>
         <author>
             <name>salakotolu</name>
         </author>
@@ -38,10 +116,23 @@ Points: 24
         <updated>2021-05-29T15:48:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP
 Comments URL: https://news.ycombinator.com/item?id=27326003
-Points: 11
+Points: 47
 # Comments: 0]]></summary>
         <author>
             <name>blacksqr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Virtual Tours – Virtual Field Trips]]></title>
+        <id>https://news.ycombinator.com/item?id=27325918</id>
+        <link href="https://gez.la"/>
+        <updated>2021-05-29T15:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gez.la
+Comments URL: https://news.ycombinator.com/item?id=27325918
+Points: 11
+# Comments: 3]]></summary>
+        <author>
+            <name>stfurkan</name>
         </author>
     </entry>
     <entry>
@@ -51,8 +142,8 @@ Points: 11
         <updated>2021-05-29T15:23:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 Comments URL: https://news.ycombinator.com/item?id=27325824
-Points: 8
-# Comments: 1]]></summary>
+Points: 31
+# Comments: 13]]></summary>
         <author>
             <name>azalemeth</name>
         </author>
@@ -64,8 +155,8 @@ Points: 8
         <updated>2021-05-29T13:33:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astralcodexten.substack.com/p/your-book-review-double-fold
 Comments URL: https://news.ycombinator.com/item?id=27325095
-Points: 12
-# Comments: 1]]></summary>
+Points: 73
+# Comments: 27]]></summary>
         <author>
             <name>mhb</name>
         </author>
@@ -77,8 +168,8 @@ Points: 12
         <updated>2021-05-29T12:57:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newsletter.timber.fm/p/a-writing-tip-i-learned-at-oxford
 Comments URL: https://news.ycombinator.com/item?id=27324947
-Points: 11
-# Comments: 4]]></summary>
+Points: 35
+# Comments: 22]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -90,8 +181,8 @@ Points: 11
         <updated>2021-05-29T12:42:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sorenisanerd/gotty
 Comments URL: https://news.ycombinator.com/item?id=27324873
-Points: 20
-# Comments: 3]]></summary>
+Points: 54
+# Comments: 6]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -103,8 +194,8 @@ Points: 20
         <updated>2021-05-29T12:14:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5
 Comments URL: https://news.ycombinator.com/item?id=27324755
-Points: 260
-# Comments: 161]]></summary>
+Points: 348
+# Comments: 198]]></summary>
         <author>
             <name>CapitalistCartr</name>
         </author>
@@ -116,23 +207,10 @@ Points: 260
         <updated>2021-05-29T12:03:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/davidlatwe/montydb
 Comments URL: https://news.ycombinator.com/item?id=27324704
-Points: 31
-# Comments: 16]]></summary>
+Points: 45
+# Comments: 25]]></summary>
         <author>
             <name>davidlatwe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Literably (IK12 W13) Is Hiring a Senior Software Engineer (Remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=27324686</id>
-        <link href="https://www.workatastartup.com/jobs/43782"/>
-        <updated>2021-05-29T12:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/43782
-Comments URL: https://news.ycombinator.com/item?id=27324686
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>hmoody</name>
         </author>
     </entry>
     <entry>
@@ -142,23 +220,10 @@ Points: 1
         <updated>2021-05-29T11:55:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
 Comments URL: https://news.ycombinator.com/item?id=27324669
-Points: 6
-# Comments: 0]]></summary>
+Points: 39
+# Comments: 4]]></summary>
         <author>
             <name>roperzh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Camera-Only Autopilot Requires Automatic High Beams Enabled]]></title>
-        <id>https://news.ycombinator.com/item?id=27324591</id>
-        <link href="https://www.reddit.com/r/teslamotors/comments/nnf5ta/autopilot_requires_auto_high_beam_with_tesla/"/>
-        <updated>2021-05-29T11:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/teslamotors/comments/nnf5ta/autopilot_requires_auto_high_beam_with_tesla/
-Comments URL: https://news.ycombinator.com/item?id=27324591
-Points: 68
-# Comments: 50]]></summary>
-        <author>
-            <name>BoorishBears</name>
         </author>
     </entry>
     <entry>
@@ -168,23 +233,10 @@ Points: 68
         <updated>2021-05-29T10:57:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/
 Comments URL: https://news.ycombinator.com/item?id=27324406
-Points: 143
-# Comments: 37]]></summary>
+Points: 179
+# Comments: 46]]></summary>
         <author>
             <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Future of Work Will Be 5-Hour Days, 4-Day Workweek, Flexible Staggered Schedules]]></title>
-        <id>https://news.ycombinator.com/item?id=27324332</id>
-        <link href="https://www.forbes.com/sites/jackkelly/2021/05/28/the-future-of-work-will-be------------five-hour-days-a-four-day-workweek-and-flexible-staggered-schedules/"/>
-        <updated>2021-05-29T10:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/jackkelly/2021/05/28/the-future-of-work-will-be------------five-hour-days-a-four-day-workweek-and-flexible-staggered-schedules/
-Comments URL: https://news.ycombinator.com/item?id=27324332
-Points: 66
-# Comments: 68]]></summary>
-        <author>
-            <name>rustoo</name>
         </author>
     </entry>
     <entry>
@@ -194,75 +246,23 @@ Points: 66
         <updated>2021-05-29T10:27:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep
 Comments URL: https://news.ycombinator.com/item?id=27324265
-Points: 95
-# Comments: 29]]></summary>
+Points: 102
+# Comments: 33]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shameless Work Influencers Are the Bane of LinkedIn]]></title>
-        <id>https://news.ycombinator.com/item?id=27323931</id>
-        <link href="https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa"/>
-        <updated>2021-05-29T08:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa
-Comments URL: https://news.ycombinator.com/item?id=27323931
-Points: 217
-# Comments: 153]]></summary>
+        <title type="html"><![CDATA[Astronomers have created the largest ever map of dark matter]]></title>
+        <id>https://news.ycombinator.com/item?id=27324227</id>
+        <link href="https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter"/>
+        <updated>2021-05-29T10:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter
+Comments URL: https://news.ycombinator.com/item?id=27324227
+Points: 4
+# Comments: 2]]></summary>
         <author>
-            <name>rapnie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Franz Kafka: Manuscripts, drawings and personal letters go online]]></title>
-        <id>https://news.ycombinator.com/item?id=27323805</id>
-        <link href="https://www.bbc.com/news/in-pictures-57267874"/>
-        <updated>2021-05-29T08:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/in-pictures-57267874
-Comments URL: https://news.ycombinator.com/item?id=27323805
-Points: 76
-# Comments: 10]]></summary>
-        <author>
-            <name>keiferski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remains of 215 children found at former residential school in British Columbia]]></title>
-        <id>https://news.ycombinator.com/item?id=27323631</id>
-        <link href="https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/"/>
-        <updated>2021-05-29T07:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/
-Comments URL: https://news.ycombinator.com/item?id=27323631
-Points: 205
-# Comments: 120]]></summary>
-        <author>
-            <name>bryanrasmussen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JupyterLite – WASM-powered Jupyter running in the browser]]></title>
-        <id>https://news.ycombinator.com/item?id=27323548</id>
-        <link href="https://github.com/jtpio/jupyterlite"/>
-        <updated>2021-05-29T06:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jtpio/jupyterlite
-Comments URL: https://news.ycombinator.com/item?id=27323548
-Points: 138
-# Comments: 43]]></summary>
-        <author>
-            <name>ahurmazda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yamaha MOTOROiD]]></title>
-        <id>https://news.ycombinator.com/item?id=27323538</id>
-        <link href="https://global.yamaha-motor.com/design_technology/design/concept/motoroid/"/>
-        <updated>2021-05-29T06:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://global.yamaha-motor.com/design_technology/design/concept/motoroid/
-Comments URL: https://news.ycombinator.com/item?id=27323538
-Points: 359
-# Comments: 194]]></summary>
-        <author>
-            <name>susam</name>
+            <name>chriskanan</name>
         </author>
     </entry>
     <entry>
