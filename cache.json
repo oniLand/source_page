@@ -135,7 +135,7 @@
           "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
           "publishedOn": "2021-05-27T14:23:23.000Z",
-          "wordCount": 2353,
+          "wordCount": 2452,
           "title": "Rethinking Postgres in a Post-Server World"
         },
         {
@@ -225,7 +225,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3658,
+          "wordCount": 3553,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -250,7 +250,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10212,
+          "wordCount": 10175,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -264,7 +264,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3743,
+          "wordCount": 3735,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -306,7 +306,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2079,
+          "wordCount": 2124,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -348,7 +348,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9431,
+          "wordCount": 9439,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -376,7 +376,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1970,
+          "wordCount": 1958,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -432,7 +432,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2953,
+          "wordCount": 2943,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -516,7 +516,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6357,
+          "wordCount": 6310,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -558,7 +558,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2338,
+          "wordCount": 2333,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -572,7 +572,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1832,
+          "wordCount": 1837,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -600,7 +600,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2188,
+          "wordCount": 2192,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -614,7 +614,7 @@
           "description": "Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.",
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
-          "wordCount": 2181,
+          "wordCount": 2176,
           "title": "May Is In The Air (2021 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1608f515-bf92-4faa-b3e5-1090f1a22696/may-21-from-nope-to-hope-preview-opt.png",
@@ -727,6 +727,15 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27324755",
+          "author": "CapitalistCartr",
+          "description": "Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5\nComments URL: https://news.ycombinator.com/item?id=27324755\nPoints: 85\n# Comments: 24",
+          "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
+          "publishedOn": "2021-05-29T12:14:07.000Z",
+          "wordCount": 1515,
+          "title": "Google made it nearly impossible for users to keep their location private"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27324686",
           "author": "hmoody",
           "description": "Article URL: https://www.workatastartup.com/jobs/43782\nComments URL: https://news.ycombinator.com/item?id=27324686\nPoints: 1\n# Comments: 0",
@@ -738,16 +747,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324591",
           "author": "BoorishBears",
-          "description": "Article URL: https://www.reddit.com/r/teslamotors/comments/nnf5ta/autopilot_requires_auto_high_beam_with_tesla/\nComments URL: https://news.ycombinator.com/item?id=27324591\nPoints: 5\n# Comments: 0",
+          "description": "Article URL: https://www.reddit.com/r/teslamotors/comments/nnf5ta/autopilot_requires_auto_high_beam_with_tesla/\nComments URL: https://news.ycombinator.com/item?id=27324591\nPoints: 34\n# Comments: 12",
           "link": "https://www.reddit.com/r/teslamotors/comments/nnf5ta/autopilot_requires_auto_high_beam_with_tesla/",
           "publishedOn": "2021-05-29T11:37:51.000Z",
-          "wordCount": 790,
+          "wordCount": 788,
           "title": "Camera-Only Autopilot Requires Automatic High Beams Enabled"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27324406",
           "author": "bookofjoe",
-          "description": "Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/\nComments URL: https://news.ycombinator.com/item?id=27324406\nPoints: 27\n# Comments: 5",
+          "description": "Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/\nComments URL: https://news.ycombinator.com/item?id=27324406\nPoints: 63\n# Comments: 14",
           "link": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
           "publishedOn": "2021-05-29T10:57:28.000Z",
           "wordCount": 4389,
@@ -756,7 +765,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324265",
           "author": "pcr910303",
-          "description": "Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep\nComments URL: https://news.ycombinator.com/item?id=27324265\nPoints: 40\n# Comments: 10",
+          "description": "Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep\nComments URL: https://news.ycombinator.com/item?id=27324265\nPoints: 62\n# Comments: 19",
           "link": "https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep",
           "publishedOn": "2021-05-29T10:27:35.000Z",
           "wordCount": 204,
@@ -765,7 +774,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27323931",
           "author": "rapnie",
-          "description": "Article URL: https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa\nComments URL: https://news.ycombinator.com/item?id=27323931\nPoints: 66\n# Comments: 61",
+          "description": "Article URL: https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa\nComments URL: https://news.ycombinator.com/item?id=27323931\nPoints: 94\n# Comments: 80",
           "link": "https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa",
           "publishedOn": "2021-05-29T08:55:52.000Z",
           "wordCount": 2393,
@@ -774,7 +783,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27323805",
           "author": "keiferski",
-          "description": "Article URL: https://www.bbc.com/news/in-pictures-57267874\nComments URL: https://news.ycombinator.com/item?id=27323805\nPoints: 40\n# Comments: 3",
+          "description": "Article URL: https://www.bbc.com/news/in-pictures-57267874\nComments URL: https://news.ycombinator.com/item?id=27323805\nPoints: 49\n# Comments: 7",
           "link": "https://www.bbc.com/news/in-pictures-57267874",
           "publishedOn": "2021-05-29T08:15:44.000Z",
           "wordCount": 1077,
@@ -783,7 +792,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27323631",
           "author": "bryanrasmussen",
-          "description": "Article URL: https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/\nComments URL: https://news.ycombinator.com/item?id=27323631\nPoints: 113\n# Comments: 57",
+          "description": "Article URL: https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/\nComments URL: https://news.ycombinator.com/item?id=27323631\nPoints: 139\n# Comments: 87",
           "link": "https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/",
           "publishedOn": "2021-05-29T07:25:51.000Z",
           "wordCount": null,
@@ -792,7 +801,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27323596",
           "author": "AbhyudayaSharma",
-          "description": "Article URL: https://abhyudaya.dev/blog/2021/security-issues-lastpass-android\nComments URL: https://news.ycombinator.com/item?id=27323596\nPoints: 29\n# Comments: 9",
+          "description": "Article URL: https://abhyudaya.dev/blog/2021/security-issues-lastpass-android\nComments URL: https://news.ycombinator.com/item?id=27323596\nPoints: 42\n# Comments: 26",
           "link": "https://abhyudaya.dev/blog/2021/security-issues-lastpass-android",
           "publishedOn": "2021-05-29T07:14:49.000Z",
           "wordCount": 746,
@@ -801,7 +810,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27323548",
           "author": "ahurmazda",
-          "description": "Article URL: https://github.com/jtpio/jupyterlite\nComments URL: https://news.ycombinator.com/item?id=27323548\nPoints: 66\n# Comments: 16",
+          "description": "Article URL: https://github.com/jtpio/jupyterlite\nComments URL: https://news.ycombinator.com/item?id=27323548\nPoints: 89\n# Comments: 23",
           "link": "https://github.com/jtpio/jupyterlite",
           "publishedOn": "2021-05-29T06:59:45.000Z",
           "wordCount": 1063,
@@ -810,7 +819,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27323538",
           "author": "susam",
-          "description": "Article URL: https://global.yamaha-motor.com/design_technology/design/concept/motoroid/\nComments URL: https://news.ycombinator.com/item?id=27323538\nPoints: 193\n# Comments: 100",
+          "description": "Article URL: https://global.yamaha-motor.com/design_technology/design/concept/motoroid/\nComments URL: https://news.ycombinator.com/item?id=27323538\nPoints: 227\n# Comments: 118",
           "link": "https://global.yamaha-motor.com/design_technology/design/concept/motoroid/",
           "publishedOn": "2021-05-29T06:56:11.000Z",
           "wordCount": 1773,
@@ -819,25 +828,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27323517",
           "author": "ndesaulniers",
-          "description": "Article URL: https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/\nComments URL: https://news.ycombinator.com/item?id=27323517\nPoints: 46\n# Comments: 41",
+          "description": "Article URL: https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/\nComments URL: https://news.ycombinator.com/item?id=27323517\nPoints: 55\n# Comments: 48",
           "link": "https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/",
           "publishedOn": "2021-05-29T06:47:50.000Z",
-          "wordCount": 1465,
+          "wordCount": 1472,
           "title": "Alphabet moonshot Loon is jolted by layoffs"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27323430",
           "author": "simonebrunozzi",
-          "description": "My father-in-law passed away three days ago. As it happens with these things, it was too soon. It's always too soon. He was like a second father to me.\nHe had a career in the Italian navy, a retired Admiral. He was a great storyteller, and had a tough and difficult character, but lots of good things, deep inside. Full of integrity, honorable.\nThankfully we moved back to Italy a few months ago after a dozen years abroad, and spent this time mostly with him and his wife, in their hometown, Venezia. I can't imagine what it would be if we stayed in San Francisco, and this death happened at distance.\nDoes any of you have a time machine at hand? Both me and my wife would like to tell him how much we love him, and hear his great stories one last time.\nMissing that, any suggestion on how you coped with death?\nIt is not my first time; but it is the first time in the last decade or so. I know, I'm lucky.\nOne last thing: I don't want to just \"ask\", but I'd like to contribute something. This is my suggestion for you, actually my prescription for you: if you still have parents, or parents-in-law that you really love, invite them out for dinner, and ask them to tell you stories of their past. Then, before saying goodbye, tell them how much you love them. One day, far away in the future I hope, you will thank me.\nComments URL: https://news.ycombinator.com/item?id=27323430\nPoints: 74\n# Comments: 16",
+          "description": "My father-in-law passed away three days ago. As it happens with these things, it was too soon. It's always too soon. He was like a second father to me.\nHe had a career in the Italian navy, a retired Admiral. He was a great storyteller, and had a tough and difficult character, but lots of good things, deep inside. Full of integrity, honorable.\nThankfully we moved back to Italy a few months ago after a dozen years abroad, and spent this time mostly with him and his wife, in their hometown, Venezia. I can't imagine what it would be if we stayed in San Francisco, and this death happened at distance.\nDoes any of you have a time machine at hand? Both me and my wife would like to tell him how much we love him, and hear his great stories one last time.\nMissing that, any suggestion on how you coped with death?\nIt is not my first time; but it is the first time in the last decade or so. I know, I'm lucky.\nOne last thing: I don't want to just \"ask\", but I'd like to contribute something. This is my suggestion for you, actually my prescription for you: if you still have parents, or parents-in-law that you really love, invite them out for dinner, and ask them to tell you stories of their past. Then, before saying goodbye, tell them how much you love them. One day, far away in the future I hope, you will thank me.\nComments URL: https://news.ycombinator.com/item?id=27323430\nPoints: 101\n# Comments: 24",
           "link": "https://news.ycombinator.com/item?id=27323430",
           "publishedOn": "2021-05-29T06:23:31.000Z",
-          "wordCount": 2914,
+          "wordCount": 4278,
           "title": "Ask HN: How to cope with the death of a dear person?"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27323193",
           "author": "zdw",
-          "description": "Article URL: http://www.brendangregg.com/blog/2021-05-29/moving-to-australia.html\nComments URL: https://news.ycombinator.com/item?id=27323193\nPoints: 22\n# Comments: 5",
+          "description": "Article URL: http://www.brendangregg.com/blog/2021-05-29/moving-to-australia.html\nComments URL: https://news.ycombinator.com/item?id=27323193\nPoints: 43\n# Comments: 23",
           "link": "http://www.brendangregg.com/blog/2021-05-29/moving-to-australia.html",
           "publishedOn": "2021-05-29T05:10:50.000Z",
           "wordCount": 1449,
@@ -846,7 +855,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27322636",
           "author": "sohkamyung",
-          "description": "Article URL: https://www.feynmanlectures.caltech.edu/flptapes.html\nComments URL: https://news.ycombinator.com/item?id=27322636\nPoints: 259\n# Comments: 58",
+          "description": "Article URL: https://www.feynmanlectures.caltech.edu/flptapes.html\nComments URL: https://news.ycombinator.com/item?id=27322636\nPoints: 287\n# Comments: 60",
           "link": "https://www.feynmanlectures.caltech.edu/flptapes.html",
           "publishedOn": "2021-05-29T02:37:32.000Z",
           "wordCount": 515,
@@ -855,7 +864,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27322533",
           "author": "kristianp",
-          "description": "Article URL: https://earthly.dev/blog/jruby/\nComments URL: https://news.ycombinator.com/item?id=27322533\nPoints: 87\n# Comments: 44",
+          "description": "Article URL: https://earthly.dev/blog/jruby/\nComments URL: https://news.ycombinator.com/item?id=27322533\nPoints: 95\n# Comments: 44",
           "link": "https://earthly.dev/blog/jruby/",
           "publishedOn": "2021-05-29T02:10:42.000Z",
           "wordCount": 3205,
@@ -864,7 +873,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27321780",
           "author": "infodocket",
-          "description": "Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/\nComments URL: https://news.ycombinator.com/item?id=27321780\nPoints: 98\n# Comments: 43",
+          "description": "Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/\nComments URL: https://news.ycombinator.com/item?id=27321780\nPoints: 101\n# Comments: 46",
           "link": "https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/",
           "publishedOn": "2021-05-28T23:39:34.000Z",
           "wordCount": 3451,
@@ -873,7 +882,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27321754",
           "author": "jffry",
-          "description": "Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/\nComments URL: https://news.ycombinator.com/item?id=27321754\nPoints: 246\n# Comments: 52",
+          "description": "Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/\nComments URL: https://news.ycombinator.com/item?id=27321754\nPoints: 264\n# Comments: 58",
           "link": "https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/",
           "publishedOn": "2021-05-28T23:35:29.000Z",
           "wordCount": 2161,
@@ -882,25 +891,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27319540",
           "author": "salgernon",
-          "description": "Article URL: https://unixgame.io/unix50\nComments URL: https://news.ycombinator.com/item?id=27319540\nPoints: 214\n# Comments: 26",
+          "description": "Article URL: https://unixgame.io/unix50\nComments URL: https://news.ycombinator.com/item?id=27319540\nPoints: 223\n# Comments: 27",
           "link": "https://unixgame.io/unix50",
           "publishedOn": "2021-05-28T19:31:02.000Z",
           "wordCount": 264,
           "title": "The Unix Game"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27319130",
-          "author": "bookofjoe",
-          "description": "Article URL: https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html\nComments URL: https://news.ycombinator.com/item?id=27319130\nPoints: 20\n# Comments: 33",
-          "link": "https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html",
-          "publishedOn": "2021-05-28T18:51:26.000Z",
-          "wordCount": 2127,
-          "title": "Wrigley and others are suing over look-alike THC treats"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27318942",
           "author": "vackosar",
-          "description": "Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism\nComments URL: https://news.ycombinator.com/item?id=27318942\nPoints: 89\n# Comments: 26",
+          "description": "Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism\nComments URL: https://news.ycombinator.com/item?id=27318942\nPoints: 97\n# Comments: 31",
           "link": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
           "publishedOn": "2021-05-28T18:34:51.000Z",
           "wordCount": 360,
@@ -919,7 +919,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1947,
+          "wordCount": 1942,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -928,7 +928,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2521,
+          "wordCount": 2525,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -937,7 +937,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3831,
+          "wordCount": 3837,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -946,7 +946,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1978,
+          "wordCount": 1975,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -955,7 +955,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2075,
+          "wordCount": 2086,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -964,7 +964,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1937,
+          "wordCount": 1930,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         }
       ]
