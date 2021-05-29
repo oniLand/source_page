@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T19:14:39.704Z</id>
+    <id>urn:2021-05-29T20:39:04.182Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T19:14:39.704Z</updated>
+    <updated>2021-05-29T20:39:04.182Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Tech groups sue Florida over content moderation law]]></title>
-        <id>https://news.ycombinator.com/item?id=27327027</id>
-        <link href="https://www.axios.com/florida-social-media-law-tech-groups-sue-2edd1c52-5351-4706-a1f8-6e94d650a677.html"/>
-        <updated>2021-05-29T18:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/florida-social-media-law-tech-groups-sue-2edd1c52-5351-4706-a1f8-6e94d650a677.html
-Comments URL: https://news.ycombinator.com/item?id=27327027
-Points: 25
-# Comments: 18]]></summary>
+        <title type="html"><![CDATA[Endangered Iberian lynx population jumps 10-fold]]></title>
+        <id>https://news.ycombinator.com/item?id=27327732</id>
+        <link href="https://phys.org/news/2021-05-endangered-iberian-lynx-population.html"/>
+        <updated>2021-05-29T19:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-05-endangered-iberian-lynx-population.html
+Comments URL: https://news.ycombinator.com/item?id=27327732
+Points: 13
+# Comments: 2]]></summary>
         <author>
-            <name>enraged_camel</name>
+            <name>finphil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vonnegut Reviews Heinlein's “Stranger in a Strange Land”]]></title>
+        <id>https://news.ycombinator.com/item?id=27327385</id>
+        <link href="https://archive.nytimes.com/www.nytimes.com/books/97/09/28/lifetimes/vonnegut-stranger_heinlein.html"/>
+        <updated>2021-05-29T18:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://archive.nytimes.com/www.nytimes.com/books/97/09/28/lifetimes/vonnegut-stranger_heinlein.html
+Comments URL: https://news.ycombinator.com/item?id=27327385
+Points: 25
+# Comments: 11]]></summary>
+        <author>
+            <name>miles</name>
         </author>
     </entry>
     <entry>
@@ -25,8 +38,8 @@ Points: 25
         <updated>2021-05-29T17:35:55.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html
 Comments URL: https://news.ycombinator.com/item?id=27326837
-Points: 22
-# Comments: 0]]></summary>
+Points: 33
+# Comments: 5]]></summary>
         <author>
             <name>homarp</name>
         </author>
@@ -38,8 +51,8 @@ Points: 22
         <updated>2021-05-29T17:31:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://twitter.com/neilsardesai/status/1398091976445202433
 Comments URL: https://news.ycombinator.com/item?id=27326805
-Points: 22
-# Comments: 3]]></summary>
+Points: 45
+# Comments: 13]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -64,23 +77,10 @@ Points: 1
         <updated>2021-05-29T16:25:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/
 Comments URL: https://news.ycombinator.com/item?id=27326268
-Points: 88
-# Comments: 45]]></summary>
+Points: 129
+# Comments: 66]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProtonMail includes Google Recaptcha for Login, every single time]]></title>
-        <id>https://news.ycombinator.com/item?id=27326243</id>
-        <link href="https://github.com/ProtonMail/WebClient/issues/242"/>
-        <updated>2021-05-29T16:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ProtonMail/WebClient/issues/242
-Comments URL: https://news.ycombinator.com/item?id=27326243
-Points: 147
-# Comments: 90]]></summary>
-        <author>
-            <name>Hard_Space</name>
         </author>
     </entry>
     <entry>
@@ -90,8 +90,8 @@ Points: 147
         <updated>2021-05-29T16:13:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://paulbanks.org/projects/lidl-zigbee/
 Comments URL: https://news.ycombinator.com/item?id=27326183
-Points: 24
-# Comments: 1]]></summary>
+Points: 45
+# Comments: 2]]></summary>
         <author>
             <name>homarp</name>
         </author>
@@ -103,8 +103,8 @@ Points: 24
         <updated>2021-05-29T16:02:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.etftrends.com/disruptive-technology-channel/cathie-wood-innovation-is-inherently-controversial/
 Comments URL: https://news.ycombinator.com/item?id=27326105
-Points: 57
-# Comments: 16]]></summary>
+Points: 67
+# Comments: 25]]></summary>
         <author>
             <name>salakotolu</name>
         </author>
@@ -116,8 +116,8 @@ Points: 57
         <updated>2021-05-29T15:48:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP
 Comments URL: https://news.ycombinator.com/item?id=27326003
-Points: 47
-# Comments: 0]]></summary>
+Points: 61
+# Comments: 3]]></summary>
         <author>
             <name>blacksqr</name>
         </author>
@@ -129,7 +129,7 @@ Points: 47
         <updated>2021-05-29T15:36:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gez.la
 Comments URL: https://news.ycombinator.com/item?id=27325918
-Points: 11
+Points: 16
 # Comments: 3]]></summary>
         <author>
             <name>stfurkan</name>
@@ -142,21 +142,34 @@ Points: 11
         <updated>2021-05-29T15:23:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf
 Comments URL: https://news.ycombinator.com/item?id=27325824
-Points: 31
-# Comments: 13]]></summary>
+Points: 43
+# Comments: 23]]></summary>
         <author>
             <name>azalemeth</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Destruction of America's Newspaper Heritage]]></title>
+        <title type="html"><![CDATA[Show HN: TapeX – Draw, Annotate and Record on your desktop screen]]></title>
+        <id>https://news.ycombinator.com/item?id=27325431</id>
+        <link href="https://tapex.app"/>
+        <updated>2021-05-29T14:24:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tapex.app
+Comments URL: https://news.ycombinator.com/item?id=27325431
+Points: 18
+# Comments: 5]]></summary>
+        <author>
+            <name>antonb90</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Book Review: Double Fold]]></title>
         <id>https://news.ycombinator.com/item?id=27325095</id>
         <link href="https://astralcodexten.substack.com/p/your-book-review-double-fold"/>
         <updated>2021-05-29T13:33:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://astralcodexten.substack.com/p/your-book-review-double-fold
 Comments URL: https://news.ycombinator.com/item?id=27325095
-Points: 73
-# Comments: 27]]></summary>
+Points: 98
+# Comments: 44]]></summary>
         <author>
             <name>mhb</name>
         </author>
@@ -168,8 +181,8 @@ Points: 73
         <updated>2021-05-29T12:57:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://newsletter.timber.fm/p/a-writing-tip-i-learned-at-oxford
 Comments URL: https://news.ycombinator.com/item?id=27324947
-Points: 35
-# Comments: 22]]></summary>
+Points: 48
+# Comments: 32]]></summary>
         <author>
             <name>mooreds</name>
         </author>
@@ -181,8 +194,8 @@ Points: 35
         <updated>2021-05-29T12:42:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/sorenisanerd/gotty
 Comments URL: https://news.ycombinator.com/item?id=27324873
-Points: 54
-# Comments: 6]]></summary>
+Points: 68
+# Comments: 9]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -194,8 +207,8 @@ Points: 54
         <updated>2021-05-29T12:14:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5
 Comments URL: https://news.ycombinator.com/item?id=27324755
-Points: 348
-# Comments: 198]]></summary>
+Points: 399
+# Comments: 238]]></summary>
         <author>
             <name>CapitalistCartr</name>
         </author>
@@ -207,8 +220,8 @@ Points: 348
         <updated>2021-05-29T12:03:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/davidlatwe/montydb
 Comments URL: https://news.ycombinator.com/item?id=27324704
-Points: 45
-# Comments: 25]]></summary>
+Points: 49
+# Comments: 29]]></summary>
         <author>
             <name>davidlatwe</name>
         </author>
@@ -220,7 +233,7 @@ Points: 45
         <updated>2021-05-29T11:55:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
 Comments URL: https://news.ycombinator.com/item?id=27324669
-Points: 39
+Points: 62
 # Comments: 4]]></summary>
         <author>
             <name>roperzh</name>
@@ -233,8 +246,8 @@ Points: 39
         <updated>2021-05-29T10:57:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/
 Comments URL: https://news.ycombinator.com/item?id=27324406
-Points: 179
-# Comments: 46]]></summary>
+Points: 194
+# Comments: 54]]></summary>
         <author>
             <name>bookofjoe</name>
         </author>
@@ -246,23 +259,10 @@ Points: 179
         <updated>2021-05-29T10:27:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep
 Comments URL: https://news.ycombinator.com/item?id=27324265
-Points: 102
-# Comments: 33]]></summary>
+Points: 106
+# Comments: 37]]></summary>
         <author>
             <name>pcr910303</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronomers have created the largest ever map of dark matter]]></title>
-        <id>https://news.ycombinator.com/item?id=27324227</id>
-        <link href="https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter"/>
-        <updated>2021-05-29T10:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter
-Comments URL: https://news.ycombinator.com/item?id=27324227
-Points: 4
-# Comments: 2]]></summary>
-        <author>
-            <name>chriskanan</name>
         </author>
     </entry>
     <entry>

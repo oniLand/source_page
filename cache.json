@@ -198,7 +198,7 @@
           "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://github.com/justjavac/proxy-www",
           "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 527,
+          "wordCount": 507,
           "title": "proxy-www"
         },
         {
@@ -727,18 +727,27 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27327027",
-          "author": "enraged_camel",
-          "description": "Article URL: https://www.axios.com/florida-social-media-law-tech-groups-sue-2edd1c52-5351-4706-a1f8-6e94d650a677.html\nComments URL: https://news.ycombinator.com/item?id=27327027\nPoints: 25\n# Comments: 18",
-          "link": "https://www.axios.com/florida-social-media-law-tech-groups-sue-2edd1c52-5351-4706-a1f8-6e94d650a677.html",
-          "publishedOn": "2021-05-29T18:02:11.000Z",
-          "wordCount": 1182,
-          "title": "Tech groups sue Florida over content moderation law"
+          "id": "https://news.ycombinator.com/item?id=27327732",
+          "author": "finphil",
+          "description": "Article URL: https://phys.org/news/2021-05-endangered-iberian-lynx-population.html\nComments URL: https://news.ycombinator.com/item?id=27327732\nPoints: 13\n# Comments: 2",
+          "link": "https://phys.org/news/2021-05-endangered-iberian-lynx-population.html",
+          "publishedOn": "2021-05-29T19:41:00.000Z",
+          "wordCount": 1405,
+          "title": "Endangered Iberian lynx population jumps 10-fold"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27327385",
+          "author": "miles",
+          "description": "Article URL: https://archive.nytimes.com/www.nytimes.com/books/97/09/28/lifetimes/vonnegut-stranger_heinlein.html\nComments URL: https://news.ycombinator.com/item?id=27327385\nPoints: 25\n# Comments: 11",
+          "link": "https://archive.nytimes.com/www.nytimes.com/books/97/09/28/lifetimes/vonnegut-stranger_heinlein.html",
+          "publishedOn": "2021-05-29T18:51:03.000Z",
+          "wordCount": 1501,
+          "title": "Vonnegut Reviews Heinlein's “Stranger in a Strange Land”"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27326837",
           "author": "homarp",
-          "description": "Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html\nComments URL: https://news.ycombinator.com/item?id=27326837\nPoints: 22\n# Comments: 0",
+          "description": "Article URL: http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html\nComments URL: https://news.ycombinator.com/item?id=27326837\nPoints: 33\n# Comments: 5",
           "link": "http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html",
           "publishedOn": "2021-05-29T17:35:55.000Z",
           "wordCount": 2741,
@@ -747,7 +756,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27326805",
           "author": "giuliomagnifico",
-          "description": "Article URL: https://twitter.com/neilsardesai/status/1398091976445202433\nComments URL: https://news.ycombinator.com/item?id=27326805\nPoints: 22\n# Comments: 3",
+          "description": "Article URL: https://twitter.com/neilsardesai/status/1398091976445202433\nComments URL: https://news.ycombinator.com/item?id=27326805\nPoints: 45\n# Comments: 13",
           "link": "https://twitter.com/neilsardesai/status/1398091976445202433",
           "publishedOn": "2021-05-29T17:31:14.000Z",
           "wordCount": 196,
@@ -765,25 +774,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27326268",
           "author": "todsacerdoti",
-          "description": "Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/\nComments URL: https://news.ycombinator.com/item?id=27326268\nPoints: 88\n# Comments: 45",
+          "description": "Article URL: https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/\nComments URL: https://news.ycombinator.com/item?id=27326268\nPoints: 129\n# Comments: 66",
           "link": "https://krebsonsecurity.com/2021/05/using-fake-reviews-to-find-dangerous-extensions/",
           "publishedOn": "2021-05-29T16:25:31.000Z",
-          "wordCount": 1789,
+          "wordCount": 1864,
           "title": "Using Fake Reviews to Find Dangerous Extensions"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27326243",
-          "author": "Hard_Space",
-          "description": "Article URL: https://github.com/ProtonMail/WebClient/issues/242\nComments URL: https://news.ycombinator.com/item?id=27326243\nPoints: 147\n# Comments: 90",
-          "link": "https://github.com/ProtonMail/WebClient/issues/242",
-          "publishedOn": "2021-05-29T16:22:43.000Z",
-          "wordCount": 2120,
-          "title": "ProtonMail includes Google Recaptcha for Login, every single time"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27326183",
           "author": "homarp",
-          "description": "Article URL: https://paulbanks.org/projects/lidl-zigbee/\nComments URL: https://news.ycombinator.com/item?id=27326183\nPoints: 24\n# Comments: 1",
+          "description": "Article URL: https://paulbanks.org/projects/lidl-zigbee/\nComments URL: https://news.ycombinator.com/item?id=27326183\nPoints: 45\n# Comments: 2",
           "link": "https://paulbanks.org/projects/lidl-zigbee/",
           "publishedOn": "2021-05-29T16:13:17.000Z",
           "wordCount": 1120,
@@ -792,7 +792,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27326105",
           "author": "salakotolu",
-          "description": "Article URL: https://www.etftrends.com/disruptive-technology-channel/cathie-wood-innovation-is-inherently-controversial/\nComments URL: https://news.ycombinator.com/item?id=27326105\nPoints: 57\n# Comments: 16",
+          "description": "Article URL: https://www.etftrends.com/disruptive-technology-channel/cathie-wood-innovation-is-inherently-controversial/\nComments URL: https://news.ycombinator.com/item?id=27326105\nPoints: 67\n# Comments: 25",
           "link": "https://www.etftrends.com/disruptive-technology-channel/cathie-wood-innovation-is-inherently-controversial/",
           "publishedOn": "2021-05-29T16:02:10.000Z",
           "wordCount": 6080,
@@ -801,7 +801,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27326003",
           "author": "blacksqr",
-          "description": "Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP\nComments URL: https://news.ycombinator.com/item?id=27326003\nPoints: 47\n# Comments: 0",
+          "description": "Article URL: https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP\nComments URL: https://news.ycombinator.com/item?id=27326003\nPoints: 61\n# Comments: 3",
           "link": "https://wiki.tcl-lang.org/page/Parallel+C%2B%2B+thread+with+OpenMP",
           "publishedOn": "2021-05-29T15:48:18.000Z",
           "wordCount": 360,
@@ -810,7 +810,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27325918",
           "author": "stfurkan",
-          "description": "Article URL: https://gez.la\nComments URL: https://news.ycombinator.com/item?id=27325918\nPoints: 11\n# Comments: 3",
+          "description": "Article URL: https://gez.la\nComments URL: https://news.ycombinator.com/item?id=27325918\nPoints: 16\n# Comments: 3",
           "link": "https://gez.la",
           "publishedOn": "2021-05-29T15:36:29.000Z",
           "wordCount": 28,
@@ -819,25 +819,34 @@
         {
           "id": "https://news.ycombinator.com/item?id=27325824",
           "author": "azalemeth",
-          "description": "Article URL: https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf\nComments URL: https://news.ycombinator.com/item?id=27325824\nPoints: 31\n# Comments: 13",
+          "description": "Article URL: https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf\nComments URL: https://news.ycombinator.com/item?id=27325824\nPoints: 43\n# Comments: 23",
           "link": "https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf",
           "publishedOn": "2021-05-29T15:23:53.000Z",
           "wordCount": 17618,
           "title": "The Cognitive Style of Power Point (2003) [pdf]"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27325431",
+          "author": "antonb90",
+          "description": "Article URL: https://tapex.app\nComments URL: https://news.ycombinator.com/item?id=27325431\nPoints: 18\n# Comments: 5",
+          "link": "https://tapex.app",
+          "publishedOn": "2021-05-29T14:24:31.000Z",
+          "wordCount": 222,
+          "title": "Show HN: TapeX – Draw, Annotate and Record on your desktop screen"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27325095",
           "author": "mhb",
-          "description": "Article URL: https://astralcodexten.substack.com/p/your-book-review-double-fold\nComments URL: https://news.ycombinator.com/item?id=27325095\nPoints: 73\n# Comments: 27",
+          "description": "Article URL: https://astralcodexten.substack.com/p/your-book-review-double-fold\nComments URL: https://news.ycombinator.com/item?id=27325095\nPoints: 98\n# Comments: 44",
           "link": "https://astralcodexten.substack.com/p/your-book-review-double-fold",
           "publishedOn": "2021-05-29T13:33:32.000Z",
           "wordCount": 7048,
-          "title": "The Destruction of America's Newspaper Heritage"
+          "title": "Book Review: Double Fold"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27324947",
           "author": "mooreds",
-          "description": "Article URL: https://newsletter.timber.fm/p/a-writing-tip-i-learned-at-oxford\nComments URL: https://news.ycombinator.com/item?id=27324947\nPoints: 35\n# Comments: 22",
+          "description": "Article URL: https://newsletter.timber.fm/p/a-writing-tip-i-learned-at-oxford\nComments URL: https://news.ycombinator.com/item?id=27324947\nPoints: 48\n# Comments: 32",
           "link": "https://newsletter.timber.fm/p/a-writing-tip-i-learned-at-oxford",
           "publishedOn": "2021-05-29T12:57:33.000Z",
           "wordCount": 1490,
@@ -846,7 +855,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324873",
           "author": "thunderbong",
-          "description": "Article URL: https://github.com/sorenisanerd/gotty\nComments URL: https://news.ycombinator.com/item?id=27324873\nPoints: 54\n# Comments: 6",
+          "description": "Article URL: https://github.com/sorenisanerd/gotty\nComments URL: https://news.ycombinator.com/item?id=27324873\nPoints: 68\n# Comments: 9",
           "link": "https://github.com/sorenisanerd/gotty",
           "publishedOn": "2021-05-29T12:42:12.000Z",
           "wordCount": 2180,
@@ -855,7 +864,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324755",
           "author": "CapitalistCartr",
-          "description": "Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5\nComments URL: https://news.ycombinator.com/item?id=27324755\nPoints: 348\n# Comments: 198",
+          "description": "Article URL: https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5\nComments URL: https://news.ycombinator.com/item?id=27324755\nPoints: 399\n# Comments: 238",
           "link": "https://www.businessinsider.com/unredacted-google-lawsuit-docs-detail-efforts-to-collect-user-location-2021-5",
           "publishedOn": "2021-05-29T12:14:07.000Z",
           "wordCount": 1515,
@@ -864,7 +873,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324704",
           "author": "davidlatwe",
-          "description": "Article URL: https://github.com/davidlatwe/montydb\nComments URL: https://news.ycombinator.com/item?id=27324704\nPoints: 45\n# Comments: 25",
+          "description": "Article URL: https://github.com/davidlatwe/montydb\nComments URL: https://news.ycombinator.com/item?id=27324704\nPoints: 49\n# Comments: 29",
           "link": "https://github.com/davidlatwe/montydb",
           "publishedOn": "2021-05-29T12:03:31.000Z",
           "wordCount": 1343,
@@ -873,7 +882,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324669",
           "author": "roperzh",
-          "description": "Article URL: http://2016.padjo.org/tutorials/sqlite-data-starterpacks/\nComments URL: https://news.ycombinator.com/item?id=27324669\nPoints: 39\n# Comments: 4",
+          "description": "Article URL: http://2016.padjo.org/tutorials/sqlite-data-starterpacks/\nComments URL: https://news.ycombinator.com/item?id=27324669\nPoints: 62\n# Comments: 4",
           "link": "http://2016.padjo.org/tutorials/sqlite-data-starterpacks/",
           "publishedOn": "2021-05-29T11:55:34.000Z",
           "wordCount": 1204,
@@ -882,7 +891,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324406",
           "author": "bookofjoe",
-          "description": "Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/\nComments URL: https://news.ycombinator.com/item?id=27324406\nPoints: 179\n# Comments: 46",
+          "description": "Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/\nComments URL: https://news.ycombinator.com/item?id=27324406\nPoints: 194\n# Comments: 54",
           "link": "https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/",
           "publishedOn": "2021-05-29T10:57:28.000Z",
           "wordCount": 4389,
@@ -891,20 +900,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27324265",
           "author": "pcr910303",
-          "description": "Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep\nComments URL: https://news.ycombinator.com/item?id=27324265\nPoints: 102\n# Comments: 33",
+          "description": "Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep\nComments URL: https://news.ycombinator.com/item?id=27324265\nPoints: 106\n# Comments: 37",
           "link": "https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep",
           "publishedOn": "2021-05-29T10:27:35.000Z",
           "wordCount": 204,
           "title": "Finding CSV files that start with a BOM using ripgrep"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27324227",
-          "author": "chriskanan",
-          "description": "Article URL: https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter\nComments URL: https://news.ycombinator.com/item?id=27324227\nPoints: 4\n# Comments: 2",
-          "link": "https://www.newscientist.com/article/2278932-astronomers-have-created-the-largest-ever-map-of-dark-matter",
-          "publishedOn": "2021-05-29T10:16:26.000Z",
-          "wordCount": 850,
-          "title": "Astronomers have created the largest ever map of dark matter"
         }
       ]
     },
@@ -919,7 +919,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1942,
+          "wordCount": 1939,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -928,7 +928,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2519,
+          "wordCount": 2517,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -937,7 +937,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3823,
+          "wordCount": 3825,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -946,7 +946,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1968,
+          "wordCount": 1971,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -955,7 +955,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 2080,
+          "wordCount": 2076,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
@@ -964,7 +964,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1933,
+          "wordCount": 1926,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         }
       ]
