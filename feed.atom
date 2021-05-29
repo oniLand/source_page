@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-29T10:50:06.464Z</id>
+    <id>urn:2021-05-29T11:41:16.210Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T10:50:06.464Z</updated>
+    <updated>2021-05-29T11:41:16.210Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ghost Stations of the Paris Metro]]></title>
+        <id>https://news.ycombinator.com/item?id=27324406</id>
+        <link href="https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/"/>
+        <updated>2021-05-29T10:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.urbextour.com/en/urbex-travel/7-ghost-stations-of-the-paris-metro-and-how-to-get-into-the-illegally-unusual-tunnels-rer/
+Comments URL: https://news.ycombinator.com/item?id=27324406
+Points: 8
+# Comments: 2]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finding CSV files that start with a BOM using ripgrep]]></title>
         <id>https://news.ycombinator.com/item?id=27324265</id>
@@ -12,8 +25,8 @@
         <updated>2021-05-29T10:27:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep
 Comments URL: https://news.ycombinator.com/item?id=27324265
-Points: 7
-# Comments: 0]]></summary>
+Points: 20
+# Comments: 7]]></summary>
         <author>
             <name>pcr910303</name>
         </author>
@@ -25,8 +38,8 @@ Points: 7
         <updated>2021-05-29T08:55:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://index.medium.com/shameless-work-influencers-are-the-bane-of-linkedin-5f458bb046aa
 Comments URL: https://news.ycombinator.com/item?id=27323931
-Points: 12
-# Comments: 6]]></summary>
+Points: 45
+# Comments: 31]]></summary>
         <author>
             <name>rapnie</name>
         </author>
@@ -38,7 +51,7 @@ Points: 12
         <updated>2021-05-29T08:15:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/in-pictures-57267874
 Comments URL: https://news.ycombinator.com/item?id=27323805
-Points: 26
+Points: 30
 # Comments: 1]]></summary>
         <author>
             <name>keiferski</name>
@@ -51,8 +64,8 @@ Points: 26
         <updated>2021-05-29T07:25:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.aptnnews.ca/national-news/remains-of-215-children-found-at-former-residential-school-in-british-columbia/
 Comments URL: https://news.ycombinator.com/item?id=27323631
-Points: 84
-# Comments: 26]]></summary>
+Points: 99
+# Comments: 37]]></summary>
         <author>
             <name>bryanrasmussen</name>
         </author>
@@ -64,8 +77,8 @@ Points: 84
         <updated>2021-05-29T07:14:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://abhyudaya.dev/blog/2021/security-issues-lastpass-android
 Comments URL: https://news.ycombinator.com/item?id=27323596
-Points: 6
-# Comments: 0]]></summary>
+Points: 17
+# Comments: 2]]></summary>
         <author>
             <name>AbhyudayaSharma</name>
         </author>
@@ -90,8 +103,8 @@ Points: 1
         <updated>2021-05-29T06:59:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jtpio/jupyterlite
 Comments URL: https://news.ycombinator.com/item?id=27323548
-Points: 44
-# Comments: 10]]></summary>
+Points: 51
+# Comments: 14]]></summary>
         <author>
             <name>ahurmazda</name>
         </author>
@@ -103,8 +116,8 @@ Points: 44
         <updated>2021-05-29T06:56:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://global.yamaha-motor.com/design_technology/design/concept/motoroid/
 Comments URL: https://news.ycombinator.com/item?id=27323538
-Points: 153
-# Comments: 47]]></summary>
+Points: 172
+# Comments: 77]]></summary>
         <author>
             <name>susam</name>
         </author>
@@ -116,8 +129,8 @@ Points: 153
         <updated>2021-05-29T06:47:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.mercurynews.com/2021/05/28/alphabet-moonshot-loon-jolted-layoff-employee-job-tech-google-edd/
 Comments URL: https://news.ycombinator.com/item?id=27323517
-Points: 36
-# Comments: 31]]></summary>
+Points: 44
+# Comments: 34]]></summary>
         <author>
             <name>ndesaulniers</name>
         </author>
@@ -135,23 +148,10 @@ Missing that, any suggestion on how you coped with death?
 It is not my first time; but it is the first time in the last decade or so. I know, I'm lucky.
 One last thing: I don't want to just "ask", but I'd like to contribute something. This is my suggestion for you, actually my prescription for you: if you still have parents, or parents-in-law that you really love, invite them out for dinner, and ask them to tell you stories of their past. Then, before saying goodbye, tell them how much you love them. One day, far away in the future I hope, you will thank me.
 Comments URL: https://news.ycombinator.com/item?id=27323430
-Points: 38
-# Comments: 10]]></summary>
+Points: 56
+# Comments: 15]]></summary>
         <author>
             <name>simonebrunozzi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making the hard problem of consciousness easier]]></title>
-        <id>https://news.ycombinator.com/item?id=27323401</id>
-        <link href="https://science.sciencemag.org/content/372/6545/911"/>
-        <updated>2021-05-29T06:15:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://science.sciencemag.org/content/372/6545/911
-Comments URL: https://news.ycombinator.com/item?id=27323401
-Points: 22
-# Comments: 33]]></summary>
-        <author>
-            <name>hheikinh</name>
         </author>
     </entry>
     <entry>
@@ -161,8 +161,8 @@ Points: 22
         <updated>2021-05-29T02:37:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.feynmanlectures.caltech.edu/flptapes.html
 Comments URL: https://news.ycombinator.com/item?id=27322636
-Points: 236
-# Comments: 52]]></summary>
+Points: 249
+# Comments: 53]]></summary>
         <author>
             <name>sohkamyung</name>
         </author>
@@ -174,8 +174,8 @@ Points: 236
         <updated>2021-05-29T02:10:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://earthly.dev/blog/jruby/
 Comments URL: https://news.ycombinator.com/item?id=27322533
-Points: 81
-# Comments: 41]]></summary>
+Points: 84
+# Comments: 43]]></summary>
         <author>
             <name>kristianp</name>
         </author>
@@ -187,7 +187,7 @@ Points: 81
         <updated>2021-05-28T23:39:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.hpcwire.com/2021/05/27/nersc-debuts-perlmutter-worlds-fastest-ai-supercomputer/
 Comments URL: https://news.ycombinator.com/item?id=27321780
-Points: 88
+Points: 92
 # Comments: 41]]></summary>
         <author>
             <name>infodocket</name>
@@ -200,8 +200,8 @@ Points: 88
         <updated>2021-05-28T23:35:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/pwned-passwords-open-source-in-the-dot-net-foundation-and-working-with-the-fbi/
 Comments URL: https://news.ycombinator.com/item?id=27321754
-Points: 229
-# Comments: 48]]></summary>
+Points: 237
+# Comments: 51]]></summary>
         <author>
             <name>jffry</name>
         </author>
@@ -223,8 +223,8 @@ Points: 229
         <updated>2021-05-28T19:31:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://unixgame.io/unix50
 Comments URL: https://news.ycombinator.com/item?id=27319540
-Points: 197
-# Comments: 25]]></summary>
+Points: 203
+# Comments: 26]]></summary>
         <author>
             <name>salgernon</name>
         </author>
@@ -236,8 +236,8 @@ Points: 197
         <updated>2021-05-28T18:51:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/22/style/edibles-marijuana.html
 Comments URL: https://news.ycombinator.com/item?id=27319130
-Points: 19
-# Comments: 23]]></summary>
+Points: 20
+# Comments: 29]]></summary>
         <author>
             <name>bookofjoe</name>
         </author>
@@ -249,8 +249,8 @@ Points: 19
         <updated>2021-05-28T18:48:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/
 Comments URL: https://news.ycombinator.com/item?id=27319099
-Points: 530
-# Comments: 225]]></summary>
+Points: 542
+# Comments: 226]]></summary>
         <author>
             <name>spenvo</name>
         </author>
@@ -262,7 +262,7 @@ Points: 530
         <updated>2021-05-28T18:34:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 Comments URL: https://news.ycombinator.com/item?id=27318942
-Points: 82
+Points: 87
 # Comments: 26]]></summary>
         <author>
             <name>vackosar</name>
@@ -275,7 +275,7 @@ Points: 82
         <updated>2021-05-28T17:25:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/
 Comments URL: https://news.ycombinator.com/item?id=27318153
-Points: 111
+Points: 114
 # Comments: 24]]></summary>
         <author>
             <name>vulkd</name>
@@ -1018,16 +1018,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viral sensation ‘Among Us’ is coming to PlayStation 4 & 5 later this year]]></title>
-        <id>https://www.geekwire.com/?p=617664</id>
-        <link href="https://www.geekwire.com/2021/viral-sensation-among-us-coming-playstation-4-5-later-year/"/>
-        <updated>2021-04-29T23:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Last year’s viral hit Among Us is planned to debut on PlayStation 4 & 5 later this year. Announced during Sony’s “State of Play” news conference Thursday, the PS4/5 rev of Among Us will come with crossplay, online multiplayer, and exclusive cosmetic items that let you dress your Crewmate up as Ratchet, the protagonist of Sony’s Ratchet & Clank series. The port was made in collaboration with the Seattle-based firm PlayEveryware, which specializes in helping indie developers release their games on console. Among Us, developed in Redmond, Wash., by the indie studio Innersloth, was originally released for Steam and mobile… Read More]]></summary>
-        <author>
-            <name>Thomas Wilde</name>
         </author>
     </entry>
 </feed>
