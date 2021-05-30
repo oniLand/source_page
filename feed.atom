@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-30T07:11:05.870Z</id>
+    <id>urn:2021-05-30T08:40:39.845Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T07:11:05.870Z</updated>
+    <updated>2021-05-30T08:40:39.845Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: paperd.ink – open-source e-paper development board]]></title>
+        <id>https://news.ycombinator.com/item?id=27331311</id>
+        <link href="https://paperd.ink"/>
+        <updated>2021-05-30T07:22:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://paperd.ink
+Comments URL: https://news.ycombinator.com/item?id=27331311
+Points: 4
+# Comments: 1]]></summary>
+        <author>
+            <name>robertlangdon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexport is hiring employees all over the world]]></title>
         <id>https://news.ycombinator.com/item?id=27331208</id>
@@ -25,10 +38,23 @@ Points: 1
         <updated>2021-05-30T06:32:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979
 Comments URL: https://news.ycombinator.com/item?id=27331075
-Points: 79
-# Comments: 43]]></summary>
+Points: 205
+# Comments: 137]]></summary>
         <author>
             <name>luu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT’s aren’t a harmless digital fad – they’re a disaster for our planet]]></title>
+        <id>https://news.ycombinator.com/item?id=27331023</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/may/29/non-fungible-tokens-digital-fad-planet-nfts-artists-fossil-fuels"/>
+        <updated>2021-05-30T06:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/may/29/non-fungible-tokens-digital-fad-planet-nfts-artists-fossil-fuels
+Comments URL: https://news.ycombinator.com/item?id=27331023
+Points: 19
+# Comments: 11]]></summary>
+        <author>
+            <name>dusttree</name>
         </author>
     </entry>
     <entry>
@@ -38,8 +64,8 @@ Points: 79
         <updated>2021-05-30T05:02:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://shalabh.com/programmable-systems/offload-mental-simulation.html
 Comments URL: https://news.ycombinator.com/item?id=27330740
-Points: 11
-# Comments: 1]]></summary>
+Points: 23
+# Comments: 5]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -51,8 +77,8 @@ Points: 11
         <updated>2021-05-30T03:57:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://allthatsinteresting.com/eugene-francois-vidocq
 Comments URL: https://news.ycombinator.com/item?id=27330466
-Points: 10
-# Comments: 0]]></summary>
+Points: 19
+# Comments: 1]]></summary>
         <author>
             <name>intellaughs</name>
         </author>
@@ -64,8 +90,8 @@ Points: 10
         <updated>2021-05-30T03:39:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://quoteinvestigator.com/2021/04/02/computer-science/
 Comments URL: https://news.ycombinator.com/item?id=27330400
-Points: 52
-# Comments: 73]]></summary>
+Points: 79
+# Comments: 108]]></summary>
         <author>
             <name>akakievich</name>
         </author>
@@ -77,8 +103,8 @@ Points: 52
         <updated>2021-05-30T03:25:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/alibaba/PolarDB-for-PostgreSQL
 Comments URL: https://news.ycombinator.com/item?id=27330342
-Points: 44
-# Comments: 14]]></summary>
+Points: 58
+# Comments: 20]]></summary>
         <author>
             <name>jinqueeny</name>
         </author>
@@ -90,8 +116,8 @@ Points: 44
         <updated>2021-05-30T02:12:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f
 Comments URL: https://news.ycombinator.com/item?id=27330031
-Points: 76
-# Comments: 18]]></summary>
+Points: 105
+# Comments: 20]]></summary>
         <author>
             <name>techplex</name>
         </author>
@@ -103,8 +129,8 @@ Points: 76
         <updated>2021-05-30T01:27:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://darkhn.herokuapp.com/
 Comments URL: https://news.ycombinator.com/item?id=27329809
-Points: 29
-# Comments: 15]]></summary>
+Points: 43
+# Comments: 23]]></summary>
         <author>
             <name>xtrp</name>
         </author>
@@ -116,8 +142,8 @@ Points: 29
         <updated>2021-05-30T00:43:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://orhun.dev/blog/introducing-gpg-tui/
 Comments URL: https://news.ycombinator.com/item?id=27329598
-Points: 90
-# Comments: 45]]></summary>
+Points: 101
+# Comments: 56]]></summary>
         <author>
             <name>sbt567</name>
         </author>
@@ -129,8 +155,8 @@ Points: 90
         <updated>2021-05-29T23:58:35.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/29/technology/emily-wilder-firing-ap.html
 Comments URL: https://news.ycombinator.com/item?id=27329338
-Points: 42
-# Comments: 13]]></summary>
+Points: 65
+# Comments: 26]]></summary>
         <author>
             <name>rutenspitz</name>
         </author>
@@ -142,8 +168,8 @@ Points: 42
         <updated>2021-05-29T23:35:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F
 Comments URL: https://news.ycombinator.com/item?id=27329211
-Points: 42
-# Comments: 21]]></summary>
+Points: 46
+# Comments: 24]]></summary>
         <author>
             <name>tintinnabula</name>
         </author>
@@ -155,8 +181,8 @@ Points: 42
         <updated>2021-05-29T23:24:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Scottish_Café
 Comments URL: https://news.ycombinator.com/item?id=27329131
-Points: 76
-# Comments: 18]]></summary>
+Points: 98
+# Comments: 25]]></summary>
         <author>
             <name>benbreen</name>
         </author>
@@ -168,8 +194,8 @@ Points: 76
         <updated>2021-05-29T22:45:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.darkpatterns.org/hall-of-shame
 Comments URL: https://news.ycombinator.com/item?id=27328863
-Points: 84
-# Comments: 21]]></summary>
+Points: 96
+# Comments: 36]]></summary>
         <author>
             <name>bookofjoe</name>
         </author>
@@ -181,8 +207,8 @@ Points: 84
         <updated>2021-05-29T22:15:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/
 Comments URL: https://news.ycombinator.com/item?id=27328663
-Points: 594
-# Comments: 217]]></summary>
+Points: 654
+# Comments: 228]]></summary>
         <author>
             <name>beefman</name>
         </author>
@@ -194,8 +220,8 @@ Points: 594
         <updated>2021-05-29T21:35:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/
 Comments URL: https://news.ycombinator.com/item?id=27328404
-Points: 194
-# Comments: 89]]></summary>
+Points: 208
+# Comments: 96]]></summary>
         <author>
             <name>carwyn</name>
         </author>
@@ -207,8 +233,8 @@ Points: 194
         <updated>2021-05-29T21:18:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/
 Comments URL: https://news.ycombinator.com/item?id=27328290
-Points: 138
-# Comments: 117]]></summary>
+Points: 163
+# Comments: 125]]></summary>
         <author>
             <name>intellaughs</name>
         </author>
@@ -220,8 +246,8 @@ Points: 138
         <updated>2021-05-29T21:02:26.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.synthesia.io/
 Comments URL: https://news.ycombinator.com/item?id=27328205
-Points: 171
-# Comments: 66]]></summary>
+Points: 184
+# Comments: 76]]></summary>
         <author>
             <name>vladoh</name>
         </author>
@@ -233,36 +259,10 @@ Points: 171
         <updated>2021-05-29T20:44:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://harpers.org/archive/2015/04/abolish-high-school/
 Comments URL: https://news.ycombinator.com/item?id=27328111
-Points: 153
-# Comments: 240]]></summary>
+Points: 161
+# Comments: 245]]></summary>
         <author>
             <name>johntfella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon devices will soon automatically share your Internet with neighbors]]></title>
-        <id>https://news.ycombinator.com/item?id=27328087</id>
-        <link href="https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/"/>
-        <updated>2021-05-29T20:39:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/
-Comments URL: https://news.ycombinator.com/item?id=27328087
-Points: 286
-# Comments: 192]]></summary>
-        <author>
-            <name>throwaway888abc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Faraday Wax” – recreating old school high-vacuum epoxy]]></title>
-        <id>https://news.ycombinator.com/item?id=27327871</id>
-        <link href="https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/"/>
-        <updated>2021-05-29T20:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eevblog.com/forum/chat/faraday-wax-recreating-old-school-high-vacuum-epoxy!/
-Comments URL: https://news.ycombinator.com/item?id=27327871
-Points: 61
-# Comments: 13]]></summary>
-        <author>
-            <name>zdw</name>
         </author>
     </entry>
     <entry>
@@ -387,7 +387,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
+        <title type="html"><![CDATA[How To Build And Launch Powerful Responsive Websites With Editor X]]></title>
         <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
         <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
         <updated>2021-05-27T09:30:00.000Z</updated>
