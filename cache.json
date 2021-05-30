@@ -225,7 +225,7 @@
           "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
           "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3658,
+          "wordCount": 3553,
           "title": "Svelte for the Experienced React Dev"
         },
         {
@@ -250,7 +250,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10217,
+          "wordCount": 10175,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -306,7 +306,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2126,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -348,7 +348,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9394,
+          "wordCount": 9445,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -376,7 +376,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1966,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -432,7 +432,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2953,
+          "wordCount": 2957,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -446,7 +446,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2432,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -530,7 +530,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4164,
+          "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -544,7 +544,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
+          "wordCount": 2664,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -558,7 +558,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2343,
+          "wordCount": 2338,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -572,7 +572,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1840,
+          "wordCount": 1795,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -600,7 +600,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2178,
+          "wordCount": 2188,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -715,7 +715,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27331311",
           "author": "robertlangdon",
-          "description": "Article URL: https://paperd.ink\nComments URL: https://news.ycombinator.com/item?id=27331311\nPoints: 4\n# Comments: 1",
+          "description": "Article URL: https://paperd.ink\nComments URL: https://news.ycombinator.com/item?id=27331311\nPoints: 25\n# Comments: 6",
           "link": "https://paperd.ink",
           "publishedOn": "2021-05-30T07:22:23.000Z",
           "wordCount": 188,
@@ -733,16 +733,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27331075",
           "author": "luu",
-          "description": "Article URL: https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979\nComments URL: https://news.ycombinator.com/item?id=27331075\nPoints: 205\n# Comments: 137",
+          "description": "Article URL: https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979\nComments URL: https://news.ycombinator.com/item?id=27331075\nPoints: 289\n# Comments: 192",
           "link": "https://fstoppers.com/news/amazon-refused-refund-7000-after-shipping-empty-box-instead-sony-a1-564979",
           "publishedOn": "2021-05-30T06:32:03.000Z",
-          "wordCount": 1817,
+          "wordCount": 1853,
           "title": "Amazon Refused to Refund $7k After Shipping an Empty Box Instead of a Sony A1"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27331023",
           "author": "dusttree",
-          "description": "Article URL: https://www.theguardian.com/commentisfree/2021/may/29/non-fungible-tokens-digital-fad-planet-nfts-artists-fossil-fuels\nComments URL: https://news.ycombinator.com/item?id=27331023\nPoints: 19\n# Comments: 11",
+          "description": "Article URL: https://www.theguardian.com/commentisfree/2021/may/29/non-fungible-tokens-digital-fad-planet-nfts-artists-fossil-fuels\nComments URL: https://news.ycombinator.com/item?id=27331023\nPoints: 35\n# Comments: 36",
           "link": "https://www.theguardian.com/commentisfree/2021/may/29/non-fungible-tokens-digital-fad-planet-nfts-artists-fossil-fuels",
           "publishedOn": "2021-05-30T06:17:44.000Z",
           "wordCount": 1277,
@@ -751,7 +751,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27330740",
           "author": "zdw",
-          "description": "Article URL: https://shalabh.com/programmable-systems/offload-mental-simulation.html\nComments URL: https://news.ycombinator.com/item?id=27330740\nPoints: 23\n# Comments: 5",
+          "description": "Article URL: https://shalabh.com/programmable-systems/offload-mental-simulation.html\nComments URL: https://news.ycombinator.com/item?id=27330740\nPoints: 27\n# Comments: 6",
           "link": "https://shalabh.com/programmable-systems/offload-mental-simulation.html",
           "publishedOn": "2021-05-30T05:02:26.000Z",
           "wordCount": 1413,
@@ -769,7 +769,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27330400",
           "author": "akakievich",
-          "description": "Article URL: https://quoteinvestigator.com/2021/04/02/computer-science/\nComments URL: https://news.ycombinator.com/item?id=27330400\nPoints: 79\n# Comments: 108",
+          "description": "Article URL: https://quoteinvestigator.com/2021/04/02/computer-science/\nComments URL: https://news.ycombinator.com/item?id=27330400\nPoints: 101\n# Comments: 118",
           "link": "https://quoteinvestigator.com/2021/04/02/computer-science/",
           "publishedOn": "2021-05-30T03:39:35.000Z",
           "wordCount": 4499,
@@ -778,7 +778,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27330342",
           "author": "jinqueeny",
-          "description": "Article URL: https://github.com/alibaba/PolarDB-for-PostgreSQL\nComments URL: https://news.ycombinator.com/item?id=27330342\nPoints: 58\n# Comments: 20",
+          "description": "Article URL: https://github.com/alibaba/PolarDB-for-PostgreSQL\nComments URL: https://news.ycombinator.com/item?id=27330342\nPoints: 68\n# Comments: 30",
           "link": "https://github.com/alibaba/PolarDB-for-PostgreSQL",
           "publishedOn": "2021-05-30T03:25:13.000Z",
           "wordCount": 1367,
@@ -787,7 +787,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27330031",
           "author": "techplex",
-          "description": "Article URL: https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f\nComments URL: https://news.ycombinator.com/item?id=27330031\nPoints: 105\n# Comments: 20",
+          "description": "Article URL: https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f\nComments URL: https://news.ycombinator.com/item?id=27330031\nPoints: 133\n# Comments: 27",
           "link": "https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f",
           "publishedOn": "2021-05-30T02:12:14.000Z",
           "wordCount": 3507,
@@ -796,16 +796,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27329809",
           "author": "xtrp",
-          "description": "Article URL: https://darkhn.herokuapp.com/\nComments URL: https://news.ycombinator.com/item?id=27329809\nPoints: 43\n# Comments: 23",
+          "description": "Article URL: https://darkhn.herokuapp.com/\nComments URL: https://news.ycombinator.com/item?id=27329809\nPoints: 50\n# Comments: 28",
           "link": "https://darkhn.herokuapp.com/",
           "publishedOn": "2021-05-30T01:27:21.000Z",
-          "wordCount": 637,
+          "wordCount": 631,
           "title": "Show HN: DarkHN – Dark Mode Mirror for Hacker News"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27329598",
           "author": "sbt567",
-          "description": "Article URL: https://orhun.dev/blog/introducing-gpg-tui/\nComments URL: https://news.ycombinator.com/item?id=27329598\nPoints: 101\n# Comments: 56",
+          "description": "Article URL: https://orhun.dev/blog/introducing-gpg-tui/\nComments URL: https://news.ycombinator.com/item?id=27329598\nPoints: 108\n# Comments: 59",
           "link": "https://orhun.dev/blog/introducing-gpg-tui/",
           "publishedOn": "2021-05-30T00:43:26.000Z",
           "wordCount": 1019,
@@ -814,7 +814,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27329338",
           "author": "rutenspitz",
-          "description": "Article URL: https://www.nytimes.com/2021/05/29/technology/emily-wilder-firing-ap.html\nComments URL: https://news.ycombinator.com/item?id=27329338\nPoints: 65\n# Comments: 26",
+          "description": "Article URL: https://www.nytimes.com/2021/05/29/technology/emily-wilder-firing-ap.html\nComments URL: https://news.ycombinator.com/item?id=27329338\nPoints: 77\n# Comments: 35",
           "link": "https://www.nytimes.com/2021/05/29/technology/emily-wilder-firing-ap.html",
           "publishedOn": "2021-05-29T23:58:35.000Z",
           "wordCount": 1304,
@@ -823,7 +823,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27329211",
           "author": "tintinnabula",
-          "description": "Article URL: https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F\nComments URL: https://news.ycombinator.com/item?id=27329211\nPoints: 46\n# Comments: 24",
+          "description": "Article URL: https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F\nComments URL: https://news.ycombinator.com/item?id=27329211\nPoints: 49\n# Comments: 25",
           "link": "https://en.wikisource.org/wiki/What_is_the_Fourth_Dimension%3F",
           "publishedOn": "2021-05-29T23:35:37.000Z",
           "wordCount": 9838,
@@ -832,7 +832,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27329131",
           "author": "benbreen",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Scottish_Café\nComments URL: https://news.ycombinator.com/item?id=27329131\nPoints: 98\n# Comments: 25",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Scottish_Café\nComments URL: https://news.ycombinator.com/item?id=27329131\nPoints: 110\n# Comments: 29",
           "link": "https://en.wikipedia.org/wiki/Scottish_Café",
           "publishedOn": "2021-05-29T23:24:40.000Z",
           "wordCount": null,
@@ -841,7 +841,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27328863",
           "author": "bookofjoe",
-          "description": "Article URL: https://www.darkpatterns.org/hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=27328863\nPoints: 96\n# Comments: 36",
+          "description": "Article URL: https://www.darkpatterns.org/hall-of-shame\nComments URL: https://news.ycombinator.com/item?id=27328863\nPoints: 107\n# Comments: 41",
           "link": "https://www.darkpatterns.org/hall-of-shame",
           "publishedOn": "2021-05-29T22:45:47.000Z",
           "wordCount": 74,
@@ -850,7 +850,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27328663",
           "author": "beefman",
-          "description": "Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/\nComments URL: https://news.ycombinator.com/item?id=27328663\nPoints: 654\n# Comments: 228",
+          "description": "Article URL: https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/\nComments URL: https://news.ycombinator.com/item?id=27328663\nPoints: 690\n# Comments: 241",
           "link": "https://dental.washington.edu/trials-begin-on-lozenge-that-rebuilds-tooth-enamel/",
           "publishedOn": "2021-05-29T22:15:00.000Z",
           "wordCount": 1154,
@@ -859,7 +859,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27328404",
           "author": "carwyn",
-          "description": "Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/\nComments URL: https://news.ycombinator.com/item?id=27328404\nPoints: 208\n# Comments: 96",
+          "description": "Article URL: https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/\nComments URL: https://news.ycombinator.com/item?id=27328404\nPoints: 219\n# Comments: 99",
           "link": "https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/",
           "publishedOn": "2021-05-29T21:35:14.000Z",
           "wordCount": 197,
@@ -868,7 +868,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27328290",
           "author": "intellaughs",
-          "description": "Article URL: https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/\nComments URL: https://news.ycombinator.com/item?id=27328290\nPoints: 163\n# Comments: 125",
+          "description": "Article URL: https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/\nComments URL: https://news.ycombinator.com/item?id=27328290\nPoints: 177\n# Comments: 134",
           "link": "https://medlifestyle.news/2021/05/29/waking-up-one-hour-earlier-can-lower-a-persons-chance-of-major-depression-by-23-new-research-finds/",
           "publishedOn": "2021-05-29T21:18:54.000Z",
           "wordCount": 1945,
@@ -877,7 +877,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27328205",
           "author": "vladoh",
-          "description": "Article URL: https://www.synthesia.io/\nComments URL: https://news.ycombinator.com/item?id=27328205\nPoints: 184\n# Comments: 76",
+          "description": "Article URL: https://www.synthesia.io/\nComments URL: https://news.ycombinator.com/item?id=27328205\nPoints: 199\n# Comments: 80",
           "link": "https://www.synthesia.io/",
           "publishedOn": "2021-05-29T21:02:26.000Z",
           "wordCount": 917,
@@ -886,7 +886,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27328111",
           "author": "johntfella",
-          "description": "Article URL: https://harpers.org/archive/2015/04/abolish-high-school/\nComments URL: https://news.ycombinator.com/item?id=27328111\nPoints: 161\n# Comments: 245",
+          "description": "Article URL: https://harpers.org/archive/2015/04/abolish-high-school/\nComments URL: https://news.ycombinator.com/item?id=27328111\nPoints: 164\n# Comments: 248",
           "link": "https://harpers.org/archive/2015/04/abolish-high-school/",
           "publishedOn": "2021-05-29T20:44:30.000Z",
           "wordCount": 2814,
@@ -905,7 +905,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1858,
+          "wordCount": 1861,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -923,7 +923,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3744,
+          "wordCount": 3743,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -932,7 +932,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1890,
+          "wordCount": 1888,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -950,7 +950,7 @@
           "description": "Kicking off in federal court today, the closely watched battle between the makers of Fortnite and Apple will include an attorney who is well known for her role in one of the seminal antitrust fights in tech history: U.S. v. Microsoft. On the legal team for Epic Games is Christine Varney, the lawyer who represented Netscape in its antitrust suit against Microsoft in 2001. The Microsoft case ended with an initial judgment to break up the Redmond-based software giant, a decision which later was walked back under a 2002 settlement agreement. Varney also was the U.S. assistant attorney general of… Read More",
           "link": "https://www.geekwire.com/2021/lawyer-helped-netscape-microsoft-antitrust-lawsuit-representing-epic-battle-apple/",
           "publishedOn": "2021-05-03T19:50:45.000Z",
-          "wordCount": 1844,
+          "wordCount": 1843,
           "title": "Lawyer who helped Netscape in Microsoft antitrust lawsuit is representing Epic in its battle with Apple"
         }
       ]
