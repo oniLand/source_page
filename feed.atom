@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T14:34:00.750Z</id>
+    <id>urn:2021-05-31T15:32:52.583Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T14:34:00.750Z</updated>
+    <updated>2021-05-31T15:32:52.583Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[iOS 14 tracking changes sees big ad spending drop, tumbling prices]]></title>
+        <id>https://news.ycombinator.com/item?id=27344667</id>
+        <link href="https://www.imore.com/ios-14-tracking-changes-sees-big-ad-spending-drop-tumbling-prices"/>
+        <updated>2021-05-31T14:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.imore.com/ios-14-tracking-changes-sees-big-ad-spending-drop-tumbling-prices
+Comments URL: https://news.ycombinator.com/item?id=27344667
+Points: 11
+# Comments: 5]]></summary>
+        <author>
+            <name>CharlesW</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I received an email without me in to, cc or bcc. How is this possible?]]></title>
+        <id>https://news.ycombinator.com/item?id=27344662</id>
+        <link href="https://pastebin.com/X1aUZ2V5"/>
+        <updated>2021-05-31T14:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pastebin.com/X1aUZ2V5
+Comments URL: https://news.ycombinator.com/item?id=27344662
+Points: 6
+# Comments: 7]]></summary>
+        <author>
+            <name>lewisjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostGIS at 20, the Beginning]]></title>
+        <id>https://news.ycombinator.com/item?id=27344639</id>
+        <link href="http://blog.cleverelephant.ca/2021/05/postgis-20-years.html"/>
+        <updated>2021-05-31T14:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://blog.cleverelephant.ca/2021/05/postgis-20-years.html
+Comments URL: https://news.ycombinator.com/item?id=27344639
+Points: 31
+# Comments: 3]]></summary>
+        <author>
+            <name>jkatz05</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s New Popups Will Further Harm Facebook’s Advertisement Business]]></title>
+        <id>https://news.ycombinator.com/item?id=27344617</id>
+        <link href="https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken"/>
+        <updated>2021-05-31T14:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken
+Comments URL: https://news.ycombinator.com/item?id=27344617
+Points: 17
+# Comments: 6]]></summary>
+        <author>
+            <name>devnerd239</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordTsar, a WordStar Clone]]></title>
+        <id>https://news.ycombinator.com/item?id=27344426</id>
+        <link href="http://wordtsar.ca/"/>
+        <updated>2021-05-31T14:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://wordtsar.ca/
+Comments URL: https://news.ycombinator.com/item?id=27344426
+Points: 14
+# Comments: 10]]></summary>
+        <author>
+            <name>rhabarba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air France cancels flights as Russia withholds clearance]]></title>
+        <id>https://news.ycombinator.com/item?id=27344262</id>
+        <link href="https://www.reuters.com/world/europe/air-france-delays-two-moscow-bound-flights-over-lack-russian-permits-ria-2021-05-31/"/>
+        <updated>2021-05-31T14:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/europe/air-france-delays-two-moscow-bound-flights-over-lack-russian-permits-ria-2021-05-31/
+Comments URL: https://news.ycombinator.com/item?id=27344262
+Points: 69
+# Comments: 31]]></summary>
+        <author>
+            <name>underscore_ku</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Movie written by algorithm turns out to be hilarious and intense]]></title>
         <id>https://news.ycombinator.com/item?id=27344043</id>
@@ -12,8 +90,8 @@
         <updated>2021-05-31T13:50:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gaming/2021/05/an-ai-wrote-this-movie-and-its-strangely-moving/
 Comments URL: https://news.ycombinator.com/item?id=27344043
-Points: 4
-# Comments: 0]]></summary>
+Points: 16
+# Comments: 12]]></summary>
         <author>
             <name>belter</name>
         </author>
@@ -25,7 +103,7 @@ Points: 4
         <updated>2021-05-31T13:41:07.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/stnolting/neorv32
 Comments URL: https://news.ycombinator.com/item?id=27343948
-Points: 11
+Points: 28
 # Comments: 1]]></summary>
         <author>
             <name>_quarks_</name>
@@ -38,8 +116,8 @@ Points: 11
         <updated>2021-05-31T13:37:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thephilbert.io/2021/05/31/gcc-rust-monthly-report-6-may-2021/
 Comments URL: https://news.ycombinator.com/item?id=27343913
-Points: 38
-# Comments: 16]]></summary>
+Points: 53
+# Comments: 35]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -51,8 +129,8 @@ Points: 38
         <updated>2021-05-31T13:29:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://narratively.com/they-were-labeled-witches-they-just-had-dementia/
 Comments URL: https://news.ycombinator.com/item?id=27343868
-Points: 31
-# Comments: 0]]></summary>
+Points: 44
+# Comments: 5]]></summary>
         <author>
             <name>_Microft</name>
         </author>
@@ -64,8 +142,8 @@ Points: 31
         <updated>2021-05-31T12:17:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://graphqlconf.org/
 Comments URL: https://news.ycombinator.com/item?id=27343280
-Points: 61
-# Comments: 27]]></summary>
+Points: 71
+# Comments: 42]]></summary>
         <author>
             <name>pikachuproblem</name>
         </author>
@@ -77,8 +155,8 @@ Points: 61
         <updated>2021-05-31T12:01:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s
 Comments URL: https://news.ycombinator.com/item?id=27343150
-Points: 80
-# Comments: 22]]></summary>
+Points: 100
+# Comments: 32]]></summary>
         <author>
             <name>rbanffy</name>
         </author>
@@ -97,19 +175,6 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cities with the Best Work-Life Balance 2021]]></title>
-        <id>https://news.ycombinator.com/item?id=27343015</id>
-        <link href="https://www.getkisi.com/work-life-balance-2021"/>
-        <updated>2021-05-31T11:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.getkisi.com/work-life-balance-2021
-Comments URL: https://news.ycombinator.com/item?id=27343015
-Points: 86
-# Comments: 125]]></summary>
-        <author>
-            <name>remt</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
         <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
@@ -120,27 +185,14 @@ Points: 86
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I curated a list of 110 actionable tasks to help founders get from zero to $19k]]></title>
-        <id>https://news.ycombinator.com/item?id=27342787</id>
-        <link href="https://www.notion.so/110-actionable-tasks-to-help-you-get-from-zero-to-19k-2a28bd237e964f75a8f4cf8fcd8182c5"/>
-        <updated>2021-05-31T11:12:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.notion.so/110-actionable-tasks-to-help-you-get-from-zero-to-19k-2a28bd237e964f75a8f4cf8fcd8182c5
-Comments URL: https://news.ycombinator.com/item?id=27342787
-Points: 4
-# Comments: 0]]></summary>
-        <author>
-            <name>matteomosca</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Yangtze dam separates Paddlefish, largest, from spawn, now extinct]]></title>
         <id>https://news.ycombinator.com/item?id=27342763</id>
         <link href="https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true"/>
         <updated>2021-05-31T11:10:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.com/animals/article/chinese-paddlefish-one-of-largest-fish-extinct?loggedin=true
 Comments URL: https://news.ycombinator.com/item?id=27342763
-Points: 27
-# Comments: 13]]></summary>
+Points: 56
+# Comments: 37]]></summary>
         <author>
             <name>gadf</name>
         </author>
@@ -152,8 +204,8 @@ Points: 27
         <updated>2021-05-31T11:02:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/28/business/energy-environment/exxon-engine-board.html
 Comments URL: https://news.ycombinator.com/item?id=27342705
-Points: 58
-# Comments: 15]]></summary>
+Points: 72
+# Comments: 22]]></summary>
         <author>
             <name>CapitalistCartr</name>
         </author>
@@ -165,23 +217,23 @@ Points: 58
         <updated>2021-05-31T10:30:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/
 Comments URL: https://news.ycombinator.com/item?id=27342509
-Points: 112
-# Comments: 53]]></summary>
+Points: 137
+# Comments: 63]]></summary>
         <author>
             <name>ushakov</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sri Lanka faces 'worst-ever beach pollution' from burning ship]]></title>
-        <id>https://news.ycombinator.com/item?id=27341930</id>
-        <link href="https://www.dw.com/en/sri-lanka-faces-worst-ever-beach-pollution-from-burning-ship/a-57712086"/>
-        <updated>2021-05-31T09:06:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/sri-lanka-faces-worst-ever-beach-pollution-from-burning-ship/a-57712086
-Comments URL: https://news.ycombinator.com/item?id=27341930
-Points: 60
-# Comments: 8]]></summary>
+        <title type="html"><![CDATA[China allows couples to have three children]]></title>
+        <id>https://news.ycombinator.com/item?id=27342258</id>
+        <link href="https://www.bbc.com/news/world-asia-china-57303592"/>
+        <updated>2021-05-31T09:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-asia-china-57303592
+Comments URL: https://news.ycombinator.com/item?id=27342258
+Points: 131
+# Comments: 188]]></summary>
         <author>
-            <name>rguiscard</name>
+            <name>jgilias</name>
         </author>
     </entry>
     <entry>
@@ -191,8 +243,8 @@ Points: 60
         <updated>2021-05-31T08:11:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://foss-north.se/2021/
 Comments URL: https://news.ycombinator.com/item?id=27341518
-Points: 51
-# Comments: 1]]></summary>
+Points: 63
+# Comments: 2]]></summary>
         <author>
             <name>hnarn</name>
         </author>
@@ -204,7 +256,7 @@ Points: 51
         <updated>2021-05-31T07:21:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jomei/notionapi
 Comments URL: https://news.ycombinator.com/item?id=27341215
-Points: 45
+Points: 53
 # Comments: 0]]></summary>
         <author>
             <name>jomei</name>
@@ -217,64 +269,10 @@ Points: 45
         <updated>2021-05-31T05:15:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station
 Comments URL: https://news.ycombinator.com/item?id=27340414
-Points: 330
-# Comments: 155]]></summary>
+Points: 353
+# Comments: 165]]></summary>
         <author>
             <name>bryan0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scamp – a homebrew 16-bit CPU]]></title>
-        <id>https://news.ycombinator.com/item?id=27339088</id>
-        <link href="https://incoherency.co.uk/blog/stories/scamp-lives.html"/>
-        <updated>2021-05-31T01:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://incoherency.co.uk/blog/stories/scamp-lives.html
-Comments URL: https://news.ycombinator.com/item?id=27339088
-Points: 99
-# Comments: 15]]></summary>
-        <author>
-            <name>nickt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSA spying row: Denmark helped US gather data on European officials, says report]]></title>
-        <id>https://news.ycombinator.com/item?id=27338555</id>
-        <link href="https://www.bbc.com/news/world-europe-57302806"/>
-        <updated>2021-05-31T00:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57302806
-Comments URL: https://news.ycombinator.com/item?id=27338555
-Points: 358
-# Comments: 137]]></summary>
-        <author>
-            <name>Black101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TermPair: Terminal sharing with AES-GCM 128 bit end-to-end encryption]]></title>
-        <id>https://news.ycombinator.com/item?id=27338479</id>
-        <link href="https://github.com/cs01/termpair"/>
-        <updated>2021-05-31T00:25:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/cs01/termpair
-Comments URL: https://news.ycombinator.com/item?id=27338479
-Points: 104
-# Comments: 34]]></summary>
-        <author>
-            <name>illuminated</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Alternatives to Google Photos?]]></title>
-        <id>https://news.ycombinator.com/item?id=27338008</id>
-        <link href="https://news.ycombinator.com/item?id=27338008"/>
-        <updated>2021-05-30T23:26:44.000Z</updated>
-        <summary type="html"><![CDATA[With Google ending its free photo storage policy in a few days[0], I'm considering switching to another service. I've poked around a few recommendation sites[1], but am curious to know if anyone has suggestions for new and/or under-the-radar services they would recommend?
-[0] https://blog.google/products/photos/storage-changes/
-[1] https://www.techradar.com/how-to/best-google-photos-alternat...
-Comments URL: https://news.ycombinator.com/item?id=27338008
-Points: 320
-# Comments: 251]]></summary>
-        <author>
-            <name>LifeIsBio</name>
         </author>
     </entry>
     <entry>
