@@ -1,34 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T08:59:59.482Z</id>
+    <id>urn:2021-05-31T10:09:45.277Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T08:59:59.482Z</updated>
+    <updated>2021-05-31T10:09:45.277Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Europe’s cookie consent reckoning is coming]]></title>
-        <id>https://news.ycombinator.com/item?id=27340904</id>
-        <link href="https://techcrunch.com/2021/05/30/europes-cookie-consent-reckoning-is-coming/"/>
-        <updated>2021-05-31T06:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2021/05/30/europes-cookie-consent-reckoning-is-coming/
-Comments URL: https://news.ycombinator.com/item?id=27340904
+        <title type="html"><![CDATA[In big tech’s dystopia, cat videos earn millions while real artists beg for tips]]></title>
+        <id>https://news.ycombinator.com/item?id=27341265</id>
+        <link href="https://www.theguardian.com/commentisfree/2021/may/30/big-tech-cat-video-artists-tips-musicians-spotify-donation"/>
+        <updated>2021-05-31T07:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/commentisfree/2021/may/30/big-tech-cat-video-artists-tips-musicians-spotify-donation
+Comments URL: https://news.ycombinator.com/item?id=27341265
 Points: 20
-# Comments: 18]]></summary>
+# Comments: 20]]></summary>
         <author>
-            <name>Liriel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noyb aims to end “cookie banner terror” and issues more than 500 GDPR complaints]]></title>
-        <id>https://news.ycombinator.com/item?id=27340769</id>
-        <link href="https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-complaints"/>
-        <updated>2021-05-31T06:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-complaints
-Comments URL: https://news.ycombinator.com/item?id=27340769
-Points: 108
-# Comments: 53]]></summary>
-        <author>
-            <name>robin_reala</name>
+            <name>hardmaru</name>
         </author>
     </entry>
     <entry>
@@ -38,8 +25,8 @@ Points: 108
         <updated>2021-05-31T06:02:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://soundcloud.com/user-626311220/steve-jobs-on-his-glide-slope-theory-of-tech-1988
 Comments URL: https://news.ycombinator.com/item?id=27340692
-Points: 23
-# Comments: 6]]></summary>
+Points: 35
+# Comments: 12]]></summary>
         <author>
             <name>ent101</name>
         </author>
@@ -51,8 +38,8 @@ Points: 23
         <updated>2021-05-31T05:37:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gaming/2019/08/mapmaker-the-gerrymandering-game-that-puts-the-fun-in-undermining-democracy/
 Comments URL: https://news.ycombinator.com/item?id=27340538
-Points: 44
-# Comments: 12]]></summary>
+Points: 59
+# Comments: 16]]></summary>
         <author>
             <name>Tomte</name>
         </author>
@@ -64,23 +51,10 @@ Points: 44
         <updated>2021-05-31T05:15:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station
 Comments URL: https://news.ycombinator.com/item?id=27340414
-Points: 157
-# Comments: 58]]></summary>
+Points: 199
+# Comments: 82]]></summary>
         <author>
             <name>bryan0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Danish whistleblower details NSA collaboration, cable and data center spying (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27340127</id>
-        <link href="https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/"/>
-        <updated>2021-05-31T04:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/
-Comments URL: https://news.ycombinator.com/item?id=27340127
-Points: 389
-# Comments: 93]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -90,8 +64,8 @@ Points: 389
         <updated>2021-05-31T03:53:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/
 Comments URL: https://news.ycombinator.com/item?id=27339887
-Points: 280
-# Comments: 173]]></summary>
+Points: 327
+# Comments: 235]]></summary>
         <author>
             <name>tech-historian</name>
         </author>
@@ -103,8 +77,8 @@ Points: 280
         <updated>2021-05-31T03:37:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://monocle.com/magazine/issues/144/open-invitation/
 Comments URL: https://news.ycombinator.com/item?id=27339796
-Points: 101
-# Comments: 43]]></summary>
+Points: 110
+# Comments: 48]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -116,8 +90,8 @@ Points: 101
         <updated>2021-05-31T01:49:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://incoherency.co.uk/blog/stories/scamp-lives.html
 Comments URL: https://news.ycombinator.com/item?id=27339088
-Points: 45
-# Comments: 4]]></summary>
+Points: 58
+# Comments: 7]]></summary>
         <author>
             <name>nickt</name>
         </author>
@@ -129,8 +103,8 @@ Points: 45
         <updated>2021-05-31T00:45:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html
 Comments URL: https://news.ycombinator.com/item?id=27338596
-Points: 116
-# Comments: 92]]></summary>
+Points: 125
+# Comments: 103]]></summary>
         <author>
             <name>WarOnPrivacy</name>
         </author>
@@ -142,8 +116,8 @@ Points: 116
         <updated>2021-05-31T00:39:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57302806
 Comments URL: https://news.ycombinator.com/item?id=27338555
-Points: 227
-# Comments: 70]]></summary>
+Points: 261
+# Comments: 85]]></summary>
         <author>
             <name>Black101</name>
         </author>
@@ -155,8 +129,8 @@ Points: 227
         <updated>2021-05-31T00:25:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cs01/termpair
 Comments URL: https://news.ycombinator.com/item?id=27338479
-Points: 84
-# Comments: 28]]></summary>
+Points: 90
+# Comments: 29]]></summary>
         <author>
             <name>illuminated</name>
         </author>
@@ -170,10 +144,23 @@ Points: 84
 [0] https://blog.google/products/photos/storage-changes/
 [1] https://www.techradar.com/how-to/best-google-photos-alternat...
 Comments URL: https://news.ycombinator.com/item?id=27338008
-Points: 217
-# Comments: 165]]></summary>
+Points: 243
+# Comments: 181]]></summary>
         <author>
             <name>LifeIsBio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A never-before-documented flower blooms on one of world’s rarest trees]]></title>
+        <id>https://news.ycombinator.com/item?id=27337538</id>
+        <link href="https://www.nationalgeographic.co.uk/environment-and-conservation/2021/05/a-never-before-documented-flower-blooms-on-one-of-worlds-rarest-trees"/>
+        <updated>2021-05-30T22:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.co.uk/environment-and-conservation/2021/05/a-never-before-documented-flower-blooms-on-one-of-worlds-rarest-trees
+Comments URL: https://news.ycombinator.com/item?id=27337538
+Points: 18
+# Comments: 1]]></summary>
+        <author>
+            <name>hassanahmad</name>
         </author>
     </entry>
     <entry>
@@ -183,10 +170,23 @@ Points: 217
         <updated>2021-05-30T22:12:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/
 Comments URL: https://news.ycombinator.com/item?id=27337382
-Points: 190
-# Comments: 121]]></summary>
+Points: 208
+# Comments: 138]]></summary>
         <author>
             <name>minama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shortest Possible Game of Monopoly (2010)]]></title>
+        <id>https://news.ycombinator.com/item?id=27337171</id>
+        <link href="https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/"/>
+        <updated>2021-05-30T21:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/
+Comments URL: https://news.ycombinator.com/item?id=27337171
+Points: 146
+# Comments: 133]]></summary>
+        <author>
+            <name>ksangeelee</name>
         </author>
     </entry>
     <entry>
@@ -196,8 +196,8 @@ Points: 190
         <updated>2021-05-30T21:33:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/sport/tennis/57301475
 Comments URL: https://news.ycombinator.com/item?id=27337044
-Points: 110
-# Comments: 147]]></summary>
+Points: 121
+# Comments: 177]]></summary>
         <author>
             <name>e2e4</name>
         </author>
@@ -209,8 +209,8 @@ Points: 110
         <updated>2021-05-30T21:11:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/
 Comments URL: https://news.ycombinator.com/item?id=27336826
-Points: 35
-# Comments: 21]]></summary>
+Points: 38
+# Comments: 22]]></summary>
         <author>
             <name>apophatic</name>
         </author>
@@ -222,7 +222,7 @@ Points: 35
         <updated>2021-05-30T21:10:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://theamericanscholar.org/if-you-frame-it-like-that/
 Comments URL: https://news.ycombinator.com/item?id=27336815
-Points: 23
+Points: 25
 # Comments: 0]]></summary>
         <author>
             <name>killittosaveit</name>
@@ -235,8 +235,8 @@ Points: 23
         <updated>2021-05-30T21:09:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2
 Comments URL: https://news.ycombinator.com/item?id=27336808
-Points: 180
-# Comments: 112]]></summary>
+Points: 190
+# Comments: 127]]></summary>
         <author>
             <name>martincmartin</name>
         </author>
@@ -248,7 +248,7 @@ Points: 180
         <updated>2021-05-30T20:47:16.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://rfc.fyi/
 Comments URL: https://news.ycombinator.com/item?id=27336584
-Points: 130
+Points: 139
 # Comments: 21]]></summary>
         <author>
             <name>amjd</name>
@@ -261,8 +261,8 @@ Points: 130
         <updated>2021-05-30T19:01:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://youtube.com/watch?v=saRir95iIWk
 Comments URL: https://news.ycombinator.com/item?id=27335639
-Points: 16
-# Comments: 4]]></summary>
+Points: 27
+# Comments: 6]]></summary>
         <author>
             <name>tosh</name>
         </author>

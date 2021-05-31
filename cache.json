@@ -250,7 +250,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10220,
+          "wordCount": 10222,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -306,7 +306,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2121,
+          "wordCount": 2130,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -348,7 +348,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9445,
+          "wordCount": 9441,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -376,7 +376,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1964,
+          "wordCount": 1956,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -446,7 +446,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2444,
+          "wordCount": 2435,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -516,7 +516,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6349,
+          "wordCount": 6357,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -530,7 +530,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4166,
+          "wordCount": 4172,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -544,7 +544,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2659,
+          "wordCount": 2617,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -558,7 +558,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
+          "wordCount": 2347,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
@@ -572,7 +572,7 @@
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1840,
+          "wordCount": 1834,
           "title": "A Guide To Undoing Mistakes With Git (Part 1)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -600,7 +600,7 @@
           "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2188,
+          "wordCount": 2141,
           "title": "The Evolution Of Jamstack",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
@@ -713,27 +713,18 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=27340904",
-          "author": "Liriel",
-          "description": "Article URL: https://techcrunch.com/2021/05/30/europes-cookie-consent-reckoning-is-coming/\nComments URL: https://news.ycombinator.com/item?id=27340904\nPoints: 20\n# Comments: 18",
-          "link": "https://techcrunch.com/2021/05/30/europes-cookie-consent-reckoning-is-coming/",
-          "publishedOn": "2021-05-31T06:31:49.000Z",
-          "wordCount": 1406,
-          "title": "Europe’s cookie consent reckoning is coming"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27340769",
-          "author": "robin_reala",
-          "description": "Article URL: https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-complaints\nComments URL: https://news.ycombinator.com/item?id=27340769\nPoints: 108\n# Comments: 53",
-          "link": "https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-complaints",
-          "publishedOn": "2021-05-31T06:15:20.000Z",
-          "wordCount": 1374,
-          "title": "Noyb aims to end “cookie banner terror” and issues more than 500 GDPR complaints"
+          "id": "https://news.ycombinator.com/item?id=27341265",
+          "author": "hardmaru",
+          "description": "Article URL: https://www.theguardian.com/commentisfree/2021/may/30/big-tech-cat-video-artists-tips-musicians-spotify-donation\nComments URL: https://news.ycombinator.com/item?id=27341265\nPoints: 20\n# Comments: 20",
+          "link": "https://www.theguardian.com/commentisfree/2021/may/30/big-tech-cat-video-artists-tips-musicians-spotify-donation",
+          "publishedOn": "2021-05-31T07:29:42.000Z",
+          "wordCount": 1376,
+          "title": "In big tech’s dystopia, cat videos earn millions while real artists beg for tips"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27340692",
           "author": "ent101",
-          "description": "Article URL: https://soundcloud.com/user-626311220/steve-jobs-on-his-glide-slope-theory-of-tech-1988\nComments URL: https://news.ycombinator.com/item?id=27340692\nPoints: 23\n# Comments: 6",
+          "description": "Article URL: https://soundcloud.com/user-626311220/steve-jobs-on-his-glide-slope-theory-of-tech-1988\nComments URL: https://news.ycombinator.com/item?id=27340692\nPoints: 35\n# Comments: 12",
           "link": "https://soundcloud.com/user-626311220/steve-jobs-on-his-glide-slope-theory-of-tech-1988",
           "publishedOn": "2021-05-31T06:02:33.000Z",
           "wordCount": 351,
@@ -742,7 +733,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27340538",
           "author": "Tomte",
-          "description": "Article URL: https://arstechnica.com/gaming/2019/08/mapmaker-the-gerrymandering-game-that-puts-the-fun-in-undermining-democracy/\nComments URL: https://news.ycombinator.com/item?id=27340538\nPoints: 44\n# Comments: 12",
+          "description": "Article URL: https://arstechnica.com/gaming/2019/08/mapmaker-the-gerrymandering-game-that-puts-the-fun-in-undermining-democracy/\nComments URL: https://news.ycombinator.com/item?id=27340538\nPoints: 59\n# Comments: 16",
           "link": "https://arstechnica.com/gaming/2019/08/mapmaker-the-gerrymandering-game-that-puts-the-fun-in-undermining-democracy/",
           "publishedOn": "2021-05-31T05:37:08.000Z",
           "wordCount": 2123,
@@ -751,25 +742,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27340414",
           "author": "bryan0",
-          "description": "Article URL: https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station\nComments URL: https://news.ycombinator.com/item?id=27340414\nPoints: 157\n# Comments: 58",
+          "description": "Article URL: https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station\nComments URL: https://news.ycombinator.com/item?id=27340414\nPoints: 199\n# Comments: 82",
           "link": "https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station",
           "publishedOn": "2021-05-31T05:15:25.000Z",
           "wordCount": 564,
           "title": "Space Debris Has Hit and Damaged the International Space Station"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27340127",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/\nComments URL: https://news.ycombinator.com/item?id=27340127\nPoints: 389\n# Comments: 93",
-          "link": "https://www.datacenterdynamics.com/en/news/danish-whistleblower-details-nsa-collaboration-submarine-cable-spying-surveillance-data-center/",
-          "publishedOn": "2021-05-31T04:28:31.000Z",
-          "wordCount": null,
-          "title": "Danish whistleblower details NSA collaboration, cable and data center spying (2020)"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27339887",
           "author": "tech-historian",
-          "description": "Article URL: https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/\nComments URL: https://news.ycombinator.com/item?id=27339887\nPoints: 280\n# Comments: 173",
+          "description": "Article URL: https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/\nComments URL: https://news.ycombinator.com/item?id=27339887\nPoints: 327\n# Comments: 235",
           "link": "https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/",
           "publishedOn": "2021-05-31T03:53:20.000Z",
           "wordCount": 1817,
@@ -778,7 +760,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27339796",
           "author": "fortran77",
-          "description": "Article URL: https://monocle.com/magazine/issues/144/open-invitation/\nComments URL: https://news.ycombinator.com/item?id=27339796\nPoints: 101\n# Comments: 43",
+          "description": "Article URL: https://monocle.com/magazine/issues/144/open-invitation/\nComments URL: https://news.ycombinator.com/item?id=27339796\nPoints: 110\n# Comments: 48",
           "link": "https://monocle.com/magazine/issues/144/open-invitation/",
           "publishedOn": "2021-05-31T03:37:37.000Z",
           "wordCount": 2953,
@@ -787,7 +769,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27339088",
           "author": "nickt",
-          "description": "Article URL: https://incoherency.co.uk/blog/stories/scamp-lives.html\nComments URL: https://news.ycombinator.com/item?id=27339088\nPoints: 45\n# Comments: 4",
+          "description": "Article URL: https://incoherency.co.uk/blog/stories/scamp-lives.html\nComments URL: https://news.ycombinator.com/item?id=27339088\nPoints: 58\n# Comments: 7",
           "link": "https://incoherency.co.uk/blog/stories/scamp-lives.html",
           "publishedOn": "2021-05-31T01:49:28.000Z",
           "wordCount": 2122,
@@ -796,7 +778,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27338596",
           "author": "WarOnPrivacy",
-          "description": "Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html\nComments URL: https://news.ycombinator.com/item?id=27338596\nPoints: 116\n# Comments: 92",
+          "description": "Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html\nComments URL: https://news.ycombinator.com/item?id=27338596\nPoints: 125\n# Comments: 103",
           "link": "https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html",
           "publishedOn": "2021-05-31T00:45:34.000Z",
           "wordCount": 1060,
@@ -805,16 +787,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27338555",
           "author": "Black101",
-          "description": "Article URL: https://www.bbc.com/news/world-europe-57302806\nComments URL: https://news.ycombinator.com/item?id=27338555\nPoints: 227\n# Comments: 70",
+          "description": "Article URL: https://www.bbc.com/news/world-europe-57302806\nComments URL: https://news.ycombinator.com/item?id=27338555\nPoints: 261\n# Comments: 85",
           "link": "https://www.bbc.com/news/world-europe-57302806",
           "publishedOn": "2021-05-31T00:39:01.000Z",
-          "wordCount": 992,
+          "wordCount": 994,
           "title": "NSA spying row: Denmark helped US gather data on European officials, says report"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27338479",
           "author": "illuminated",
-          "description": "Article URL: https://github.com/cs01/termpair\nComments URL: https://news.ycombinator.com/item?id=27338479\nPoints: 84\n# Comments: 28",
+          "description": "Article URL: https://github.com/cs01/termpair\nComments URL: https://news.ycombinator.com/item?id=27338479\nPoints: 90\n# Comments: 29",
           "link": "https://github.com/cs01/termpair",
           "publishedOn": "2021-05-31T00:25:05.000Z",
           "wordCount": 1014,
@@ -823,34 +805,52 @@
         {
           "id": "https://news.ycombinator.com/item?id=27338008",
           "author": "LifeIsBio",
-          "description": "With Google ending its free photo storage policy in a few days[0], I'm considering switching to another service. I've poked around a few recommendation sites[1], but am curious to know if anyone has suggestions for new and/or under-the-radar services they would recommend?\n[0] https://blog.google/products/photos/storage-changes/\n[1] https://www.techradar.com/how-to/best-google-photos-alternat...\nComments URL: https://news.ycombinator.com/item?id=27338008\nPoints: 217\n# Comments: 165",
+          "description": "With Google ending its free photo storage policy in a few days[0], I'm considering switching to another service. I've poked around a few recommendation sites[1], but am curious to know if anyone has suggestions for new and/or under-the-radar services they would recommend?\n[0] https://blog.google/products/photos/storage-changes/\n[1] https://www.techradar.com/how-to/best-google-photos-alternat...\nComments URL: https://news.ycombinator.com/item?id=27338008\nPoints: 243\n# Comments: 181",
           "link": "https://news.ycombinator.com/item?id=27338008",
           "publishedOn": "2021-05-30T23:26:44.000Z",
-          "wordCount": 8409,
+          "wordCount": 9151,
           "title": "Ask HN: Alternatives to Google Photos?"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27337538",
+          "author": "hassanahmad",
+          "description": "Article URL: https://www.nationalgeographic.co.uk/environment-and-conservation/2021/05/a-never-before-documented-flower-blooms-on-one-of-worlds-rarest-trees\nComments URL: https://news.ycombinator.com/item?id=27337538\nPoints: 18\n# Comments: 1",
+          "link": "https://www.nationalgeographic.co.uk/environment-and-conservation/2021/05/a-never-before-documented-flower-blooms-on-one-of-worlds-rarest-trees",
+          "publishedOn": "2021-05-30T22:31:48.000Z",
+          "wordCount": 1824,
+          "title": "A never-before-documented flower blooms on one of world’s rarest trees"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27337382",
           "author": "minama",
-          "description": "Article URL: https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/\nComments URL: https://news.ycombinator.com/item?id=27337382\nPoints: 190\n# Comments: 121",
+          "description": "Article URL: https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/\nComments URL: https://news.ycombinator.com/item?id=27337382\nPoints: 208\n# Comments: 138",
           "link": "https://www.windowslatest.com/2021/05/31/windows-10-is-now-nagging-users-with-microsoft-bing-alerts/",
           "publishedOn": "2021-05-30T22:12:30.000Z",
           "wordCount": 828,
           "title": "Windows 10 nagging users with Bing advertisements (push alerts)"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27337171",
+          "author": "ksangeelee",
+          "description": "Article URL: https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/\nComments URL: https://news.ycombinator.com/item?id=27337171\nPoints: 146\n# Comments: 133",
+          "link": "https://scatter.wordpress.com/2010/05/30/the-shortest-possible-game-of-monopoly-21-seconds/",
+          "publishedOn": "2021-05-30T21:46:31.000Z",
+          "wordCount": 5085,
+          "title": "The Shortest Possible Game of Monopoly (2010)"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27337044",
           "author": "e2e4",
-          "description": "Article URL: https://www.bbc.com/sport/tennis/57301475\nComments URL: https://news.ycombinator.com/item?id=27337044\nPoints: 110\n# Comments: 147",
+          "description": "Article URL: https://www.bbc.com/sport/tennis/57301475\nComments URL: https://news.ycombinator.com/item?id=27337044\nPoints: 121\n# Comments: 177",
           "link": "https://www.bbc.com/sport/tennis/57301475",
           "publishedOn": "2021-05-30T21:33:03.000Z",
-          "wordCount": 2843,
+          "wordCount": 2917,
           "title": "Naomi Osaka faces default from Grand Slam for refusing to speak to media"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27336826",
           "author": "apophatic",
-          "description": "Article URL: https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/\nComments URL: https://news.ycombinator.com/item?id=27336826\nPoints: 35\n# Comments: 21",
+          "description": "Article URL: https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/\nComments URL: https://news.ycombinator.com/item?id=27336826\nPoints: 38\n# Comments: 22",
           "link": "https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/",
           "publishedOn": "2021-05-30T21:11:21.000Z",
           "wordCount": 3067,
@@ -859,7 +859,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27336815",
           "author": "killittosaveit",
-          "description": "Article URL: https://theamericanscholar.org/if-you-frame-it-like-that/\nComments URL: https://news.ycombinator.com/item?id=27336815\nPoints: 23\n# Comments: 0",
+          "description": "Article URL: https://theamericanscholar.org/if-you-frame-it-like-that/\nComments URL: https://news.ycombinator.com/item?id=27336815\nPoints: 25\n# Comments: 0",
           "link": "https://theamericanscholar.org/if-you-frame-it-like-that/",
           "publishedOn": "2021-05-30T21:10:22.000Z",
           "wordCount": 2811,
@@ -868,7 +868,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27336808",
           "author": "martincmartin",
-          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2\nComments URL: https://news.ycombinator.com/item?id=27336808\nPoints: 180\n# Comments: 112",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2\nComments URL: https://news.ycombinator.com/item?id=27336808\nPoints: 190\n# Comments: 127",
           "link": "https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2",
           "publishedOn": "2021-05-30T21:09:43.000Z",
           "wordCount": 2817,
@@ -877,7 +877,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27336584",
           "author": "amjd",
-          "description": "Article URL: https://rfc.fyi/\nComments URL: https://news.ycombinator.com/item?id=27336584\nPoints: 130\n# Comments: 21",
+          "description": "Article URL: https://rfc.fyi/\nComments URL: https://news.ycombinator.com/item?id=27336584\nPoints: 139\n# Comments: 21",
           "link": "https://rfc.fyi/",
           "publishedOn": "2021-05-30T20:47:16.000Z",
           "wordCount": 28,
@@ -886,7 +886,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27335639",
           "author": "tosh",
-          "description": "Article URL: https://youtube.com/watch?v=saRir95iIWk\nComments URL: https://news.ycombinator.com/item?id=27335639\nPoints: 16\n# Comments: 4",
+          "description": "Article URL: https://youtube.com/watch?v=saRir95iIWk\nComments URL: https://news.ycombinator.com/item?id=27335639\nPoints: 27\n# Comments: 6",
           "link": "https://youtube.com/watch?v=saRir95iIWk",
           "publishedOn": "2021-05-30T19:01:33.000Z",
           "wordCount": 28,
@@ -905,7 +905,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1863,
+          "wordCount": 1865,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -914,7 +914,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2437,
+          "wordCount": 2441,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -923,7 +923,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3741,
+          "wordCount": 3748,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -932,7 +932,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1891,
+          "wordCount": 1893,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -941,7 +941,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 1993,
+          "wordCount": 1992,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         },
         {
