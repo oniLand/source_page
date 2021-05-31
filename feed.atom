@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-31T11:56:57.341Z</id>
+    <id>urn:2021-05-31T13:02:33.924Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T11:56:57.341Z</updated>
+    <updated>2021-05-31T13:02:33.924Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Conf. is back in 2021 and has gone completely online and free]]></title>
+        <id>https://news.ycombinator.com/item?id=27343280</id>
+        <link href="https://graphqlconf.org/"/>
+        <updated>2021-05-31T12:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://graphqlconf.org/
+Comments URL: https://news.ycombinator.com/item?id=27343280
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>pikachuproblem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Commodore Amiga Powered Your Cable System in the '90s – Atlas Obscura]]></title>
+        <id>https://news.ycombinator.com/item?id=27343150</id>
+        <link href="https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s"/>
+        <updated>2021-05-31T12:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atlasobscura.com/articles/how-the-commodore-amiga-powered-your-cable-system-in-the-90s
+Comments URL: https://news.ycombinator.com/item?id=27343150
+Points: 22
+# Comments: 1]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agapé (YC S21) Is Hiring a Founding Lead Engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=27343140</id>
+        <link href="https://www.notion.so/Lead-Engineer-Agap-abbd2edbcff94dfc8f9d3d1dcf56799a?v=e42eecd8e93040f8aef5830bd7769f22"/>
+        <updated>2021-05-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.notion.so/Lead-Engineer-Agap-abbd2edbcff94dfc8f9d3d1dcf56799a?v=e42eecd8e93040f8aef5830bd7769f22
+Comments URL: https://news.ycombinator.com/item?id=27343140
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>kokwudili</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Are Not “Addicted” to Technology]]></title>
+        <id>https://news.ycombinator.com/item?id=27343127</id>
+        <link href="https://www.jasonfeifer.com/episode/you-are-not-addicted-to-technology/"/>
+        <updated>2021-05-31T11:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jasonfeifer.com/episode/you-are-not-addicted-to-technology/
+Comments URL: https://news.ycombinator.com/item?id=27343127
+Points: 7
+# Comments: 0]]></summary>
+        <author>
+            <name>nireyal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cities with the Best Work-Life Balance 2021]]></title>
         <id>https://news.ycombinator.com/item?id=27343015</id>
@@ -12,8 +64,8 @@
         <updated>2021-05-31T11:43:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.getkisi.com/work-life-balance-2021
 Comments URL: https://news.ycombinator.com/item?id=27343015
-Points: 10
-# Comments: 4]]></summary>
+Points: 68
+# Comments: 76]]></summary>
         <author>
             <name>remt</name>
         </author>
@@ -35,8 +87,8 @@ Points: 10
         <updated>2021-05-31T11:02:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/28/business/energy-environment/exxon-engine-board.html
 Comments URL: https://news.ycombinator.com/item?id=27342705
-Points: 10
-# Comments: 0]]></summary>
+Points: 29
+# Comments: 7]]></summary>
         <author>
             <name>CapitalistCartr</name>
         </author>
@@ -48,8 +100,8 @@ Points: 10
         <updated>2021-05-31T10:30:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hackaday.com/2021/05/30/neural-networks-emulate-any-guitar-pedal-for-120/
 Comments URL: https://news.ycombinator.com/item?id=27342509
-Points: 42
-# Comments: 8]]></summary>
+Points: 68
+# Comments: 22]]></summary>
         <author>
             <name>ushakov</name>
         </author>
@@ -61,8 +113,8 @@ Points: 42
         <updated>2021-05-31T10:24:38.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/china/china-says-each-couple-can-have-three-children-change-policy-2021-05-31/
 Comments URL: https://news.ycombinator.com/item?id=27342479
-Points: 6
-# Comments: 3]]></summary>
+Points: 12
+# Comments: 6]]></summary>
         <author>
             <name>1cvmask</name>
         </author>
@@ -74,8 +126,8 @@ Points: 6
         <updated>2021-05-31T09:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-asia-china-57303592
 Comments URL: https://news.ycombinator.com/item?id=27342258
-Points: 44
-# Comments: 33]]></summary>
+Points: 89
+# Comments: 96]]></summary>
         <author>
             <name>jgilias</name>
         </author>
@@ -87,8 +139,8 @@ Points: 44
         <updated>2021-05-31T09:06:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dw.com/en/sri-lanka-faces-worst-ever-beach-pollution-from-burning-ship/a-57712086
 Comments URL: https://news.ycombinator.com/item?id=27341930
-Points: 31
-# Comments: 1]]></summary>
+Points: 39
+# Comments: 3]]></summary>
         <author>
             <name>rguiscard</name>
         </author>
@@ -100,7 +152,7 @@ Points: 31
         <updated>2021-05-31T08:11:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://foss-north.se/2021/
 Comments URL: https://news.ycombinator.com/item?id=27341518
-Points: 15
+Points: 29
 # Comments: 1]]></summary>
         <author>
             <name>hnarn</name>
@@ -113,8 +165,8 @@ Points: 15
         <updated>2021-05-31T07:45:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/technology-57200584
 Comments URL: https://news.ycombinator.com/item?id=27341347
-Points: 13
-# Comments: 2]]></summary>
+Points: 24
+# Comments: 18]]></summary>
         <author>
             <name>open-source-ux</name>
         </author>
@@ -126,7 +178,7 @@ Points: 13
         <updated>2021-05-31T07:21:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/jomei/notionapi
 Comments URL: https://news.ycombinator.com/item?id=27341215
-Points: 22
+Points: 30
 # Comments: 0]]></summary>
         <author>
             <name>jomei</name>
@@ -139,8 +191,8 @@ Points: 22
         <updated>2021-05-31T05:15:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.sciencealert.com/space-debris-has-damaged-the-international-space-station
 Comments URL: https://news.ycombinator.com/item?id=27340414
-Points: 265
-# Comments: 124]]></summary>
+Points: 296
+# Comments: 136]]></summary>
         <author>
             <name>bryan0</name>
         </author>
@@ -152,8 +204,8 @@ Points: 265
         <updated>2021-05-31T03:53:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.dailydot.com/debug/wikipedia-endownemnt-fundraising/
 Comments URL: https://news.ycombinator.com/item?id=27339887
-Points: 389
-# Comments: 295]]></summary>
+Points: 423
+# Comments: 347]]></summary>
         <author>
             <name>tech-historian</name>
         </author>
@@ -165,8 +217,8 @@ Points: 389
         <updated>2021-05-31T03:37:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://monocle.com/magazine/issues/144/open-invitation/
 Comments URL: https://news.ycombinator.com/item?id=27339796
-Points: 128
-# Comments: 59]]></summary>
+Points: 135
+# Comments: 62]]></summary>
         <author>
             <name>fortran77</name>
         </author>
@@ -178,23 +230,10 @@ Points: 128
         <updated>2021-05-31T01:49:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://incoherency.co.uk/blog/stories/scamp-lives.html
 Comments URL: https://news.ycombinator.com/item?id=27339088
-Points: 74
-# Comments: 8]]></summary>
+Points: 85
+# Comments: 9]]></summary>
         <author>
             <name>nickt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Was Paralyzed by Severe Depression. Then Came Ketamine]]></title>
-        <id>https://news.ycombinator.com/item?id=27338596</id>
-        <link href="https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html"/>
-        <updated>2021-05-31T00:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/30/opinion/ketamine-treatment-depression.html
-Comments URL: https://news.ycombinator.com/item?id=27338596
-Points: 147
-# Comments: 116]]></summary>
-        <author>
-            <name>WarOnPrivacy</name>
         </author>
     </entry>
     <entry>
@@ -204,8 +243,8 @@ Points: 147
         <updated>2021-05-31T00:39:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/world-europe-57302806
 Comments URL: https://news.ycombinator.com/item?id=27338555
-Points: 302
-# Comments: 100]]></summary>
+Points: 326
+# Comments: 109]]></summary>
         <author>
             <name>Black101</name>
         </author>
@@ -217,8 +256,8 @@ Points: 302
         <updated>2021-05-31T00:25:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/cs01/termpair
 Comments URL: https://news.ycombinator.com/item?id=27338479
-Points: 95
-# Comments: 33]]></summary>
+Points: 99
+# Comments: 34]]></summary>
         <author>
             <name>illuminated</name>
         </author>
@@ -232,49 +271,10 @@ Points: 95
 [0] https://blog.google/products/photos/storage-changes/
 [1] https://www.techradar.com/how-to/best-google-photos-alternat...
 Comments URL: https://news.ycombinator.com/item?id=27338008
-Points: 275
-# Comments: 198]]></summary>
+Points: 292
+# Comments: 223]]></summary>
         <author>
             <name>LifeIsBio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A never-before-documented flower blooms on one of world’s rarest trees]]></title>
-        <id>https://news.ycombinator.com/item?id=27337538</id>
-        <link href="https://www.nationalgeographic.co.uk/environment-and-conservation/2021/05/a-never-before-documented-flower-blooms-on-one-of-worlds-rarest-trees"/>
-        <updated>2021-05-30T22:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nationalgeographic.co.uk/environment-and-conservation/2021/05/a-never-before-documented-flower-blooms-on-one-of-worlds-rarest-trees
-Comments URL: https://news.ycombinator.com/item?id=27337538
-Points: 26
-# Comments: 2]]></summary>
-        <author>
-            <name>hassanahmad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Returns to Scale in Broken Windows]]></title>
-        <id>https://news.ycombinator.com/item?id=27336826</id>
-        <link href="https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/"/>
-        <updated>2021-05-30T21:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fantasticanachronism.com/2021/05/25/returns-to-scale-in-broken-windows/
-Comments URL: https://news.ycombinator.com/item?id=27336826
-Points: 43
-# Comments: 23]]></summary>
-        <author>
-            <name>apophatic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving ventilation will help curb SARS-CoV-2]]></title>
-        <id>https://news.ycombinator.com/item?id=27336808</id>
-        <link href="https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2"/>
-        <updated>2021-05-30T21:09:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/05/26/improving-ventilation-will-help-curb-sars-cov-2
-Comments URL: https://news.ycombinator.com/item?id=27336808
-Points: 206
-# Comments: 138]]></summary>
-        <author>
-            <name>martincmartin</name>
         </author>
     </entry>
     <entry>
