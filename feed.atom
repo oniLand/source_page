@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T11:58:45.538Z</id>
+    <id>urn:2021-06-01T13:23:30.860Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T11:58:45.538Z</updated>
+    <updated>2021-06-01T13:23:30.860Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Employees Are Quitting Instead of Giving Up Working from Home]]></title>
+        <id>https://news.ycombinator.com/item?id=27353672</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home"/>
+        <updated>2021-06-01T12:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home
+Comments URL: https://news.ycombinator.com/item?id=27353672
+Points: 69
+# Comments: 15]]></summary>
+        <author>
+            <name>mancerayder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe to US: Pass new laws if you want a data-transfer deal]]></title>
+        <id>https://news.ycombinator.com/item?id=27353606</id>
+        <link href="https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/"/>
+        <updated>2021-06-01T12:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/
+Comments URL: https://news.ycombinator.com/item?id=27353606
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotations with quaternions]]></title>
+        <id>https://news.ycombinator.com/item?id=27353263</id>
+        <link href="https://imadr.github.io/rotations-with-quaternions/"/>
+        <updated>2021-06-01T12:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://imadr.github.io/rotations-with-quaternions/
+Comments URL: https://news.ycombinator.com/item?id=27353263
+Points: 26
+# Comments: 6]]></summary>
+        <author>
+            <name>imadr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why doesn’t V8 fit on my microcontroller?]]></title>
+        <id>https://news.ycombinator.com/item?id=27353255</id>
+        <link href="https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c"/>
+        <updated>2021-06-01T12:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c
+Comments URL: https://news.ycombinator.com/item?id=27353255
+Points: 61
+# Comments: 12]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuestDB – Open-Source Time-Series Database – Is Hiring]]></title>
+        <id>https://news.ycombinator.com/item?id=27353229</id>
+        <link href="https://questdb.io/careers/"/>
+        <updated>2021-06-01T12:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://questdb.io/careers/
+Comments URL: https://news.ycombinator.com/item?id=27353229
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>nhourcard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chip Scale Atomic Clock (CSAC)]]></title>
+        <id>https://news.ycombinator.com/item?id=27353163</id>
+        <link href="https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview"/>
+        <updated>2021-06-01T11:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview
+Comments URL: https://news.ycombinator.com/item?id=27353163
+Points: 18
+# Comments: 5]]></summary>
+        <author>
+            <name>moh_maya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m a Physicist Who Searches for Aliens. U.F.O.s Don’t Impress Me]]></title>
+        <id>https://news.ycombinator.com/item?id=27353046</id>
+        <link href="https://www.nytimes.com/2021/05/30/opinion/ufo-sightings-report.html"/>
+        <updated>2021-06-01T11:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/30/opinion/ufo-sightings-report.html
+Comments URL: https://news.ycombinator.com/item?id=27353046
+Points: 32
+# Comments: 15]]></summary>
+        <author>
+            <name>SirLJ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mars: NASA's Perseverance rover's first 100 days in pictures]]></title>
         <id>https://news.ycombinator.com/item?id=27352738</id>
@@ -12,8 +103,8 @@
         <updated>2021-06-01T10:53:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/in-pictures-57233756
 Comments URL: https://news.ycombinator.com/item?id=27352738
-Points: 22
-# Comments: 5]]></summary>
+Points: 68
+# Comments: 18]]></summary>
         <author>
             <name>rwmj</name>
         </author>
@@ -25,10 +116,23 @@ Points: 22
         <updated>2021-06-01T10:47:21.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/business-57253947
 Comments URL: https://news.ycombinator.com/item?id=27352700
-Points: 62
-# Comments: 100]]></summary>
+Points: 93
+# Comments: 236]]></summary>
         <author>
             <name>Kaibeezy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Auxl – Modular API Client for macOS]]></title>
+        <id>https://news.ycombinator.com/item?id=27352405</id>
+        <link href="https://auxl.io"/>
+        <updated>2021-06-01T10:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://auxl.io
+Comments URL: https://news.ycombinator.com/item?id=27352405
+Points: 13
+# Comments: 1]]></summary>
+        <author>
+            <name>theFluke</name>
         </author>
     </entry>
     <entry>
@@ -38,8 +142,8 @@ Points: 62
         <updated>2021-06-01T09:49:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://groups.google.com/g/comp.lang.tcl
 Comments URL: https://news.ycombinator.com/item?id=27352325
-Points: 75
-# Comments: 62]]></summary>
+Points: 119
+# Comments: 93]]></summary>
         <author>
             <name>networked</name>
         </author>
@@ -51,8 +155,8 @@ Points: 75
         <updated>2021-06-01T09:41:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html
 Comments URL: https://news.ycombinator.com/item?id=27352284
-Points: 23
-# Comments: 12]]></summary>
+Points: 41
+# Comments: 28]]></summary>
         <author>
             <name>bookofjoe</name>
         </author>
@@ -74,8 +178,8 @@ Points: 23
         <updated>2021-06-01T08:45:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/admin-ch/CovidCertificate-Documents
 Comments URL: https://news.ycombinator.com/item?id=27351970
-Points: 48
-# Comments: 22]]></summary>
+Points: 95
+# Comments: 65]]></summary>
         <author>
             <name>shashasha2</name>
         </author>
@@ -87,8 +191,8 @@ Points: 48
         <updated>2021-06-01T08:23:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pastenow.me/create
 Comments URL: https://news.ycombinator.com/item?id=27351862
-Points: 26
-# Comments: 46]]></summary>
+Points: 34
+# Comments: 52]]></summary>
         <author>
             <name>jassra</name>
         </author>
@@ -100,8 +204,8 @@ Points: 26
         <updated>2021-06-01T08:05:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/
 Comments URL: https://news.ycombinator.com/item?id=27351769
-Points: 74
-# Comments: 122]]></summary>
+Points: 103
+# Comments: 150]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -113,23 +217,10 @@ Points: 74
         <updated>2021-06-01T07:06:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/
 Comments URL: https://news.ycombinator.com/item?id=27351454
-Points: 70
-# Comments: 25]]></summary>
+Points: 99
+# Comments: 45]]></summary>
         <author>
             <name>crispinh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepnote (YC S19) Is Hiring (SF, Prague)]]></title>
-        <id>https://news.ycombinator.com/item?id=27351420</id>
-        <link href="https://deepnote.com/join-us"/>
-        <updated>2021-06-01T07:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepnote.com/join-us
-Comments URL: https://news.ycombinator.com/item?id=27351420
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>Equiet</name>
         </author>
     </entry>
     <entry>
@@ -159,8 +250,8 @@ Points: 1
         <updated>2021-06-01T04:03:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming
 Comments URL: https://news.ycombinator.com/item?id=27350632
-Points: 284
-# Comments: 107]]></summary>
+Points: 320
+# Comments: 119]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -172,8 +263,8 @@ Points: 284
         <updated>2021-06-01T03:42:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sagacioussuricata.com/posts/openwrt-serial-bridge/
 Comments URL: https://news.ycombinator.com/item?id=27350523
-Points: 48
-# Comments: 9]]></summary>
+Points: 52
+# Comments: 11]]></summary>
         <author>
             <name>zdw</name>
         </author>
@@ -185,8 +276,8 @@ Points: 48
         <updated>2021-06-01T02:47:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/se2p/pynguin
 Comments URL: https://news.ycombinator.com/item?id=27350264
-Points: 105
-# Comments: 54]]></summary>
+Points: 117
+# Comments: 59]]></summary>
         <author>
             <name>JNRowe</name>
         </author>
@@ -198,101 +289,10 @@ Points: 105
         <updated>2021-06-01T02:23:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.westerndigital.com/nvme-of-explained/
 Comments URL: https://news.ycombinator.com/item?id=27350134
-Points: 67
-# Comments: 12]]></summary>
+Points: 71
+# Comments: 16]]></summary>
         <author>
             <name>nickysielicki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oceanbase, yet another open source HTAP database]]></title>
-        <id>https://news.ycombinator.com/item?id=27350108</id>
-        <link href="https://github.com/oceanbase/oceanbase"/>
-        <updated>2021-06-01T02:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/oceanbase/oceanbase
-Comments URL: https://news.ycombinator.com/item?id=27350108
-Points: 39
-# Comments: 8]]></summary>
-        <author>
-            <name>jinqueeny</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Anxiety of Influencers]]></title>
-        <id>https://news.ycombinator.com/item?id=27349755</id>
-        <link href="https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/"/>
-        <updated>2021-06-01T01:03:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://harpers.org/archive/2021/06/tiktok-house-collab-house-the-anxiety-of-influencers/
-Comments URL: https://news.ycombinator.com/item?id=27349755
-Points: 113
-# Comments: 96]]></summary>
-        <author>
-            <name>acabal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The complete sequence of a human genome]]></title>
-        <id>https://news.ycombinator.com/item?id=27349327</id>
-        <link href="https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1"/>
-        <updated>2021-05-31T23:44:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.biorxiv.org/content/10.1101/2021.05.26.445798v1
-Comments URL: https://news.ycombinator.com/item?id=27349327
-Points: 32
-# Comments: 4]]></summary>
-        <author>
-            <name>amingilani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dunce]]></title>
-        <id>https://news.ycombinator.com/item?id=27347935</id>
-        <link href="https://slantbooks.com/close-reading/essays/the-dunce/"/>
-        <updated>2021-05-31T20:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://slantbooks.com/close-reading/essays/the-dunce/
-Comments URL: https://news.ycombinator.com/item?id=27347935
-Points: 8
-# Comments: 0]]></summary>
-        <author>
-            <name>savebykilling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Speak Cicada]]></title>
-        <id>https://news.ycombinator.com/item?id=27347931</id>
-        <link href="https://www.insidescience.org/news/how-speak-cicada"/>
-        <updated>2021-05-31T20:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.insidescience.org/news/how-speak-cicada
-Comments URL: https://news.ycombinator.com/item?id=27347931
-Points: 27
-# Comments: 7]]></summary>
-        <author>
-            <name>redeemed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The May 18 Gwangju Uprising]]></title>
-        <id>https://news.ycombinator.com/item?id=27347039</id>
-        <link href="https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1"/>
-        <updated>2021-05-31T18:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.datasecretslox.com/index.php/topic,3506.0.html?PHPSESSID=d15c31b38395146f6e114073ff5a02d1
-Comments URL: https://news.ycombinator.com/item?id=27347039
-Points: 197
-# Comments: 76]]></summary>
-        <author>
-            <name>exolymph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Smoking]]></title>
-        <id>https://news.ycombinator.com/item?id=27347035</id>
-        <link href="https://annagat.substack.com/p/on-smoking"/>
-        <updated>2021-05-31T18:50:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://annagat.substack.com/p/on-smoking
-Comments URL: https://news.ycombinator.com/item?id=27347035
-Points: 299
-# Comments: 323]]></summary>
-        <author>
-            <name>exolymph</name>
         </author>
     </entry>
     <entry>
