@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T13:23:30.860Z</id>
+    <id>urn:2021-06-01T14:42:48.311Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T13:23:30.860Z</updated>
+    <updated>2021-06-01T14:42:48.311Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Digging into Quebec's electronic proof of vaccination]]></title>
+        <id>https://news.ycombinator.com/item?id=27354815</id>
+        <link href="https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/"/>
+        <updated>2021-06-01T14:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/
+Comments URL: https://news.ycombinator.com/item?id=27354815
+Points: 11
+# Comments: 2]]></summary>
+        <author>
+            <name>gozmike</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Driving with D]]></title>
+        <id>https://news.ycombinator.com/item?id=27354761</id>
+        <link href="https://dlang.org/blog/2021/06/01/driving-with-d/"/>
+        <updated>2021-06-01T14:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dlang.org/blog/2021/06/01/driving-with-d/
+Comments URL: https://news.ycombinator.com/item?id=27354761
+Points: 13
+# Comments: 0]]></summary>
+        <author>
+            <name>pjmlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
+        <updated>2021-06-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To]]></title>
+        <id>https://news.ycombinator.com/item?id=27353982</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/"/>
+        <updated>2021-06-01T13:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/
+Comments URL: https://news.ycombinator.com/item?id=27353982
+Points: 54
+# Comments: 33]]></summary>
+        <author>
+            <name>one2three4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube-dl can no longer download age-restricted videos]]></title>
+        <id>https://news.ycombinator.com/item?id=27353917</id>
+        <link href="https://github.com/ytdl-org/youtube-dl/issues/28578"/>
+        <updated>2021-06-01T13:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ytdl-org/youtube-dl/issues/28578
+Comments URL: https://news.ycombinator.com/item?id=27353917
+Points: 152
+# Comments: 59]]></summary>
+        <author>
+            <name>makeworld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[reclaimWindows10.ps1]]></title>
+        <id>https://news.ycombinator.com/item?id=27353810</id>
+        <link href="https://gist.github.com/alirobe/7f3b34ad89a159e6daa1"/>
+        <updated>2021-06-01T13:08:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/alirobe/7f3b34ad89a159e6daa1
+Comments URL: https://news.ycombinator.com/item?id=27353810
+Points: 48
+# Comments: 28]]></summary>
+        <author>
+            <name>manjana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Release 89.0]]></title>
+        <id>https://news.ycombinator.com/item?id=27353684</id>
+        <link href="https://www.mozilla.org/en-US/firefox/89.0/releasenotes/"/>
+        <updated>2021-06-01T12:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mozilla.org/en-US/firefox/89.0/releasenotes/
+Comments URL: https://news.ycombinator.com/item?id=27353684
+Points: 180
+# Comments: 147]]></summary>
+        <author>
+            <name>looperhacks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Employees Are Quitting Instead of Giving Up Working from Home]]></title>
         <id>https://news.ycombinator.com/item?id=27353672</id>
@@ -12,8 +100,8 @@
         <updated>2021-06-01T12:54:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home
 Comments URL: https://news.ycombinator.com/item?id=27353672
-Points: 69
-# Comments: 15]]></summary>
+Points: 292
+# Comments: 247]]></summary>
         <author>
             <name>mancerayder</name>
         </author>
@@ -25,10 +113,23 @@ Points: 69
         <updated>2021-06-01T12:48:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/europe-to-us-pass-new-laws-if-you-want-data-transfer-deal-privacy-regulation/
 Comments URL: https://news.ycombinator.com/item?id=27353606
-Points: 10
-# Comments: 0]]></summary>
+Points: 69
+# Comments: 12]]></summary>
         <author>
             <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Animals Safely Cross a Highway? Take a Look]]></title>
+        <id>https://news.ycombinator.com/item?id=27353486</id>
+        <link href="https://www.nytimes.com/interactive/2021/05/31/climate/wildlife-crossings-animals.html"/>
+        <updated>2021-06-01T12:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/interactive/2021/05/31/climate/wildlife-crossings-animals.html
+Comments URL: https://news.ycombinator.com/item?id=27353486
+Points: 14
+# Comments: 1]]></summary>
+        <author>
+            <name>mhb</name>
         </author>
     </entry>
     <entry>
@@ -38,8 +139,8 @@ Points: 10
         <updated>2021-06-01T12:03:59.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://imadr.github.io/rotations-with-quaternions/
 Comments URL: https://news.ycombinator.com/item?id=27353263
-Points: 26
-# Comments: 6]]></summary>
+Points: 48
+# Comments: 26]]></summary>
         <author>
             <name>imadr</name>
         </author>
@@ -51,8 +152,8 @@ Points: 26
         <updated>2021-06-01T12:03:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.toit.io/why-doesnt-v8-fit-on-my-microcontroller-71dc6e2d8f5c
 Comments URL: https://news.ycombinator.com/item?id=27353255
-Points: 61
-# Comments: 12]]></summary>
+Points: 90
+# Comments: 44]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -77,8 +178,8 @@ Points: 1
         <updated>2021-06-01T11:52:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.microsemi.com/product-directory/clocks-frequency-references/3824-chip-scale-atomic-clock-csac#overview
 Comments URL: https://news.ycombinator.com/item?id=27353163
-Points: 18
-# Comments: 5]]></summary>
+Points: 37
+# Comments: 12]]></summary>
         <author>
             <name>moh_maya</name>
         </author>
@@ -90,8 +191,8 @@ Points: 18
         <updated>2021-06-01T11:38:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/30/opinion/ufo-sightings-report.html
 Comments URL: https://news.ycombinator.com/item?id=27353046
-Points: 32
-# Comments: 15]]></summary>
+Points: 74
+# Comments: 81]]></summary>
         <author>
             <name>SirLJ</name>
         </author>
@@ -103,23 +204,10 @@ Points: 32
         <updated>2021-06-01T10:53:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/in-pictures-57233756
 Comments URL: https://news.ycombinator.com/item?id=27352738
-Points: 68
-# Comments: 18]]></summary>
+Points: 79
+# Comments: 22]]></summary>
         <author>
             <name>rwmj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why electric cars will take over sooner than you think]]></title>
-        <id>https://news.ycombinator.com/item?id=27352700</id>
-        <link href="https://www.bbc.co.uk/news/business-57253947"/>
-        <updated>2021-06-01T10:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/business-57253947
-Comments URL: https://news.ycombinator.com/item?id=27352700
-Points: 93
-# Comments: 236]]></summary>
-        <author>
-            <name>Kaibeezy</name>
         </author>
     </entry>
     <entry>
@@ -129,8 +217,8 @@ Points: 93
         <updated>2021-06-01T10:00:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://auxl.io
 Comments URL: https://news.ycombinator.com/item?id=27352405
-Points: 13
-# Comments: 1]]></summary>
+Points: 30
+# Comments: 11]]></summary>
         <author>
             <name>theFluke</name>
         </author>
@@ -142,23 +230,10 @@ Points: 13
         <updated>2021-06-01T09:49:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://groups.google.com/g/comp.lang.tcl
 Comments URL: https://news.ycombinator.com/item?id=27352325
-Points: 119
-# Comments: 93]]></summary>
+Points: 147
+# Comments: 108]]></summary>
         <author>
             <name>networked</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For Sleep Apnea, a Mouth Guard May Be a Good Alternative to CPAP]]></title>
-        <id>https://news.ycombinator.com/item?id=27352284</id>
-        <link href="https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html"/>
-        <updated>2021-06-01T09:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/05/31/well/mind/sleep-apnea-treatment-mouth-guard.html
-Comments URL: https://news.ycombinator.com/item?id=27352284
-Points: 41
-# Comments: 28]]></summary>
-        <author>
-            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -178,8 +253,8 @@ Points: 41
         <updated>2021-06-01T08:45:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/admin-ch/CovidCertificate-Documents
 Comments URL: https://news.ycombinator.com/item?id=27351970
-Points: 95
-# Comments: 65]]></summary>
+Points: 105
+# Comments: 82]]></summary>
         <author>
             <name>shashasha2</name>
         </author>
@@ -191,7 +266,7 @@ Points: 95
         <updated>2021-06-01T08:23:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pastenow.me/create
 Comments URL: https://news.ycombinator.com/item?id=27351862
-Points: 34
+Points: 36
 # Comments: 52]]></summary>
         <author>
             <name>jassra</name>
@@ -204,23 +279,10 @@ Points: 34
         <updated>2021-06-01T08:05:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/eu-set-unveil-plans-bloc-wide-digital-wallet-ft-2021-06-01/
 Comments URL: https://news.ycombinator.com/item?id=27351769
-Points: 103
-# Comments: 150]]></summary>
+Points: 124
+# Comments: 179]]></summary>
         <author>
             <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Silicon update: RP2040 on sale now at $1]]></title>
-        <id>https://news.ycombinator.com/item?id=27351454</id>
-        <link href="https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/"/>
-        <updated>2021-06-01T07:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.raspberrypi.org/blog/raspberry-pi-rp2040-on-sale/
-Comments URL: https://news.ycombinator.com/item?id=27351454
-Points: 99
-# Comments: 45]]></summary>
-        <author>
-            <name>crispinh</name>
         </author>
     </entry>
     <entry>
@@ -241,58 +303,6 @@ Points: 99
         <summary type="html"><![CDATA[When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Demonstrates Stacked 3D V-Cache Technology: 192 MB at 2 TB/SEC]]></title>
-        <id>https://news.ycombinator.com/item?id=27350632</id>
-        <link href="https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming"/>
-        <updated>2021-06-01T04:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/16725/amd-demonstrates-stacked-vcache-technology-2-tbsec-for-15-gaming
-Comments URL: https://news.ycombinator.com/item?id=27350632
-Points: 320
-# Comments: 119]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Wi-Fi serial console adapters with old portable routers]]></title>
-        <id>https://news.ycombinator.com/item?id=27350523</id>
-        <link href="https://sagacioussuricata.com/posts/openwrt-serial-bridge/"/>
-        <updated>2021-06-01T03:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sagacioussuricata.com/posts/openwrt-serial-bridge/
-Comments URL: https://news.ycombinator.com/item?id=27350523
-Points: 52
-# Comments: 11]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pynguin – Generate Python unit tests automatically]]></title>
-        <id>https://news.ycombinator.com/item?id=27350264</id>
-        <link href="https://github.com/se2p/pynguin"/>
-        <updated>2021-06-01T02:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/se2p/pynguin
-Comments URL: https://news.ycombinator.com/item?id=27350264
-Points: 117
-# Comments: 59]]></summary>
-        <author>
-            <name>JNRowe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVMe over Fabrics Explained]]></title>
-        <id>https://news.ycombinator.com/item?id=27350134</id>
-        <link href="https://blog.westerndigital.com/nvme-of-explained/"/>
-        <updated>2021-06-01T02:23:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.westerndigital.com/nvme-of-explained/
-Comments URL: https://news.ycombinator.com/item?id=27350134
-Points: 71
-# Comments: 16]]></summary>
-        <author>
-            <name>nickysielicki</name>
         </author>
     </entry>
     <entry>
