@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-02T07:32:00.689Z</id>
+    <id>urn:2021-06-02T07:33:52.392Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T07:32:00.689Z</updated>
+    <updated>2021-06-02T07:33:52.392Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -25,8 +25,8 @@ Points: 1
         <updated>2021-06-02T06:35:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.jefftk.com/p/why-prefetch-is-broken
 Comments URL: https://news.ycombinator.com/item?id=27365608
-Points: 19
-# Comments: 4]]></summary>
+Points: 20
+# Comments: 5]]></summary>
         <author>
             <name>astdb</name>
         </author>
@@ -38,8 +38,8 @@ Points: 19
         <updated>2021-06-02T05:56:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bowerswilkins.com/blog/products/history-of-nautilus
 Comments URL: https://news.ycombinator.com/item?id=27365352
-Points: 43
-# Comments: 9]]></summary>
+Points: 44
+# Comments: 10]]></summary>
         <author>
             <name>giuliomagnifico</name>
         </author>
@@ -51,7 +51,7 @@ Points: 43
         <updated>2021-06-02T05:06:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mjg59.dreamwidth.org/57199.html
 Comments URL: https://news.ycombinator.com/item?id=27365057
-Points: 76
+Points: 78
 # Comments: 15]]></summary>
         <author>
             <name>todsacerdoti</name>
@@ -64,7 +64,7 @@ Points: 76
         <updated>2021-06-02T04:25:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/easafe/purescript-flame
 Comments URL: https://news.ycombinator.com/item?id=27364833
-Points: 45
+Points: 48
 # Comments: 10]]></summary>
         <author>
             <name>vyuh</name>
@@ -77,7 +77,7 @@ Points: 45
         <updated>2021-06-02T04:17:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2009.08378
 Comments URL: https://news.ycombinator.com/item?id=27364777
-Points: 29
+Points: 30
 # Comments: 4]]></summary>
         <author>
             <name>berndi</name>
@@ -90,7 +90,7 @@ Points: 29
         <updated>2021-06-02T03:49:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/
 Comments URL: https://news.ycombinator.com/item?id=27364618
-Points: 262
+Points: 263
 # Comments: 113]]></summary>
         <author>
             <name>pmastela</name>
@@ -103,7 +103,7 @@ Points: 262
         <updated>2021-06-02T03:05:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-backs-marijuana-legalization-drops-weed-testing-some-jobs-2021-06-02/
 Comments URL: https://news.ycombinator.com/item?id=27364331
-Points: 83
+Points: 84
 # Comments: 70]]></summary>
         <author>
             <name>samizdis</name>
@@ -127,7 +127,7 @@ Points: 83
         <summary type="html"><![CDATA[Article URL: https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/
 Comments URL: https://news.ycombinator.com/item?id=27362388
 Points: 119
-# Comments: 53]]></summary>
+# Comments: 54]]></summary>
         <author>
             <name>nomoreplease</name>
         </author>
@@ -151,7 +151,7 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-06-01T21:47:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.diybookscanner.org/
 Comments URL: https://news.ycombinator.com/item?id=27361815
-Points: 221
+Points: 224
 # Comments: 77]]></summary>
         <author>
             <name>bcaa7f3a8bbc</name>
@@ -213,8 +213,8 @@ Points: 101
         <updated>2021-06-01T18:33:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://thebigalientheory.com/
 Comments URL: https://news.ycombinator.com/item?id=27359203
-Points: 100
-# Comments: 94]]></summary>
+Points: 101
+# Comments: 97]]></summary>
         <author>
             <name>lisper</name>
         </author>
@@ -226,7 +226,7 @@ Points: 100
         <updated>2021-06-01T18:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 Comments URL: https://news.ycombinator.com/item?id=27359081
-Points: 360
+Points: 362
 # Comments: 86]]></summary>
         <author>
             <name>nickjj</name>
@@ -252,7 +252,7 @@ Points: 119
         <updated>2021-06-01T17:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://helix-editor.com/
 Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 545
+Points: 546
 # Comments: 262]]></summary>
         <author>
             <name>bpierre</name>
@@ -288,8 +288,8 @@ Points: 241
         <updated>2021-06-01T16:54:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/
 Comments URL: https://news.ycombinator.com/item?id=27357592
-Points: 404
-# Comments: 568]]></summary>
+Points: 406
+# Comments: 570]]></summary>
         <author>
             <name>pseudolus</name>
         </author>
