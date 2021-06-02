@@ -1,10 +1,149 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-01T22:13:03.448Z</id>
+    <id>urn:2021-06-02T07:32:00.689Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T22:13:03.448Z</updated>
+    <updated>2021-06-02T07:32:00.689Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bitmovin (YC S15) Is Hiring a Marketing Operations Manager]]></title>
+        <id>https://news.ycombinator.com/item?id=27365789</id>
+        <link href="https://bitmovin.com/careers/5260518002/?gh_jid=5260518002"/>
+        <updated>2021-06-02T07:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bitmovin.com/careers/5260518002/?gh_jid=5260518002
+Comments URL: https://news.ycombinator.com/item?id=27365789
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>slederer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Prefetch Is Broken]]></title>
+        <id>https://news.ycombinator.com/item?id=27365608</id>
+        <link href="https://www.jefftk.com/p/why-prefetch-is-broken"/>
+        <updated>2021-06-02T06:35:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jefftk.com/p/why-prefetch-is-broken
+Comments URL: https://news.ycombinator.com/item?id=27365608
+Points: 19
+# Comments: 4]]></summary>
+        <author>
+            <name>astdb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B&W Nautilus loudspeaker from the beginning]]></title>
+        <id>https://news.ycombinator.com/item?id=27365352</id>
+        <link href="https://www.bowerswilkins.com/blog/products/history-of-nautilus"/>
+        <updated>2021-06-02T05:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bowerswilkins.com/blog/products/history-of-nautilus
+Comments URL: https://news.ycombinator.com/item?id=27365352
+Points: 43
+# Comments: 9]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Producing a trustworthy x86-based Linux appliance]]></title>
+        <id>https://news.ycombinator.com/item?id=27365057</id>
+        <link href="https://mjg59.dreamwidth.org/57199.html"/>
+        <updated>2021-06-02T05:06:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mjg59.dreamwidth.org/57199.html
+Comments URL: https://news.ycombinator.com/item?id=27365057
+Points: 76
+# Comments: 15]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flame: A PureScript front-end framework inspired by the Elm architecture]]></title>
+        <id>https://news.ycombinator.com/item?id=27364833</id>
+        <link href="https://github.com/easafe/purescript-flame"/>
+        <updated>2021-06-02T04:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/easafe/purescript-flame
+Comments URL: https://news.ycombinator.com/item?id=27364833
+Points: 45
+# Comments: 10]]></summary>
+        <author>
+            <name>vyuh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Event-based backpropagation for exact gradients in spiking neural networks]]></title>
+        <id>https://news.ycombinator.com/item?id=27364777</id>
+        <link href="https://arxiv.org/abs/2009.08378"/>
+        <updated>2021-06-02T04:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2009.08378
+Comments URL: https://news.ycombinator.com/item?id=27364777
+Points: 29
+# Comments: 4]]></summary>
+        <author>
+            <name>berndi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pesticides are killing the world's soils]]></title>
+        <id>https://news.ycombinator.com/item?id=27364618</id>
+        <link href="https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/"/>
+        <updated>2021-06-02T03:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/pesticides-are-killing-the-worlds-soils/
+Comments URL: https://news.ycombinator.com/item?id=27364618
+Points: 262
+# Comments: 113]]></summary>
+        <author>
+            <name>pmastela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon backs marijuana legalization, drops weed testing for some jobs]]></title>
+        <id>https://news.ycombinator.com/item?id=27364331</id>
+        <link href="https://www.reuters.com/technology/amazon-backs-marijuana-legalization-drops-weed-testing-some-jobs-2021-06-02/"/>
+        <updated>2021-06-02T03:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-backs-marijuana-legalization-drops-weed-testing-some-jobs-2021-06-02/
+Comments URL: https://news.ycombinator.com/item?id=27364331
+Points: 83
+# Comments: 70]]></summary>
+        <author>
+            <name>samizdis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Discord AI Chatbot that Talks Like Your Favorite Character]]></title>
+        <id>60b5025111ffb70827ef9ebe</id>
+        <link href="https://www.freecodecamp.org/news/discord-ai-chatbot/"/>
+        <updated>2021-06-01T23:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DoD Budget Appears to Cut Cyber Offense, Beef Up Defenses]]></title>
+        <id>https://news.ycombinator.com/item?id=27362388</id>
+        <link href="https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/"/>
+        <updated>2021-06-01T22:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://breakingdefense.com/2021/06/dod-budget-appears-to-cut-cyber-offense-beef-up-defenses/
+Comments URL: https://news.ycombinator.com/item?id=27362388
+Points: 119
+# Comments: 53]]></summary>
+        <author>
+            <name>nomoreplease</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code blocks, but better]]></title>
+        <id>https://css-tricks.com/?p=341720</id>
+        <link href="https://ped.ro/blog/code-blocks-but-better"/>
+        <updated>2021-06-01T22:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …
+The post Code blocks, but better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIY Book Scanner]]></title>
         <id>https://news.ycombinator.com/item?id=27361815</id>
@@ -12,36 +151,23 @@
         <updated>2021-06-01T21:47:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.diybookscanner.org/
 Comments URL: https://news.ycombinator.com/item?id=27361815
-Points: 9
-# Comments: 0]]></summary>
+Points: 221
+# Comments: 77]]></summary>
         <author>
             <name>bcaa7f3a8bbc</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Level up your poker game with Floptimal. Preflop ranges reimagined]]></title>
+        <title type="html"><![CDATA[Show HN: Floptimal – Preflop ranges reimagined]]></title>
         <id>https://news.ycombinator.com/item?id=27361584</id>
         <link href="https://floptimal.com"/>
         <updated>2021-06-01T21:28:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://floptimal.com
 Comments URL: https://news.ycombinator.com/item?id=27361584
-Points: 22
-# Comments: 1]]></summary>
+Points: 117
+# Comments: 50]]></summary>
         <author>
             <name>theshirin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signadot (YC W20) Is Hiring Founding Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=27361225</id>
-        <link href="https://www.workatastartup.com/jobs/42298"/>
-        <updated>2021-06-01T21:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/42298
-Comments URL: https://news.ycombinator.com/item?id=27361225
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>jaguar75</name>
         </author>
     </entry>
     <entry>
@@ -61,23 +187,10 @@ Points: 1
         <updated>2021-06-01T20:10:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://nieh.net/pubs/ieeesp2021_kvm.pdf
 Comments URL: https://news.ycombinator.com/item?id=27360600
-Points: 16
-# Comments: 1]]></summary>
+Points: 80
+# Comments: 2]]></summary>
         <author>
             <name>tmfi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS Studio 27.0]]></title>
-        <id>https://news.ycombinator.com/item?id=27360141</id>
-        <link href="https://github.com/obsproject/obs-studio/releases/tag/27.0.0"/>
-        <updated>2021-06-01T19:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/obsproject/obs-studio/releases/tag/27.0.0
-Comments URL: https://news.ycombinator.com/item?id=27360141
-Points: 131
-# Comments: 12]]></summary>
-        <author>
-            <name>TangerineDream</name>
         </author>
     </entry>
     <entry>
@@ -87,49 +200,23 @@ Points: 131
         <updated>2021-06-01T19:25:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.infoq.com/interviews/byrd-relational-programming-minikanren/
 Comments URL: https://news.ycombinator.com/item?id=27359963
-Points: 28
-# Comments: 0]]></summary>
+Points: 101
+# Comments: 15]]></summary>
         <author>
             <name>Tomte</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Apple M1 compiles Linux 30% faster than my Intel i9]]></title>
-        <id>https://news.ycombinator.com/item?id=27359783</id>
-        <link href="https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9"/>
-        <updated>2021-06-01T19:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
-Comments URL: https://news.ycombinator.com/item?id=27359783
-Points: 58
-# Comments: 35]]></summary>
+        <title type="html"><![CDATA[The Big Alien Theory]]></title>
+        <id>https://news.ycombinator.com/item?id=27359203</id>
+        <link href="http://thebigalientheory.com/"/>
+        <updated>2021-06-01T18:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://thebigalientheory.com/
+Comments URL: https://news.ycombinator.com/item?id=27359203
+Points: 100
+# Comments: 94]]></summary>
         <author>
-            <name>geerlingguy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One-Fifth of U.S. Beef Capacity Wiped Out by JBS Cyberattack]]></title>
-        <id>https://news.ycombinator.com/item?id=27359515</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs"/>
-        <updated>2021-06-01T18:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2021-05-31/meat-is-latest-cyber-victim-as-hackers-hit-top-supplier-jbs
-Comments URL: https://news.ycombinator.com/item?id=27359515
-Points: 135
-# Comments: 130]]></summary>
-        <author>
-            <name>davidw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARPA Awards Moderna a Grant for Up to $25M to Develop mRNA Therapeutics (2013)]]></title>
-        <id>https://news.ycombinator.com/item?id=27359269</id>
-        <link href="https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop"/>
-        <updated>2021-06-01T18:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://investors.modernatx.com/news-releases/news-release-details/darpa-awards-moderna-therapeutics-grant-25-million-develop
-Comments URL: https://news.ycombinator.com/item?id=27359269
-Points: 216
-# Comments: 46]]></summary>
-        <author>
-            <name>1915cb1f</name>
+            <name>lisper</name>
         </author>
     </entry>
     <entry>
@@ -139,8 +226,8 @@ Points: 216
         <updated>2021-06-01T18:25:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose
 Comments URL: https://news.ycombinator.com/item?id=27359081
-Points: 148
-# Comments: 33]]></summary>
+Points: 360
+# Comments: 86]]></summary>
         <author>
             <name>nickjj</name>
         </author>
@@ -152,8 +239,8 @@ Points: 148
         <updated>2021-06-01T18:01:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://phys.org/news/2021-06-light-shrinking-material-ordinary-microscope-super.html
 Comments URL: https://news.ycombinator.com/item?id=27358692
-Points: 76
-# Comments: 15]]></summary>
+Points: 119
+# Comments: 28]]></summary>
         <author>
             <name>thedday</name>
         </author>
@@ -165,8 +252,8 @@ Points: 76
         <updated>2021-06-01T17:48:20.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://helix-editor.com/
 Comments URL: https://news.ycombinator.com/item?id=27358479
-Points: 323
-# Comments: 146]]></summary>
+Points: 545
+# Comments: 262]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -182,27 +269,14 @@ Points: 323
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Porting the Oberon system to the RISC-V [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=27357785</id>
-        <link href="https://www.youtube.com/watch?v=gpGgeXHZr0M&amp;t=21420s"/>
-        <updated>2021-06-01T17:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=gpGgeXHZr0M&t=21420s
-Comments URL: https://news.ycombinator.com/item?id=27357785
-Points: 42
-# Comments: 3]]></summary>
-        <author>
-            <name>pjmlp</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intl]]></title>
         <id>https://news.ycombinator.com/item?id=27357646</id>
         <link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl"/>
         <updated>2021-06-01T16:57:42.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 Comments URL: https://news.ycombinator.com/item?id=27357646
-Points: 102
-# Comments: 20]]></summary>
+Points: 241
+# Comments: 52]]></summary>
         <author>
             <name>evo_9</name>
         </author>
@@ -214,23 +288,10 @@ Points: 102
         <updated>2021-06-01T16:54:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/magazine/archive/2021/07/america-drinking-alone-problem/619017/
 Comments URL: https://news.ycombinator.com/item?id=27357592
-Points: 162
-# Comments: 228]]></summary>
+Points: 404
+# Comments: 568]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libdill: Structured Concurrency for C (2016)]]></title>
-        <id>https://news.ycombinator.com/item?id=27357295</id>
-        <link href="http://libdill.org/structured-concurrency.html"/>
-        <updated>2021-06-01T16:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://libdill.org/structured-concurrency.html
-Comments URL: https://news.ycombinator.com/item?id=27357295
-Points: 40
-# Comments: 11]]></summary>
-        <author>
-            <name>ibraheemdev</name>
         </author>
     </entry>
     <entry>
@@ -244,6 +305,19 @@ Points: 40
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Making $100k as an Employee versus Being Self-Employed]]></title>
+        <id>https://news.ycombinator.com/item?id=27357204</id>
+        <link href="https://calebporzio.com/making-100k-as-an-employee-versus-being-self-employed"/>
+        <updated>2021-06-01T16:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://calebporzio.com/making-100k-as-an-employee-versus-being-self-employed
+Comments URL: https://news.ycombinator.com/item?id=27357204
+Points: 150
+# Comments: 102]]></summary>
+        <author>
+            <name>tmfi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
         <id>60aff2d711ffb70827ef8829</id>
         <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
@@ -251,71 +325,6 @@ Points: 40
         <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon US customers given one week to opt out of mass wireless sharing]]></title>
-        <id>https://news.ycombinator.com/item?id=27355789</id>
-        <link href="https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing"/>
-        <updated>2021-06-01T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2021/jun/01/amazon-us-customers-given-one-week-to-opt-out-of-mass-wireless-sharing
-Comments URL: https://news.ycombinator.com/item?id=27355789
-Points: 341
-# Comments: 186]]></summary>
-        <author>
-            <name>haasted</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual deck of cards using just a browser]]></title>
-        <id>https://news.ycombinator.com/item?id=27355690</id>
-        <link href="https://playingcards.io/"/>
-        <updated>2021-06-01T15:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://playingcards.io/
-Comments URL: https://news.ycombinator.com/item?id=27355690
-Points: 198
-# Comments: 45]]></summary>
-        <author>
-            <name>beermonster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudera taken private for $5.3B, acquires Datacoral and Cazena]]></title>
-        <id>https://news.ycombinator.com/item?id=27355604</id>
-        <link href="https://blog.cloudera.com/turning-the-page/"/>
-        <updated>2021-06-01T15:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudera.com/turning-the-page/
-Comments URL: https://news.ycombinator.com/item?id=27355604
-Points: 118
-# Comments: 62]]></summary>
-        <author>
-            <name>swyx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Who is hiring? (June 2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=27355392</id>
-        <link href="https://news.ycombinator.com/item?id=27355392"/>
-        <updated>2021-06-01T15:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Please state the location and include REMOTE, INTERNS and/or VISA
-when that sort of candidate is welcome. When remote work is not an option,
-include ONSITE.
-Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. Only one post per company. If it isn't a household name,
-please explain what your company does.
-Commenters: please don't reply to job posts to complain about
-something. It's off topic here.
-Readers: please only email if you are personally interested in the job.
-Searchers: try https://findwork.dev/?source=hn, https://kennytilton.github.io/whoishiring/,
-https://hnhired.com/, https://hnjobs.emilburzo.com, https://news.ycombinator.com/item?id=10313519.
-Don't miss these other fine threads:
-Who wants to be hired? https://news.ycombinator.com/item?id=27355390
-Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=27355391
-Comments URL: https://news.ycombinator.com/item?id=27355392
-Points: 251
-# Comments: 587]]></summary>
-        <author>
-            <name>whoishiring</name>
         </author>
     </entry>
     <entry>
@@ -542,16 +551,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
         <id>https://css-tricks.com/?p=339759</id>
         <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
@@ -681,22 +680,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, 
 …
 The post Links on Performance appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[proxy-www]]></title>
-        <id>https://css-tricks.com/?p=341153</id>
-        <link href="https://github.com/justjavac/proxy-www"/>
-        <updated>2021-05-24T19:09:59.000Z</updated>
-        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
-www.codepen.io.then((response) ={
-  console.log(response);
-});
-That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
-The post proxy-www appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
