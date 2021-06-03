@@ -103,18 +103,36 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27381529",
+          "author": "MindGods",
+          "description": "Article URL: https://www.technologyreview.com/2021/06/03/1025679/explainer-is-ransomware-getting-worse/\nComments URL: https://news.ycombinator.com/item?id=27381529\nPoints: 26\n# Comments: 8",
+          "link": "https://www.technologyreview.com/2021/06/03/1025679/explainer-is-ransomware-getting-worse/",
+          "publishedOn": "2021-06-03T14:04:26.000Z",
+          "wordCount": 1008,
+          "title": "Why the ransomware crisis suddenly feels so relentless"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27381425",
+          "author": "wonderwonder",
+          "description": "Article URL: https://www.businessinsider.com/kamau-bobb-google-diversity-head-antisemitic-blog-post-2021-6\nComments URL: https://news.ycombinator.com/item?id=27381425\nPoints: 154\n# Comments: 165",
+          "link": "https://www.businessinsider.com/kamau-bobb-google-diversity-head-antisemitic-blog-post-2021-6",
+          "publishedOn": "2021-06-03T13:57:00.000Z",
+          "wordCount": 1312,
+          "title": "Google removes its head of diversity after 2007 blog post"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27380799",
           "author": "devnerd239",
-          "description": "Article URL: https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12\nComments URL: https://news.ycombinator.com/item?id=27380799\nPoints: 14\n# Comments: 0",
+          "description": "Article URL: https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12\nComments URL: https://news.ycombinator.com/item?id=27380799\nPoints: 146\n# Comments: 74",
           "link": "https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12",
           "publishedOn": "2021-06-03T13:16:12.000Z",
-          "wordCount": 1418,
-          "title": "Google Joins Apple to Cancel Facebook’s Trillion-Dollar Empire Dream"
+          "wordCount": 1528,
+          "title": "Google Joins Apple to Opt-out of Mobile Advertising IDs"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27380752",
           "author": "throw0101a",
-          "description": "Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html\nComments URL: https://news.ycombinator.com/item?id=27380752\nPoints: 72\n# Comments: 42",
+          "description": "Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html\nComments URL: https://news.ycombinator.com/item?id=27380752\nPoints: 211\n# Comments: 172",
           "link": "https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html",
           "publishedOn": "2021-06-03T13:12:24.000Z",
           "wordCount": 839,
@@ -123,7 +141,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27380180",
           "author": "alexrustic",
-          "description": "Article URL: https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/\nComments URL: https://news.ycombinator.com/item?id=27380180\nPoints: 34\n# Comments: 87",
+          "description": "Article URL: https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/\nComments URL: https://news.ycombinator.com/item?id=27380180\nPoints: 62\n# Comments: 154",
           "link": "https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/",
           "publishedOn": "2021-06-03T12:20:46.000Z",
           "wordCount": 2722,
@@ -141,7 +159,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27379780",
           "author": "the-mitr",
-          "description": "Article URL: http://algorithmicbotany.org/\nComments URL: https://news.ycombinator.com/item?id=27379780\nPoints: 45\n# Comments: 6",
+          "description": "Article URL: http://algorithmicbotany.org/\nComments URL: https://news.ycombinator.com/item?id=27379780\nPoints: 73\n# Comments: 11",
           "link": "http://algorithmicbotany.org/",
           "publishedOn": "2021-06-03T11:42:36.000Z",
           "wordCount": 112,
@@ -150,25 +168,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27379504",
           "author": "underscore_ku",
-          "description": "Article URL: https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/\nComments URL: https://news.ycombinator.com/item?id=27379504\nPoints: 35\n# Comments: 12",
+          "description": "Article URL: https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/\nComments URL: https://news.ycombinator.com/item?id=27379504\nPoints: 62\n# Comments: 26",
           "link": "https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/",
           "publishedOn": "2021-06-03T11:14:04.000Z",
-          "wordCount": 819,
+          "wordCount": 828,
           "title": "Amazon Ring’s neighborhood watch app is making police requests public"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27379421",
-          "author": "shivbhatt",
-          "description": "Article URL: https://www.bbc.com/news/newsbeat-57333990\nComments URL: https://news.ycombinator.com/item?id=27379421\nPoints: 29\n# Comments: 41",
-          "link": "https://www.bbc.com/news/newsbeat-57333990",
-          "publishedOn": "2021-06-03T10:59:47.000Z",
-          "wordCount": 1188,
-          "title": "Charlie Bit Me NFT sale: Brothers to pay for university with auction money"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27379366",
           "author": "tosh",
-          "description": "Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb\nComments URL: https://news.ycombinator.com/item?id=27379366\nPoints: 181\n# Comments: 15",
+          "description": "Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb\nComments URL: https://news.ycombinator.com/item?id=27379366\nPoints: 238\n# Comments: 27",
           "link": "https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb",
           "publishedOn": "2021-06-03T10:50:18.000Z",
           "wordCount": 333,
@@ -177,16 +186,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27379317",
           "author": "pjmlp",
-          "description": "Article URL: https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/\nComments URL: https://news.ycombinator.com/item?id=27379317\nPoints: 42\n# Comments: 81",
+          "description": "Article URL: https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/\nComments URL: https://news.ycombinator.com/item?id=27379317\nPoints: 61\n# Comments: 122",
           "link": "https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/",
           "publishedOn": "2021-06-03T10:41:15.000Z",
           "wordCount": 1620,
           "title": "Why Python 4.0 might never arrive, according to its creator"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27379310",
+          "author": "diiq",
+          "description": "Article URL: https://quotes.vistimo.com\nComments URL: https://news.ycombinator.com/item?id=27379310\nPoints: 24\n# Comments: 16",
+          "link": "https://quotes.vistimo.com",
+          "publishedOn": "2021-06-03T10:40:00.000Z",
+          "wordCount": 4,
+          "title": "Show HN: Monte Carlo simulation for predicting project timelines"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27379152",
           "author": "JassicaB4",
-          "description": "Article URL: https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption\nComments URL: https://news.ycombinator.com/item?id=27379152\nPoints: 38\n# Comments: 19",
+          "description": "Article URL: https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption\nComments URL: https://news.ycombinator.com/item?id=27379152\nPoints: 71\n# Comments: 29",
           "link": "https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption",
           "publishedOn": "2021-06-03T10:12:08.000Z",
           "wordCount": 387,
@@ -195,7 +213,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27379093",
           "author": "tosh",
-          "description": "Article URL: https://datatracker.ietf.org/doc/html/rfc4180\nComments URL: https://news.ycombinator.com/item?id=27379093\nPoints: 19\n# Comments: 23",
+          "description": "Article URL: https://datatracker.ietf.org/doc/html/rfc4180\nComments URL: https://news.ycombinator.com/item?id=27379093\nPoints: 27\n# Comments: 35",
           "link": "https://datatracker.ietf.org/doc/html/rfc4180",
           "publishedOn": "2021-06-03T10:02:11.000Z",
           "wordCount": 1710,
@@ -204,7 +222,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27378642",
           "author": "wurosh",
-          "description": "Article URL: https://github.com/wurosh/cake\nComments URL: https://news.ycombinator.com/item?id=27378642\nPoints: 12\n# Comments: 3",
+          "description": "Article URL: https://github.com/wurosh/cake\nComments URL: https://news.ycombinator.com/item?id=27378642\nPoints: 27\n# Comments: 4",
           "link": "https://github.com/wurosh/cake",
           "publishedOn": "2021-06-03T08:49:40.000Z",
           "wordCount": 794,
@@ -213,7 +231,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27378624",
           "author": "rajeevk",
-          "description": "Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf\nComments URL: https://news.ycombinator.com/item?id=27378624\nPoints: 82\n# Comments: 19",
+          "description": "Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf\nComments URL: https://news.ycombinator.com/item?id=27378624\nPoints: 99\n# Comments: 24",
           "link": "https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf",
           "publishedOn": "2021-06-03T08:46:23.000Z",
           "wordCount": 2795,
@@ -222,34 +240,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27378172",
           "author": "manojvivek",
-          "description": "Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0\nComments URL: https://news.ycombinator.com/item?id=27378172\nPoints: 68\n# Comments: 33",
+          "description": "Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0\nComments URL: https://news.ycombinator.com/item?id=27378172\nPoints: 78\n# Comments: 36",
           "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0",
           "publishedOn": "2021-06-03T07:28:00.000Z",
           "wordCount": 789,
           "title": "Google Lighthouse V8 – Improved CLS metrics"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27378011",
-          "author": "dantondwa",
-          "description": "Article URL: https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/\nComments URL: https://news.ycombinator.com/item?id=27378011\nPoints: 111\n# Comments: 182",
-          "link": "https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/",
-          "publishedOn": "2021-06-03T07:00:08.000Z",
-          "wordCount": 958,
-          "title": "The NFT market bubble has popped?"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27377685",
-          "author": "tvvocold",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/\nComments URL: https://news.ycombinator.com/item?id=27377685\nPoints: 101\n# Comments: 152",
-          "link": "https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/",
-          "publishedOn": "2021-06-03T05:55:49.000Z",
-          "wordCount": 2007,
-          "title": "Huawei replaces Android with HarmonyOS, which is also Android"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27377620",
           "author": "chunkyslink",
-          "description": "Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home\nComments URL: https://news.ycombinator.com/item?id=27377620\nPoints: 74\n# Comments: 63",
+          "description": "Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home\nComments URL: https://news.ycombinator.com/item?id=27377620\nPoints: 80\n# Comments: 65",
           "link": "https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home",
           "publishedOn": "2021-06-03T05:44:09.000Z",
           "wordCount": 4613,
@@ -258,29 +258,29 @@
         {
           "id": "https://news.ycombinator.com/item?id=27375076",
           "author": "smollett",
-          "description": "Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months\nComments URL: https://news.ycombinator.com/item?id=27375076\nPoints: 367\n# Comments: 154",
+          "description": "Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months\nComments URL: https://news.ycombinator.com/item?id=27375076\nPoints: 392\n# Comments: 169",
           "link": "https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months",
           "publishedOn": "2021-06-02T23:00:41.000Z",
           "wordCount": 3097,
           "title": "When six boys were shipwrecked for 15 months (2020)"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27375067",
-          "author": "coloneltcb",
-          "description": "Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september\nComments URL: https://news.ycombinator.com/item?id=27375067\nPoints: 518\n# Comments: 110",
-          "link": "https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september",
-          "publishedOn": "2021-06-02T22:59:37.000Z",
-          "wordCount": 722,
-          "title": "Apple asks staff to return to office 3 days a week starting in early September"
+          "id": "https://news.ycombinator.com/item?id=27372292",
+          "author": "jakub_g",
+          "description": "Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/\nComments URL: https://news.ycombinator.com/item?id=27372292\nPoints: 404\n# Comments: 93",
+          "link": "https://textslashplain.com/2021/06/02/leaky-abstractions/",
+          "publishedOn": "2021-06-02T18:35:16.000Z",
+          "wordCount": 1686,
+          "title": "Leaky Abstractions"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27374942",
-          "author": "trashburger",
-          "description": "Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/\nComments URL: https://news.ycombinator.com/item?id=27374942\nPoints: 300\n# Comments: 129",
-          "link": "https://sin-ack.github.io/posts/jpg-loader-bork/",
-          "publishedOn": "2021-06-02T22:43:25.000Z",
-          "wordCount": 1717,
-          "title": "Malloc broke Serenity's JPGLoader, or: how to win the lottery"
+          "id": "https://news.ycombinator.com/item?id=27370026",
+          "author": "DavidWilkinson",
+          "description": "Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400\nComments URL: https://news.ycombinator.com/item?id=27370026\nPoints: 2107\n# Comments: 786",
+          "link": "https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400",
+          "publishedOn": "2021-06-02T15:44:42.000Z",
+          "wordCount": 1129,
+          "title": "Stack Overflow sold to Prosus for $1.8B"
         }
       ]
     },
@@ -295,7 +295,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1847,
+          "wordCount": 1849,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -304,7 +304,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2425,
+          "wordCount": 2424,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -313,7 +313,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3729,
+          "wordCount": 3725,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -322,7 +322,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1880,
+          "wordCount": 1879,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -341,6 +341,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=341584",
+          "author": "Temani Afif",
+          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+          "publishedOn": "2021-06-03T14:25:57.000Z",
+          "wordCount": 4959,
+          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341494",
+          "author": "Chris Coyier",
+          "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
+          "publishedOn": "2021-06-03T14:25:19.000Z",
+          "wordCount": 865,
+          "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
+        },
         {
           "id": "https://css-tricks.com/?p=341724",
           "author": "Chris Coyier",
@@ -383,7 +401,7 @@
           "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
           "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 3993,
+          "wordCount": 4015,
           "title": "Front-End Testing is For Everyone"
         },
         {
@@ -401,7 +419,7 @@
           "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
           "publishedOn": "2021-05-31T17:16:22.000Z",
-          "wordCount": 1952,
+          "wordCount": 2069,
           "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
         },
         {
@@ -457,24 +475,6 @@
           "publishedOn": "2021-05-26T17:56:34.000Z",
           "wordCount": 1389,
           "title": "Awesome Standalone (Web Components)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340901",
-          "author": "Chris Coyier",
-          "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-web-components/",
-          "publishedOn": "2021-05-26T17:56:12.000Z",
-          "wordCount": 856,
-          "title": "Links on Web Components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340705",
-          "author": "Andrei Pfeiffer",
-          "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
-          "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 4042,
-          "title": "A Thorough Analysis of CSS-in-JS"
         }
       ]
     },
@@ -489,7 +489,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3506,
+          "wordCount": 3459,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -517,7 +517,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5393,
+          "wordCount": 5379,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -559,7 +559,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2490,
+          "wordCount": 2445,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -573,7 +573,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10212,
+          "wordCount": 10226,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -587,7 +587,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3696,
+          "wordCount": 3738,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -699,7 +699,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1970,
+          "wordCount": 1956,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -755,7 +755,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
+          "wordCount": 2953,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -769,7 +769,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2432,
+          "wordCount": 2438,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -839,7 +839,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6361,
+          "wordCount": 6310,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -853,7 +853,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4178,
+          "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -867,7 +867,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2656,
+          "wordCount": 2654,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -881,7 +881,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2338,
+          "wordCount": 2341,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",

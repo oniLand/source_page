@@ -1,19 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T14:02:48.831Z</id>
+    <id>urn:2021-06-03T15:27:42.087Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T14:02:48.831Z</updated>
+    <updated>2021-06-03T15:27:42.087Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Google Joins Apple to Cancel Facebook’s Trillion-Dollar Empire Dream]]></title>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/?p=341584</id>
+        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+        <updated>2021-06-03T14:25:57.000Z</updated>
+        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
+The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
+        <id>https://css-tricks.com/?p=341494</id>
+        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
+        <updated>2021-06-03T14:25:19.000Z</updated>
+        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
+It’ll start running tests, and you’ve immediately got performance charts you can …
+The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the ransomware crisis suddenly feels so relentless]]></title>
+        <id>https://news.ycombinator.com/item?id=27381529</id>
+        <link href="https://www.technologyreview.com/2021/06/03/1025679/explainer-is-ransomware-getting-worse/"/>
+        <updated>2021-06-03T14:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2021/06/03/1025679/explainer-is-ransomware-getting-worse/
+Comments URL: https://news.ycombinator.com/item?id=27381529
+Points: 26
+# Comments: 8]]></summary>
+        <author>
+            <name>MindGods</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google removes its head of diversity after 2007 blog post]]></title>
+        <id>https://news.ycombinator.com/item?id=27381425</id>
+        <link href="https://www.businessinsider.com/kamau-bobb-google-diversity-head-antisemitic-blog-post-2021-6"/>
+        <updated>2021-06-03T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/kamau-bobb-google-diversity-head-antisemitic-blog-post-2021-6
+Comments URL: https://news.ycombinator.com/item?id=27381425
+Points: 154
+# Comments: 165]]></summary>
+        <author>
+            <name>wonderwonder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Joins Apple to Opt-out of Mobile Advertising IDs]]></title>
         <id>https://news.ycombinator.com/item?id=27380799</id>
         <link href="https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12"/>
         <updated>2021-06-03T13:16:12.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12
 Comments URL: https://news.ycombinator.com/item?id=27380799
-Points: 14
-# Comments: 0]]></summary>
+Points: 146
+# Comments: 74]]></summary>
         <author>
             <name>devnerd239</name>
         </author>
@@ -25,8 +76,8 @@ Points: 14
         <updated>2021-06-03T13:12:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html
 Comments URL: https://news.ycombinator.com/item?id=27380752
-Points: 72
-# Comments: 42]]></summary>
+Points: 211
+# Comments: 172]]></summary>
         <author>
             <name>throw0101a</name>
         </author>
@@ -38,8 +89,8 @@ Points: 72
         <updated>2021-06-03T12:20:46.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/
 Comments URL: https://news.ycombinator.com/item?id=27380180
-Points: 34
-# Comments: 87]]></summary>
+Points: 62
+# Comments: 154]]></summary>
         <author>
             <name>alexrustic</name>
         </author>
@@ -64,8 +115,8 @@ Points: 1
         <updated>2021-06-03T11:42:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://algorithmicbotany.org/
 Comments URL: https://news.ycombinator.com/item?id=27379780
-Points: 45
-# Comments: 6]]></summary>
+Points: 73
+# Comments: 11]]></summary>
         <author>
             <name>the-mitr</name>
         </author>
@@ -77,23 +128,10 @@ Points: 45
         <updated>2021-06-03T11:14:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/
 Comments URL: https://news.ycombinator.com/item?id=27379504
-Points: 35
-# Comments: 12]]></summary>
+Points: 62
+# Comments: 26]]></summary>
         <author>
             <name>underscore_ku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Bit Me NFT sale: Brothers to pay for university with auction money]]></title>
-        <id>https://news.ycombinator.com/item?id=27379421</id>
-        <link href="https://www.bbc.com/news/newsbeat-57333990"/>
-        <updated>2021-06-03T10:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/newsbeat-57333990
-Comments URL: https://news.ycombinator.com/item?id=27379421
-Points: 29
-# Comments: 41]]></summary>
-        <author>
-            <name>shivbhatt</name>
         </author>
     </entry>
     <entry>
@@ -103,8 +141,8 @@ Points: 29
         <updated>2021-06-03T10:50:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
 Comments URL: https://news.ycombinator.com/item?id=27379366
-Points: 181
-# Comments: 15]]></summary>
+Points: 238
+# Comments: 27]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -116,10 +154,23 @@ Points: 181
         <updated>2021-06-03T10:41:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/
 Comments URL: https://news.ycombinator.com/item?id=27379317
-Points: 42
-# Comments: 81]]></summary>
+Points: 61
+# Comments: 122]]></summary>
         <author>
             <name>pjmlp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Monte Carlo simulation for predicting project timelines]]></title>
+        <id>https://news.ycombinator.com/item?id=27379310</id>
+        <link href="https://quotes.vistimo.com"/>
+        <updated>2021-06-03T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://quotes.vistimo.com
+Comments URL: https://news.ycombinator.com/item?id=27379310
+Points: 24
+# Comments: 16]]></summary>
+        <author>
+            <name>diiq</name>
         </author>
     </entry>
     <entry>
@@ -139,8 +190,8 @@ Points: 42
         <updated>2021-06-03T10:12:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption
 Comments URL: https://news.ycombinator.com/item?id=27379152
-Points: 38
-# Comments: 19]]></summary>
+Points: 71
+# Comments: 29]]></summary>
         <author>
             <name>JassicaB4</name>
         </author>
@@ -152,8 +203,8 @@ Points: 38
         <updated>2021-06-03T10:02:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://datatracker.ietf.org/doc/html/rfc4180
 Comments URL: https://news.ycombinator.com/item?id=27379093
-Points: 19
-# Comments: 23]]></summary>
+Points: 27
+# Comments: 35]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -165,8 +216,8 @@ Points: 19
         <updated>2021-06-03T08:49:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/wurosh/cake
 Comments URL: https://news.ycombinator.com/item?id=27378642
-Points: 12
-# Comments: 3]]></summary>
+Points: 27
+# Comments: 4]]></summary>
         <author>
             <name>wurosh</name>
         </author>
@@ -178,8 +229,8 @@ Points: 12
         <updated>2021-06-03T08:46:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
 Comments URL: https://news.ycombinator.com/item?id=27378624
-Points: 82
-# Comments: 19]]></summary>
+Points: 99
+# Comments: 24]]></summary>
         <author>
             <name>rajeevk</name>
         </author>
@@ -191,36 +242,10 @@ Points: 82
         <updated>2021-06-03T07:28:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0
 Comments URL: https://news.ycombinator.com/item?id=27378172
-Points: 68
-# Comments: 33]]></summary>
+Points: 78
+# Comments: 36]]></summary>
         <author>
             <name>manojvivek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NFT market bubble has popped?]]></title>
-        <id>https://news.ycombinator.com/item?id=27378011</id>
-        <link href="https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/"/>
-        <updated>2021-06-03T07:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/
-Comments URL: https://news.ycombinator.com/item?id=27378011
-Points: 111
-# Comments: 182]]></summary>
-        <author>
-            <name>dantondwa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huawei replaces Android with HarmonyOS, which is also Android]]></title>
-        <id>https://news.ycombinator.com/item?id=27377685</id>
-        <link href="https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/"/>
-        <updated>2021-06-03T05:55:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/
-Comments URL: https://news.ycombinator.com/item?id=27377685
-Points: 101
-# Comments: 152]]></summary>
-        <author>
-            <name>tvvocold</name>
         </author>
     </entry>
     <entry>
@@ -230,8 +255,8 @@ Points: 101
         <updated>2021-06-03T05:44:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home
 Comments URL: https://news.ycombinator.com/item?id=27377620
-Points: 74
-# Comments: 63]]></summary>
+Points: 80
+# Comments: 65]]></summary>
         <author>
             <name>chunkyslink</name>
         </author>
@@ -253,23 +278,10 @@ Points: 74
         <updated>2021-06-02T23:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
 Comments URL: https://news.ycombinator.com/item?id=27375076
-Points: 367
-# Comments: 154]]></summary>
+Points: 392
+# Comments: 169]]></summary>
         <author>
             <name>smollett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple asks staff to return to office 3 days a week starting in early September]]></title>
-        <id>https://news.ycombinator.com/item?id=27375067</id>
-        <link href="https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september"/>
-        <updated>2021-06-02T22:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september
-Comments URL: https://news.ycombinator.com/item?id=27375067
-Points: 518
-# Comments: 110]]></summary>
-        <author>
-            <name>coloneltcb</name>
         </author>
     </entry>
     <entry>
@@ -280,19 +292,6 @@ Points: 518
         <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malloc broke Serenity's JPGLoader, or: how to win the lottery]]></title>
-        <id>https://news.ycombinator.com/item?id=27374942</id>
-        <link href="https://sin-ack.github.io/posts/jpg-loader-bork/"/>
-        <updated>2021-06-02T22:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
-Comments URL: https://news.ycombinator.com/item?id=27374942
-Points: 300
-# Comments: 129]]></summary>
-        <author>
-            <name>trashburger</name>
         </author>
     </entry>
     <entry>
@@ -349,6 +348,32 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaky Abstractions]]></title>
+        <id>https://news.ycombinator.com/item?id=27372292</id>
+        <link href="https://textslashplain.com/2021/06/02/leaky-abstractions/"/>
+        <updated>2021-06-02T18:35:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
+Comments URL: https://news.ycombinator.com/item?id=27372292
+Points: 404
+# Comments: 93]]></summary>
+        <author>
+            <name>jakub_g</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Overflow sold to Prosus for $1.8B]]></title>
+        <id>https://news.ycombinator.com/item?id=27370026</id>
+        <link href="https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400"/>
+        <updated>2021-06-02T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
+Comments URL: https://news.ycombinator.com/item?id=27370026
+Points: 2107
+# Comments: 786]]></summary>
+        <author>
+            <name>DavidWilkinson</name>
         </author>
     </entry>
     <entry>
@@ -633,19 +658,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Links on Web Components]]></title>
-        <id>https://css-tricks.com/?p=340901</id>
-        <link href="https://css-tricks.com/links-on-web-components/"/>
-        <updated>2021-05-26T17:56:12.000Z</updated>
-        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
-…
-The post Links on Web Components appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021]]></title>
         <id>https://www.geekwire.com/?p=622385</id>
         <link href="https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/"/>
@@ -653,19 +665,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More]]></summary>
         <author>
             <name>Thomas Wilde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
-        <id>https://css-tricks.com/?p=340705</id>
-        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
-        <updated>2021-05-26T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
-We tested 10 different …
-The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andrei Pfeiffer</name>
         </author>
     </entry>
     <entry>
