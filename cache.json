@@ -103,13 +103,31 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27380799",
+          "author": "devnerd239",
+          "description": "Article URL: https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12\nComments URL: https://news.ycombinator.com/item?id=27380799\nPoints: 14\n# Comments: 0",
+          "link": "https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12",
+          "publishedOn": "2021-06-03T13:16:12.000Z",
+          "wordCount": 1418,
+          "title": "Google Joins Apple to Cancel Facebook’s Trillion-Dollar Empire Dream"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27380752",
+          "author": "throw0101a",
+          "description": "Article URL: https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html\nComments URL: https://news.ycombinator.com/item?id=27380752\nPoints: 72\n# Comments: 42",
+          "link": "https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html",
+          "publishedOn": "2021-06-03T13:12:24.000Z",
+          "wordCount": 839,
+          "title": "United Airlines will buy 15 planes from Boom Supersonic"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27380180",
           "author": "alexrustic",
-          "description": "Article URL: https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/\nComments URL: https://news.ycombinator.com/item?id=27380180\nPoints: 3\n# Comments: 0",
+          "description": "Article URL: https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/\nComments URL: https://news.ycombinator.com/item?id=27380180\nPoints: 34\n# Comments: 87",
           "link": "https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/",
           "publishedOn": "2021-06-03T12:20:46.000Z",
           "wordCount": 2722,
-          "title": "They rage-quit the school system and they're not going back"
+          "title": "Pandemic homeschoolers who are not going back"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27379969",
@@ -123,52 +141,43 @@
         {
           "id": "https://news.ycombinator.com/item?id=27379780",
           "author": "the-mitr",
-          "description": "Article URL: http://algorithmicbotany.org/\nComments URL: https://news.ycombinator.com/item?id=27379780\nPoints: 14\n# Comments: 0",
+          "description": "Article URL: http://algorithmicbotany.org/\nComments URL: https://news.ycombinator.com/item?id=27379780\nPoints: 45\n# Comments: 6",
           "link": "http://algorithmicbotany.org/",
           "publishedOn": "2021-06-03T11:42:36.000Z",
           "wordCount": 112,
           "title": "Algorithmic Botany"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27379599",
-          "author": "1vuio0pswjnm7",
-          "description": "Looking for examples of bloated websites where you are seeking some textual data/information but have to suffer to retrieve it\nComments URL: https://news.ycombinator.com/item?id=27379599\nPoints: 6\n# Comments: 6",
-          "link": "https://news.ycombinator.com/item?id=27379599",
-          "publishedOn": "2021-06-03T11:26:10.000Z",
-          "wordCount": 381,
-          "title": "Ask HN: What is the most bloated website you use"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27379504",
           "author": "underscore_ku",
-          "description": "Article URL: https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/\nComments URL: https://news.ycombinator.com/item?id=27379504\nPoints: 18\n# Comments: 3",
+          "description": "Article URL: https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/\nComments URL: https://news.ycombinator.com/item?id=27379504\nPoints: 35\n# Comments: 12",
           "link": "https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/",
           "publishedOn": "2021-06-03T11:14:04.000Z",
-          "wordCount": 817,
+          "wordCount": 819,
           "title": "Amazon Ring’s neighborhood watch app is making police requests public"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27379462",
-          "author": "agd",
-          "description": "Article URL: https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year\nComments URL: https://news.ycombinator.com/item?id=27379462\nPoints: 207\n# Comments: 159",
-          "link": "https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year",
-          "publishedOn": "2021-06-03T11:06:19.000Z",
-          "wordCount": 860,
-          "title": "Microsoft Irish subsidiary paid zero corporate tax on £220bn profit last year"
+          "id": "https://news.ycombinator.com/item?id=27379421",
+          "author": "shivbhatt",
+          "description": "Article URL: https://www.bbc.com/news/newsbeat-57333990\nComments URL: https://news.ycombinator.com/item?id=27379421\nPoints: 29\n# Comments: 41",
+          "link": "https://www.bbc.com/news/newsbeat-57333990",
+          "publishedOn": "2021-06-03T10:59:47.000Z",
+          "wordCount": 1188,
+          "title": "Charlie Bit Me NFT sale: Brothers to pay for university with auction money"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27379366",
           "author": "tosh",
-          "description": "Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb\nComments URL: https://news.ycombinator.com/item?id=27379366\nPoints: 92\n# Comments: 4",
+          "description": "Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb\nComments URL: https://news.ycombinator.com/item?id=27379366\nPoints: 181\n# Comments: 15",
           "link": "https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb",
           "publishedOn": "2021-06-03T10:50:18.000Z",
           "wordCount": 333,
-          "title": "A Concrete Introduction to Probability (Using Python) (Norvig, 2018)"
+          "title": "A Concrete Introduction to Probability (2018)"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27379317",
           "author": "pjmlp",
-          "description": "Article URL: https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/\nComments URL: https://news.ycombinator.com/item?id=27379317\nPoints: 27\n# Comments: 37",
+          "description": "Article URL: https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/\nComments URL: https://news.ycombinator.com/item?id=27379317\nPoints: 42\n# Comments: 81",
           "link": "https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/",
           "publishedOn": "2021-06-03T10:41:15.000Z",
           "wordCount": 1620,
@@ -177,7 +186,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27379152",
           "author": "JassicaB4",
-          "description": "Article URL: https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption\nComments URL: https://news.ycombinator.com/item?id=27379152\nPoints: 23\n# Comments: 14",
+          "description": "Article URL: https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption\nComments URL: https://news.ycombinator.com/item?id=27379152\nPoints: 38\n# Comments: 19",
           "link": "https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption",
           "publishedOn": "2021-06-03T10:12:08.000Z",
           "wordCount": 387,
@@ -186,16 +195,25 @@
         {
           "id": "https://news.ycombinator.com/item?id=27379093",
           "author": "tosh",
-          "description": "Article URL: https://datatracker.ietf.org/doc/html/rfc4180\nComments URL: https://news.ycombinator.com/item?id=27379093\nPoints: 9\n# Comments: 9",
+          "description": "Article URL: https://datatracker.ietf.org/doc/html/rfc4180\nComments URL: https://news.ycombinator.com/item?id=27379093\nPoints: 19\n# Comments: 23",
           "link": "https://datatracker.ietf.org/doc/html/rfc4180",
           "publishedOn": "2021-06-03T10:02:11.000Z",
           "wordCount": 1710,
-          "title": "RFC 4180: Common Format and MIME Type for Comma-Separated Values (CSV) Files"
+          "title": "RFC 4180: Common Format and MIME Type for CSV Files (2005)"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27378642",
+          "author": "wurosh",
+          "description": "Article URL: https://github.com/wurosh/cake\nComments URL: https://news.ycombinator.com/item?id=27378642\nPoints: 12\n# Comments: 3",
+          "link": "https://github.com/wurosh/cake",
+          "publishedOn": "2021-06-03T08:49:40.000Z",
+          "wordCount": 794,
+          "title": "A stupid simple make wrapper that makes my life easier"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27378624",
           "author": "rajeevk",
-          "description": "Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf\nComments URL: https://news.ycombinator.com/item?id=27378624\nPoints: 58\n# Comments: 13",
+          "description": "Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf\nComments URL: https://news.ycombinator.com/item?id=27378624\nPoints: 82\n# Comments: 19",
           "link": "https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf",
           "publishedOn": "2021-06-03T08:46:23.000Z",
           "wordCount": 2795,
@@ -204,52 +222,43 @@
         {
           "id": "https://news.ycombinator.com/item?id=27378172",
           "author": "manojvivek",
-          "description": "Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0\nComments URL: https://news.ycombinator.com/item?id=27378172\nPoints: 57\n# Comments: 28",
+          "description": "Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0\nComments URL: https://news.ycombinator.com/item?id=27378172\nPoints: 68\n# Comments: 33",
           "link": "https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0",
           "publishedOn": "2021-06-03T07:28:00.000Z",
           "wordCount": 789,
           "title": "Google Lighthouse V8 – Improved CLS metrics"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=27378011",
+          "author": "dantondwa",
+          "description": "Article URL: https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/\nComments URL: https://news.ycombinator.com/item?id=27378011\nPoints: 111\n# Comments: 182",
+          "link": "https://protos.com/nft-market-bubble-popped-crypto-collectibles-are-over/",
+          "publishedOn": "2021-06-03T07:00:08.000Z",
+          "wordCount": 958,
+          "title": "The NFT market bubble has popped?"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27377685",
           "author": "tvvocold",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/\nComments URL: https://news.ycombinator.com/item?id=27377685\nPoints: 85\n# Comments: 135",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/\nComments URL: https://news.ycombinator.com/item?id=27377685\nPoints: 101\n# Comments: 152",
           "link": "https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/",
           "publishedOn": "2021-06-03T05:55:49.000Z",
-          "wordCount": 1953,
+          "wordCount": 2007,
           "title": "Huawei replaces Android with HarmonyOS, which is also Android"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27377620",
           "author": "chunkyslink",
-          "description": "Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home\nComments URL: https://news.ycombinator.com/item?id=27377620\nPoints: 62\n# Comments: 63",
+          "description": "Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home\nComments URL: https://news.ycombinator.com/item?id=27377620\nPoints: 74\n# Comments: 63",
           "link": "https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home",
           "publishedOn": "2021-06-03T05:44:09.000Z",
           "wordCount": 4613,
           "title": "Anthropologists and the business of sense-making at work"
         },
         {
-          "id": "https://news.ycombinator.com/item?id=27377560",
-          "author": "r4um",
-          "description": "Article URL: https://iximiuz.com/en/posts/thick-container-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=27377560\nPoints: 48\n# Comments: 25",
-          "link": "https://iximiuz.com/en/posts/thick-container-vulnerabilities/",
-          "publishedOn": "2021-06-03T05:31:24.000Z",
-          "wordCount": 1345,
-          "title": "The Need for Slimmer Containers"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27376383",
-          "author": "thunderbong",
-          "description": "Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html\nComments URL: https://news.ycombinator.com/item?id=27376383\nPoints: 275\n# Comments: 138",
-          "link": "https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html",
-          "publishedOn": "2021-06-03T02:01:34.000Z",
-          "wordCount": 789,
-          "title": "Amazon's Controversial 'Hire to Fire' Practice Reveals a Truth About Management"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=27375076",
           "author": "smollett",
-          "description": "Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months\nComments URL: https://news.ycombinator.com/item?id=27375076\nPoints: 340\n# Comments: 135",
+          "description": "Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months\nComments URL: https://news.ycombinator.com/item?id=27375076\nPoints: 367\n# Comments: 154",
           "link": "https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months",
           "publishedOn": "2021-06-02T23:00:41.000Z",
           "wordCount": 3097,
@@ -258,7 +267,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27375067",
           "author": "coloneltcb",
-          "description": "Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september\nComments URL: https://news.ycombinator.com/item?id=27375067\nPoints: 477\n# Comments: 101",
+          "description": "Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september\nComments URL: https://news.ycombinator.com/item?id=27375067\nPoints: 518\n# Comments: 110",
           "link": "https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september",
           "publishedOn": "2021-06-02T22:59:37.000Z",
           "wordCount": 722,
@@ -267,20 +276,11 @@
         {
           "id": "https://news.ycombinator.com/item?id=27374942",
           "author": "trashburger",
-          "description": "Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/\nComments URL: https://news.ycombinator.com/item?id=27374942\nPoints: 286\n# Comments: 113",
+          "description": "Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/\nComments URL: https://news.ycombinator.com/item?id=27374942\nPoints: 300\n# Comments: 129",
           "link": "https://sin-ack.github.io/posts/jpg-loader-bork/",
           "publishedOn": "2021-06-02T22:43:25.000Z",
           "wordCount": 1717,
           "title": "Malloc broke Serenity's JPGLoader, or: how to win the lottery"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27374675",
-          "author": "actually_a_dog",
-          "description": "Article URL: https://www.reuters.com/article/domesticNews/idUKL129052420080731\nComments URL: https://news.ycombinator.com/item?id=27374675\nPoints: 67\n# Comments: 69",
-          "link": "https://www.reuters.com/article/domesticNews/idUKL129052420080731",
-          "publishedOn": "2021-06-02T22:11:30.000Z",
-          "wordCount": 336,
-          "title": "World's Oldest joke traced back to 1900 BC (2008)"
         }
       ]
     },
@@ -295,7 +295,7 @@
           "description": "Sources inside Valve Software have unofficially confirmed that the Bellevue, Wash.-based company is working on a portable gaming PC, codenamed the “SteamPal,” for a planned release date later this year. The news broke on Tuesday morning via Ars Technica, which followed up on SteamDB operator Pavel Djundik’s discovery of several references to a device called the SteamPal in the code for the latest version of Steam’s client. The SteamPal, as per the Ars writeup, is a portable gaming system running off Linux that uses gamepad controls and includes a touchscreen, which puts it in the same general category as the… Read More",
           "link": "https://www.geekwire.com/2021/nintendo-switch-competition-valve-reportedly-plans-bring-portable-gaming-pc-market-late-2021/",
           "publishedOn": "2021-05-26T15:10:23.000Z",
-          "wordCount": 1848,
+          "wordCount": 1847,
           "title": "Nintendo Switch competitor? Valve reportedly plans to release portable gaming PC in late 2021"
         },
         {
@@ -304,7 +304,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2422,
+          "wordCount": 2425,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -313,7 +313,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3730,
+          "wordCount": 3729,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -322,7 +322,7 @@
           "description": "Amazon Games has released a new trailer for its massively-multiplayer online game New World, which is scheduled for release on Aug. 31. Titled “This Is Aeternum,” the trailer is a sizzle reel that shows off some of the art, dungeons, and locales to be found in the game. In New World, primarily developed by Amazon’s Orange County studio, you play as one of many explorers who are stranded on the island of Aeternum. You must survive and find allies “in a dangerous world where the fundamental laws of life and death don’t apply.” On Aeternum, the magic that flows through… Read More",
           "link": "https://www.geekwire.com/2021/amazon-shows-off-new-world-gameplay-trailer-online-multiplayer-game-set-aug-31-debut/",
           "publishedOn": "2021-05-11T21:38:06.000Z",
-          "wordCount": 1877,
+          "wordCount": 1880,
           "title": "Amazon shows off ‘New World’ gameplay in trailer for online multiplayer game set for Aug. 31 debut"
         },
         {
@@ -331,7 +331,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 1980,
+          "wordCount": 1978,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         }
       ]
@@ -489,7 +489,7 @@
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
           "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3498,
+          "wordCount": 3506,
           "title": "Managing Shared State In Vue 3",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
@@ -517,7 +517,7 @@
           "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
           "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
           "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5381,
+          "wordCount": 5393,
           "title": "Improving The Performance Of An Online Store (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
@@ -559,7 +559,7 @@
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
           "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2484,
+          "wordCount": 2490,
           "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
@@ -573,7 +573,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10220,
+          "wordCount": 10212,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -587,7 +587,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3738,
+          "wordCount": 3696,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -671,7 +671,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9433,
+          "wordCount": 9431,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -699,7 +699,7 @@
           "description": "A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.",
           "link": "https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
           "publishedOn": "2021-05-20T11:00:00.000Z",
-          "wordCount": 1961,
+          "wordCount": 1970,
           "title": "How To Implement Authentication In Next.js With Auth0",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3e905cbf-b17b-47da-aec4-15c9701bf4bf/implement-authentication-nextjs-auth0.jpg",
@@ -755,7 +755,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2957,
+          "wordCount": 2906,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -839,7 +839,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6352,
+          "wordCount": 6361,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -853,7 +853,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4172,
+          "wordCount": 4178,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
@@ -867,7 +867,7 @@
           "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2664,
+          "wordCount": 2656,
           "title": "Improving The Performance Of Shopify Themes (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2286332a-4912-4fb0-9578-530f44f905ed/improving-performance-shopify-themes-case-study.jpg",
@@ -881,7 +881,7 @@
           "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2347,
+          "wordCount": 2338,
           "title": "Reducing HTML Payload With Next.js (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0019f4c3-ebdd-4b09-9f45-47173587307b/reduce-data-sent-client-nextjs.jpg",
