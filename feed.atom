@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-03T11:52:36.981Z</id>
+    <id>urn:2021-06-03T12:39:41.501Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T11:52:36.981Z</updated>
+    <updated>2021-06-03T12:39:41.501Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[They rage-quit the school system and they're not going back]]></title>
+        <id>https://news.ycombinator.com/item?id=27380180</id>
+        <link href="https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/"/>
+        <updated>2021-06-03T12:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/
+Comments URL: https://news.ycombinator.com/item?id=27380180
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>alexrustic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jerry (YC S17) Is Hiring Remote Senior Engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=27379969</id>
+        <link href="https://apply.workable.com/jerry/j/07E1D2B302/"/>
+        <updated>2021-06-03T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apply.workable.com/jerry/j/07E1D2B302/
+Comments URL: https://news.ycombinator.com/item?id=27379969
+Points: 1
+# Comments: 0]]></summary>
+        <author>
+            <name>artag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic Botany]]></title>
+        <id>https://news.ycombinator.com/item?id=27379780</id>
+        <link href="http://algorithmicbotany.org/"/>
+        <updated>2021-06-03T11:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://algorithmicbotany.org/
+Comments URL: https://news.ycombinator.com/item?id=27379780
+Points: 14
+# Comments: 0]]></summary>
+        <author>
+            <name>the-mitr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What is the most bloated website you use]]></title>
+        <id>https://news.ycombinator.com/item?id=27379599</id>
+        <link href="https://news.ycombinator.com/item?id=27379599"/>
+        <updated>2021-06-03T11:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Looking for examples of bloated websites where you are seeking some textual data/information but have to suffer to retrieve it
+Comments URL: https://news.ycombinator.com/item?id=27379599
+Points: 6
+# Comments: 6]]></summary>
+        <author>
+            <name>1vuio0pswjnm7</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Ring’s neighborhood watch app is making police requests public]]></title>
         <id>https://news.ycombinator.com/item?id=27379504</id>
@@ -12,8 +64,8 @@
         <updated>2021-06-03T11:14:04.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/
 Comments URL: https://news.ycombinator.com/item?id=27379504
-Points: 5
-# Comments: 0]]></summary>
+Points: 18
+# Comments: 3]]></summary>
         <author>
             <name>underscore_ku</name>
         </author>
@@ -25,8 +77,8 @@ Points: 5
         <updated>2021-06-03T11:06:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2021/jun/03/microsoft-irish-subsidiary-paid-zero-corporate-tax-on-220bn-profit-last-year
 Comments URL: https://news.ycombinator.com/item?id=27379462
-Points: 89
-# Comments: 59]]></summary>
+Points: 207
+# Comments: 159]]></summary>
         <author>
             <name>agd</name>
         </author>
@@ -38,8 +90,8 @@ Points: 89
         <updated>2021-06-03T10:50:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
 Comments URL: https://news.ycombinator.com/item?id=27379366
-Points: 37
-# Comments: 2]]></summary>
+Points: 92
+# Comments: 4]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -51,8 +103,8 @@ Points: 37
         <updated>2021-06-03T10:41:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.techrepublic.com/article/programming-languages-why-python-4-0-will-probably-never-arrive-according-to-its-creator/
 Comments URL: https://news.ycombinator.com/item?id=27379317
-Points: 12
-# Comments: 6]]></summary>
+Points: 27
+# Comments: 37]]></summary>
         <author>
             <name>pjmlp</name>
         </author>
@@ -74,8 +126,8 @@ Points: 12
         <updated>2021-06-03T10:12:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption
 Comments URL: https://news.ycombinator.com/item?id=27379152
-Points: 14
-# Comments: 9]]></summary>
+Points: 23
+# Comments: 14]]></summary>
         <author>
             <name>JassicaB4</name>
         </author>
@@ -87,8 +139,8 @@ Points: 14
         <updated>2021-06-03T10:02:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://datatracker.ietf.org/doc/html/rfc4180
 Comments URL: https://news.ycombinator.com/item?id=27379093
-Points: 6
-# Comments: 1]]></summary>
+Points: 9
+# Comments: 9]]></summary>
         <author>
             <name>tosh</name>
         </author>
@@ -100,8 +152,8 @@ Points: 6
         <updated>2021-06-03T08:46:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf
 Comments URL: https://news.ycombinator.com/item?id=27378624
-Points: 50
-# Comments: 8]]></summary>
+Points: 58
+# Comments: 13]]></summary>
         <author>
             <name>rajeevk</name>
         </author>
@@ -113,23 +165,10 @@ Points: 50
         <updated>2021-06-03T07:28:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0
 Comments URL: https://news.ycombinator.com/item?id=27378172
-Points: 47
-# Comments: 22]]></summary>
+Points: 57
+# Comments: 28]]></summary>
         <author>
             <name>manojvivek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jiga (YC W21) Is Hiring a Full Stack Developer (Remote)]]></title>
-        <id>https://news.ycombinator.com/item?id=27378013</id>
-        <link href="https://www.workatastartup.com/jobs/44310"/>
-        <updated>2021-06-03T07:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.workatastartup.com/jobs/44310
-Comments URL: https://news.ycombinator.com/item?id=27378013
-Points: 1
-# Comments: 0]]></summary>
-        <author>
-            <name>grmmph</name>
         </author>
     </entry>
     <entry>
@@ -139,8 +178,8 @@ Points: 1
         <updated>2021-06-03T05:55:49.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2021/06/huaweis-harmonyos-will-rollout-to-100-android-models-over-the-next-year/
 Comments URL: https://news.ycombinator.com/item?id=27377685
-Points: 76
-# Comments: 117]]></summary>
+Points: 85
+# Comments: 135]]></summary>
         <author>
             <name>tvvocold</name>
         </author>
@@ -152,8 +191,8 @@ Points: 76
         <updated>2021-06-03T05:44:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/science/2021/jun/03/the-empty-office-what-we-lose-when-we-work-from-home
 Comments URL: https://news.ycombinator.com/item?id=27377620
-Points: 57
-# Comments: 62]]></summary>
+Points: 62
+# Comments: 63]]></summary>
         <author>
             <name>chunkyslink</name>
         </author>
@@ -165,23 +204,10 @@ Points: 57
         <updated>2021-06-03T05:31:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 Comments URL: https://news.ycombinator.com/item?id=27377560
-Points: 42
-# Comments: 20]]></summary>
+Points: 48
+# Comments: 25]]></summary>
         <author>
             <name>r4um</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox co-pilot mode changed disabled sister’s life]]></title>
-        <id>https://news.ycombinator.com/item?id=27376677</id>
-        <link href="https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/"/>
-        <updated>2021-06-03T02:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/XboxSeriesX/comments/nqk3nb/copilot_mode_changed_my_disabled_sisters_life/
-Comments URL: https://news.ycombinator.com/item?id=27376677
-Points: 196
-# Comments: 38]]></summary>
-        <author>
-            <name>mansarip</name>
         </author>
     </entry>
     <entry>
@@ -191,8 +217,8 @@ Points: 196
         <updated>2021-06-03T02:01:34.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.inc.com/jason-aten/amazons-controversial-hire-to-fire-practice-reveals-a-brutal-truth-about-management.html
 Comments URL: https://news.ycombinator.com/item?id=27376383
-Points: 262
-# Comments: 124]]></summary>
+Points: 275
+# Comments: 138]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -214,8 +240,8 @@ Points: 262
         <updated>2021-06-02T23:00:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months
 Comments URL: https://news.ycombinator.com/item?id=27375076
-Points: 323
-# Comments: 133]]></summary>
+Points: 340
+# Comments: 135]]></summary>
         <author>
             <name>smollett</name>
         </author>
@@ -227,8 +253,8 @@ Points: 323
         <updated>2021-06-02T22:59:37.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september
 Comments URL: https://news.ycombinator.com/item?id=27375067
-Points: 465
-# Comments: 97]]></summary>
+Points: 477
+# Comments: 101]]></summary>
         <author>
             <name>coloneltcb</name>
         </author>
@@ -250,8 +276,8 @@ Points: 465
         <updated>2021-06-02T22:43:25.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://sin-ack.github.io/posts/jpg-loader-bork/
 Comments URL: https://news.ycombinator.com/item?id=27374942
-Points: 274
-# Comments: 107]]></summary>
+Points: 286
+# Comments: 113]]></summary>
         <author>
             <name>trashburger</name>
         </author>
@@ -263,23 +289,10 @@ Points: 274
         <updated>2021-06-02T22:11:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/article/domesticNews/idUKL129052420080731
 Comments URL: https://news.ycombinator.com/item?id=27374675
-Points: 61
-# Comments: 64]]></summary>
+Points: 67
+# Comments: 69]]></summary>
         <author>
             <name>actually_a_dog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Transform a CSV into a JSON and vice versa]]></title>
-        <id>https://news.ycombinator.com/item?id=27374632</id>
-        <link href="https://jsonmatic.com/"/>
-        <updated>2021-06-02T22:07:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jsonmatic.com/
-Comments URL: https://news.ycombinator.com/item?id=27374632
-Points: 108
-# Comments: 79]]></summary>
-        <author>
-            <name>okumurahata</name>
         </author>
     </entry>
     <entry>
@@ -336,19 +349,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaky Abstractions]]></title>
-        <id>https://news.ycombinator.com/item?id=27372292</id>
-        <link href="https://textslashplain.com/2021/06/02/leaky-abstractions/"/>
-        <updated>2021-06-02T18:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://textslashplain.com/2021/06/02/leaky-abstractions/
-Comments URL: https://news.ycombinator.com/item?id=27372292
-Points: 375
-# Comments: 82]]></summary>
-        <author>
-            <name>jakub_g</name>
         </author>
     </entry>
     <entry>
