@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T21:18:03.136Z</id>
+    <id>urn:2021-06-05T22:20:49.473Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T21:18:03.137Z</updated>
+    <updated>2021-06-05T22:20:49.473Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -19,16 +19,44 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Rustpad, a self-hosted online collaborative text editor in Rust]]></title>
+        <title type="html"><![CDATA[Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale]]></title>
+        <id>https://news.ycombinator.com/item?id=27408398</id>
+        <link href="https://www.theregister.com/2021/06/04/google_chip_flaws/"/>
+        <updated>2021-06-05T20:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2021/06/04/google_chip_flaws/
+Comments URL: https://news.ycombinator.com/item?id=27408398
+Points: 21
+# Comments: 2]]></summary>
+        <author>
+            <name>pasttense01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Rustpad, a self-hosted online collaborative text editor]]></title>
         <id>https://news.ycombinator.com/item?id=27408326</id>
         <link href="https://github.com/ekzhang/rustpad"/>
         <updated>2021-06-05T20:44:45.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ekzhang/rustpad
 Comments URL: https://news.ycombinator.com/item?id=27408326
-Points: 18
-# Comments: 2]]></summary>
+Points: 56
+# Comments: 8]]></summary>
         <author>
             <name>ekzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Books for Effective Communication]]></title>
+        <id>https://news.ycombinator.com/item?id=27408120</id>
+        <link href="https://news.ycombinator.com/item?id=27408120"/>
+        <updated>2021-06-05T20:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Being very good at writing and speaking are very valuable skills that come in handy in all situations in life.
+What books have you read or want to recommend to enhance these skills?
+Any specific book that changed how you articulate your ideas and thoughts?
+Comments URL: https://news.ycombinator.com/item?id=27408120
+Points: 34
+# Comments: 11]]></summary>
+        <author>
+            <name>2bor-2n</name>
         </author>
     </entry>
     <entry>
@@ -38,8 +66,8 @@ Points: 18
         <updated>2021-06-05T19:04:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pomax.github.io/three-point-perspective/
 Comments URL: https://news.ycombinator.com/item?id=27407691
-Points: 40
-# Comments: 13]]></summary>
+Points: 60
+# Comments: 22]]></summary>
         <author>
             <name>TheRealPomax</name>
         </author>
@@ -51,8 +79,8 @@ Points: 40
         <updated>2021-06-05T18:52:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/passmgrs.html
 Comments URL: https://news.ycombinator.com/item?id=27407603
-Points: 48
-# Comments: 16]]></summary>
+Points: 114
+# Comments: 60]]></summary>
         <author>
             <name>arthurmorgan</name>
         </author>
@@ -64,8 +92,8 @@ Points: 48
         <updated>2021-06-05T18:05:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://miguelraz.github.io/blog/juliatorust/
 Comments URL: https://news.ycombinator.com/item?id=27407268
-Points: 15
-# Comments: 0]]></summary>
+Points: 44
+# Comments: 2]]></summary>
         <author>
             <name>miguelraz</name>
         </author>
@@ -77,8 +105,8 @@ Points: 15
         <updated>2021-06-05T18:05:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://et-jekyll.netlify.app/
 Comments URL: https://news.ycombinator.com/item?id=27407264
-Points: 63
-# Comments: 10]]></summary>
+Points: 73
+# Comments: 16]]></summary>
         <author>
             <name>bradley_taunt</name>
         </author>
@@ -90,7 +118,7 @@ Points: 63
         <updated>2021-06-05T17:44:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/planetis-m/libfuzzer
 Comments URL: https://news.ycombinator.com/item?id=27407086
-Points: 44
+Points: 48
 # Comments: 2]]></summary>
         <author>
             <name>planetis</name>
@@ -103,8 +131,8 @@ Points: 44
         <updated>2021-06-05T17:22:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
 Comments URL: https://news.ycombinator.com/item?id=27406888
-Points: 71
-# Comments: 20]]></summary>
+Points: 88
+# Comments: 21]]></summary>
         <author>
             <name>aleks224</name>
         </author>
@@ -116,8 +144,8 @@ Points: 71
         <updated>2021-06-05T16:49:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql
 Comments URL: https://news.ycombinator.com/item?id=27406589
-Points: 49
-# Comments: 17]]></summary>
+Points: 54
+# Comments: 21]]></summary>
         <author>
             <name>wdb</name>
         </author>
@@ -129,8 +157,8 @@ Points: 49
         <updated>2021-06-05T16:13:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/
 Comments URL: https://news.ycombinator.com/item?id=27406243
-Points: 159
-# Comments: 52]]></summary>
+Points: 172
+# Comments: 60]]></summary>
         <author>
             <name>chetangoti</name>
         </author>
@@ -142,8 +170,8 @@ Points: 159
         <updated>2021-06-05T16:01:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
 Comments URL: https://news.ycombinator.com/item?id=27406132
-Points: 144
-# Comments: 94]]></summary>
+Points: 157
+# Comments: 103]]></summary>
         <author>
             <name>x14km2d</name>
         </author>
@@ -155,8 +183,8 @@ Points: 144
         <updated>2021-06-05T14:58:28.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/23/e2023202118
 Comments URL: https://news.ycombinator.com/item?id=27405597
-Points: 119
-# Comments: 7]]></summary>
+Points: 128
+# Comments: 8]]></summary>
         <author>
             <name>rch</name>
         </author>
@@ -168,8 +196,8 @@ Points: 119
         <updated>2021-06-05T14:40:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html
 Comments URL: https://news.ycombinator.com/item?id=27405450
-Points: 122
-# Comments: 40]]></summary>
+Points: 128
+# Comments: 41]]></summary>
         <author>
             <name>rfreytag</name>
         </author>
@@ -181,23 +209,10 @@ Points: 122
         <updated>2021-06-05T14:35:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.zero2prod.com/
 Comments URL: https://news.ycombinator.com/item?id=27405395
-Points: 227
-# Comments: 169]]></summary>
+Points: 243
+# Comments: 179]]></summary>
         <author>
             <name>belter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If Not Overturned, Bad Copyright Decision Will Lead Many to Lose Internet Access]]></title>
-        <id>https://news.ycombinator.com/item?id=27404442</id>
-        <link href="https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet"/>
-        <updated>2021-06-05T12:41:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet
-Comments URL: https://news.ycombinator.com/item?id=27404442
-Points: 203
-# Comments: 41]]></summary>
-        <author>
-            <name>ystad</name>
         </author>
     </entry>
     <entry>
@@ -207,8 +222,8 @@ Points: 203
         <updated>2021-06-05T12:21:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/iconvg
 Comments URL: https://news.ycombinator.com/item?id=27404301
-Points: 98
-# Comments: 47]]></summary>
+Points: 101
+# Comments: 49]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -220,8 +235,8 @@ Points: 98
         <updated>2021-06-05T12:10:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blurweb.app
 Comments URL: https://news.ycombinator.com/item?id=27404228
-Points: 47
-# Comments: 19]]></summary>
+Points: 53
+# Comments: 20]]></summary>
         <author>
             <name>theindianappguy</name>
         </author>
@@ -233,34 +248,21 @@ Points: 47
         <updated>2021-06-05T12:04:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/midiblocks/handsfree
 Comments URL: https://news.ycombinator.com/item?id=27404196
-Points: 123
-# Comments: 12]]></summary>
+Points: 133
+# Comments: 19]]></summary>
         <author>
             <name>detaro</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn R Through Examples (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=27404103</id>
-        <link href="https://gexijin.github.io/learnR/index.html"/>
-        <updated>2021-06-05T11:43:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gexijin.github.io/learnR/index.html
-Comments URL: https://news.ycombinator.com/item?id=27404103
-Points: 126
-# Comments: 56]]></summary>
-        <author>
-            <name>diplodocusaur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The G7 has reached a deal on taxing multinational companies]]></title>
+        <title type="html"><![CDATA[G7: Rich nations back deal to tax multinationals]]></title>
         <id>https://news.ycombinator.com/item?id=27404018</id>
         <link href="https://www.bbc.co.uk/news/world-57368247"/>
         <updated>2021-06-05T11:24:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-57368247
 Comments URL: https://news.ycombinator.com/item?id=27404018
-Points: 745
-# Comments: 670]]></summary>
+Points: 787
+# Comments: 702]]></summary>
         <author>
             <name>ddek</name>
         </author>
@@ -989,16 +991,6 @@ Changed: Favicon, css, and js assets now existing at site root level.
 Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Organize Product-Related Assets And Collaborate Better]]></title>
-        <id>https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/</id>
-        <link href="https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/"/>
-        <updated>2021-05-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Valeriia Panina)</name>
         </author>
     </entry>
 </feed>
