@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-05T14:41:37.439Z</id>
+    <id>urn:2021-06-05T15:18:54.830Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T14:41:37.439Z</updated>
+    <updated>2021-06-05T15:18:54.830Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Catalog of viruses from human metagenomes reveals chronic disease associations]]></title>
+        <id>https://news.ycombinator.com/item?id=27405597</id>
+        <link href="https://www.pnas.org/content/118/23/e2023202118"/>
+        <updated>2021-06-05T14:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pnas.org/content/118/23/e2023202118
+Comments URL: https://news.ycombinator.com/item?id=27405597
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>rch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mandelbrot Monk]]></title>
+        <id>https://news.ycombinator.com/item?id=27405450</id>
+        <link href="https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html"/>
+        <updated>2021-06-05T14:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html
+Comments URL: https://news.ycombinator.com/item?id=27405450
+Points: 6
+# Comments: 0]]></summary>
+        <author>
+            <name>rfreytag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero to Production in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=27405395</id>
+        <link href="https://www.zero2prod.com/"/>
+        <updated>2021-06-05T14:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zero2prod.com/
+Comments URL: https://news.ycombinator.com/item?id=27405395
+Points: 10
+# Comments: 0]]></summary>
+        <author>
+            <name>belter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘We Eat Roti and Salt’: Delhi’s Most Vulnerable Still Wait for Food]]></title>
         <id>https://news.ycombinator.com/item?id=27404982</id>
@@ -12,8 +51,8 @@
         <updated>2021-06-05T13:48:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.thequint.com/news/india/delhi-non-ration-card-holders-still-wait-for-food-arvind-kejriwal-manish-sisodia
 Comments URL: https://news.ycombinator.com/item?id=27404982
-Points: 5
-# Comments: 3]]></summary>
+Points: 59
+# Comments: 18]]></summary>
         <author>
             <name>akbarnama</name>
         </author>
@@ -25,21 +64,21 @@ Points: 5
         <updated>2021-06-05T12:50:39.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/coastal-arctic-sea-ice-is-thinning-faster-than-previously-thought1/
 Comments URL: https://news.ycombinator.com/item?id=27404523
-Points: 60
-# Comments: 8]]></summary>
+Points: 77
+# Comments: 9]]></summary>
         <author>
             <name>LinuxBender</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50% reduction in krill in past 6 decades]]></title>
+        <title type="html"><![CDATA[North Atlantic warming over six decades drives decreases in krill abundance]]></title>
         <id>https://news.ycombinator.com/item?id=27404512</id>
         <link href="https://www.nature.com/articles/s42003-021-02159-1"/>
         <updated>2021-06-05T12:49:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/s42003-021-02159-1
 Comments URL: https://news.ycombinator.com/item?id=27404512
-Points: 127
-# Comments: 15]]></summary>
+Points: 155
+# Comments: 27]]></summary>
         <author>
             <name>aseerdbnarng</name>
         </author>
@@ -51,8 +90,8 @@ Points: 127
         <updated>2021-06-05T12:41:22.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet
 Comments URL: https://news.ycombinator.com/item?id=27404442
-Points: 32
-# Comments: 1]]></summary>
+Points: 55
+# Comments: 4]]></summary>
         <author>
             <name>ystad</name>
         </author>
@@ -64,23 +103,10 @@ Points: 32
         <updated>2021-06-05T12:36:50.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/what-is-global-minimum-tax-what-will-it-mean-2021-06-05/
 Comments URL: https://news.ycombinator.com/item?id=27404405
-Points: 14
-# Comments: 9]]></summary>
+Points: 28
+# Comments: 23]]></summary>
         <author>
             <name>ourmandave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quell Der Weisheit (German)]]></title>
-        <id>https://news.ycombinator.com/item?id=27404360</id>
-        <link href="http://members.chello.at/karl.bednarik/"/>
-        <updated>2021-06-05T12:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://members.chello.at/karl.bednarik/
-Comments URL: https://news.ycombinator.com/item?id=27404360
-Points: 19
-# Comments: 1]]></summary>
-        <author>
-            <name>v4vvdq</name>
         </author>
     </entry>
     <entry>
@@ -90,8 +116,8 @@ Points: 19
         <updated>2021-06-05T12:21:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/google/iconvg
 Comments URL: https://news.ycombinator.com/item?id=27404301
-Points: 20
-# Comments: 4]]></summary>
+Points: 33
+# Comments: 7]]></summary>
         <author>
             <name>bpierre</name>
         </author>
@@ -103,8 +129,8 @@ Points: 20
         <updated>2021-06-05T12:10:24.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blurweb.app
 Comments URL: https://news.ycombinator.com/item?id=27404228
-Points: 8
-# Comments: 4]]></summary>
+Points: 12
+# Comments: 5]]></summary>
         <author>
             <name>theindianappguy</name>
         </author>
@@ -116,7 +142,7 @@ Points: 8
         <updated>2021-06-05T12:04:40.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/midiblocks/handsfree
 Comments URL: https://news.ycombinator.com/item?id=27404196
-Points: 11
+Points: 16
 # Comments: 4]]></summary>
         <author>
             <name>detaro</name>
@@ -142,34 +168,34 @@ Points: 1
         <updated>2021-06-05T11:47:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/no0dles/hammerkit
 Comments URL: https://news.ycombinator.com/item?id=27404123
-Points: 8
-# Comments: 1]]></summary>
+Points: 10
+# Comments: 2]]></summary>
         <author>
             <name>no0dles</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn R Through Examples]]></title>
+        <title type="html"><![CDATA[Learn R Through Examples (2020)]]></title>
         <id>https://news.ycombinator.com/item?id=27404103</id>
         <link href="https://gexijin.github.io/learnR/index.html"/>
         <updated>2021-06-05T11:43:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://gexijin.github.io/learnR/index.html
 Comments URL: https://news.ycombinator.com/item?id=27404103
-Points: 60
-# Comments: 25]]></summary>
+Points: 75
+# Comments: 32]]></summary>
         <author>
             <name>diplodocusaur</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rich nations back deal to tax multinationals]]></title>
+        <title type="html"><![CDATA[The G7 has reached a deal on taxing multinational companies]]></title>
         <id>https://news.ycombinator.com/item?id=27404018</id>
         <link href="https://www.bbc.co.uk/news/world-57368247"/>
         <updated>2021-06-05T11:24:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-57368247
 Comments URL: https://news.ycombinator.com/item?id=27404018
-Points: 222
-# Comments: 247]]></summary>
+Points: 257
+# Comments: 291]]></summary>
         <author>
             <name>ddek</name>
         </author>
@@ -181,8 +207,8 @@ Points: 222
         <updated>2021-06-05T11:24:05.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins
 Comments URL: https://news.ycombinator.com/item?id=27404017
-Points: 164
-# Comments: 62]]></summary>
+Points: 192
+# Comments: 74]]></summary>
         <author>
             <name>Black101</name>
         </author>
@@ -194,8 +220,8 @@ Points: 164
         <updated>2021-06-05T10:50:03.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/ArthurSonzogni/FTXUI
 Comments URL: https://news.ycombinator.com/item?id=27403877
-Points: 72
-# Comments: 24]]></summary>
+Points: 74
+# Comments: 34]]></summary>
         <author>
             <name>ingve</name>
         </author>
@@ -207,21 +233,21 @@ Points: 72
         <updated>2021-06-05T10:41:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.aboutamazon.com/news/job-creation-and-investment/study-shows-amazons-wage-increase-to-15-an-hour-also-upped-pay-for-non-amazon-workers
 Comments URL: https://news.ycombinator.com/item?id=27403824
-Points: 56
-# Comments: 30]]></summary>
+Points: 73
+# Comments: 40]]></summary>
         <author>
             <name>rustoo</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3k eggs abandoned after drone scares birds in California]]></title>
+        <title type="html"><![CDATA[3,000 eggs abandoned after drone scares birds in California]]></title>
         <id>https://news.ycombinator.com/item?id=27403804</id>
         <link href="https://abcnews.go.com/US/wireStory/3000-eggs-abandoned-drone-scares-birds-california-78090817"/>
         <updated>2021-06-05T10:34:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://abcnews.go.com/US/wireStory/3000-eggs-abandoned-drone-scares-birds-california-78090817
 Comments URL: https://news.ycombinator.com/item?id=27403804
-Points: 98
-# Comments: 23]]></summary>
+Points: 121
+# Comments: 45]]></summary>
         <author>
             <name>erentz</name>
         </author>
@@ -233,36 +259,10 @@ Points: 98
         <updated>2021-06-05T10:19:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://queue.acm.org/detail.cfm?id=3469121
 Comments URL: https://news.ycombinator.com/item?id=27403735
-Points: 25
+Points: 29
 # Comments: 5]]></summary>
         <author>
             <name>MindGods</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Scheme to Find the Median of Two Sorted Integer Lists]]></title>
-        <id>https://news.ycombinator.com/item?id=27403666</id>
-        <link href="https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/"/>
-        <updated>2021-06-05T10:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.erichgrunewald.com/posts/using-scheme-to-find-the-median-of-two-sorted-integer-lists/
-Comments URL: https://news.ycombinator.com/item?id=27403666
-Points: 18
-# Comments: 11]]></summary>
-        <author>
-            <name>erwald</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google can't pass its own page speed test]]></title>
-        <id>https://news.ycombinator.com/item?id=27403352</id>
-        <link href="https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/"/>
-        <updated>2021-06-05T08:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/
-Comments URL: https://news.ycombinator.com/item?id=27403352
-Points: 165
-# Comments: 61]]></summary>
-        <author>
-            <name>EvgeniyZh</name>
         </author>
     </entry>
     <entry>
