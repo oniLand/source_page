@@ -103,6 +103,24 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=27403478",
+          "author": "ColinWright",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-us-canada-57367093\nComments URL: https://news.ycombinator.com/item?id=27403478\nPoints: 22\n# Comments: 4",
+          "link": "https://www.bbc.co.uk/news/world-us-canada-57367093",
+          "publishedOn": "2021-06-05T09:14:51.000Z",
+          "wordCount": 910,
+          "title": "FBI sought info on who read USA Today news article for case"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=27403352",
+          "author": "EvgeniyZh",
+          "description": "Article URL: https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/\nComments URL: https://news.ycombinator.com/item?id=27403352\nPoints: 26\n# Comments: 2",
+          "link": "https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/",
+          "publishedOn": "2021-06-05T08:45:30.000Z",
+          "wordCount": 557,
+          "title": "Google can't pass its own page speed test"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=27402859",
           "author": "skellystudios",
           "description": "Stacker (YC S20) | Full-time | VP of Engineering | 100% REMOTE (limited to Europe!)\nWe're on a mission to let anyone create software, by building a platform to let you instantly create apps from the data you already have. We want to change the way software is built. That's a pretty big task, and we've got some exciting problems.\nIf you're an experienced VP of Engineering, come and talk to us about how we're building a platform that lets customers run rich, flexible apps, all built without code.\nYou'll be leading all engineering related activities, including product development, hiring and management, bringing direction and refinement to our technology as we work towards enterprise level reliability.\nWe expect you to have experience of scaling teams in product focussed organisations, a technology orientated mindset and proven ability in driving positive engineering culture change.\nOur stack is a React frontend, Python backend. Postgres, Memcached, Elasticsearch and everything running on Docker/Kubernetes.\nWe're a fully remote team of 15 people, with ambitious growth and product plans! Post-pandemic we'll be meeting up in person every few months for social activities and further collaboration opportunities.\nIf you'd like to know more, apply at: https://www.stackerhq.com/jobs\nComments URL: https://news.ycombinator.com/item?id=27402859\nPoints: 1\n# Comments: 0",
@@ -114,7 +132,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27402222",
           "author": "zdw",
-          "description": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls\nComments URL: https://news.ycombinator.com/item?id=27402222\nPoints: 25\n# Comments: 25",
+          "description": "Article URL: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls\nComments URL: https://news.ycombinator.com/item?id=27402222\nPoints: 30\n# Comments: 29",
           "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls",
           "publishedOn": "2021-06-05T04:37:34.000Z",
           "wordCount": 548,
@@ -123,7 +141,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27401862",
           "author": "panarky",
-          "description": "Article URL: https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html\nComments URL: https://news.ycombinator.com/item?id=27401862\nPoints: 133\n# Comments: 33",
+          "description": "Article URL: https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html\nComments URL: https://news.ycombinator.com/item?id=27401862\nPoints: 145\n# Comments: 36",
           "link": "https://www.washingtonpost.com/national-security/usa-today-fbi-subpoena/2021/06/04/4741213a-c550-11eb-8c18-fd53a628b992_story.html",
           "publishedOn": "2021-06-05T03:28:05.000Z",
           "wordCount": 1103,
@@ -132,7 +150,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27400004",
           "author": "1cvmask",
-          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password\nComments URL: https://news.ycombinator.com/item?id=27400004\nPoints: 176\n# Comments: 105",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password\nComments URL: https://news.ycombinator.com/item?id=27400004\nPoints: 183\n# Comments: 108",
           "link": "https://www.bloomberg.com/news/articles/2021-06-04/hackers-breached-colonial-pipeline-using-compromised-password",
           "publishedOn": "2021-06-04T22:54:56.000Z",
           "wordCount": 93,
@@ -141,7 +159,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27399730",
           "author": "jkuria",
-          "description": "Article URL: https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246\nComments URL: https://news.ycombinator.com/item?id=27399730\nPoints: 130\n# Comments: 150",
+          "description": "Article URL: https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246\nComments URL: https://news.ycombinator.com/item?id=27399730\nPoints: 136\n# Comments: 159",
           "link": "https://www.wsj.com/articles/bitcoins-reliance-on-stablecoins-harks-back-to-the-wild-west-of-finance-11622115246",
           "publishedOn": "2021-06-04T22:20:18.000Z",
           "wordCount": 1153,
@@ -150,7 +168,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27399713",
           "author": "nomoreplease",
-          "description": "Article URL: http://www.aaronsw.com/weblog/productivity\nComments URL: https://news.ycombinator.com/item?id=27399713\nPoints: 166\n# Comments: 43",
+          "description": "Article URL: http://www.aaronsw.com/weblog/productivity\nComments URL: https://news.ycombinator.com/item?id=27399713\nPoints: 176\n# Comments: 45",
           "link": "http://www.aaronsw.com/weblog/productivity",
           "publishedOn": "2021-06-04T22:18:01.000Z",
           "wordCount": 5837,
@@ -159,7 +177,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27399416",
           "author": "tosh",
-          "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666\nComments URL: https://news.ycombinator.com/item?id=27399416\nPoints: 364\n# Comments: 156",
+          "description": "Article URL: https://twitter.com/ID_AA_Carmack/status/1400930510671601666\nComments URL: https://news.ycombinator.com/item?id=27399416\nPoints: 382\n# Comments: 165",
           "link": "https://twitter.com/ID_AA_Carmack/status/1400930510671601666",
           "publishedOn": "2021-06-04T21:43:53.000Z",
           "wordCount": 196,
@@ -168,16 +186,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27399257",
           "author": "BlackVanilla",
-          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57348415\nComments URL: https://news.ycombinator.com/item?id=27399257\nPoints: 176\n# Comments: 77",
+          "description": "Article URL: https://www.bbc.co.uk/news/world-europe-57348415\nComments URL: https://news.ycombinator.com/item?id=27399257\nPoints: 192\n# Comments: 81",
           "link": "https://www.bbc.co.uk/news/world-europe-57348415",
           "publishedOn": "2021-06-04T21:27:13.000Z",
-          "wordCount": 1090,
+          "wordCount": 1088,
           "title": "Denmark parliament approves giant artificial island off Copenhagen"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27399065",
           "author": "legerdemain",
-          "description": "Article URL: https://bonzi.link/\nComments URL: https://news.ycombinator.com/item?id=27399065\nPoints: 98\n# Comments: 94",
+          "description": "Article URL: https://bonzi.link/\nComments URL: https://news.ycombinator.com/item?id=27399065\nPoints: 108\n# Comments: 101",
           "link": "https://bonzi.link/",
           "publishedOn": "2021-06-04T21:04:31.000Z",
           "wordCount": 289,
@@ -186,7 +204,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27398986",
           "author": "precern_harlan",
-          "description": "Article URL: https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1\nComments URL: https://news.ycombinator.com/item?id=27398986\nPoints: 178\n# Comments: 75",
+          "description": "Article URL: https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1\nComments URL: https://news.ycombinator.com/item?id=27398986\nPoints: 180\n# Comments: 77",
           "link": "https://pycon.blogspot.com/2021/06/pycon-us-2021-recordings-are-complete.html?m=1",
           "publishedOn": "2021-06-04T20:57:36.000Z",
           "wordCount": 844,
@@ -195,7 +213,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27398785",
           "author": "jbonniwell",
-          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/\nComments URL: https://news.ycombinator.com/item?id=27398785\nPoints: 231\n# Comments: 53",
+          "description": "Article URL: https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/\nComments URL: https://news.ycombinator.com/item?id=27398785\nPoints: 250\n# Comments: 57",
           "link": "https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/",
           "publishedOn": "2021-06-04T20:34:52.000Z",
           "wordCount": 1083,
@@ -204,7 +222,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27397208",
           "author": "brundolf",
-          "description": "Article URL: https://binji.github.io/posts/pokegb/\nComments URL: https://news.ycombinator.com/item?id=27397208\nPoints: 476\n# Comments: 52",
+          "description": "Article URL: https://binji.github.io/posts/pokegb/\nComments URL: https://news.ycombinator.com/item?id=27397208\nPoints: 489\n# Comments: 55",
           "link": "https://binji.github.io/posts/pokegb/",
           "publishedOn": "2021-06-04T18:31:27.000Z",
           "wordCount": 11960,
@@ -213,16 +231,16 @@
         {
           "id": "https://news.ycombinator.com/item?id=27396848",
           "author": "eklitzke",
-          "description": "Article URL: https://www.eejournal.com/article/we-interrupt-this-program/\nComments URL: https://news.ycombinator.com/item?id=27396848\nPoints: 181\n# Comments: 110",
+          "description": "Article URL: https://www.eejournal.com/article/we-interrupt-this-program/\nComments URL: https://news.ycombinator.com/item?id=27396848\nPoints: 184\n# Comments: 111",
           "link": "https://www.eejournal.com/article/we-interrupt-this-program/",
           "publishedOn": "2021-06-04T18:10:27.000Z",
-          "wordCount": 2497,
+          "wordCount": 2504,
           "title": "Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27396803",
           "author": "packet_nerd",
-          "description": "Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer\nComments URL: https://news.ycombinator.com/item?id=27396803\nPoints: 146\n# Comments: 85",
+          "description": "Article URL: https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer\nComments URL: https://news.ycombinator.com/item?id=27396803\nPoints: 151\n# Comments: 89",
           "link": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
           "publishedOn": "2021-06-04T18:08:14.000Z",
           "wordCount": 1111,
@@ -231,7 +249,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=27396634",
           "author": "raphlinus",
-          "description": "Article URL: https://www.youtube.com/watch?v=DZRn_jNZjbw\nComments URL: https://news.ycombinator.com/item?id=27396634\nPoints: 5\n# Comments: 1",
+          "description": "Article URL: https://www.youtube.com/watch?v=DZRn_jNZjbw\nComments URL: https://news.ycombinator.com/item?id=27396634\nPoints: 13\n# Comments: 1",
           "link": "https://www.youtube.com/watch?v=DZRn_jNZjbw",
           "publishedOn": "2021-06-04T17:58:10.000Z",
           "wordCount": 15,
@@ -249,38 +267,20 @@
         {
           "id": "https://news.ycombinator.com/item?id=27395663",
           "author": "crackercrews",
-          "description": "Article URL: https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/\nComments URL: https://news.ycombinator.com/item?id=27395663\nPoints: 234\n# Comments: 171",
+          "description": "Article URL: https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/\nComments URL: https://news.ycombinator.com/item?id=27395663\nPoints: 239\n# Comments: 174",
           "link": "https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/",
           "publishedOn": "2021-06-04T16:53:17.000Z",
-          "wordCount": 766,
+          "wordCount": 771,
           "title": "Using a magnetic string to fish for a lost iPhone 12 in a Berlin canal"
         },
         {
           "id": "https://news.ycombinator.com/item?id=27395635",
           "author": "rcoveson",
-          "description": "Article URL: https://www.bing.com/images/search?q=tank+man\nComments URL: https://news.ycombinator.com/item?id=27395635\nPoints: 1944\n# Comments: 482",
+          "description": "Article URL: https://www.bing.com/images/search?q=tank+man\nComments URL: https://news.ycombinator.com/item?id=27395635\nPoints: 1970\n# Comments: 485",
           "link": "https://www.bing.com/images/search?q=tank+man",
           "publishedOn": "2021-06-04T16:51:37.000Z",
-          "wordCount": 394,
+          "wordCount": 390,
           "title": "There are no results for tank man"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27394983",
-          "author": "oppodeldoc",
-          "description": "Article URL: https://thereboot.com/why-we-should-end-the-data-economy/\nComments URL: https://news.ycombinator.com/item?id=27394983\nPoints: 475\n# Comments: 355",
-          "link": "https://thereboot.com/why-we-should-end-the-data-economy/",
-          "publishedOn": "2021-06-04T16:02:21.000Z",
-          "wordCount": 1788,
-          "title": "Why we should end the data economy"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=27394857",
-          "author": "pcr910303",
-          "description": "Article URL: https://blog.josephmorag.com/posts/mcc0/\nComments URL: https://news.ycombinator.com/item?id=27394857\nPoints: 143\n# Comments: 15",
-          "link": "https://blog.josephmorag.com/posts/mcc0/",
-          "publishedOn": "2021-06-04T15:50:40.000Z",
-          "wordCount": 997,
-          "title": "Implementing a LLVM Micro C compiler in Haskell"
         }
       ]
     },
@@ -304,7 +304,7 @@
           "description": "Dungeons & Dragons is more popular now than it’s ever been, and its publisher Wizards of the Coast has announced multiple new projects in order to keep that ball rolling. This includes a 2023 feature film; a partnership with the relaunched G4 cable and digital television network to air this summer’s D&D Live show; Wizards’ first foray into publishing D&D-based video games; a special event in honor of D&D‘s most popular signature character; and of course, more books and content for D&D. Founded in 1990 by Peter Adkison, Wizards of the Coast is headquartered in Renton, Wash. with satellite offices… Read More",
           "link": "https://www.geekwire.com/2021/interview-wizards-coast-plans-continue-dungeons-dragons-explosive-growth/",
           "publishedOn": "2021-05-20T16:04:59.000Z",
-          "wordCount": 2427,
+          "wordCount": 2424,
           "title": "Interview: How Wizards of the Coast plans to continue Dungeons & Dragons’ explosive growth"
         },
         {
@@ -313,7 +313,7 @@
           "description": "Last month, Seattle-based startup Rainway came out with some big news: the tech behind its web-based gaming platform powers the PC and iOS versions of Microsoft’s Project xCloud. xCloud, currently in beta, is a gaming service that allows Xbox Game Pass Ultimate subscribers to play their games on compatible devices via Microsoft’s cloud servers. While it’s a bandwidth hog, users can play Game Pass titles like Gears 5 and Halo: The Master Chief Collection at high resolution on a phone, tablet, or web browser, with no need for a new TV or an Xbox. Rainway started in 2018 as a high-profile… Read More",
           "link": "https://www.geekwire.com/2021/rainways-andrew-sampson-powering-xcloud-challenging-google-reimagining-desktop-apps/",
           "publishedOn": "2021-05-18T19:53:17.000Z",
-          "wordCount": 3726,
+          "wordCount": 3728,
           "title": "Rainway’s Andrew Sampson on powering xCloud, challenging Google, and reimagining desktop apps"
         },
         {
@@ -331,7 +331,7 @@
           "description": "Microsoft revealed in a court appearance this week that it does not, and has never, earned money on the per-unit sales for the Xbox. Each console is sold at a loss, and the profit from the project for Microsoft comes entirely from software sales. This was disclosed during a Microsoft executive’s testimony in the Epic v. Apple bench trial, which began on Monday in Oakland, Calif. The trial is not televised, but the proceedings have been broadcast to the public via a teleconference call; that call, in turn, has been hosted and rebroadcast via several other platforms, such as Twitch… Read More",
           "link": "https://www.geekwire.com/2021/epic-v-apple-trial-reveals-microsoft-never-made-money-off-xbox-hardware/",
           "publishedOn": "2021-05-06T22:51:43.000Z",
-          "wordCount": 1981,
+          "wordCount": 1979,
           "title": "Epic v. Apple trial reveals how Microsoft has never made money off Xbox hardware"
         }
       ]
@@ -587,7 +587,7 @@
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
           "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "publishedOn": "2021-05-28T11:00:00.000Z",
-          "wordCount": 10222,
+          "wordCount": 10226,
           "title": "Adding A Commenting System To A WYSIWYG Editor",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
@@ -601,7 +601,7 @@
           "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.",
           "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "publishedOn": "2021-05-27T13:30:00.000Z",
-          "wordCount": 3743,
+          "wordCount": 3738,
           "title": "Useful VS Code Extensions For Front-End Developers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
@@ -643,7 +643,7 @@
           "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
           "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2118,
+          "wordCount": 2121,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/211042ae-7a72-42ba-804e-9f8132815200/undoing-mistakes-git-part1.jpg",
@@ -685,7 +685,7 @@
           "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
           "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
           "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9441,
+          "wordCount": 9445,
           "title": "Building A Rich Text Editor (WYSIWYG)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
@@ -769,7 +769,7 @@
           "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
           "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
           "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2943,
+          "wordCount": 2945,
           "title": "How We Improved Our Core Web Vitals (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
@@ -783,7 +783,7 @@
           "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
           "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
           "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2440,
+          "wordCount": 2444,
           "title": "Tree-Shaking: A Reference Guide",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e27a101-d2e0-4661-9e12-b53b68051dbf/tree-shaking-reference-guide.jpg",
@@ -853,7 +853,7 @@
           "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
           "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
           "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6355,
+          "wordCount": 6352,
           "title": "Get Started With React By Building A Whac-A-Mole Game",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
@@ -867,7 +867,7 @@
           "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4174,
+          "wordCount": 4164,
           "title": "How To Organize Product-Related Assets And Collaborate Better",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
