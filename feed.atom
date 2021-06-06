@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T04:20:51.137Z</id>
+    <id>urn:2021-06-06T06:07:51.770Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T04:20:51.137Z</updated>
+    <updated>2021-06-06T06:07:51.770Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Post Burnout Ideas]]></title>
+        <id>https://news.ycombinator.com/item?id=27410951</id>
+        <link href="https://news.ycombinator.com/item?id=27410951"/>
+        <updated>2021-06-06T05:11:01.000Z</updated>
+        <summary type="html"><![CDATA[I burnt my self out a few years back after spending 3 years working full-time on a startup. Since then I've been working for a FAANG.
+One thing I've never really recovered is the passion I had for side projects. Worse than that, I can't actually think of anything worth building, or even tinkering with, which is sad, as spending some of my free time on side projects was something I really enjoyed.
+If you've found yourself in a similar position, how have you dealt with it?
+Comments URL: https://news.ycombinator.com/item?id=27410951
+Points: 19
+# Comments: 5]]></summary>
+        <author>
+            <name>burnoot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a webapp to help people create flag designs for fun]]></title>
+        <id>https://news.ycombinator.com/item?id=27410928</id>
+        <link href="https://flag.rachel.systems/"/>
+        <updated>2021-06-06T05:04:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://flag.rachel.systems/
+Comments URL: https://news.ycombinator.com/item?id=27410928
+Points: 5
+# Comments: 4]]></summary>
+        <author>
+            <name>scratchyone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DitherPaint – Modern MacPaint for the Browser]]></title>
+        <id>https://news.ycombinator.com/item?id=27410768</id>
+        <link href="https://beyondloom.com/tools/ditherpaint.html"/>
+        <updated>2021-06-06T04:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://beyondloom.com/tools/ditherpaint.html
+Comments URL: https://news.ycombinator.com/item?id=27410768
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>jart</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OS X/Hydromac: New Mac adware, leaked from a flashcards app]]></title>
         <id>https://news.ycombinator.com/item?id=27410149</id>
@@ -12,8 +53,8 @@
         <updated>2021-06-06T02:16:19.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://objective-see.com/blog/blog_0x65.html
 Comments URL: https://news.ycombinator.com/item?id=27410149
-Points: 5
-# Comments: 0]]></summary>
+Points: 22
+# Comments: 1]]></summary>
         <author>
             <name>iscmt</name>
         </author>
@@ -25,7 +66,7 @@ Points: 5
         <updated>2021-06-06T02:16:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://softsounds.substack.com/p/the-caretakers-an-empty-bliss-beyond
 Comments URL: https://news.ycombinator.com/item?id=27410147
-Points: 3
+Points: 10
 # Comments: 0]]></summary>
         <author>
             <name>b0ner_t0ner</name>
@@ -38,36 +79,10 @@ Points: 3
         <updated>2021-06-06T02:13:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://submarine-cable-map-2021.telegeography.com/
 Comments URL: https://news.ycombinator.com/item?id=27410133
-Points: 15
-# Comments: 3]]></summary>
+Points: 46
+# Comments: 20]]></summary>
         <author>
             <name>jonbaer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple employee group rejects planned return to the office: want full-time remote]]></title>
-        <id>https://news.ycombinator.com/item?id=27409978</id>
-        <link href="https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html"/>
-        <updated>2021-06-06T01:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html
-Comments URL: https://news.ycombinator.com/item?id=27409978
-Points: 183
-# Comments: 174]]></summary>
-        <author>
-            <name>randycupertino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freddie Figgers: The millionaire tech inventor who was 'thrown away' as a baby]]></title>
-        <id>https://news.ycombinator.com/item?id=27409591</id>
-        <link href="https://www.bbc.co.uk/news/stories-57081087"/>
-        <updated>2021-06-06T00:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/stories-57081087
-Comments URL: https://news.ycombinator.com/item?id=27409591
-Points: 54
-# Comments: 34]]></summary>
-        <author>
-            <name>mrtedbear</name>
         </author>
     </entry>
     <entry>
@@ -77,8 +92,8 @@ Points: 54
         <updated>2021-06-06T00:01:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/
 Comments URL: https://news.ycombinator.com/item?id=27409448
-Points: 32
-# Comments: 6]]></summary>
+Points: 42
+# Comments: 10]]></summary>
         <author>
             <name>nsoonhui</name>
         </author>
@@ -90,8 +105,8 @@ Points: 32
         <updated>2021-06-05T23:53:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile
 Comments URL: https://news.ycombinator.com/item?id=27409410
-Points: 51
-# Comments: 9]]></summary>
+Points: 76
+# Comments: 11]]></summary>
         <author>
             <name>superfunny</name>
         </author>
@@ -103,10 +118,23 @@ Points: 51
         <updated>2021-06-05T23:46:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/
 Comments URL: https://news.ycombinator.com/item?id=27409371
-Points: 17
-# Comments: 5]]></summary>
+Points: 22
+# Comments: 7]]></summary>
         <author>
             <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“That Won't Work”]]></title>
+        <id>https://news.ycombinator.com/item?id=27409368</id>
+        <link href="https://meetryanflowers.com/that-wont-work/"/>
+        <updated>2021-06-05T23:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://meetryanflowers.com/that-wont-work/
+Comments URL: https://news.ycombinator.com/item?id=27409368
+Points: 46
+# Comments: 61]]></summary>
+        <author>
+            <name>geocrasher</name>
         </author>
     </entry>
     <entry>
@@ -116,8 +144,8 @@ Points: 17
         <updated>2021-06-05T21:43:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
 Comments URL: https://news.ycombinator.com/item?id=27408683
-Points: 265
-# Comments: 183]]></summary>
+Points: 302
+# Comments: 203]]></summary>
         <author>
             <name>ncpa-cpl</name>
         </author>
@@ -129,8 +157,8 @@ Points: 265
         <updated>2021-06-05T21:43:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status
 Comments URL: https://news.ycombinator.com/item?id=27408679
-Points: 66
-# Comments: 39]]></summary>
+Points: 87
+# Comments: 53]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -142,8 +170,8 @@ Points: 66
         <updated>2021-06-05T21:37:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/
 Comments URL: https://news.ycombinator.com/item?id=27408647
-Points: 225
-# Comments: 96]]></summary>
+Points: 253
+# Comments: 106]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -168,8 +196,8 @@ Points: 1
         <updated>2021-06-05T19:04:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pomax.github.io/three-point-perspective/
 Comments URL: https://news.ycombinator.com/item?id=27407691
-Points: 107
-# Comments: 44]]></summary>
+Points: 113
+# Comments: 47]]></summary>
         <author>
             <name>TheRealPomax</name>
         </author>
@@ -181,8 +209,8 @@ Points: 107
         <updated>2021-06-05T18:52:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/passmgrs.html
 Comments URL: https://news.ycombinator.com/item?id=27407603
-Points: 233
-# Comments: 183]]></summary>
+Points: 282
+# Comments: 210]]></summary>
         <author>
             <name>arthurmorgan</name>
         </author>
@@ -194,8 +222,8 @@ Points: 233
         <updated>2021-06-05T18:05:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://miguelraz.github.io/blog/juliatorust/
 Comments URL: https://news.ycombinator.com/item?id=27407268
-Points: 125
-# Comments: 56]]></summary>
+Points: 139
+# Comments: 61]]></summary>
         <author>
             <name>miguelraz</name>
         </author>
@@ -207,8 +235,8 @@ Points: 125
         <updated>2021-06-05T18:05:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://et-jekyll.netlify.app/
 Comments URL: https://news.ycombinator.com/item?id=27407264
-Points: 121
-# Comments: 21]]></summary>
+Points: 129
+# Comments: 23]]></summary>
         <author>
             <name>bradley_taunt</name>
         </author>
@@ -220,7 +248,7 @@ Points: 121
         <updated>2021-06-05T17:44:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/planetis-m/libfuzzer
 Comments URL: https://news.ycombinator.com/item?id=27407086
-Points: 60
+Points: 63
 # Comments: 3]]></summary>
         <author>
             <name>planetis</name>
@@ -233,36 +261,10 @@ Points: 60
         <updated>2021-06-05T17:22:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
 Comments URL: https://news.ycombinator.com/item?id=27406888
-Points: 120
+Points: 128
 # Comments: 23]]></summary>
         <author>
             <name>aleks224</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical replication and decoding for Cloud SQL for PostgreSQL]]></title>
-        <id>https://news.ycombinator.com/item?id=27406589</id>
-        <link href="https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql"/>
-        <updated>2021-06-05T16:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql
-Comments URL: https://news.ycombinator.com/item?id=27406589
-Points: 67
-# Comments: 35]]></summary>
-        <author>
-            <name>wdb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The modern web on a slow connection (2017)]]></title>
-        <id>https://news.ycombinator.com/item?id=27406132</id>
-        <link href="https://danluu.com/web-bloat/"/>
-        <updated>2021-06-05T16:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
-Comments URL: https://news.ycombinator.com/item?id=27406132
-Points: 203
-# Comments: 135]]></summary>
-        <author>
-            <name>x14km2d</name>
         </author>
     </entry>
     <entry>
