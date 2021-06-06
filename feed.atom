@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T02:58:44.451Z</id>
+    <id>urn:2021-06-06T04:20:51.137Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T02:58:44.451Z</updated>
+    <updated>2021-06-06T04:20:51.137Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OS X/Hydromac: New Mac adware, leaked from a flashcards app]]></title>
+        <id>https://news.ycombinator.com/item?id=27410149</id>
+        <link href="https://objective-see.com/blog/blog_0x65.html"/>
+        <updated>2021-06-06T02:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://objective-see.com/blog/blog_0x65.html
+Comments URL: https://news.ycombinator.com/item?id=27410149
+Points: 5
+# Comments: 0]]></summary>
+        <author>
+            <name>iscmt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['An Empty Bliss ' Turns 10: How the Haunted Ballroom Defined a Generation]]></title>
+        <id>https://news.ycombinator.com/item?id=27410147</id>
+        <link href="https://softsounds.substack.com/p/the-caretakers-an-empty-bliss-beyond"/>
+        <updated>2021-06-06T02:16:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://softsounds.substack.com/p/the-caretakers-an-empty-bliss-beyond
+Comments URL: https://news.ycombinator.com/item?id=27410147
+Points: 3
+# Comments: 0]]></summary>
+        <author>
+            <name>b0ner_t0ner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Submarine Cable Map 2021]]></title>
+        <id>https://news.ycombinator.com/item?id=27410133</id>
+        <link href="https://submarine-cable-map-2021.telegeography.com/"/>
+        <updated>2021-06-06T02:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://submarine-cable-map-2021.telegeography.com/
+Comments URL: https://news.ycombinator.com/item?id=27410133
+Points: 15
+# Comments: 3]]></summary>
+        <author>
+            <name>jonbaer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple employee group rejects planned return to the office: want full-time remote]]></title>
         <id>https://news.ycombinator.com/item?id=27409978</id>
@@ -12,8 +51,8 @@
         <updated>2021-06-06T01:38:56.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.engadget.com/apple-employees-reject-return-to-office-plans-153302337.html
 Comments URL: https://news.ycombinator.com/item?id=27409978
-Points: 77
-# Comments: 55]]></summary>
+Points: 183
+# Comments: 174]]></summary>
         <author>
             <name>randycupertino</name>
         </author>
@@ -25,8 +64,8 @@ Points: 77
         <updated>2021-06-06T00:27:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/stories-57081087
 Comments URL: https://news.ycombinator.com/item?id=27409591
-Points: 41
-# Comments: 25]]></summary>
+Points: 54
+# Comments: 34]]></summary>
         <author>
             <name>mrtedbear</name>
         </author>
@@ -38,8 +77,8 @@ Points: 41
         <updated>2021-06-06T00:01:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/mathematicians-identify-threshold-at-which-shapes-give-way-20210603/
 Comments URL: https://news.ycombinator.com/item?id=27409448
-Points: 17
-# Comments: 3]]></summary>
+Points: 32
+# Comments: 6]]></summary>
         <author>
             <name>nsoonhui</name>
         </author>
@@ -51,8 +90,8 @@ Points: 17
         <updated>2021-06-05T23:53:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile
 Comments URL: https://news.ycombinator.com/item?id=27409410
-Points: 39
-# Comments: 7]]></summary>
+Points: 51
+# Comments: 9]]></summary>
         <author>
             <name>superfunny</name>
         </author>
@@ -64,23 +103,10 @@ Points: 39
         <updated>2021-06-05T23:46:02.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/
 Comments URL: https://news.ycombinator.com/item?id=27409371
-Points: 15
-# Comments: 3]]></summary>
+Points: 17
+# Comments: 5]]></summary>
         <author>
             <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“That Won't Work”]]></title>
-        <id>https://news.ycombinator.com/item?id=27409368</id>
-        <link href="https://meetryanflowers.com/that-wont-work/"/>
-        <updated>2021-06-05T23:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://meetryanflowers.com/that-wont-work/
-Comments URL: https://news.ycombinator.com/item?id=27409368
-Points: 29
-# Comments: 39]]></summary>
-        <author>
-            <name>geocrasher</name>
         </author>
     </entry>
     <entry>
@@ -90,8 +116,8 @@ Points: 29
         <updated>2021-06-05T21:43:27.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
 Comments URL: https://news.ycombinator.com/item?id=27408683
-Points: 236
-# Comments: 157]]></summary>
+Points: 265
+# Comments: 183]]></summary>
         <author>
             <name>ncpa-cpl</name>
         </author>
@@ -103,8 +129,8 @@ Points: 236
         <updated>2021-06-05T21:43:01.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status
 Comments URL: https://news.ycombinator.com/item?id=27408679
-Points: 51
-# Comments: 25]]></summary>
+Points: 66
+# Comments: 39]]></summary>
         <author>
             <name>walterbell</name>
         </author>
@@ -116,8 +142,8 @@ Points: 51
         <updated>2021-06-05T21:37:32.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/
 Comments URL: https://news.ycombinator.com/item?id=27408647
-Points: 188
-# Comments: 84]]></summary>
+Points: 225
+# Comments: 96]]></summary>
         <author>
             <name>prostoalex</name>
         </author>
@@ -136,26 +162,13 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Rustpad, a self-hosted online collaborative text editor]]></title>
-        <id>https://news.ycombinator.com/item?id=27408326</id>
-        <link href="https://github.com/ekzhang/rustpad"/>
-        <updated>2021-06-05T20:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ekzhang/rustpad
-Comments URL: https://news.ycombinator.com/item?id=27408326
-Points: 97
-# Comments: 18]]></summary>
-        <author>
-            <name>ekzhang</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Implementing strict three-point perspective]]></title>
         <id>https://news.ycombinator.com/item?id=27407691</id>
         <link href="https://pomax.github.io/three-point-perspective/"/>
         <updated>2021-06-05T19:04:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://pomax.github.io/three-point-perspective/
 Comments URL: https://news.ycombinator.com/item?id=27407691
-Points: 101
+Points: 107
 # Comments: 44]]></summary>
         <author>
             <name>TheRealPomax</name>
@@ -168,8 +181,8 @@ Points: 101
         <updated>2021-06-05T18:52:23.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/passmgrs.html
 Comments URL: https://news.ycombinator.com/item?id=27407603
-Points: 199
-# Comments: 166]]></summary>
+Points: 233
+# Comments: 183]]></summary>
         <author>
             <name>arthurmorgan</name>
         </author>
@@ -181,8 +194,8 @@ Points: 199
         <updated>2021-06-05T18:05:47.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://miguelraz.github.io/blog/juliatorust/
 Comments URL: https://news.ycombinator.com/item?id=27407268
-Points: 113
-# Comments: 50]]></summary>
+Points: 125
+# Comments: 56]]></summary>
         <author>
             <name>miguelraz</name>
         </author>
@@ -194,8 +207,8 @@ Points: 113
         <updated>2021-06-05T18:05:09.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://et-jekyll.netlify.app/
 Comments URL: https://news.ycombinator.com/item?id=27407264
-Points: 115
-# Comments: 20]]></summary>
+Points: 121
+# Comments: 21]]></summary>
         <author>
             <name>bradley_taunt</name>
         </author>
@@ -207,8 +220,8 @@ Points: 115
         <updated>2021-06-05T17:44:10.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://github.com/planetis-m/libfuzzer
 Comments URL: https://news.ycombinator.com/item?id=27407086
-Points: 58
-# Comments: 2]]></summary>
+Points: 60
+# Comments: 3]]></summary>
         <author>
             <name>planetis</name>
         </author>
@@ -220,7 +233,7 @@ Points: 58
         <updated>2021-06-05T17:22:29.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
 Comments URL: https://news.ycombinator.com/item?id=27406888
-Points: 117
+Points: 120
 # Comments: 23]]></summary>
         <author>
             <name>aleks224</name>
@@ -233,8 +246,8 @@ Points: 117
         <updated>2021-06-05T16:49:48.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql
 Comments URL: https://news.ycombinator.com/item?id=27406589
-Points: 64
-# Comments: 33]]></summary>
+Points: 67
+# Comments: 35]]></summary>
         <author>
             <name>wdb</name>
         </author>
@@ -246,23 +259,10 @@ Points: 64
         <updated>2021-06-05T16:01:44.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://danluu.com/web-bloat/
 Comments URL: https://news.ycombinator.com/item?id=27406132
-Points: 191
-# Comments: 129]]></summary>
+Points: 203
+# Comments: 135]]></summary>
         <author>
             <name>x14km2d</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips for Interviewing over Zoom]]></title>
-        <id>https://news.ycombinator.com/item?id=27405951</id>
-        <link href="https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/"/>
-        <updated>2021-06-05T15:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/
-Comments URL: https://news.ycombinator.com/item?id=27405951
-Points: 71
-# Comments: 122]]></summary>
-        <author>
-            <name>mooreds</name>
         </author>
     </entry>
     <entry>
