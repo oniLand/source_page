@@ -1,21 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-06T23:23:09.285Z</id>
+    <id>urn:2021-06-07T00:56:18.192Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T23:23:09.286Z</updated>
+    <updated>2021-06-07T00:56:18.192Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The Absurdity of Peer Review: What the Pandemic Revealed]]></title>
-        <id>https://news.ycombinator.com/item?id=27416423</id>
-        <link href="https://elemental.medium.com/the-absurdity-of-peer-review-1d58e5d9e661"/>
-        <updated>2021-06-06T21:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elemental.medium.com/the-absurdity-of-peer-review-1d58e5d9e661
-Comments URL: https://news.ycombinator.com/item?id=27416423
-Points: 19
+        <title type="html"><![CDATA[Drowning Machine: The Dangers of Low Head Dams]]></title>
+        <id>https://news.ycombinator.com/item?id=27417206</id>
+        <link href="https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams"/>
+        <updated>2021-06-06T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
+Comments URL: https://news.ycombinator.com/item?id=27417206
+Points: 56
+# Comments: 13]]></summary>
+        <author>
+            <name>paulpauper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Globalization of Venture Capital Investing]]></title>
+        <id>https://news.ycombinator.com/item?id=27416849</id>
+        <link href="https://avc.com/2021/06/the-globalization-of-venture-capital-investing/"/>
+        <updated>2021-06-06T22:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://avc.com/2021/06/the-globalization-of-venture-capital-investing/
+Comments URL: https://news.ycombinator.com/item?id=27416849
+Points: 28
+# Comments: 9]]></summary>
+        <author>
+            <name>cwan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laser pulse travels 300 times faster than light (2002)]]></title>
+        <id>https://news.ycombinator.com/item?id=27416821</id>
+        <link href="https://optics.org/article/8562"/>
+        <updated>2021-06-06T22:08:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://optics.org/article/8562
+Comments URL: https://news.ycombinator.com/item?id=27416821
+Points: 28
+# Comments: 25]]></summary>
+        <author>
+            <name>nixass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SaaS CTO Security Checklist Redux]]></title>
+        <id>https://news.ycombinator.com/item?id=27416736</id>
+        <link href="https://www.goldfiglabs.com/guide/saas-cto-security-checklist/"/>
+        <updated>2021-06-06T21:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
+Comments URL: https://news.ycombinator.com/item?id=27416736
+Points: 101
 # Comments: 16]]></summary>
         <author>
-            <name>akvadrako</name>
+            <name>vikrum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gene sequencer malware injection via encoded DNA (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=27416727</id>
+        <link href="https://www.wired.com/story/malware-dna-hack/"/>
+        <updated>2021-06-06T21:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/malware-dna-hack/
+Comments URL: https://news.ycombinator.com/item?id=27416727
+Points: 34
+# Comments: 12]]></summary>
+        <author>
+            <name>carlsborg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A growing number of governments hope to clone America's DARPA]]></title>
+        <id>https://news.ycombinator.com/item?id=27416546</id>
+        <link href="https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa"/>
+        <updated>2021-06-06T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
+Comments URL: https://news.ycombinator.com/item?id=27416546
+Points: 36
+# Comments: 25]]></summary>
+        <author>
+            <name>edward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photographer captures 'odd but exciting' crow behaviour known as anting]]></title>
+        <id>https://news.ycombinator.com/item?id=27416217</id>
+        <link href="https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823"/>
+        <updated>2021-06-06T20:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
+Comments URL: https://news.ycombinator.com/item?id=27416217
+Points: 136
+# Comments: 34]]></summary>
+        <author>
+            <name>pgrote</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are American workers becoming harder to find?]]></title>
+        <id>https://news.ycombinator.com/item?id=27415776</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find"/>
+        <updated>2021-06-06T19:54:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
+Comments URL: https://news.ycombinator.com/item?id=27415776
+Points: 30
+# Comments: 91]]></summary>
+        <author>
+            <name>jaredwiener</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HN “Why Not Simply”]]></title>
+        <id>https://news.ycombinator.com/item?id=27415725</id>
+        <link href="https://hn.algolia.com/?dateRange=all&amp;page=0&amp;prefix=true&amp;query=%22why%20not%20simply%22&amp;sort=byPopularity&amp;type=comment"/>
+        <updated>2021-06-06T19:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
+Comments URL: https://news.ycombinator.com/item?id=27415725
+Points: 91
+# Comments: 51]]></summary>
+        <author>
+            <name>jgrahamc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Future for Icanhazip]]></title>
+        <id>https://news.ycombinator.com/item?id=27415537</id>
+        <link href="https://major.io/2021/06/06/a-new-future-for-icanhazip/"/>
+        <updated>2021-06-06T19:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
+Comments URL: https://news.ycombinator.com/item?id=27415537
+Points: 505
+# Comments: 155]]></summary>
+        <author>
+            <name>nkcmr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastershot – Web based video editor]]></title>
+        <id>https://news.ycombinator.com/item?id=27415089</id>
+        <link href="https://mastershot.app"/>
+        <updated>2021-06-06T18:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mastershot.app
+Comments URL: https://news.ycombinator.com/item?id=27415089
+Points: 124
+# Comments: 38]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD from a NetBSD developer’s perspective]]></title>
+        <id>https://news.ycombinator.com/item?id=27415070</id>
+        <link href="https://washbear.neocities.org/freebsd-netbsd-user.html"/>
+        <updated>2021-06-06T18:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html
+Comments URL: https://news.ycombinator.com/item?id=27415070
+Points: 126
+# Comments: 44]]></summary>
+        <author>
+            <name>jayp1418</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Once a bastion of free speech, the ACLU faces an identity crisis]]></title>
+        <id>https://news.ycombinator.com/item?id=27414920</id>
+        <link href="https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html"/>
+        <updated>2021-06-06T18:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html
+Comments URL: https://news.ycombinator.com/item?id=27414920
+Points: 260
+# Comments: 264]]></summary>
+        <author>
+            <name>mful</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rain Backscatter on 10 GHz]]></title>
+        <id>https://news.ycombinator.com/item?id=27414912</id>
+        <link href="https://destevez.net/2021/06/rain-backscatter-on-10-ghz/"/>
+        <updated>2021-06-06T17:58:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://destevez.net/2021/06/rain-backscatter-on-10-ghz/
+Comments URL: https://news.ycombinator.com/item?id=27414912
+Points: 70
+# Comments: 31]]></summary>
+        <author>
+            <name>parsecs</name>
         </author>
     </entry>
     <entry>
@@ -32,55 +201,71 @@ Points: 1
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peter Norvig: Singularity is in the eye of the beholder]]></title>
-        <id>https://news.ycombinator.com/item?id=27412629</id>
-        <link href="https://wandb.ai/wandb_fc/gradient-dissent/reports/Peter-Norvig-Google-s-Director-of-Research-Singularity-is-in-the-eye-of-the-beholder--Vmlldzo2MTYwNjk?galleryTag=gradient-dissent"/>
-        <updated>2021-06-06T12:16:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wandb.ai/wandb_fc/gradient-dissent/reports/Peter-Norvig-Google-s-Director-of-Research-Singularity-is-in-the-eye-of-the-beholder--Vmlldzo2MTYwNjk?galleryTag=gradient-dissent
-Comments URL: https://news.ycombinator.com/item?id=27412629
-Points: 70
-# Comments: 17]]></summary>
+        <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
+        <id>https://news.ycombinator.com/item?id=27414443</id>
+        <link href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f"/>
+        <updated>2021-06-06T16:57:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+Comments URL: https://news.ycombinator.com/item?id=27414443
+Points: 365
+# Comments: 138]]></summary>
         <author>
-            <name>astdb</name>
+            <name>kungfudoi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Publish and Perish]]></title>
-        <id>https://news.ycombinator.com/item?id=27412122</id>
-        <link href="https://erikhoel.substack.com/p/publish-and-perish"/>
-        <updated>2021-06-06T10:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://erikhoel.substack.com/p/publish-and-perish
-Comments URL: https://news.ycombinator.com/item?id=27412122
-Points: 308
-# Comments: 142]]></summary>
+        <title type="html"><![CDATA[The modern trap of turning hobbies into hustles (2019)]]></title>
+        <id>https://news.ycombinator.com/item?id=27414184</id>
+        <link href="https://repeller.com/trap-of-turning-hobbies-into-hustles/"/>
+        <updated>2021-06-06T16:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://repeller.com/trap-of-turning-hobbies-into-hustles/
+Comments URL: https://news.ycombinator.com/item?id=27414184
+Points: 241
+# Comments: 124]]></summary>
         <author>
-            <name>walterbell</name>
+            <name>sdenton4</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The case for continuous documentation]]></title>
-        <id>https://news.ycombinator.com/item?id=27411574</id>
-        <link href="https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/"/>
-        <updated>2021-06-06T08:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.virtuallifestyle.nl/2021/04/the-case-for-continuous-documentation/
-Comments URL: https://news.ycombinator.com/item?id=27411574
-Points: 80
-# Comments: 52]]></summary>
+        <title type="html"><![CDATA[The right tag for the job: why you should use semantic HTML]]></title>
+        <id>https://news.ycombinator.com/item?id=27414183</id>
+        <link href="https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/"/>
+        <updated>2021-06-06T16:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
+Comments URL: https://news.ycombinator.com/item?id=27414183
+Points: 126
+# Comments: 48]]></summary>
         <author>
-            <name>morchen</name>
+            <name>tmfi</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cicero used humor to charm audiences–and humiliate opponents]]></title>
-        <id>https://news.ycombinator.com/item?id=27410114</id>
-        <link href="https://www.wsj.com/articles/how-to-tell-a-joke-review-a-funny-thing-happened-on-the-way-to-the-forum-11622821485"/>
-        <updated>2021-06-06T02:09:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/articles/how-to-tell-a-joke-review-a-funny-thing-happened-on-the-way-to-the-forum-11622821485
-Comments URL: https://news.ycombinator.com/item?id=27410114
-Points: 42
-# Comments: 6]]></summary>
+        <title type="html"><![CDATA[In Praise of Open Source Textbooks]]></title>
+        <id>https://news.ycombinator.com/item?id=27414145</id>
+        <link href="https://news.ycombinator.com/item?id=27414145"/>
+        <updated>2021-06-06T16:19:57.000Z</updated>
+        <summary type="html"><![CDATA[I have recently been using the Linear Algebra book by Jim Hefferon to study the subject. This is because I'm taking a linear algebra course in college, I am visually impaired, and the books I get from college are literally unusable.
+As a person who has to use a Screen Reader, math in PDFs is almost impossible to read for me. The problem is almost insurmountable if the PDF is a collection of images, but even if it is a LaTeX-generated PDF, reading anything but the simplest of equations is very, very hard. In these cases, having the LaTeX source to read is a godsend.
+To the authors who publish the source of their books: thank you, thank you. I cannot express how grateful I am. To anyone who is related to /working in the publisher space: it would be incredibly useful if there was a process to get the LaTeX source of books upon request, although I understand how copyrights/etc might make this difficult.
+Some other books I would like to point out for being open source: Apex Calculus, Open Data Structures.
+Comments URL: https://news.ycombinator.com/item?id=27414145
+Points: 326
+# Comments: 79]]></summary>
         <author>
-            <name>diodorus</name>
+            <name>lightveil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stateright: A model checker for implementing distributed systems]]></title>
+        <id>https://news.ycombinator.com/item?id=27413084</id>
+        <link href="https://github.com/stateright/stateright"/>
+        <updated>2021-06-06T13:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/stateright/stateright
+Comments URL: https://news.ycombinator.com/item?id=27413084
+Points: 116
+# Comments: 23]]></summary>
+        <author>
+            <name>yagizdegirmenci</name>
         </author>
     </entry>
     <entry>
