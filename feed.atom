@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T03:12:29.757Z</id>
+    <id>urn:2021-06-07T05:29:17.355Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T03:12:29.757Z</updated>
+    <updated>2021-06-07T05:29:17.355Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ST3000DM001]]></title>
+        <id>https://news.ycombinator.com/item?id=27419072</id>
+        <link href="https://en.wikipedia.org/wiki/ST3000DM001"/>
+        <updated>2021-06-07T04:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/ST3000DM001
+Comments URL: https://news.ycombinator.com/item?id=27419072
+Points: 26
+# Comments: 12]]></summary>
+        <author>
+            <name>userbinator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If someone’s having to read your docs, it’s not “simple”]]></title>
+        <id>https://news.ycombinator.com/item?id=27418577</id>
+        <link href="https://justsimply.dev"/>
+        <updated>2021-06-07T03:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://justsimply.dev
+Comments URL: https://news.ycombinator.com/item?id=27418577
+Points: 94
+# Comments: 51]]></summary>
+        <author>
+            <name>cercatrova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clever vs. Insightful Code]]></title>
+        <id>https://news.ycombinator.com/item?id=27418296</id>
+        <link href="https://www.hillelwayne.com/post/cleverness/"/>
+        <updated>2021-06-07T02:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hillelwayne.com/post/cleverness/
+Comments URL: https://news.ycombinator.com/item?id=27418296
+Points: 24
+# Comments: 6]]></summary>
+        <author>
+            <name>pcr910303</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Mlatu, a Concatenative Programming Language]]></title>
+        <id>https://news.ycombinator.com/item?id=27418286</id>
+        <link href="https://github.com/brightly-salty/mlatu"/>
+        <updated>2021-06-07T02:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/brightly-salty/mlatu
+Comments URL: https://news.ycombinator.com/item?id=27418286
+Points: 10
+# Comments: 8]]></summary>
+        <author>
+            <name>brightly-salty</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Capsule Challenges Vacuum Tube (1948)]]></title>
         <id>https://news.ycombinator.com/item?id=27418179</id>
@@ -12,8 +64,8 @@
         <updated>2021-06-07T01:57:52.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117
 Comments URL: https://news.ycombinator.com/item?id=27418179
-Points: 4
-# Comments: 0]]></summary>
+Points: 13
+# Comments: 5]]></summary>
         <author>
             <name>asxd</name>
         </author>
@@ -25,23 +77,10 @@ Points: 4
         <updated>2021-06-07T01:19:14.000Z</updated>
         <summary type="html"><![CDATA[Article URL: http://www.paulgraham.com/identity.html
 Comments URL: https://news.ycombinator.com/item?id=27417992
-Points: 97
-# Comments: 72]]></summary>
+Points: 130
+# Comments: 130]]></summary>
         <author>
             <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E-paper History: An Interview with Nick Sheridon, Father of E-paper (2007)]]></title>
-        <id>https://news.ycombinator.com/item?id=27417811</id>
-        <link href="https://thefutureofthings.com/3081-the-future-of-electronic-paper/"/>
-        <updated>2021-06-07T00:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thefutureofthings.com/3081-the-future-of-electronic-paper/
-Comments URL: https://news.ycombinator.com/item?id=27417811
-Points: 6
-# Comments: 2]]></summary>
-        <author>
-            <name>phil294</name>
         </author>
     </entry>
     <entry>
@@ -51,8 +90,8 @@ Points: 6
         <updated>2021-06-07T00:12:33.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592
 Comments URL: https://news.ycombinator.com/item?id=27417576
-Points: 41
-# Comments: 11]]></summary>
+Points: 78
+# Comments: 21]]></summary>
         <author>
             <name>pmoriarty</name>
         </author>
@@ -64,8 +103,8 @@ Points: 41
         <updated>2021-06-06T23:40:31.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://datarecipes.io/posts/brier_score/
 Comments URL: https://news.ycombinator.com/item?id=27417425
-Points: 20
-# Comments: 4]]></summary>
+Points: 31
+# Comments: 6]]></summary>
         <author>
             <name>ergodiclife</name>
         </author>
@@ -77,8 +116,8 @@ Points: 20
         <updated>2021-06-06T23:08:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
 Comments URL: https://news.ycombinator.com/item?id=27417206
-Points: 103
-# Comments: 38]]></summary>
+Points: 140
+# Comments: 49]]></summary>
         <author>
             <name>paulpauper</name>
         </author>
@@ -90,23 +129,10 @@ Points: 103
         <updated>2021-06-06T22:13:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://avc.com/2021/06/the-globalization-of-venture-capital-investing/
 Comments URL: https://news.ycombinator.com/item?id=27416849
-Points: 36
-# Comments: 16]]></summary>
+Points: 42
+# Comments: 17]]></summary>
         <author>
             <name>cwan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laser pulse travels 300 times faster than light (2002)]]></title>
-        <id>https://news.ycombinator.com/item?id=27416821</id>
-        <link href="https://optics.org/article/8562"/>
-        <updated>2021-06-06T22:08:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://optics.org/article/8562
-Comments URL: https://news.ycombinator.com/item?id=27416821
-Points: 33
-# Comments: 30]]></summary>
-        <author>
-            <name>nixass</name>
         </author>
     </entry>
     <entry>
@@ -116,8 +142,8 @@ Points: 33
         <updated>2021-06-06T21:58:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 Comments URL: https://news.ycombinator.com/item?id=27416736
-Points: 161
-# Comments: 40]]></summary>
+Points: 237
+# Comments: 48]]></summary>
         <author>
             <name>vikrum</name>
         </author>
@@ -129,8 +155,8 @@ Points: 161
         <updated>2021-06-06T21:57:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/malware-dna-hack/
 Comments URL: https://news.ycombinator.com/item?id=27416727
-Points: 42
-# Comments: 18]]></summary>
+Points: 44
+# Comments: 19]]></summary>
         <author>
             <name>carlsborg</name>
         </author>
@@ -142,8 +168,8 @@ Points: 42
         <updated>2021-06-06T21:35:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
 Comments URL: https://news.ycombinator.com/item?id=27416546
-Points: 62
-# Comments: 38]]></summary>
+Points: 73
+# Comments: 44]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -155,8 +181,8 @@ Points: 62
         <updated>2021-06-06T20:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
 Comments URL: https://news.ycombinator.com/item?id=27416217
-Points: 179
-# Comments: 45]]></summary>
+Points: 199
+# Comments: 52]]></summary>
         <author>
             <name>pgrote</name>
         </author>
@@ -168,8 +194,8 @@ Points: 179
         <updated>2021-06-06T19:54:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
 Comments URL: https://news.ycombinator.com/item?id=27415776
-Points: 78
-# Comments: 236]]></summary>
+Points: 101
+# Comments: 317]]></summary>
         <author>
             <name>jaredwiener</name>
         </author>
@@ -181,8 +207,8 @@ Points: 78
         <updated>2021-06-06T19:46:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
 Comments URL: https://news.ycombinator.com/item?id=27415725
-Points: 119
-# Comments: 66]]></summary>
+Points: 142
+# Comments: 75]]></summary>
         <author>
             <name>jgrahamc</name>
         </author>
@@ -194,8 +220,8 @@ Points: 119
         <updated>2021-06-06T19:21:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
 Comments URL: https://news.ycombinator.com/item?id=27415537
-Points: 617
-# Comments: 193]]></summary>
+Points: 729
+# Comments: 213]]></summary>
         <author>
             <name>nkcmr</name>
         </author>
@@ -207,8 +233,8 @@ Points: 617
         <updated>2021-06-06T18:23:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mastershot.app
 Comments URL: https://news.ycombinator.com/item?id=27415089
-Points: 143
-# Comments: 42]]></summary>
+Points: 159
+# Comments: 44]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -220,36 +246,10 @@ Points: 143
         <updated>2021-06-06T18:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html
 Comments URL: https://news.ycombinator.com/item?id=27415070
-Points: 136
-# Comments: 49]]></summary>
+Points: 149
+# Comments: 52]]></summary>
         <author>
             <name>jayp1418</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Once a bastion of free speech, the ACLU faces an identity crisis]]></title>
-        <id>https://news.ycombinator.com/item?id=27414920</id>
-        <link href="https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html"/>
-        <updated>2021-06-06T18:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html
-Comments URL: https://news.ycombinator.com/item?id=27414920
-Points: 300
-# Comments: 314]]></summary>
-        <author>
-            <name>mful</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rain Backscatter on 10 GHz]]></title>
-        <id>https://news.ycombinator.com/item?id=27414912</id>
-        <link href="https://destevez.net/2021/06/rain-backscatter-on-10-ghz/"/>
-        <updated>2021-06-06T17:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://destevez.net/2021/06/rain-backscatter-on-10-ghz/
-Comments URL: https://news.ycombinator.com/item?id=27414912
-Points: 78
-# Comments: 31]]></summary>
-        <author>
-            <name>parsecs</name>
         </author>
     </entry>
     <entry>
