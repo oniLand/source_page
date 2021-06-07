@@ -1,19 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-06-07T00:56:18.192Z</id>
+    <id>urn:2021-06-07T03:12:29.757Z</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T00:56:18.192Z</updated>
+    <updated>2021-06-07T03:12:29.757Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Drowning Machine: The Dangers of Low Head Dams]]></title>
+        <title type="html"><![CDATA[Capsule Challenges Vacuum Tube (1948)]]></title>
+        <id>https://news.ycombinator.com/item?id=27418179</id>
+        <link href="https://books.google.com/books?id=YCcDAAAAMBAJ&amp;pg=PA117"/>
+        <updated>2021-06-07T01:57:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117
+Comments URL: https://news.ycombinator.com/item?id=27418179
+Points: 4
+# Comments: 0]]></summary>
+        <author>
+            <name>asxd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Your Identity Small (2009)]]></title>
+        <id>https://news.ycombinator.com/item?id=27417992</id>
+        <link href="http://www.paulgraham.com/identity.html"/>
+        <updated>2021-06-07T01:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.paulgraham.com/identity.html
+Comments URL: https://news.ycombinator.com/item?id=27417992
+Points: 97
+# Comments: 72]]></summary>
+        <author>
+            <name>mooreds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-paper History: An Interview with Nick Sheridon, Father of E-paper (2007)]]></title>
+        <id>https://news.ycombinator.com/item?id=27417811</id>
+        <link href="https://thefutureofthings.com/3081-the-future-of-electronic-paper/"/>
+        <updated>2021-06-07T00:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thefutureofthings.com/3081-the-future-of-electronic-paper/
+Comments URL: https://news.ycombinator.com/item?id=27417811
+Points: 6
+# Comments: 2]]></summary>
+        <author>
+            <name>phil294</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution]]></title>
+        <id>https://news.ycombinator.com/item?id=27417576</id>
+        <link href="https://www.bbc.co.uk/news/world-us-canada-57341592"/>
+        <updated>2021-06-07T00:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/world-us-canada-57341592
+Comments URL: https://news.ycombinator.com/item?id=27417576
+Points: 41
+# Comments: 11]]></summary>
+        <author>
+            <name>pmoriarty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making better decisions with the Brier score]]></title>
+        <id>https://news.ycombinator.com/item?id=27417425</id>
+        <link href="https://datarecipes.io/posts/brier_score/"/>
+        <updated>2021-06-06T23:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://datarecipes.io/posts/brier_score/
+Comments URL: https://news.ycombinator.com/item?id=27417425
+Points: 20
+# Comments: 4]]></summary>
+        <author>
+            <name>ergodiclife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dangers of Low Head Dams (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=27417206</id>
         <link href="https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams"/>
         <updated>2021-06-06T23:08:30.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams
 Comments URL: https://news.ycombinator.com/item?id=27417206
-Points: 56
-# Comments: 13]]></summary>
+Points: 103
+# Comments: 38]]></summary>
         <author>
             <name>paulpauper</name>
         </author>
@@ -25,8 +90,8 @@ Points: 56
         <updated>2021-06-06T22:13:53.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://avc.com/2021/06/the-globalization-of-venture-capital-investing/
 Comments URL: https://news.ycombinator.com/item?id=27416849
-Points: 28
-# Comments: 9]]></summary>
+Points: 36
+# Comments: 16]]></summary>
         <author>
             <name>cwan</name>
         </author>
@@ -38,8 +103,8 @@ Points: 28
         <updated>2021-06-06T22:08:57.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://optics.org/article/8562
 Comments URL: https://news.ycombinator.com/item?id=27416821
-Points: 28
-# Comments: 25]]></summary>
+Points: 33
+# Comments: 30]]></summary>
         <author>
             <name>nixass</name>
         </author>
@@ -51,8 +116,8 @@ Points: 28
         <updated>2021-06-06T21:58:18.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 Comments URL: https://news.ycombinator.com/item?id=27416736
-Points: 101
-# Comments: 16]]></summary>
+Points: 161
+# Comments: 40]]></summary>
         <author>
             <name>vikrum</name>
         </author>
@@ -64,21 +129,21 @@ Points: 101
         <updated>2021-06-06T21:57:13.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/malware-dna-hack/
 Comments URL: https://news.ycombinator.com/item?id=27416727
-Points: 34
-# Comments: 12]]></summary>
+Points: 42
+# Comments: 18]]></summary>
         <author>
             <name>carlsborg</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A growing number of governments hope to clone America's DARPA]]></title>
+        <title type="html"><![CDATA[A growing number of governments hope to clone DARPA]]></title>
         <id>https://news.ycombinator.com/item?id=27416546</id>
         <link href="https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa"/>
         <updated>2021-06-06T21:35:00.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa
 Comments URL: https://news.ycombinator.com/item?id=27416546
-Points: 36
-# Comments: 25]]></summary>
+Points: 62
+# Comments: 38]]></summary>
         <author>
             <name>edward</name>
         </author>
@@ -90,8 +155,8 @@ Points: 36
         <updated>2021-06-06T20:51:51.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823
 Comments URL: https://news.ycombinator.com/item?id=27416217
-Points: 136
-# Comments: 34]]></summary>
+Points: 179
+# Comments: 45]]></summary>
         <author>
             <name>pgrote</name>
         </author>
@@ -103,8 +168,8 @@ Points: 136
         <updated>2021-06-06T19:54:08.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find
 Comments URL: https://news.ycombinator.com/item?id=27415776
-Points: 30
-# Comments: 91]]></summary>
+Points: 78
+# Comments: 236]]></summary>
         <author>
             <name>jaredwiener</name>
         </author>
@@ -116,8 +181,8 @@ Points: 30
         <updated>2021-06-06T19:46:41.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment
 Comments URL: https://news.ycombinator.com/item?id=27415725
-Points: 91
-# Comments: 51]]></summary>
+Points: 119
+# Comments: 66]]></summary>
         <author>
             <name>jgrahamc</name>
         </author>
@@ -129,8 +194,8 @@ Points: 91
         <updated>2021-06-06T19:21:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://major.io/2021/06/06/a-new-future-for-icanhazip/
 Comments URL: https://news.ycombinator.com/item?id=27415537
-Points: 505
-# Comments: 155]]></summary>
+Points: 617
+# Comments: 193]]></summary>
         <author>
             <name>nkcmr</name>
         </author>
@@ -142,8 +207,8 @@ Points: 505
         <updated>2021-06-06T18:23:43.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://mastershot.app
 Comments URL: https://news.ycombinator.com/item?id=27415089
-Points: 124
-# Comments: 38]]></summary>
+Points: 143
+# Comments: 42]]></summary>
         <author>
             <name>thunderbong</name>
         </author>
@@ -155,8 +220,8 @@ Points: 124
         <updated>2021-06-06T18:21:11.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://washbear.neocities.org/freebsd-netbsd-user.html
 Comments URL: https://news.ycombinator.com/item?id=27415070
-Points: 126
-# Comments: 44]]></summary>
+Points: 136
+# Comments: 49]]></summary>
         <author>
             <name>jayp1418</name>
         </author>
@@ -168,8 +233,8 @@ Points: 126
         <updated>2021-06-06T18:00:15.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2021/06/06/us/aclu-free-speech.html
 Comments URL: https://news.ycombinator.com/item?id=27414920
-Points: 260
-# Comments: 264]]></summary>
+Points: 300
+# Comments: 314]]></summary>
         <author>
             <name>mful</name>
         </author>
@@ -181,7 +246,7 @@ Points: 260
         <updated>2021-06-06T17:58:54.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://destevez.net/2021/06/rain-backscatter-on-10-ghz/
 Comments URL: https://news.ycombinator.com/item?id=27414912
-Points: 70
+Points: 78
 # Comments: 31]]></summary>
         <author>
             <name>parsecs</name>
@@ -198,74 +263,6 @@ Points: 1
 # Comments: 0]]></summary>
         <author>
             <name>yiggydyang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An incomplete list of skills senior engineers need, beyond coding]]></title>
-        <id>https://news.ycombinator.com/item?id=27414443</id>
-        <link href="https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f"/>
-        <updated>2021-06-06T16:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
-Comments URL: https://news.ycombinator.com/item?id=27414443
-Points: 365
-# Comments: 138]]></summary>
-        <author>
-            <name>kungfudoi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The modern trap of turning hobbies into hustles (2019)]]></title>
-        <id>https://news.ycombinator.com/item?id=27414184</id>
-        <link href="https://repeller.com/trap-of-turning-hobbies-into-hustles/"/>
-        <updated>2021-06-06T16:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://repeller.com/trap-of-turning-hobbies-into-hustles/
-Comments URL: https://news.ycombinator.com/item?id=27414184
-Points: 241
-# Comments: 124]]></summary>
-        <author>
-            <name>sdenton4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The right tag for the job: why you should use semantic HTML]]></title>
-        <id>https://news.ycombinator.com/item?id=27414183</id>
-        <link href="https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/"/>
-        <updated>2021-06-06T16:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
-Comments URL: https://news.ycombinator.com/item?id=27414183
-Points: 126
-# Comments: 48]]></summary>
-        <author>
-            <name>tmfi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Praise of Open Source Textbooks]]></title>
-        <id>https://news.ycombinator.com/item?id=27414145</id>
-        <link href="https://news.ycombinator.com/item?id=27414145"/>
-        <updated>2021-06-06T16:19:57.000Z</updated>
-        <summary type="html"><![CDATA[I have recently been using the Linear Algebra book by Jim Hefferon to study the subject. This is because I'm taking a linear algebra course in college, I am visually impaired, and the books I get from college are literally unusable.
-As a person who has to use a Screen Reader, math in PDFs is almost impossible to read for me. The problem is almost insurmountable if the PDF is a collection of images, but even if it is a LaTeX-generated PDF, reading anything but the simplest of equations is very, very hard. In these cases, having the LaTeX source to read is a godsend.
-To the authors who publish the source of their books: thank you, thank you. I cannot express how grateful I am. To anyone who is related to /working in the publisher space: it would be incredibly useful if there was a process to get the LaTeX source of books upon request, although I understand how copyrights/etc might make this difficult.
-Some other books I would like to point out for being open source: Apex Calculus, Open Data Structures.
-Comments URL: https://news.ycombinator.com/item?id=27414145
-Points: 326
-# Comments: 79]]></summary>
-        <author>
-            <name>lightveil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stateright: A model checker for implementing distributed systems]]></title>
-        <id>https://news.ycombinator.com/item?id=27413084</id>
-        <link href="https://github.com/stateright/stateright"/>
-        <updated>2021-06-06T13:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/stateright/stateright
-Comments URL: https://news.ycombinator.com/item?id=27413084
-Points: 116
-# Comments: 23]]></summary>
-        <author>
-            <name>yagizdegirmenci</name>
         </author>
     </entry>
     <entry>
